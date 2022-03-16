@@ -1,0 +1,70 @@
+First I will address the questions asked with generality, then allude to the specificity and reality, lastly provide a budget.
+
+
+The Questions:
+What is the central argument of my proposal?:
+Taiwan is a beautiful mess. The feeling of lack of government, enforcement, and social security continues. Even as the country unevenly advances to the most contemporary form of society, it still feels the people must survive on their own. It’s people have leveraged technology as exemplified in the prevalent use of technological knowledge to manufacture high quality products, accommodation and skill-share web services, social media as a primary source for national news, and social media to manage large-scale protests. The alacrity of their adaption to new technology and the strain of low income has resulted in a technological society with survival values.
+
+Though the people have adapted, the government has not. Along with a little normative government ilk, Taiwan’s government has bare digital services for citizens, keeps non-harmful data private, and contains non-sensical policies that aren’t being enforced properly anyway. Thus, it is generally up to the people to manage themselves, which itself has become a common moral and ideology. Though I believe most of the people will be able to survive — have shelter, eat, obtain health services and an education — thanks to civil society, I believe their civic progress will remain scattered outcries without tools to help them direct conversation.
+
+I believe Taiwan’s civil society is active enough to adapt to civic tools, convert conversation to actions, and experiment with technology and methods of social actions, as a means of progress.
+
+My proposal, defined by my personal background, is a civic technology center specialized in the (1) advocation and facilitation of civic technology, and the (2) creation of social and urban interventions. Basically, a Taiwanese sister organization of MIT Center for Civic Media without the development of technology — leave that to MIT.
+
+1. It advocates the use of mobile digital tools, extracts and serves functional civic data in more meaningful forms (already started at Taipei Hackerspace), and helps organize the useful bits of the infinite civic dialog created through their peculiar digital communication mediums (BBS system and non-Facebook social media) to lead to more effective civic actions.
+
+2. It serves as a local community hall for the sake of constant personal civil experience, allotting time to solving local social and urban problems, and experimenting new forms of social intervention, urban intervention, and activism on a reoccurring basis.
+
+Who is the intended audience?:
+Taiwan’s inhabitants, including those that have and are willing to spend some free time for civic work, and more narrowly including current social organizers, and potential civic leaders.
+
+Why now is the time?:
+Taiwan somewhat recently experienced its greatest protest against the lack of transparency of policy-making and pro-China policies. I happened to be a part of it. I believe the progressive feeling will persist beyond 2016’s election and continue until it ~decolonizes.
+
+What are the potential outputs?:
+1. The creation of the aforementioned social organization.
+
+To understand the other potential outputs, it is essential to understand how I believe ideas spread in Taiwan. Taiwan is rather small by area and consists of multiple urban centers. Knowledge often disseminates physically, with daily train commutes between cities, weekend train trips to hometowns, or simply going around the island with personal transportation. Another method of dissemination is social media, which due to a strong culture (separation of the internet by country domain and language) is also often limited to the country. Similar to the way capitalism results in the duplicate of ideas based on success of other implementation of ideas, I feel Taiwan heavily replicates civic ideas based on the success of other implementations of civic ideas in Taiwan.
+
+2. It serves as a model of such an organization (and public spaces in general) for other urban areas in Taiwan.
+
+3. Any successful tools or methods used or created will be available to the public. Possibilities: simple crowdsourcing and data mapping tools to map pictures of civil engineering problems or intrusive urban plans of rich people or real estate pricing, organization of civic tech jam events and site-specific events near social problems, methods to leverage social media to organize pinpoint protests against corruptors, the creation of provocative or informative new media urban art, or the creation of interactive civic objects.
+
+4. Any successful specific outcomes may be duplicated elsewhere. Possibilities: use of crowdsourcing for civic action, creation of new public policies (oral or written) such as the ban of vehicles in market areas, and even direct social and urban actions such as physically placing no-vehicle signs and personally redirecting traffic, or a helmet donation program.
+
+5. Because Taiwan is highly charitable to nearby less developed countries, the organization may potentially impact beyond the island.
+
+If there is success locally, it then may potentially spread elsewhere.
+
+
+Optional Reading:
+In case my answers feel detached from reality, continue reading On Reality, which is placed after Project Budget.
+
+
+A Slightly More Detailed Plan:
+I’ve written a rough sequence of actions and personal philosophy for my application for Taiwan Foundation for Democracy Fellowship. It’s not required here, but feel free to request it.
+
+
+Project Budget:
+At minimum: Feed me, sponsor me a visa or pay for the cheap flight every 3 months, pay for the cheap amazing national healthcare (might require a real visa or alien resident card?), pay for air conditioner. My personal monthly expense is currently $300 (everything included), but that’s probably the minimum as I currently live in a smaller city, made a deal to exchange a little work for cheaper accommodation, and am generally being a cheapskate (on rural Taiwan standards!); I often live nomadically and share material. At semi-minimum: Pay for some time as I scooter around Taiwan, volunteer at organizations, and self-learn Chinese, for some more experience before starting my own organization. At the middle: Help pay the money I loaned from my father to attend an American university (bad decision!) a long long time ago. Any more money: helps my parent’s blood pressure, and affords me organization expenses such as a replacement second-hand $300 scooter and material to create an inviting and cozy physical space.
+
+Cost of Space:
+It may be possible to simply takeover one of the underused public tech spaces I’m aware of: Taipei Fablab, Taipei Hackerspace, their copies in other towns, or a civic-minded friend’s apartment, or research non-tech ones to take over leveraging OSF’s name. The other possibility is getting a space, but that requires time and wastes the opportunity of using the infinite existing spaces, in addition to money. If I could convince Taipei Fablab to stay open longer hours, perhaps allow me to sleep in it, it may be enough; The ethics of these contemporary tech spaces are quite ideal. I believe a private investor currently funds the space. Although, I personally wish for a space in an old residential neighborhood for daily city and social experience, and in the case if Taipei, sanity.
+
+Cost of Employees:
+This will start as a volunteer organization, of which, I am the only full-time volunteer of. If the organization proves successful, then I imagine it will attract domestic grants, which could then be paid out to other volunteers.
+
+Alternative Finance Model:
+If there is not enough capital to finance me, then I could create a sustainable income model to finance myself, with the use of a little startup capital. This would be less efficient as I would have to spend time to means of gaining capital, and increase the chance of diverting my mind from my goals, though I guess increases experience in society. Possible efficient income models from my experience: rent out rooms, sell Indian cuisine, tutor programming and/or language, continue freelancing, or more lucrative things. It’s far less ideal, but I understand that’s unfortunately how wealth works, especially when compared to problems of far less developed societies.
+
+
+On Reality (optional reading):
+Thus far my answers address the general, not the particular, and perhaps appear to be detached from reality or naively ideal. That’s kind of true, I’m somewhat optimistic of technology in a well-educated survival-valued society, and have ideals in my mind that I often strive toward.
+
+From the few travels around Taiwan I am aware of social problems: rampant urban development projects, unlivable urban areas, lack of policy, lack of care of policies, lack of enforcement (what do they do?), prostitution, low resources of healthcare on the east coast, land conflicts with indigenous peoples, inequality of migrant workers, lack of a justice system (?), etc. I am also aware of current social processes: the accumulation of capital, consumerism, urbanization, globalization, etc.
+
+Despite the prevalence of social problems and negative social processes, I feel that Taiwanese people are quite well-natured and civil. For example, if a migrant worker were to come to a clinic without health insurance, I believe it is up to the clinician to do the right thing, and from my experience, this is often positive. More likely the problem, I think, is the lack of resources in less developed areas, in this example, a professionally trained clinician with medicine in the area. Continuing to use the example, if the migrant worker married a Taiwanese, divorced, and now operates a food stall, I believe the government will make the right decision in giving that person nationality. On a roll with this example now, if the migrant worker lives in a derelict area with other migrants or immigrants, Taiwanese people will organize to improve the housing. If a derelict house collapses (with no one inside) from poor construction, the person will always have a home elsewhere — hospitality is a strong trait among Taiwanese people. Despite the lack of a justice system and social security, the community is strong enough to take care of itself.
+
+In a country where laws are often only enforced if unjustly pressured by those in power, I believe working toward better self-governance, education (including self-education), civil (including ecological) conduct, is better.
+
+Hence my interest in civic technology and urban intervention wherein it affects civil society in general. From local experience I am aware of some the ways it’s affects trickle down to social reality, but it’s impossible to understand all the particulars.

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with tehrandomperson on 2009-03-01</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:06:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yo</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:06:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">do you have TJ's number?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:06:46"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>uuhhh...I'm TJ</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:06:49"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>lol</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:06:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">sry, oh-no's cousin</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:07:00"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>oh</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:07:04"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>hang on</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:07:24"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>831-7220</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:07:34"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>did you go to the tourney?</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:08:02"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">nah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:08:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">enver called to get the number</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:08:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">too far..and too much hw XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:08:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">looks like boose/billy/rikku didn't go either hah...squanders everywhere</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:09:11"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>sheesh</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:09:25"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>yea, I was supposed to work, but I got the flu isntead</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:10:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">D: </span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:10:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wow...billy woke up sick too</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:10:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">damnn son...i've never had teh flu</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:10:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmmm...do u have sf4?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:11:27"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>no</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:11:34"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>I need to though</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:11:43"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>I'm apparently gonna be left out soon if I dont</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:11:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">same...i may get it before spring break...and ruin the break XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:12:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but that means i'll need sticks too =O</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:12:21"><span class="buddy">tehrandomperson</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=2 COLOR=#000000>I have been messing up with time and have been working too much. I barely get to turn my box on nowadays <FONT sml="KwAAAeQ=">:-(</FONT></FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:12:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh...i haven't played a vidjo game at home since i got back</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:12:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it pretty sad here too</span></span></div>

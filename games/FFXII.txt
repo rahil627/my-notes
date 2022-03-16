@@ -1,0 +1,1094 @@
+things to do:
+sidequests
+espers
+hunt
+main game
+
+mechanics:
+
+1)zodiac spear, main gauche, masamune, tournesol, greatswords
+2)poles, crossbows, guns
+
+oil = 3x fire dmg!
+
+vaane steal rate is higher?
+ashe's steal quality is higher?
+
+libra shows traps
+
+
+armor=def
+helm=mag def
+
+light	hp	other
+heavy	str	tank
+mystic	mag	mages
+
+config active mode
+regular attacks > magic
+
+ninja swords, 2h swords are top tier
+daggers are really good too
+katana, pole, spear, axe aren't bad either
+
+crossbow>bow
+
+http://www.gamefaqs.com/console/ps2/file/459841/45900
+
+vaan		all
+balthier	str/spd, str/vit
+fran		none
+basch		str/str, str/mag
+ashe		str/mag, mag/mag
+panelo		mag/mag
+
+Avoid Maces; Maces suck.
+
+As for Katanas, you want a high STR and MAG stat to do decent damage with them.
+For Breakers (Axes & Hammers) and Handbombs (I'd avoid these, too), you want high STR and VIT.
+For Daggers, Bows, and Ninja Swords (another not-so-great weapon type), you want high STR and SPD
+Staves and Rods are for casting, not attacking with.
+For everything else, just focus on STR (except Guns and Measures, which ignore all stats).
+Now, for base character stats, it goes like this:
+
+STR: Basch >= Vaan > Balthier > Ashe > Fran > Penelo
+MAG: Ashe >= Penelo > Vaan > Fran > Basch > Balthier
+VIT: Vaan > Penelo > Balthier > Ashe > Fran > Basch
+SPD: Balthier >= Vaan > Fran = Ashe = Penelo > Basch
+
+
+gun, measure			nothing!
+maces				mag
+dagger, ninja sword, bow	str/spd
+axe, hammer, handbomb		str/vit
+katana, staff			str/mag
+pole				mag def.
+sword (1h/2h), spear, crossbow, rod	str
+
+
+  ------------------------------------------------
+ |                   [Table 02a]                  |
+  ======================= ========================
+ | Status in Effect      |     Value of XMOD      |
+ | (Attacker)            |                        |
+  ======================= ========================
+ | Bravery               |          1.3           |
+ | Berserk               |          1.5           |
+ | Focus*                |          1.2           |
+ | Adrenaline**          |          2.0           |
+ | Petrify               | 0.1 x (time remaining) |
+ | Elemental Enhancement |          1.5           |
+  ----------------------- ------------------------
+
+*  License granting bonus damage at HP Max status.
+** License granting bonus damage at HP Critical status.
+
+  ------------------------------------------------
+ |                   [Table 02b]                  |
+  ======================= ========================
+ | Status in Effect      |     Value of XMOD      |
+ | (Target)              |                        |
+  ======================= ========================
+ | Protect*              |          0.75          |
+ | Last Stand**          |          0.5           |
+ | Sleep                 |          1.5           |
+ | Oil                   |          3.0 (Fire)    |
+ | Petrify               | 0.1 x (time remaining) |
+ | Elemental Weakness    |          2.0           |
+ | Elemental Resistance  |          0.5           |
+ | Elemental Immunity    |          0.0           |
+ | Elemental Absorption  | -1.0 (sometimes -2.0)  |
+  ----------------------- ------------------------
+
+use status effects! protect/shell, blind/silence, haste/beserk/bravery
+
+
+ ================================================
+| Name                POW    REQ: Lv1  Lv2  Lv3  |
+|------------------------------------------------|
+| Black Hole          253          4    4    4   |
+| Luminescence        251          3    3    3   |
+| Ark Blast           205          2    2    2   |
+| White Out           175                    5   |
+| Windburst           155               5        |
+| Torrent             130          2    3        |
+| Cataclysm           110          7             |
+| Inferno              90          3             |
+ ================================================
+
+Again, they are all non-elemental damage, and as you can see,
+the damage increases as you get further down the priority list.
+
+
+
+quickening:
+1) If a Mist Charge is there then choose it.
+2) If a Mist Charge isn't there, choose the lowest level
+Quickening.
+3) If no option is available, shuffle and go back to stage one.
+
+
+o Extra Info: Scoring insanely high hits in Quickening
+------------------------------------------------------------------------------
+The Ultimania guide included a picture of a 47-hit level-1 Quickening. It is
+said that it is made possible by:
+
+1) Purchase only 1 Quickening license
+2) Acquire an Esper that requires 3 Mist Cartridges to summon (Famfrit, Chaos,
+   Ultima or Zodiark).
+
+
+trick:
+As you can see, the number of hits rises drastically when the character's HP
+falls from low to... very low. It is possible to purposely lower a character's
+HP to < 6.25% before hand, along with a high-combo weapon (such as Masamune)
+and Genji Gloves, to open a battle with a long chain of combos to finish the
+enemy right there!
+
+trick 2:
+It seems that battle speed does NOT affect the duration of status. Therefore,
+the fastest battle speed will make the best use of the positive status affects
+except Regen.
+
+Stop Trick:
+It is common sense that the status STOP stops everything. If you combine
+Stop and Reverse, though, you have a damage-absorbing tank that never expires.
+
+Reflect Trick:
+Now this is an old trick that has worked in all FFs. Put Reflect on all your
+party members, and cast magics on yourself to reflect it to the enemy. You
+get one reflection from each party member, which means multiple damages. You
+can also bypass enemy's Reflect status this way.
+
+
+o Trick: Stealing safely
+------------------------------------------------------------------------------
+Thanks to X3mgame who provided this valuable trick. You can steal safely
+from powerful monsters, especially the inactive (green bar) ones like Entites.
+
+(1) Move your party leader forward until the target's HP bar shows.
+(2) Send your party members to steal manually, but not the party leader.
+(3) Get it or not, quickly go to the menu (triangle), and put the thieves back
+    to reserve before they get targeted. Slowly move your party leader away
+    from the angry target.
+
+(4a) If you steal an item, then take your party leader and zone out. For
+     inactive monsters you only need to get to the neighbor zone, to refresh
+     the items to be stolen again.
+
+(4b) If the steal fails, you can bring the two thieves back and steal again.
+     As long as your party leader is out of range of the target, the thieves
+     can keep stealing safely as the target is trying to chase down and target
+     the far-away leader. You can't move the thieves back to reserve anymore,
+     but you can always zone out with the party leader.
+
+You can use this stealing method on almost any enemy to safely steal and 
+quickly zone away. Since you will never get hit using his method, you can do
+it for low level challenge, too!
+
+stamp trick:
+There has been a smart "Stamp Trick" circulating around. Basically, you put
+all positive status on a certain party member before hand, and stamp them all
+at once on another member to save time.
+
+
+infuse trick
+      As an example, I used Infuse as my main strategy for at least the
+      first half of Yiazmat.  While one of my characters was tanking
+      with Decoy and Reverse, another of my characters played
+      "daredevil," using Infuse to get rid of MP, getting a little MP
+      by attacking once, then Infusing again to set at <6.25% HP.  Then
+      he just went crazy attacking Yiazmat, doing 8-12 hit combos for
+      9999 damage per hit with Yagyu Darkblade."
+
+
+
+
+
+
+
+vaan at lvl 1
+
+  -------------------------------------------------------
+ |                      [Table 09a]                      |
+  ================= ================== ==================
+ | Weapon          | Target DEF = 0   | Target DEF = 30  |
+ |  (without GG)   |   DMG  |   DPS   |   DMG  |   DPS   |
+  ================= ======== ========= ======== =========
+ | Unarmed (w/Br.) |  118.1 |   62.83 |    0.0 |    0.00 |
+ | Volcano         |  415.9 |  180.72 |  169.1 |   73.47 |
+ | Grand Mace      |  476.8 |  225.75 |  289.8 |  137.22 |
+ | Scorpion Tail   |  593.7 |  278.53 |  324.3 |  152.12 |
+ | Gastrophetes    |  578.9 |  280.59 |  374.6 |  181.56 |
+ | Sagittarius     |  714.8 |  300.27 |  504.5 |  211.95 |
+ | Durandal        |  727.7 |  325.20 |  520.1 |  232.45 |
+ | Danjuro         |  651.0 |  379.60 |  421.2 |  245.63 |
+ | Yagyu Darkblade |  741.5 |  387.71 |  479.8 |  250.87 |
+ | Masamune        |  934.4 |  419.21 |  650.7 |  291.94 |
+ | Whale Whisker   |  862.2 |  413.51 |  636.8 |  305.40 |
+ | Tournesol       | 1117.7 |  535.55 |  892.2 |  427.92 |
+ | Zodiac Spear    | 1089.0 |  581.12 |  884.0 |  471.73 |
+ | Fomalhaut       | 3282.1 | 1102.97 | 3282.1 | 1102.97 |
+  ----------------- -------- --------- -------- ---------
+
+vaan at 60
+  -------------------------------------------------------
+ |                      [Table 10a]                      |
+  ================= ================== ==================
+ | Weapon          |  Target DEF = 0  |  Target DEF = 30 |
+ |  (without GG)   |   DMG  |   DPS   |   DMG  |   DPS   |
+  ================= ======== ========= ======== =========
+ | Volcano         | 3064.6 | 1366.89 | 1245.9 |  555.69 |
+ | Grand Mace      | 2401.8 | 1167.99 | 1459.9 |  709.96 |
+ | Unarmed (w/Br.) | 2774.1 | 1511.52 | 1587.3 |  864.88 |
+ | Fomalhaut       | 3282.1 | 1136.83 | 3282.1 | 1136.83 |
+ | Gastrophetes    | 3399.4 | 1687.57 | 2199.6 | 1091.96 |
+ | Sagittarius     | 3627.2 | 1564.83 | 2560.3 | 1104.58 |
+ | Danjuro         | 3303.3 | 1968.19 | 2137.4 | 1273.54 |
+ | Scorpion Tail   | 4375.4 | 2107.56 | 2389.7 | 1151.09 |
+ | Yagyu Darkblade | 3762.8 | 2011.28 | 2434.7 | 1301.42 |
+ | Durandal        | 4273.2 | 1963.08 | 3054.4 | 1403.20 |
+ | Masamune        | 5276.9 | 2422.20 | 3674.8 | 1686.81 |
+ | Whale Whisker   | 5063.1 | 2490.56 | 3739.4 | 1839.43 |
+ | Tournesol       | 6563.3 | 3228.01 | 5239.6 | 2577.37 |
+ | Zodiac Spear    | 6394.8 | 3496.88 | 5191.1 | 2838.64 |
+  ----------------- -------- --------- -------- ---------
+
+vaan at 99
+  ---------------------------------------------------------
+ |                      [Table 11a]                        |
+  ================= =================== ===================
+ | Weapon          |   Target DEF = 0  |  Target DEF = 30  |
+ |  (without GG)   |   DMG   |   DPS   |   DMG   |   DPS   |
+  ================= ========= ========= ========= =========
+ | Volcano         |  7188.3 | 3206.13 |  2922.3 | 1303.40 |
+ | Fomalhaut       |  3938.5 | 1364.19 |  3938.5 | 1364.19 |
+ | Grand Mace      |  5403.6 | 1597.25 |  3284.5 | 1597.25 |
+ | Sagittarius     |  8047.3 | 2450.67 |  5680.5 | 2450.67 |
+ | Gastrophetes    |  7689.6 | 2470.06 |  4975.7 | 2470.06 |
+ | Danjuro         |  7328.8 | 4366.71 |  4742.2 | 2825.52 |
+ | Yagyu Darkblade |  8348.3 | 4462.31 |  5401.8 | 2887.37 |
+ | Scorpion Tail   | 10262.8 | 4943.42 |  5605.2 | 2699.96 |
+ | Durandal        |  9666.1 | 4440.59 |  6909.3 | 3174.11 |
+ | Unarmed (w/Br.) |  9290.9 | 5062.40 |  6572.5 | 3581.17 |
+ | Masamune        | 11995.2 | 5506.03 |  8353.5 | 3834.37 |
+ | Whale Whisker   | 11453.1 | 5633.76 |  8458.8 | 4160.88 |
+ | Tournesol       | 12371.0 | 6085.26 | 11852.3 | 5830.14 |
+ | Zodiac Spear    | 14465.4 | 7910.12 | 11742.5 | 6421.15 |
+  ----------------- --------- --------- --------- ---------
+
+if you include the cap at 9999, the final result
+  ----------------------------------------
+ |               [Table 12b]              |
+  =================== ====================
+ | Weapon            |   Target DEF = 18  |
+ |  (with GG)        |   DMG   |    DPS   |
+  =================== ========== ==========
+ | Volcano*          |  9999.0 |  5842.36 |
+ | Scorpion Tail*    | 20113.3 | 10120.58 |
+  ------------------- --------- ----------
+ | Fomalhaut         |  9999.0 |  5253.05 |
+ | Sagittarius       |  9999.0 |  5842.36 |
+ | Gastrophetes      |  9999.0 |  6214.16 |
+ | Grand Mace        | 15778.6 |  8911.39 |
+ | Durandal          | 17223.5 |  9155.29 |
+ | Zodiac Spear      | 15778.6 |  9315.45 |
+ | Unarmed (w/Br.)   | 17223.5 |  9752.49 |
+ | Whale Whisker**   | 27337.7 | 11768.17 |
+ | Tournesol         | 27337.7 | 11768.17 |
+ | Danjuro           | 24448.0 | 11848.84 |
+ | Yagyu Darkblade   | 41786.7 | 14075.55 |
+ |   (no Dark bonus) |         |          |   
+ | Yagyu Darkblade   | 41786.7 | 14075.55 |
+ |   (Dark bonus)    |         |          |
+ | Masamune          | 67794.8 | 15645.15 |
+  ------------------- --------- ----------
+
+ ==================================
+| Weapon Name   | CT | A(s) | T(s) |
+|---------------|----|------|------|
+| Dagger - Z.C. | 22 | 2.17 |      |
+| Dagger - M.G. | 24 |      | 3.30 |
+| Ninja Sword   | 24 | 2.21 | 3.30 |
+| Spear         | 26 | 2.43 | 3.44 |
+| Unarmed       | 26?| 2.47 | 3.64 |
+|---------------|----|------|------|
+| Crossbow      | 28 | 2.76 | 3.80 |
+| Katana        | 29 | 2.61 | 3.69 |
+| Axe           | 29 | 2.62 | 3.70 |
+| Pole          | 30 | 2.61 | 3.76 |
+| 2-H Sword     | 30 | 2.64 | 3.77 |
+|---------------|----|------|------|
+| Measure       | 32 | 2.87 | 3.94 |
+| Mace          | 32 | 2.88 | 3.95 |
+| Hammer        | 32 | 2.91 | 3.96 |
+| Rod           | 33 | 2.87 | 4.03 |
+| Handbomb      | 34 | 3.49 | 4.25 |
+|---------------|----|------|------|
+| Staff         | 34 | 2.89 | 4.08 |
+| 1-H Sword     | 35 | 3.26 | 4.20 |
+| Bow           | 36 | 3.28 | 4.44 |
+| Gun           | 51 | 4.43 | 5.65 |
+ ==================================
+
+
+ ===========================================================================
+| Category    | Name         |    CT  | Category   | Name           |   CT  |
+|=============|==============|========|============|================|=======|
+| 1-Handed    | Dagger       | 21-25* | Techniques | Libra          |   10  |
+| Weapons     | Axe          |    29  | Daily      | Steal          |   30  |
+|             | Hammer       |    32  |            | Poach          |   50  |
+|             | Mace         |    32  |------------|----------------|-------|
+|             | Measure      |    32  | Techniques | First Aid      |   15  |
+|             | 1-Hand Sword |    35  | Recovery   | Revive         |   25  |
+|-------------|-----------------------|            | Charge         |   40  |
+| 2-Handed    | Ninja Sword  |    24  |            | Infuse         |   40  |
+| Weapons     | Spear        |    26  |------------|----------------|-------|
+|             | Unarmed      |   ~26? | Techniques | Numerology     |   25  |
+|             | Katana       |    29  | Damaging   | Sight Unseeing |   25  |
+|             | 2-Hand Sword |    30  |            | 1000 Needles   |   30  |
+|             |  Wyrmhero B. |    99  |            | Souleater      |   35  |
+|             | Pole         |    30  |            | Horology       |   40  |
+|             | Rod          |    33  |            | Traveler       |   40  |
+|             | Staff        |    34  |            | Bone Crusher   |   45  |
+|-------------|--------------|--------|            | Gil Toss       |   45  |
+| Ranged      | Crossbow     |    28  |            | Telekinesis    |   50  |
+| 2-Handed    | Hand-Bomb    |    34  |------------|----------------|-------|
+| Weapons     | Bow          |    36  | Techniques | Charm          |   35  |
+|             | Gun          |    51  | Status     | Stamp          |   55  |
+|-------------|--------------|--------|------------|----------------|-------|
+| Magics      | All          |    30  | Techniques | Expose         |   45  |
+|-------------|--------------|--------| Stats      | Share          |   45  |
+| Items       | All          |     0  |            | Wither         |   45  |
+|-------------|--------------|--------|            | Addle          |   45  |
+| Quickenings | All          |     0  |            | Achilles       |   55  |
+|-------------|--------------|--------|------------|----------------|-------|
+| Summoning   | All Espers   |     0  | Techniques | Shades of      |   45  |
+|             |              |        | Magical    | Black          |       |
+ ===========================================================================
+
+
+
+ ========================================
+| Action Type    | Action Time (seconds) |
+|----------------|-----------------------|
+| Melee Attacks  |         1.2           |
+|    if Blocked  |        +0.2           |
+|      if Combo  |        +0.5 each      |
+|                |     or +0.9 each      | <- Rare
+|----------------|-----------------------|
+| Ranged Attacks |         1.4           |
+|    *exceptions |         1.6           |
+|----------------|-----------------------|
+| Magics &       |       3 ~ 5           |
+| Techniques     |                       |
+ ========================================
+
+
+===============================================================================
+===                         UNLOCKING BAZAAR GOODS                   [unlo] ===
+===============================================================================
+
+
+Before even going into listing loot and recipes, how do you unlock Bazaar
+Goods ? It's simple, you sell the loot you get. When you have sold enough loot
+to fill a recipe, the Bazaar Goods appears in a separate list (shared between
+all shops in the game).
+
+There are some subtleties to note.
+
+1. You don't have to sell the loot for a specific recipe all at once. The game
+   remembers every loot sold and the quantities so you don't have to worry
+   about that. It also doesn't matter where you sell it : any shop is fine.
+
+2. When a recipe is complete and you buy the unlocked Bazaar Goods the quantity
+   for the loot used in that recipe is set back to 0, even if you sold more
+   than required.
+   Ex : The 'High Arcana' recipe needs (among others) 10 Arcana. If you sell 15
+   of them in a row, 5 are lost. If you sell only 10 and complete the recipe,
+   exit the selling screen (thus validating the recipe), buy the High Arcana,
+   come back and sell the remaining five, it will be remembered for later.
+
+3. Thanks to various contributions from OreO84, Eschmooth and Red Star, there's
+   now an easy way to unlock multiples Bazaar Goods using less loot than
+   required. This works for any recipe having loot in common. I'll let Red Star
+   explain the exploit :
+
+   ----------------------------------------------------------------------------
+   Example:
+   Sipping Wine - 2x Tyrant Hide
+   Monk's Garb - 2x Tyrant Hide, 4x Ice Magicite, 4x Coeurl Pelt
+
+   Case 1:
+   1) Sell 2x Tyrant Hide. Bazaar goods for Sipping Wine appears.
+   2) Buy Sipping Wine.
+   3) Sell 4x Ice Magicite, 4x Couerl Pelt. Bazaar goods for Monk's Garb does
+      not appear.
+
+   Case 2:
+   1) Sell 2x Tyrant Hide. Bazaar goods for Sipping Wine appears.
+   2) Sell 4x Ice Magicite, 4x Couerl Pelt. Bazaar goods for Monk's Garb
+      appears.
+
+   In Case 1, by buying the bazaar goods for Sipping Wine, you reset the
+   counter for Tyrant's Hide to 0, hence resulting in the bazaar goods for
+   Monk's Garb not appearing after selling the Ice Magicites and Coeurl Pelts.
+   But, in Case 2, by not buying the Sipping Wine until you sell the Ice
+   Magicities and Coeurl Pelts, you get both Sipping Wine and Monk's Garb
+   available in the bazaar.
+
+   This works for every bazaar item that has common requirements, and the
+   selling order does not matter.
+   ----------------------------------------------------------------------------
+
+   Using this trick, it's possible to unlock many recipes at the same time,
+   e.g. Masamune + Tournesol with 3 Gemsteel (instead of 5) or also Elixir +
+   Serpentarius + Empyreal Soul with only 1 High Arcana (instead of 3).
+
+4. Even though there are recipes that can be repeated as many times as you
+   want, the Bazaar won't hold more than one instance of any Goods at the same
+   time. So if you want to create several High Arcana, do this one at a time
+   and buy each one as they appear before completing the recipe again.
+
+
+
+
+
+
+
+
+
+
+look at char's stats to see what weapons/armor they should use
+
+ =========================================
+| License Name       |      Effect        |
+|--------------------|--------------------|
+| Battle Lore        | STR + 1 /each      |
+| Magick Lore        | MAG + 1 /each      |
+|--------------------|--------------------|
+| Shield Block       | Blocking +5% /each |
+|--------------------|--------------------|
+| Potion Lore 1      | Potion Effect +10% |    Potion Base =  100
+| Potion Lore 2      | Potion Effect +15% | Hi-Potion Base =  400
+| Potion Lore 3      | Potion Effect +25% |  X-Potion Base = 1600
+|--------------------|--------------------|
+| Ether Lore 1       | Ether Effect  +10% |     Ether Base =   50
+| Ether Lore 2       | Ether Effect  +15% |  Hi-Ether Base =  200
+| Ether Lore 3       | Ether Effect  +25% |
+|--------------------|--------------------|
+| 0 Phoenix Lore     | 20% MAX HP revived |
+| 1 Phoenix Lore     | 30% MAX HP revived |
+| 2 Phoenix Lores    | 40% MAX HP revived |
+| 3 Phoenix Lores    | 50% MAX HP revived |
+|--------------------|--------------------|
+| Adrenaline         | Physical DMG       | HP Crit.: < 20% MAX HP
+| HP Crit. ATK Up    | dealt x 2          |
+|--------------------|--------------------|
+| Last Stand         | Physical DMG       |
+| HP Crit. DEF Down  | received x 0.5     |
+|--------------------|--------------------|
+| Spellbreaker       | Magical DMG        |
+| MAG+ when HP Crit. | dealt x 2          |
+|                    | Recovery x1.5,     |
+|                    | Status % x 2       |
+|--------------------|--------------------|
+| Focus              | Physical DMG       |
+| ATK+ when HP Full  | dealt x 1.2        |
+|--------------------|--------------------|
+| Serenity           | Magical DMG        |
+| MAG+ when HP Full  | dealt x 1.2,       |
+|                    | Recovery x 1.5     |
+|                    | Status % x 2       |
+|--------------------|--------------------|
+| Inquisitor         | See Table Below    |
+| MP+ for dealing    |                    |
+| Physical damages   |                    |
+|--------------------|--------------------|
+| Warmage            | See Table Below    |
+| MP+ when dealing   |                    |
+| Magical damages    |                    |
+|--------------------|--------------------|
+| Martyr             | See Table Below    |
+| MP+ when damaged   |                    |
+|--------------------|--------------------|
+| Headsman           | MP recovery =      | Only happens when enemy
+| +MP each kill      | Enemy's Lv / 4     | killed with a damage.
+|--------------------|--------------------|
+| 1 Swiftness        | T.Action Time -10% | In fact Charge Time -12%
+| 2 Swiftnesses      | T.Action Time -20% | each. See section 1a for
+| 3 Swiftnesses      | T.Action Time -30% | details.
+|--------------------|--------------------|
+| Spellbound         | Positive Status    |
+|                    | Duration +50%      |
+|--------------------|--------------------|
+| Brawler            | See section 1b     |
+ =========================================
+
+ ==== Martyr & Inquisitor & Warmage ===
+| DMG Received / Deals |  MP Recovery  |
+|----------------------|---------------|
+|        1 -  499      |       1       |
+|      500 - 1499      |       2       |
+|     1500 - 2599      |       3       |
+|     3000 - 4999      |       4       |
+|     5000 - 5999      |       5       |
+|     6000 - 6999      |       7       |
+|     7000 - 7999      |      10       |
+|     8000 - 8999      |      15       |
+|     9000 - 9998      |      20       |
+|          > 9998      |      30       |
+ ======================================
+
+Note: Accessory "Pheasant Netsuke" gives another 50% extra bonus from
+      recovery items off the base value. For phoenix down, it revives 50%
+      extra MAX HP.
+
+
+
+
+Here is how chain level affects the drop chances of items:
+
+ ===========================================
+| Name      |  Lv0  |  Lv1  |  Lv2  |  Lv3  |
+|-----------|-------|-------|-------|-------|
+| Icon      |  bag  | blue  | gold  | HUGE  |
+|           |       | coin  | coin  | coin  |
+|-----------|-------|-------|-------|-------|
+| High      |  40%  |  45%  |  50%  |  55%  |
+|-----------|-------|-------|-------|-------|
+| Mid       |  25%  |  30%  |  35%  |  40%  |
+|-----------|-------|-------|-------|-------|
+| Low       |   3%  |   6%  |   8%  |  12%  |
+|-----------|-------|-------|-------|-------|
+| Super Low |   1%  |   2%  |   3%  |   5%  |
+ ===========================================
+
+
+
+There are three ways to break your battle chain:
+
+(1) Kill a different type of monster, obviously
+(2) Enter a town (where only Vaan is walking. Yeah I know, why not Fran?)
+(3) Touch a save crystal. (If you just pass by it, you are fine.)
+
+
+o Monograph Drop
+------------------------------------------------------------------------------
+The first additional category is the "Monograph Drops". Various Monographs
+(Bazaar Items) enables you to get ADDITIONAL DROPs, but they do NOT improve
+the chances for regular drops (High, Mid, Low, Super Low).
+
+For example, a monster regularly drops A, B and C. With a corresponding
+Monograph, it is now possible to get drop D. The chances for drop A, B and C
+remain the same. (Thanks to Kesons at bbs.ffsky.com) A common drop D is Pebble;
+that's why you get tons of them after buying the Monographs.
+
+o Canopic Jar Drop
+------------------------------------------------------------------------------
+The second additional category is the "Canopic Jar Drops". They work similar
+to the Monographs, that the presence of the Canopic Jar enables all enemies
+to have a fixed chance to drop Arcana (drop E, in the above context). Those
+who drops Arcana now have a chance to drop High Arcana.
+
+
+o Chain Level Increase & Loot Picking
+------------------------------------------------------------------------------
+So how does the chain level increase? It is partially random. The bottom line
+is, if you DO NOT pick up any loot (drop), you can always level up your
+chain between 6 to 10 kills.
+
+ =================================================
+| Kills required to |     |     |     |     |     |
+| the next Chain Lv |  6  |  7  |  8  |  9  | 10  |
+|-------------------|-----|-----|-----|-----|-----|
+| Current Chain Lv  |     |     |     |     |     |
+| = 0               | 40% | 60% | 80% | 90% |100% |
+|-------------------|-----|-----|-----|-----|-----|
+| = 1               | 20% | 30% | 50% | 60% |100% |
+|-------------------|-----|-----|-----|-----|-----|
+| = 2               | 10% | 20% | 30% | 40% |100% |
+ =================================================
+
+In other words, if you do NOT pick up any drop, you can reach Chain Lv3
+between 18 to 30 kills.
+
+So what if you pick up loots?
+
+The hidden counter towards your next level up will go down by 1(Lv0), 2(Lv1),
+or 3(Lv2) every time you turn to the dark side.
+
+Even if you pick up all loots, you can still level up the chains eventually,
+since there are forced level ups.
+
+31 Chain --> Lv 1
+51 Chain --> Lv 2
+81 Chain --> Lv 3
+
+The actual threshold is probably randomized, as I often receive forced level
+ups sooner / later than the above chain numbers.
+
+
+
+o Chain Benefits
+------------------------------------------------------------------------------
+After reaching a higher chain level, you start to get nice bonus like HP and
+MP recoveries, as well as Protect and Shell status.
+
+ ========================================================================
+| Chain | HP Recovery | MP Recovery |  Leader | Leader |   All   |  All  |
+| Level |  10% MAX HP |  10% MAX MP | Protect |  Shell | Protect | Shell |
+|-------|-------------|-------------|---------|--------|---------|-------|
+|   0   |      0%     |      0%     |    0%   |    0%  |    0%   |   0%  |
+|-------|-------------|-------------|---------|--------|---------|-------|
+|   1   |     10%     |     10%     |    0%   |    0%  |    0%   |   0%  |
+|-------|-------------|-------------|---------|--------|---------|-------|
+|   2   |     20%     |     20%     |    5%   |    5%  |    0%   |   0%  |
+|-------|-------------|-------------|---------|--------|---------|-------|
+|   3   |     25%     |     25%     |    0%   |    0%  |    5%   |   5%  |
+ ========================================================================
+
+
+o Chain Number Flashing
+------------------------------------------------------------------------------
+From time to time, you will see the chain number flashing. This happens 5%
+of the time, meaning that you have can now pick up loots WIHOUT PENALTY. In
+other words, you can leave the loots lie on the ground, and pick as them up
+all at once. The only way to end this no-penalty time is to kill the next
+monster without the flashing continuing.
+
+
+The success rate of Charge is:
+ --------------------------------
+| 1 - (Current MP/MP MAX + 0.01) |
+ --------------------------------
+mp recovered relies on lvl of char
+
+First Aid 0-20% = useless
+
+------------------------------------------------------------------------------
+o Infuse  (CT = 40)
+------------------------------------------------------------------------------
+Convert all MP to HP by (10 x MP left). The original HP is replaced by the new
+value.
+
+Now thanks to Cryconius, who provides great insights into this tech:
+
+     "... the main use for Infuse is to set your characters (and espers)
+      at low HP to take advantage of things such as: Higher Combos, 2x
+      damage dealing, greater damage from Balance and Zeromus' attacks,
+      and (last but not least) triggering Espers' final attacks.
+
+      As an example, I used Infuse as my main strategy for at least the
+      first half of Yiazmat.  While one of my characters was tanking
+      with Decoy and Reverse, another of my characters played
+      "daredevil," using Infuse to get rid of MP, getting a little MP
+      by attacking once, then Infusing again to set at <6.25% HP.  Then
+      he just went crazy attacking Yiazmat, doing 8-12 hit combos for
+      9999 damage per hit with Yagyu Darkblade."
+
+For example, when you game clock is 12(hr):34(min):56(sec), the "4" is used.
+
+
+traveler's:
+ ========================
+|   Steps   |   Damage   |
+|-----------|------------|
+|   0 -  99 |  Step x 1  |
+| 100 - 499 |  Step x 2  |
+| 500 - 989 |  Step x 3  |
+| 990 - 999 |  Step x 10 |
+ ========================
+
+Whenever the step count goes over 1000, it resets to 0. Basically, the game
+only looks at the final 3 digits of the steps relative to the last reset.
+
+
+numorology:
+ =========================================================
+| No. times used |   Hit  |  Target  | Splash |  Splash   |
+| since reset    | Chance |   DMG    | Chance |    DMG    |
+|----------------|--------|----------|--------|-----------|
+|        0       |   85%  |        1 |    85% |         2 |
+|        1       |   85%  |        2 |    84% |         4 |
+|        2       |   84%  |        4 |    83% |         8 |
+|        3       |   83%  |        8 |    81% |        16 |
+|        4       |   81%  |       16 |    79% |        32 |
+|        5       |   79%  |       32 |    76% |        64 |
+|        6       |   76%  |       64 |    73% |       128 |
+|        7       |   73%  |      128 |    69% |       256 |
+|        8       |   69%  |      256 |    65% |       512 |
+|        9       |   65%  |      512 |    60% |     1,204 |
+|       10       |   60%  |    1,024 |    55% |     2,048 |
+|       11       |   55%  |    2,048 |    49% |     4,096 |
+|       12       |   49%  |    4,096 |    43% |     8,192 |
+|       13       |   43%  |    8,192 |    36% |    16,384 |
+|       14       |   36%  |   16,384 |    29% |    32,768 |
+|       15       |   29%  |   32,768 |    21% |    65,536 |
+|       16       |   21%  |   65,536 |    13% |   131,072 |
+ =========================================================
+
+
+
+------------------------------------------------------------------------------
+o Gil Toss (CT = 45, Base Chance = 100%, Area = 6)
+------------------------------------------------------------------------------
+Gil Toss offers very stable and spectacular damage output, only if you can
+afford it.
+
+ ----------------------------------------------------------------
+| DMG = Gil Spent                                                |
+|     = Sum of current party members' HP / # of enemies in range |
+ ----------------------------------------------------------------
+
+Note1: The damage (and Gil spent) is capped at 9999 each toss.
+Note2: Nothing is immune to Gil Toss! (unless they are immune to physical DMG)
+
+
+
+ ============================================================
+| Weapon Type          |  Hit Combo Rate | Critical Hit Rate | 
+|------------------------------------------------------------|
+| Axes                 |        3%       |                   |
+|----------------------|-----------------|-------------------|
+| Maces                |        4%       |                   |
+|----------------------|-----------------|-------------------|
+| Unarmed              |        5%       |                   |
+|----------------------|-----------------|-------------------|
+| 1-H Swords           |        5%       |                   |
+|----------------------|-----------------|-------------------|
+| Hammers              |        7%       |                   |
+|----------------------|-----------------|-------------------|
+| Daggers              |        7%, except the following:    |
+|  Danjuro             |       10%       |                   |
+|----------------------|-----------------|-------------------|
+| Spears               |        4%       |                   |
+|----------------------|-----------------|-------------------|
+| 2-H Swords           |        7%, except the following:    |
+|  Dynast-King's Blade |       25%       |                   |
+|  Treaty Blade        |       25%       |                   |
+|  Defender            |        5%       |                   |
+|  Tournesol           |       12%       |                   |
+|  Wyrmhero Blade      |       80%       |                   |
+|----------------------|-----------------|-------------------|
+| Poles                |       12%       |                   |
+|----------------------|-----------------|-------------------|
+| Katanas              |       13%, except the following:    |
+|  Masamune            |       40%       |                   |
+|----------------------|-----------------|-------------------|
+| Ninja Swords         |                 |                   |
+|  Ashura              |       15%       |                   |
+|  Sakura-saezuri      |       16%       |                   |
+|  Kagenui             |       17%       |                   |
+|  Koga Blade          |       18%       |                   |
+|  Iga Blade           |       19%       |                   |
+|  Orochi              |       20%       |                   |
+|  Yagyu Darkblade     |       22%       |                   |
+|----------------------|-----------------|-------------------|
+| Rods                 |        0%       |                   |
+|----------------------|-----------------|-------------------|
+| Staves               |        0%       |                   |
+|----------------------|-----------------|-------------------|
+| Handbomb             |        0%       |                   |
+|----------------------|-----------------|-------------------|
+| Measures             |                 |        5%         |
+|----------------------|-----------------|-------------------|
+| Bows                 |                 |        5%         |
+|----------------------|-----------------|-------------------|
+| Guns                 |                 |        5%         |
+|----------------------|-----------------|-------------------|
+| Crossbows            |                 |        7%         |
+ ============================================================
+
+
+ ========================================================================
+| Number of Hits     |     HP     |     HP     |     HP     |     HP     |
+| When Combo Occurs  |    > 25%   |  12.5-25%  | 6.25-12.5% |   < 6.25%  |
+|--------------------|------------|------------|------------|------------|
+|          2         |    40.0%   |    14.7%   |     1.4%   |      0%    |
+|          3         |    38.2%   |    30.8%   |     7.5%   |      0%    |
+|          4         |    16.6%   |    29.3%   |    17.5%   |    0.2%    |
+|          5         |     4.3%   |    16.7%   |    24.7%   |    1.2%    |
+|--------------------|------------|------------|------------|------------|
+|          6         |     0.8%   |     6.4%   |    23.3%   |    4.3%    |
+|          7         |       0%   |     1.7%   |    15.3%   |   10.8%    |
+|          8         |       0%   |     0.3%   |     7.2%   |   19.2%    |
+|          9         |       0%   |       0%   |     2.4%   |   24.4%    |
+|--------------------|------------|------------|------------|------------|
+|         10         |       0%   |       0%   |     0.6%   |   21.7%    |
+|         11         |       0%   |       0%   |       0%   |   12.8%    |
+|         12         |       0%   |       0%   |       0%   |    5.3%    |
+|    Average Hits    |    2.873   |    3.752   |    5.509   |   9.028    |
+ ========================================================================
+
+
+shield block:
+On the license board, each Shield Block = 5% bonus on the shield evasion.
+The accessory Gauntlets provides an additional 10% bonus.
+If a shield offers both physical and magical evasion, then the same bonus
+is also applied to both physical and magical evasion.
+
+weapon block:
+All weapons come with their unique evasion rate. For example, Main Gauche
+offers the best 1-H weapon evasion of 34%. It functions exactly like the
+shield evasion, while blocking away only physical attacks.
+
+In the game's stat page, weapon's EVA is added to the shield EVA, while in
+reality they happen only after the shield evasion fails.
+
+parry:
+Our characters do not parry by default. It only happens when the accessory
+"Jade Collar" is equipped. Jade Collar provides 30% parry.
+
+
+
+counter:
+Counter occurs ONLY when the accessory Battle Harness is equipped. It triggers
+with the following chance: 
+
+ ------------------------------
+| Counter Chance (%) = SPD / 2 |
+ ------------------------------
+
+However, when you equip the acc. Battle Harness PLUS the Armor "Genji Armor",
+the counter chance becomes:
+
+ ------------------------------
+| Counter Chance (%) = SPD x 2 |
+ ------------------------------
+
+
+
+
+- Weather affects the accuracy of Bows and Crossbows. When the weather is
+  Windy (Sunny/Cloudy/Rain, does not matter), Heavy Rain, (Heavy) Snow and
+  Sandstorm, accuracy modifier for bows is x0.8 and for crossbows is x0.5.
+
+Now you know why your bow works poorly during the Giza Plain rain.
+
+By the way,
+
+- Crossbows cannot be parried.
+
+- Guns, Measures, Healing Rod and Rod of Faith cannot be blocked or parried,
+  but they can still miss (shooter is blinded, for example).
+
+- No evasion takes place when you are fleeing (R2).
+
+
+knockback
+ =======================================================
+| Name         | KB | Name        | KB | Name      | KB |
+|--------------|----|-------------|----|-----------|----|
+| Dagger       |  0 | Ninja Sword |  0 | Crossbow  |  0 |
+| Mace         |  0 | Katana      |  0 | Handbomb  |  0 |
+| Measure      |  0 | Spear       | 10 | Bow       |  0 |
+| 1-Hand Sword | 10 | 2-H Sword   | 10*| Gun       | 10 |
+| Axe          | 10 | Pole        | 10 |           |    |
+| Hammer       | 10 | Rod         | 10 |           |    |
+|              |    | Staff       | 10 |           |    |
+ =======================================================
+
+
+
+-- Mist Knacks --
+Mist Knacks while allowing you to use your "limit breaks" it also have a
+much important feature and notes:
+
+	> Your base Max MP doubles per every Mist Knacks Licensed
+	> Having more MP means more abilities to cast more magic.
+	> There are only 18 MK on the License Board
+	> Once one MK is licensed to that particular character,
+	  no other else can license that very same one.
+	> Each character can have up to three MK licensed.
+
+-- Priorities --
+Here are my suggested priorities (highest to lowest) in spending your LP:
+	1) Passive Skills
+		> Try to aim for the HP Bonus and MP Passives first, the will
+		  help in battles in the long run since it's very easy to drain
+		  your MP.
+	2) Mist Knacks
+		> Plan a path on how each character shall get to the Mist Knacks.
+		  Find the quickest but most efficient path (you want to make
+		  sure the Licensed bought along the way are useful for that
+		  particular character).
+	3) Magic
+		> Healing spells are the most important, since it's free healing.
+		  Learn up to White Magic Level 3 before concentrating on the
+		  other spells.  Again, only spend in this section when you have
+		  good and available spells ready to buy.
+	4) Weapon/Armors/Accessories
+		> Like magic, only spend when you have money to buy the items.
+	5) Techniques
+		> Steal, Libra and Charge is a must at the beginning.
+		  Defense Break and Magic Defense Break should be bought later.
+
+
+gambits
+		Penelo [Gun ~ Healer/Support]
+		01) One Ally (Phoenix Down)
+		02) Ally HP < 20% (X-Potion)
+		03) Ally HP < 40% (Curaga)
+		04) Enemy (Dispel)
+		05) One Ally (Remedy)
+		06) One Ally (Hasteaga)
+		07) One Ally (Protectaga)
+		08) Myself MP < 10% (Charge)
+		09) Enemy HP = 100% (Attack)
+		10) Enemy Lowest HP (Attack)
+		11) Ally HP < 90% (Regen)
+
+		Ashe [Katana ~ Steal/Tanker]
+		01) One Ally (Phoenix Down)
+		02) Ally HP < 20% (X-Potion)
+		03) One Ally (Remedy)
+		04) Myself (Decoy)
+		05) Myself MP < 10% (Charge)
+		06) Enemy HP = 100% (Steal) *DISABLED*
+		07) Enemy Lowest HP (Attack)
+		08) Myself (Libra)
+
+		Fran [Bow ~ Healer/Fighter]
+		01) One Ally (Phoenix Down)
+		02) Ally HP < 20% (X-Potion)
+		03) Ally HP < 60% (Curada)
+		04) One Ally (Remedy)
+		05) One Ally (Shellaga)
+		06) Myself MP < 10% (Charge)
+		07) Enemy Lowest HP (Attack)
+
+
+
+
+  -> Hunter's Monograph (18000 gil)
+Talk to Gastly in Muthru Bazaar after completing the 'Wolf in the Waste' hunt
+Enables the acquisition of superior loot from beasts and avions
+
+  -> Knight's Monograph (19000 gil)
+Talk to any weapon shop owner 30 times
+Enables the acquisition of superior loot from giants and insects
+
+  -> Warmage's Monograph (20000 gil)
+Read the 'Hunt board' 20 times
+Enables the acquisition of superior loot from amorphs and undead
+
+  -> Mage's Monograph (21000 gil)
+Talk to any magick shop owner 25 times
+Enables the acquisition of superior loot from fiends
+
+  -> Dragoon's Monograph (22000 gil)
+Read the 'Hunt board' 40 times
+Enables the acquisition of superior loot from dragons and plants
+
+  -> Scholar's Monograph (22000 gil)
+Talk to any armor shop owner 15 times
+Enables the acquisition of superior loot from constructs
+
+  -> Sage's Monograph (25000 gil)
+Talk to any shop owner/merchant 100 times
+Enables the acquisition of superior loot from elementals
+
+Note that when selling Loot to make one of the below Bazaar Packages appear in the merchants' Bazaar menus, you can only sell the Loot required for a single item at a time. Take the "Life Crystal" Bazaar Package for example: when you sell the required Arcana x10, Feystone x1, and Soul of Thamasa x1 to a merchant in order to make this package appear in the Bazaar menu, make sure you don't sell any excess of these items. If you instead sell twice the amount of required Loot in order to save time and make the "Life Crystal" Bazaar Package appear twice, you will be wasting both your time and your Loot, as only ONE will appear and all excess Loot you've sold will be lost. In order to prevent this, sell only what is required in order to make each Bazaar Package appear, then exit, buy the newly available Bazaar Package, rinse and repeat. You must be careful!
+
+
+
+17. Bhujerban Madhu
+    - In Bhujerba there are six sections of the city, and eight places you can
+      enter for a total of 14. In each of these you can find 'Bottle of
+      Spirits', which is Bhujerban Madhu liquor. Find all 14, and then don't
+      sell them if you want to keep them in your inventory
+    - on the other hand, by keeping them you get to miss on 14 possible scenes
+      of how do Bhujerbans take to the liquor, getting smashed and everything
+      (I would recommend that you save your game, see different scenes, and
+      then reload)
+
+
+19. Slime Oil
+    - one Slime Oil can be received from footracing in Balfonheim by winning
+      tier 90 (out of total 100)
+    - you can steal Slime Oil from Orthros
+    - Slime Oil is used in only one recipe, for which you need one Slime Oil,
+      so that means you only need one extra
+
+23. July subquest
+    - becomes available after getting Dawn Shard
+    - complete the first events in Nalbina BEFORE you reach Mosphoran Highwaste
+    - if you don't complete the first events in Nalbina, quest is "lost" after
+      you defeat the boss of Mt Bur-Omisace, meaning you also fail in two
+      scenes associated with the quest (one scene in Nalbina, the other in
+      Archades)
+    - can complete it after you gain access to Archades
+    - the reward for quest is Salamand Halcyon, which you can otherwise get
+      from Salamand Entite (steal or drop)
+
+25. Ktjn's sidequest
+    - depending on amount of points you score when answering her questions she
+      can be found in seven different parts of Rabanastre
+      #1 inside Clan Hall (+4 pts)
+      #2 in front of entrance to Clan Hall (+3 pts)
+      #3 various parts of Rabanastre (pts range from -2 to +2)*3
+         - one of dead ends in [Muthru Bazaar]
+         - in front of aerodrome
+         - near the entrance to Yamoora's Gambits
+         - W part of [East End], close to [Muthru Bazaar]
+      #4 inside Migelo's Sundries (-3 pts)
+      #5 in fronto of Migelo's Sundries (-4 pts)
+    - it would take a lot of patience and replays to get all of those scenes,
+      so don't ask me what she says in them
+    - additionally, if you get her to stand in front of Clan Hall, you're able
+      to talk to her directly; don't get inside Clan Hall until after
+      plastering boss of Mt Bur-Omisace and finishing Ktjn's quest, and the
+      lines you usually hear from 'Conspicuous Bangaa' will be said by Ktjn
+    - credit: Brady's guide
+
+39. Zodiac Spear
+    - treasures you must NOT obtain are (contents is listed assuming you don't
+      wear Diamond Armlet):
+      #1 treasure in front of Dalan's house in Rabanastre Lowtown (contains up
+         to 100 gil, Potion or Eye Drops)
+      #2 treasure in SE corner of Cellars in Royal Palace of Rabanastre
+         (contains Elixir)
+      #3 avoid the treasure in Confiscatory in Nalbina Dungeons (contains 316
+         gil)
+      #4 stay away from treasure among 4x4 pot grid on the Vaddu Strand in Phon
+         Coast (contains 2000 gil, or Knot of Rust)
+    - if you poke any of above four treasures, you can kiss Zodiac Spear in
+      [Necrohol of Nabudis / Cloister of the Highborn] goodbye
+    - there is one more chance for your Zodiac Spear, a mere 0,1% treasure pot
+      in [Henne Mines / Phase 2 Dig]
+    - whatever the outcome, Zodiac Spear IS NOT WORTHY to restart the game for
+
+42. Map of Rabanastre Palace
+    - if you forget to get the map from urn in [Royal Palace / Cellar Stores],
+      you can buy it from Cartographers' moogle in NE corner of [Old Archades /
+      Alley of Low Whispers] for 100000 gil
+
+46. Genji equipment
+    - This set contains Genji Gloves, Genji Shield, Genji Armor, and Genji
+      Helmet. All of these equips must be stolen in two battles with the mark
+      of "Battle on the Big Bridge" clan hunt.
+    - Stage 1 is in [Lhusu Mines / Tasche Span]...
+      steal: Genji Shield (round 4)
+      steal: Genji Gloves (round 5)
+    - Stage 2 is in [Lhusu Mines / Site 7]; you need Site 11 Key...
+      steal: Genji Helmet (round 4)
+      steal: Genji Armor (round 5)
+
+54. Omega Badge
+    - after nailing Omega Mark XII in [The Great Crystal / Dhebon Jilaam Avaa]
+      make absolutely sure to pick up the loot bag which contains Omega Badge
+    - if you leave the screen without collecting the loot bag and come back
+      later, the loot bag WILL BE GON
+
+57. Centurio Hero's Badge
+    - get from Montblanc after you achieve Order of Ambrosia clan rank
+    - make sure you don't sell it, as you gain nothing for it, and it sells for
+
+58. Horakhty's Flame, Phobos Glaze, Deimos Clay
+    - these loot items must be sold in order to obtain Canopic Jar
+
+    - Circlet - [Pharos - Subterra / Abyssal - South]*1
+              - [Pharos - Third Ascent / Spire Ravel - 2nd Flight]*2
+
+

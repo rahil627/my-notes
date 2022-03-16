@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with thetruriku on 2009-03-16</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-16 03:49:25"><span class="buddy">thetruriku</span> <span class="msgcontent"><BODY bgcolor=#000000><I><A HREF="http://www.justin.tv/kyolincurai"><FONT FACE="Gautami" SIZE=3>http://www.justin.tv/kyolincurai</FONT></A><BR><FONT FACE="Gautami" SIZE=3 COLOR=#00ff00>ether vs toasty</FONT></I></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-16 03:50:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea hah...was watching @ boose's a bit ago</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-16 03:51:37"><span class="buddy">thetruriku</span> <span class="msgcontent"><BODY bgcolor=#000000><I><FONT FACE="Gautami" SIZE=3 COLOR=#00ff00>u get sf4 yet?</FONT></I></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-16 03:51:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">nah...spring break fails</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-16 03:51:54"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no time for anything :(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-16 03:52:07"><span class="buddy">thetruriku</span> <span class="msgcontent"><BODY bgcolor=#000000><I><FONT FACE="Gautami" SIZE=3 COLOR=#00ff00>shit at least u get a spring break</FONT></I></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-16 03:52:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">=O</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-16 03:52:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just work?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-16 03:52:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i thought u went to tcc or ecpi</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-16 03:52:45"><span class="buddy">thetruriku</span> <span class="msgcontent"><BODY bgcolor=#000000><I><FONT FACE="Gautami" SIZE=3 COLOR=#00ff00>yeah i'm at ecpi</FONT></I></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-16 03:52:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no break? :(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-16 03:52:56"><span class="buddy">thetruriku</span> <span class="msgcontent"><BODY bgcolor=#000000><I><FONT FACE="Gautami" SIZE=3 COLOR=#00ff00>we dont get spring break</FONT></I></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-16 03:53:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">damnn</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-16 03:53:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well it is 2 years faster!</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-16 03:53:38"><span class="buddy">thetruriku</span> <span class="msgcontent"><BODY bgcolor=#000000><I><FONT FACE="Gautami" SIZE=3 COLOR=#00ff00>yeah</FONT></I></BODY></span></div>

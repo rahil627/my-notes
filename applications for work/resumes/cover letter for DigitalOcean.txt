@@ -1,0 +1,21 @@
+[todo: never sent, just keep for future writing ‘n documentation jobs]
+
+heyo,
+
+It’s winter time now, which means a time for gathering my thoughts, my life.., and  their reflection on internet. Over the past few years I lost my childhood web-site—twice!—due to my own neglect and Namecheap’s inability to automatically bill Paypal, and so, I figured it was time to move on to one of those new cheap cloud servers. After I lost it the first time, I created an account with Vultr during a layover at an airport, just before the pandemic, setup ’n played with Hugo, but ultimately ended up never using it for a year, was charged $5/mo instead of $2.50/mo, and found out my account was closed? *Strange...* This time though, I tried DigitalOcean and *wow; This is my kind of jam(!):* Good inclusive documentation and community; Lots of love ‘n time was put into even the most basic linux tutorial... And now I finally get to try Plesk, remote login, and who knows, maybe get to continue to live life with just iOS devices! :O
+
+This position is interesting to me because of it’s focus on maintaining a set of writings. I’ve got a very particular interest in technologies around expressions (written language and others) and publishing, and doing that the simplest way possible: with text files, a site generator, version control, a diff/comp tool, and few commands ‘n scripts. Doing this job will surely force me to master those specific simple technologies of my interest. Then, perhaps in the future I can in turn create some new publishing mediums for people that express themselves in different ways! Yay!~~
+
+(The other position of interest is customer success engineer, as I *need* a healthy social life while working, but that job surely requires much more server experience.)
+
+My web-site, started in middle school, contains some of my earliest writings. It’s a sort of hyper-linked-by-concept philosophical corpus, but you know, of a child. I’m a sort of lifelong diarist ‘n thinker. I can’t stop it. *Halp(!!).* So, I’m really hoping maintaining a set of writings is a job I can tolerate, as it parallels to my natural way of being. My site is at rahilpatel.com. I just restored it over the past two days (I am already regretting the choice of using Plesk... So many problems!!). It should have rahilpatel.com/portfolio and rahilpatel.com/resume in there too. Warning: debugging mode might be on when you see it. Another warning: this site is 20 years old. :)
+
+My life and experience is quite peculiar, but fits the position well. I started as a normal programmer, then got into the indie game scene in NY, then I did a few indie game things with close friends, but, since then, I haven’t touched computers for nearly a decade. One thing that hasn’t left me though is reading and writing. With just an iPad in hand, I can always read ‘n write anything! And so my youthful passions in technologies and mediums must deal with my later interests in the world beyond the screen...
+
+As for servers, I know very little (*though, I did have to write a web server following the RFC from scratch for school once...*). I’ve never used most of the server ‘n virtualization technologies that came out during the past decade: Kubernetes, Docker, AWS, Firebase, etc. As I said, I’m a simple person. I’m that guy holding onto his (Name)cheap web-site from the 90s, with just a Dropbox-ful of text files. Hopefully being a newbie in servers will enable me to see it all from a more conscious and inclusive perspective, so that I can then write for the rad grandma trying to put her recipe book on the web.
+
+Anyway, I’m in Thailand at the moment, normally reside in Taiwan, and try to visit parents in either America or India. I am stuck here for god knows how much longer. I only look at screens after the sun sets, which correlates well with America. I hope this covers enough. It’s been a very very long time since I’ve ever worked for anyone else, so be easy on me! :)
+
+In the meantime, I’ll be messing with my fancy new server, maybe re-creating that Dropbox to Hugo publishing workflow :D, automate backing up Dropbox to Google Drive, and maybe trashing my temporary GitHub Pages sites D: ..? All from my iPad mini! This is fun. :) Servers for the people!
+
+Ra

@@ -1,0 +1,62 @@
+# security:
+
+lock designs:
+"cable" locks
+  - I think just a thin chain inside
+  - generally regarded as useless
+"U"-lock
+  - good weight / strength ratio for bicycles, though maybe difficult to lock the bike frame to many things
+  - also, probably too small for most motorcycle frames. Perhaps if one drills holes in the plastic casing?
+chains:
+  - **need hardened steel, "high security", not some China-made junk**
+  - hexagonal vs normal? Not sure. Maybe more hinderance against bolt-cutters.
+  - **noose (style) chain with padlock**
+    - best solution for motorcycles
+    - saves chain weight
+  - **chain with padlock**
+    - **cheap, quick, stupidly simple solution for buying local, just need to ensure the padlock key / keyhole design is decent, in addition to matching thickness.** Way better than poorly designed u-locks.
+      - need to make access to the keyhole difficult when locking
+      - make sure it's made in Taiwan, not China
+    - can throw another cheap lock on, but may waste time
+  - chain with two padlocks
+  - two chains with one padlock
+  - folding chains
+    - adds portability, but maybe not as durable?
+
+12mm minimum
+12-15mm can be cut with monster bolt cutters, with good leverage / position / strength
+16mm+ cannot be cut with portable bolt cutters
+
+ways of stealing and solutions:
+lifting
+  - tie it down with a chain lock
+riding
+  - wheel lock
+    - key lock through the wheel spokes (for cheap, public bicycles)
+  - handle-bar lock
+    - key lock in the turning pole
+    - after-market solution?
+  - prevent the bike from starting
+    - install a removable ignition board
+    - seems like it may not be worth the hassle of installing or carrying around, compared to a simple handle or wheel lock
+  - chain wheels
+    - not so useful for the entire bike, but good in case of wheel theft
+rolling
+  - wheel lock
+    - auto disc brake
+      - though seemingly useless, might be useful when someone is trying to steal a motorcycle whilst it being in sight of the owner
+
+extra:
+**add an alarm system**
+  - tilting sensor?
+  - GPS sensor?
+
+how to lock:
+to an "anchor" cemented to concrete
+not the wheels: they are easy to remove
+frame
+  - any part of the frame of the motorcycle?
+  - seat and bottom tube of bicycle
+lock in such a way that the lock is positioned in a place where bolt cutting would be impossible
+
+a torch and electric saw can eventually cut anything with time and noise

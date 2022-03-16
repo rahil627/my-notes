@@ -1,0 +1,85 @@
+#### Autobiography
+
+A note: I did not see any guidelines to help write this, so I'm simply going to write an autobiography (自傳) without any rules.
+
+A disclaimer: I've written a few [self-assessments](http://www.rahilpatel.com/blog/a-self-assessment) and an [informal resume](http://www.rahilpatel.com/blog/wp-content/uploads/2016/02/resume14.pdf) in the past and may reference them as needed with quotes (""). I also have a [portfolio](http://www.rahilpatel.com/blog/portfolio) in which information about my artistic works can be found.
+
+I will likely naturally divide this by time and/or place.
+
+##### Childhood:
+"Playing games with friends, biking, exploring neighborhoods, family vacations, family events (Indian marriages), fixing computers, fixing other things, helping my family, staying up late, waking up late, always doing something."
+
+##### 5th grade:
+Lost interest in school, academic performance drops from A/B to C for the first time. Instead, I likely turned toward media for further education, but since I had no guiding mentor, I got lost in the media: I played a lot of games with friends, explored the internet, listened to music (thanks to Napter technology), perhaps stumbled upon a few useful films, and continued exploring neighborhoods further out.
+
+##### Post-High School:
+I nearly decided to move to Japan or San Francisco after high school but decided to go through college, work, and save money before moving. Looking back, it seems my gut decision was better than the cultural norm-abiding decision, since I moved after college anyway.
+
+##### Late High School and College:
+"I didn't perform well. I think I just needed to get out of my parent's house, or a break after high school to allow myself to take self-directed action. I did, however, value the time I watched neorealism films (thanks to Netflix technology), listened to indie music (thanks to bit torrent technology) and the time spent with my friends in a public space, often playing games competitively."
+
+##### First 'Professional' Job:
+My first job within my major, computer science, was near my parent's home in Virginia as a software developer where I wrote programs that detected fraudulent activity in real estate (escrow) bank accounts. "An amazing, even ideal, first programming job, as there were only two other developers, and most of the time was spent programming.
+
+I knew I was going to leave my hometown, but I thought it was best to have a little 'experience' before doing so. "After 9 months of saving money I moved to San Francisco alone.
+
+##### San Francisco:
+"From suburb to city, I picked up a new job too quickly, perhaps afraid of financial risk. I oversaw day-to-day tasks for the engineering department. The department creates and manages websites (and web servers) for a bunch of shitty Asian MMORPGs. It was a cumbersome process in a large company. Unrealistic goals, overtime, hasty testing, shoving out *milestones*; The stereotyped horrifically inefficient software company. I knew and warned that I was going to leave within the first week, but I stuck to the job because I was still absorbing the experience of living in a city, and perhaps conditioned to work this way because of my work ethic during my previous job. I tried to help the company as much as I could but I came to the conclusion that my slightly more ideal values were meaningless in a large company, and my desire for something more meaningful, or at least more meaningful than managing websites for terribly bland MMORPGs, made me leave."
+
+The first few weeks of hunting an apartment were crucial as I physically explored every neighborhood in search of an ideal place to live. After work and every weekend I spent time participating in social events and organizations, most of which were local art organizations. It was my first city experience.
+
+I was quickly able to generate a mental map of SF, dividing neighborhoods to befit the kinds of people that live in each one. I was able to see which areas were being gentrified, where ethnic enclaves are, and the drastic urban and social problems between. Luckily, I ended up in a very ideal location: 9th and Geary in Inner Richmond, a small Chinatown with a mix of other Asian ethnicities. The Asian grocery stores and park made it feel like home.
+
+##### New York:
+"I began making games, using Experimental Gameplay Project as a deadline. After many finished an unfinished prototypes, game jams, and collaborations, I eventually helped my friends in New York create Crystal Brawl, a local multiplayer sports game. Unfortunately, one other game remains unfinished: Pinkies Up, a local multiplayer multi-touch multi-iPad game. I imagine game-making will be always be a part of my life. More detail in my portfolio."
+
+"'Interning' with Zack: I 'assisted with a film shoot in the freezing cold and researched stereoscopy in film and games', though in reality, I biked through a Jewish community to get to Zack's place, ate delicious local pizza, and hung out at his apartment. Zack's an ambitious fellow on the edge of technology with an eye of a child.
+
+"Volunteering at Babycastles: Ahhh my first love. Amazing people doing amazing things. It was specifically what I was interested in, but had no idea a community for it existed. It was what I was looking for all along. At the time I was just beginning to create game prototypes, figuring out what games are, what it means to be an artist, and really delve into art life and the design process. The things these people accomplished on a daily basis was unbelievable. I merely helped setup and facilitate art game installations, and helped (or worsened) with organizational development. The organization taught me everything: the possibilities of games, the possibilities of new media, social organizations for art and for social justice, event organization, income models to run such an organization,  and the infinite possibilities with social relationships within the City. I regret leaving New York because of these people, and I will come back, despite disliking the city."
+
+The time spent with Babycastles in New York is by far the most influential experience I've had. During my time in San Francisco I had a full-time job; In New York, I didn't hesitate about financial security and relied on my savings. This allowed me to experience the city to the greatest extent.
+
+Similar to San Francisco, I was able to explore much of the city's neighborhoods during the first few weeks. Though much larger and more chaotic, I was able to make a mental map of New York and compare it to San Francisco. Again, many of same urban and social problems exist, but this time with s larger scale. One doesn't need to read Jane Jacobs to understand the problems of old methods of urban development, or the importance of sidewalks, or how cities work: the experience of living and exploring New York is greater than all urban planning books. I lived in Clinton Hill, Brooklyn, not ideal, but a worthy sacrifice to live with a great friend.
+
+##### World:
+After the lease for the apartment in New York expired, I went home, and soon after, I began to travel Asia, beginning and ending with Taiwan.
+
+I traveled through many countries in East, Southeast, and South Asia. While traveling I volunteered, did work exchange, seemed and participated in organizations, did contract work, and created personal work. I volunteered at a small independent school in Zhongli, Taiwan for three months; joined a group of bright students in Kuala Lumpur in each of their works (mix new and traditional music, social organization against prostiution, social organization against ecological damage) in Kuala Lumpur, Malaysia for a month; made a short film in Penang, Malaysia in a day; worked on a game with friends from New York while exploring East Asia; ran a game development workshop with a close friend from New York in my parents hometown in India; ran Humans of Taipei photo essay in Taipei, Taiwan; worked with a friend on an augmented reality application in Gaoxiong, Taiwan; and finally wrote a lot of philosophy in Taipei, at home in Virginia, and in Yilan, Taiwan. Many of the personal works are available in my portfolio.
+
+Again, similar to the exploration and experience of living in San Francisco and New York, there was much to learn elsewhere in the world. "While living nomadically, I'd sometimes exchange a few hours of work for free accommodation and a bit of cash for food. Most of the work time is for hostels, but also helping friends, CouchSurfing hosts, social organizations, cafes, farms, and wherever else I happen to sleep in. Sometimes, just a little creativity is enough for exchange. Applying the gift economy is more cumbersome than capitalism, but less repetitive."
+
+I also backpacked through many places, sleeping in cheap hostels, local organizations and institutions, stranger's dwellings, temples, nature (beaches, camp sites, mountains), artificial nature (public parks, schools, police stations), lavish apartments, slums, rooftops, train stations, airports, etc.
+
+Without language I compared societies trying to communicate it through art, via new media, game, and film, but always struggled to try to capture my thoughts into those mediums, those same mediums that provided much of my childhood education. Instead, I spent a lot of time simply talking to and experience life with the people around me at that specific space and time. (It wasn't until much later in life, after my travels, that I attempted to organize many of these thoughts into a human language.)
+
+Because I lived somewhat nomadically since graduation, it has allowed me to come closer to understand the experience of (other) people who live in different areas (and society and culture), and perhaps influenced my ontology to be more materialistic, as in, putting emphasis on the environment as opposed to psychology. I have thought this way from quite a young age, biking through nearby poorer neighborhoods as a child, but it was perhaps influenced the greatest by my time living in American cities.
+
+This materialist (physicalist) ontology has lead me to spend much time thinking about how the environment affects people, how to improve the current environment, and how the environment limits the potential of the humans that live in it, with the ultimate motivation being to give people more freedom and equal access (critical theory).
+
+Even if those ideas were not explicated at the time, it showed in my art and design ideas and volunteer work (Babycastles) using new media in public spaces to communicate cultural problems, showcasing games from different cultures in public spaces, and creating educational games.
+
+Traveling around Asia broadened those thoughts to a more general spatial geography of human settlements. It also broadened my thoughts about the influence of culture, lessening the emphasis on urban material and the economic sphere, increasing emphasis on changing culture and human behavior as the method to improve the decisions people make.
+
+Worthy of noting: both of my views are still bottom-up: I do not care for government, policies, etc., hence the reason I am applying solely to the planning and building department as opposed to national development and public affairs (another reason: according to the information on the websites, both programs seem outdated and less experiential). I only desire to alter society by affecting culture, material, and providing technological means, not laws and policies, which is probably why I prefer Taiwan's anarchic culture over The United States'.
+
+Because much of my experience was in contemporary cities, and because I've come to love the communities within those cities, much of my thought has been framed in the economic system of cities: capitalism. Therefore much thought was spent creating social or political change in the context of a capitalistic city (a la critical theorists such as David Harvey). This is unfortunately the reality: much of the power resides in cities.
+
+Though capitalism affects much of reality, I've also spent much time ignoring or trying to ignore capitalism, living more ideally: living through mutual exchange (gift exchange), simple living, a minimalistic lifestyle, living outside of the city, but I know it's inevitable that I must face capitalism at times (i.e. going to a hospital, raise a family), and return to the city, especially for creating social change.
+
+##### Isolation:
+"After a long period of travel and using a non-native human language, I happened to stumble upon the Western philosophy section of the 24 hour Eslite bookshop in Taipei and then I attempted to write everything that I knew. All of my philosophy is available through my portfolio."
+
+I became less active in reality, but very active in the mind, using language as a medium as opposed to new media, games, and film in the past. For a long time I argued against using human language, feeling it was an inferior medium of communication compared to film for a long time, but eventually gave in thanks to that brilliant Western philosophy section at the bookstore. Later, the technology of eBooks, a smartphone eBook reader application, and a smartphone writing application enabled me to continue communicating.
+
+I started with the Western philosophy canon (History of Western Philosophy by Russell, and a newer one by Anthony Kenny), then using terms in in continental philosophy and critical theory (Marx, Frankfurt School, post-Frankfurt School) to write my own philosophy in an existing language, then toward creating and ideal environment a la urban planning (urban planning (I've read Lynch, Jacobs, and Alexander as mentioned on the department's website.), then toward human geography (Harvey) and environmental psychology (department at City University of New York (CUNY)) with critical theory in mind. It was an interesting autodidact experience, organizing all of my travel experience at the comfort of my parent's and friends' homes but it was inactive nonetheless.
+
+##### Now, and Later:
+Thankfully I finished the philosophic phase in two abnormally cold winters in America and in Taiwan and am now traveling again, wandering about Taiwan, soon to become active again, constantly trying to make a positive social impact wherever I am. I can already feel that the sun and its warmth are near.
+
+It's likely that the economic system I reside in (capitalism) will restrict my actions and funnel them toward insignificant things like tutoring English, ghostwriting school applications for wealthy Chinese kids, or whatever else generates wealth efficiently in Taiwan. It's also possible that I continue wandering civil organizations via work exchange, or by force. I concurrently applied to a civil grant and a school to escape capitalism in a culture where education and governance is still privileged, and do what I want: to create a social organization, which I believe is the best action I could take, as an individual, and for the benefit of the society I currently live in: Taiwan.
+
+I'm actually unsure which is the better choice: to continue to experience the reality that is capitalism or to escape into the safety net that is academia. With an efficient high wage, capitalism may even provide more time, as schools may force me to waste time with required courses which may not be in the directions I desire, and furthermore forces me to be be physically near the school in Taipei, as opposed to freely wandering around the island. Though I've seeked rationality in my past through Frankfurt School texts, I am still skeptical of even MIT's Center for Civic Media and , and I'm always cautious and somewhat afraid of the influence any institution will have on my mind.
+
+Though a large goal of mine is to create such an ideal organization that is effective in cultural and urban interventions, it seems that in order for the organization to attract people from all classes of society, from all areas, it is impossible for it to exist in a single place. Thus, just as I am an endlessly nomadic person seeking the impossible: to understand others -- the organization itself must also be nomadic; Or multiplied in various areas to allow uniquely-experienced minds to bloom in unexplored directions.
+
+Alas, as of now, I am only applying. I will stop by the school and check out the department.

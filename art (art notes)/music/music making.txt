@@ -1,0 +1,126 @@
+# todo
+http://www.akaipro.com/products/related/mpk-mini-mkii
+  - contains good articles to set up with DAWs, included software, **firmware**, new software: **VIP**
+
+# inspiration
+Inspiration should come from feelings influenced by reality!; forget all of this!
+
+https://en.wikipedia.org/wiki/Ryuichi_Sakamoto
+  - YMO as precursor to much of modern pop music?
+
+https://en.wikipedia.org/wiki/Bon_Iver
+  - https://en.wikipedia.org/wiki/Justin_Vernon
+  - three weeks in a cabin
+  - for 22, million, used Teenage Engineering
+
+https://en.wikipedia.org/wiki/808s_%26_Heartbreak#Recording_and_production
+
+https://en.wikipedia.org/wiki/Anarchism_and_the_arts
+  - in search of anarchism in music
+  - https://en.wikipedia.org/wiki/Anarcho-punk
+  - https://en.wikipedia.org/wiki/Political_hip_hop
+    - https://www.reddit.com/r/Anarchism/comments/1xeovv/some_good_anarchist_rap/
+    - not so good
+
+## musicians
+https://en.wikipedia.org/wiki/Masashi_Hamauzu
+https://en.wikipedia.org/wiki/Yasunori_Mitsuda
+https://en.wikipedia.org/wiki/Sailing_to_the_World
+
+## from music.txt
+“youtube playlists (since 8-tracks now costs money)
+  - use youtube-dl terminal program to download from youtube
+  - “easy going music” folders which contain game soundtrack music (Ragnarok, Final Fantasy XI, arranged game music, relaxing game music playlists, etc.), Japanese anime soundtrack music (Hot Potato lists), vaporwave (kind of Nujabes-like jazzy hip-hop, “chill-hop”, study music, relaxing music, Ghibli, etc.), aboriginal music, “peaceful”, “relaxing”, “atmospheric”, “sleepy”, “forest”, “landscape”, piano, arranged
+  - FFXI premium box
+    - disc 7 is piano collection”
+
+### favorite music analysis
+
+Can further this to an analysis of what sounds I like, what makes the music that I love so lovely.
+
+Luv(Sic) - similar to the top tracks of Reasonable Doubt by that one producer, it has a super harsh snare (bap) and good boom in the bass.
+  - boom, bap; boom-bap...boom-bap-bo-boom (break?)
+  - constant tapping of cymbal, but the sound is drowned by bass and snare hits
+  - piano, synth
+    - that synth has a strange atmospheric sound like the Reasonable Doubt producer
+  - saxophone bits at beginning and end
+ 
+on Still Talking to You:
+  - one can hear Nujabes simply playing with a few sounds (instruments), samples, and boom-bap, creating such a simple, pleasant, fun track. It’s clearly just him having fun.
+
+on Steadfast Nujabes really hones his craft with percussion
+  - a trumpet start, then a sample says “drum”. Perhaps it’s him playing on the MPC? His piano is still terrible, but he has the composition there, along with the percussion.
+
+
+## places to get video game music
+bit-torrent databases
+gamemp3s
+https://www.emuparadise.me/soundtracks/highquality/
+
+### Googled some favorite tracks and found these sites
+https://www.steamgifts.com/discussion/M0F9g/favorite-game-music-tracks
+http://vgmixarchive.com/
+http://www.neogaf.com/forum/showthread.php?t=444292&page=2
+
+
+### from tabs
+http://ffxi.allakhazam.com/forum.html?forum=10&mid=1197616098260463283
+https://www.reddit.com/r/FinalFantasy/comments/3ex6oy/what_is_a_beautiful_final_fantasy_song_that_no/
+
+
+
+# charging devices [todo: move to own note]
+## chargers
+2.1-2.4A for Apple iPad block charger
+1.0A-2.1A per USB3 port for Macbook Pro
+  - up to 2.1A for charging Apple products
+  - https://support.apple.com/en-us/HT204377
+  - see https://apple.stackexchange.com/questions/38654/how-do-you-check-how-much-current-a-mac-usb-port-can-deliver
+  - https://apple.stackexchange.com/questions/62623/which-macbook-pro-usb-port-should-i-use-to-charge-an-ipad
+1.0A for Apple iPhone small block charger
+.85A
+.6
+
+## cords
+see WireCutter for good cords
+voltage drops due to design, gauge, length, and maybe more things
+
+
+https://discussions.apple.com/thread/7055652?start=0&tstart=0
+“Hi. No, it should not work. Your computer ports only supply 0.5 A, if that. Your 12 Watt iPad charger supplies 2.4 A, almost 5 times the current.”
+
+
+# older ideas
+
+Could record sounds from the world, then just put them together via software or via a digitally-recorded vinyl on turntables.
+
+Can add live recording video of the place too. Same with recording a 環島.
+
+a day-dream:
+Record the ambience of different areas in the world. Then use piano, or composing software to re-create feel of each sound within a recording, composing the sounds together to create a track for each area. For example, night-time in the rural, which may have noises of irrigation water-ways, nightingales, owls, various bugs, and occasionally kids running around, or a bicycle. Create parts (using instruments) that evoke the feeling of each, that put them together to form a composition. Then combine the arrangement (instrument composition) with the recorded sounds.
+
+For a performance: Can play the instrument composition first (optional), then the recording, then each sound, then each instrument-composed sound, then the instrument composition again, then both together.
+
+—
+
+I wonder if making music is similar to film editing. Creating the right footage. Placing sounds at the right time based on feeling.
+
+grimes? use music and sounds I like and mix it with atmospheric snyths
+
+**use piano and some beat making software with stock sounds to begin with, then record or electronically create my own noises (use programming?)**
+
+use film audio equipment to record audio, **my voice**, ambient noises, mix it
+
+ragnarok like music, dubstep
+music to wong kar wai. Check what shlohmo, m83, nujabes use. all electronic?
+
+**just record some sounds, even a four track recorder, buy a mic, buy a keyboard**
+
+write lyrics, spoken word, poems? Then put that over minimalistic music or jazz sampled beats
+
+start with logic/cubase?
+
+Peter Inouye's setup:
+Audio: Cakewalk Sonar for composing
+Most instruments run through Kontakt
+Mastering through Adobe Audition, with Waves VSTs

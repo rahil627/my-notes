@@ -1,0 +1,66 @@
+natural:
+
+metals:
+  - titanium
+    - lighter than stainless steel
+    - safe for food
+    - [todo: probably better in other ways]
+    - expensive
+  - steel
+    - stainless steel
+      - safe for food (and drinks)
+      - does not rust
+    - high carbon steel
+      - sharper than stainless steel, so used for blades, but easier to corrode? Or at least, must clean after every use
+   - aluminum
+     - does not rust. Corrodes, but very difficult to corrode.
+     - lightweight
+     - why not use this for travel goods?
+     - i think the lightweight steel-appearing bottles are aluminum
+   - 白鐵 [todo: forgot English name, some coated iron, maybe “tinplate”?]
+    - doesn’t rust due to some kind of coating, but can probably cut the coating?
+   - iron
+     - rusts, cheap (for large applications)
+
+
+fabrics:
+  - cotton
+  - silk
+  - polyester (todo: synthetic? difficult to recycle?)
+    - usually blended with cotton
+    - permeable
+  - nylon
+    - waterproof?
+  - twine
+  - hemp
+
+woods:
+  - wood
+    - decays over time without protective care
+  - bamboo
+    - nearly waterproof when dried
+    - used wherever it's pole shape fits
+  - rattan
+    - waterproof? Just becomes more malleable when soaked in water
+    - used for weaving outdoor furniture
+  - 
+
+synthetic:
+carbon fiber
+  - super lightweight solid
+  - used to replace metals where weight is important (camping equipment, sports equipment)
+  - expensive
+cuben fiber
+  - a super lightweight fabric, waterproof, difficult to abrase and maybe even tear
+  - can add heavy nylon to make it more impervious to tearing
+  - used in "ultra-light" camping equipment
+  - expensive
+
+plastics:
+  - todo: read wiki page for the huge list of different kinds of plastics
+  - PP
+    - Tritan (a brand-name) used from some water bottles
+  - thermoplastics:
+    - ABS - human-safe, can cast into any shape, used everywhere from toys to helmets, used in 3D-printing
+    - PLA - biodegradable, but might use petroleum to run the machines to make stuff anyway
+  - 

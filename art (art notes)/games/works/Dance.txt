@@ -1,0 +1,325 @@
+remember:
+  - http://makegames.tumblr.com/post/44181247500/making-it-in-indie-games-starter-guide
+  
+other:
+  - http://emrahozer.wordpress.com/2013/04/21/my-nme-adventure/
+  
+WRITE BETTER CODE
+  - see Jonathan Blow's video
+  
+FINISH THIS GAME. DON'T WORRY ABOUT WORK.
+  
+THINK ABOUT THE GAME. IT'S FUN! :)
+  
+REMEMBER: PROGRAMMING IS THE PORTION THAT TAKES THE LARGEST AMOUNT OF TIME, CONTENT (ART, SOUNDS, ETC.) TAKE LESS TIME, DON'T WORRY ABOUT THAT STUFF
+  
+DON'T BITCH AND DO THE WORK. COCOS2D AND UNITY ARE AWESOME.
+
+DON'T LEAVE DARJEELING UNTIL DANCE WORKS ON YOUR IPHONE.
+
+PORT TO HAXEPUNK AND HELP THAT LIBRARY OUT! IT'S BETTER THAN HAXEFLIXEL. (later)
+
+USE HAXEPUNK OR HAXE NME FOR MIME
+  - depends on how flexible HaxePunk can be. If it can handle drawing and hittest() within entities, and z-order correctly, then it would be great.
+USE HAXEPUNK FOR TILT VS TOUCH
+USE HAXEFLIXEL AND NAPE FOR EGP CONSTRUCT
+  - or add physics to HaxePunk myself if I find the engine great enough
+IF I REALLY LIKE HAXEPUNK, ASK MATT IF I CAN HELP HIM WITH THE WEBSITE
+YES, STICK TO HAXEPUNK, RELEASE ON IPAD, IOS, OUYA, AND EVERYTHING ELSE, MUAHAHAHAHHA
+  - MOLD IT TO YOUR LIKING
+  - EDIT THE ENGINE
+YOU CAN'T GO BACK NOW!
+
+reply to HaxePunk posts
+
+thoughts on design on the microbus in Kathmandu:
+  - the game should have a theme
+    - India
+      - Gujarati writing
+        - get translations from Bharatbhai's family
+      - Mandala characters and skeletal animation
+        - ask Thunka artist, or people at MSU to create a sprite sheet
+        - or use skeletal animation
+      - textured border frames
+      - sari curtain transitions
+      - old hindi music, like the ones played on the buses in Nepal, or the ones found from street vendors
+      - sounds of bells on the feet of dancers
+      - effects to feel like an old Bollywood film
+      
+OVERALL PROGRESS:
+  - finish prototype
+  - post to HaxePunk work in progress
+  - test on iPad
+  - playtest with Hiren
+  - all main gameplay and programming should be done
+  - ask Jon to playtest
+  - ask Chris to do graphics
+    - need video trailed to entice him
+  - remember that HaxePunk and HaxeFlixel are built on top of NME. NME already has everything: a vector drawing class, filters, bitmap filling, and more. It also performs better. There should be no reason to use Cocos2d. Oh wait, Cocos2d has a nice 2d game engine library.
+  - track progress via blog
+  - tween line drawing
+    - http://www.nme.io/community/forums/general-discussion/animated-line-drawing-with-haxenmeactuate/
+
+current2:
+  - playtest:
+    - think about design
+    - then continue working
+  - 620 x 1120, 640 x 1136 exactly
+  - combine Dance.txt on mac and this
+    - shows jibberish on windows, not ASCII?
+  - finish points?
+    - test scoring
+      - test on multi-touch
+        - I think it currently divides the points to the number of touches, even if multiple touches weren't used
+        - touch to create sprite
+          - the number of sprites that exist while the player leaves the starting are become the number of dancers
+          - requires touch.release
+            - reply to Matt
+              - waiting for answer
+  - inverse the drawings CURRENTLY HERE
+    - this was not worth the time. Time should have been allocated to the main gameplay. This does not affect gameplay.
+      - eh, I don't think I was at my best programming state. It shouldn't have taken long. My programming design is poor.
+    - test
+      - calculations are sometimes off?
+        - on imitation, the debug calcuation is always 100%
+          - sometimes?
+        - on imitation, top player calculates 100%, but bottom player calculates 500%
+        - on imitation for bottom player, five sprites are colliding, but for top player only one is colliding
+          - i think the touch entity starting x positions need to be set in reverse (right to left)
+            - currently set to first movement data in begin
+      - the flash calculation counts all of the sprites
+        - this should be okay on the phone
+        - test on phone
+        - can't test the horse mechanics without success
+  - refactor reflection with reflectEntity
+    - refactor all entities at the end of begin
+  - maybe ghost and touch entity should have their registration points centered
+  - show current scene name to decipher difference between imitation and recreation
+  - refactor code to be like JD's code, and my Horse class
+    - jesus christ, you need to write better code
+  - add Global vars for settings
+    - inverse drawings
+  - the drawings are really confusing****
+    - when the player begins the imitation subscene, ghost sprites should stop spawning, one ghost sprite should exist one second ahead
+      - need to change everything to time instead of frames
+        - it doesn't make sense to record frames, timing is important
+        - look into HaxeFlixel recording replay
+        - use LinearMotion tween to move between each point
+        - change the way it's recorded
+        - change the way it's played
+        - change ghost
+        - change calcuation of score in imitation state and ghost
+  - add a timer?*
+    - it makes the game more fast paced, which I may not want
+    - increases after each successful turn?
+  - playtest*****
+    - balance, tune, tighten
+    - figure out what to do next
+    - try HXP.fullscreen
+  - rewrite things neatly / clean up large functions
+    - use records in Horse and pass the pointer to other scenes, don't access it via Global var*
+    - create a touch recorder class
+      - intantiate it inside touch entity
+    - move vars outside of update functions
+    - should reflect records in the beginning of imitation scene
+      - would need to deep copy, or track if it's reflected
+      - could just have two sets of records, normal and reflected
+  - may have to begin design to generate excitement for the game
+    - no, playtest to generate excitement
+      - it's not going to be very fun without an iPad
+    - MAKE SURE THE GAME IS FUN BEFORE GOING ANY FURTHER
+    - PLAY EVERYDAY WITH PEOPLE
+    - try drawing curves
+    - try drawing a dancer and rotate it along the line
+    - polish:
+      - try adding sounds
+      - try adding new font
+      - try adding tweens, indicators, juiciness
+  - try Draw class
+  - Array vs List use
+  - playtest in Baroda
+    - make a video of it with Hiren and his friend in India
+  - design:
+    - it's your turn to (new line) CREATE (large font)
+  
+current:
+  - associate touch sprites to touches
+  - associate ghost sprites to touch sprites? (currently it's just two arrays with matching array indicies)
+    - add touch sprite id to ghost sprite
+      - create an id for touch sprite
+  - color code the sprites and ghost sprites
+  - in HaxeFlixel, the the camera.effects Sprite render before everything else?
+  - see BaseFX
+  
+more design:
+  - add some dynamic line drawing
+    - a trail for creation state
+    - a path for imitation state
+      - a single path in imitation state, not ghost sprite (bake it to a bitmap)
+      - remove the path as the ghost sprite goes through it
+  - add a ghost sprite just a few frames ahead of the touch sprite when the imitation substate begins
+  - create a new ghost sprite when the ghost sprite completes it's replay
+  
+design:
+  - creation state:
+  - the player touches the starting area, a sprite appears
+  - when the player lets go, the sprite disappears
+  - when the player moves out of the staring area, the creation state begins
+  - when the player moves all of the sprites back to the starting area, the creation state ends
+  
+  - imitation state:
+  - a sprite replays the recording
+  - an empty sprite waits at the bottom until the player touches it
+  - allow the player to set his hand down on all of the touch sprites
+    - countdown timer to begin vs start once the player moves touch sprites out of starting area
+  - while the player imitates, the ghost sprite should change color to indicate success or failure
+  - a score in percentage is calculated
+    - a certain threshold is needed to earn a point at the end of the turn
+  - go to creation state
+  - flip points along the x-axis in the center of the screen
+  
+  - overall game:
+    - horse-like game rules * STILL HAVE TO DO THIS
+      - player one creates -> player two imitates -> if success -> player two is awarded a point -> player two's turn
+                                                                         if fail -> player one must imitate his own creation -> if success -> player one is awarded a point
+                                                                                                                                                 -> if fail -> player two is awarded a point?
+      - check Josh's game
+  
+
+current todo:
+  - try drawing within HaxeFlixel
+      - start in FlashDevelop, finish all three demos in one project with three scenes
+      - try drawing with HaxeNME first
+        - look into how stamp works
+      - try drawing with Nape (if it has collision, can be used for Mime)*
+       - FlxPath, just use DrawDebug off
+        - draws to screen, but does it work for iOS?
+      - FlxTrail
+  - choose HaxePunk or HaxeFlixel
+    - use FlxPath as a reference
+    - look into Haxe svg and Cocos2d? Which is best for vector graphics?
+      - Cocos2d does not support uploading vector graphics (svg or swf files), but you can use OpenGL to draw
+      - https://github.com/raymondlu/super-animation-samples
+        - a library that uploads vector graphics
+      - https://github.com/haxenme/svg
+        - "provides parsing and rendering for svg"
+        - format.gfx mimics flash.display.graphics
+  - curves?
+    - Cocos2d - ccBezier
+    - Haxe - CurveTo (nme or svg, don't know difference, or if svg is just for parsing)
+  - fall back to HaxePunk and draw using Haxe NME*
+    - FINISH THE DAMN PROTOTYPE! Use FlashDevelop. Update NTSC driver to reference files from windows drive. Or just copy and run every time. Then move to Cocos2d later.
+  l/- try drawing thick lines with Citrus Engine and graphics library
+    l/- try CitrusEngine with vector rendering
+  l/- can fallback to HaxePunk and HaxeNME in the Main class
+  - use Cocos2d
+
+  - post drawing on touch and mouse example to GitHub, push to examples for HaxePunk
+
+todo:
+try HaxePunk or HaxeFlixel
+  - test moving sprite
+  - test dynamic draw line with HaxeNME
+  - test a demo on iOS
+    - install Haxe, Haxe NME, HaxePunk, HaxeFlixel on mac
+    - install an IDE on mac
+      - http://haxe.org/com/ide
+      - http://www.matthijskamstra.nl/blog/index.php/2012/04/10/haxe-and-nme-ide-and-editors-osx/
+        - monodevelop
+          - troubleshoot Haxe add-in error
+            - re-install monodevelop 3.0 (haxe binding not compatible with 4.0)
+            - try add-in install
+              - if not, try manual install
+          - re-setup project
+          - fix go to declaration***
+          - set up debug
+          - set up run commands
+        - intelliJ and Haxe plugin (up to date!)
+  - run a performance test on it
+    - sprites and draw line
+      - unable to draw line
+        - http://forum.haxepunk.com/index.php?topic=312.msg810#msg810
+        - try drawing in HaxePunk render with a custom function, not using Draw class
+       - with HaxePunk, you have to add a sprite to the stage. To order drawing, you have to add the children in order. The order cannot be between HaxePunk entities.
+      - waiting for response
+      - create a custom draw line function using rectangles and circles
+  - try coding in monodevelop
+    - fix autocompletion***  DO THIS LATER
+  - is it a viable for prototyping? Can always port to Cocos2d or Unity when the design is thought out. Also can test technical design in Cocos2d seperately. Can try Citrus Engine, using the third party graphics class library. Re-test the Dance project in Citrus Engine. Is it able to draw thick lines dynamically with touch on iOS?
+
+HaxePunk and NME
+  - can only draw to screen, there is no hit test for it, and there is no layering.
+    - check HaxeFlixel forums for drawing
+      - HaxeNME drawing!
+      - Nape
+    - try drawing with HaxeFlixel
+      - check demos
+      - try drawing with HaxeNME first
+      - try drawing with Nape after (can be used for Mime)
+       - FlxPath, just use DrawDebug off
+        - draws to screen, but does it work for iOS?
+          - Yes, it does
+        - use this code as a base for drawing with HaxeFlixel
+      - FlxTrail
+        - not quite what I want
+
+    - use Flash, Haxe NME or Cocos2d?
+      - Flash and Haxe aren't frameworks, use Cocos2d if HaxePunk and HaxeFlixel fail
+        - see HaxeNME examples
+          - no sprite animation, just tweening
+
+HaxePunk iOS troubleshooting:
+if it crashes in simulator, run in Xcode to see the error
+
+resources:
+  - http://www.matthijskamstra.nl/blog/index.php/2012/04/19/installing-haxe-and-nme-on-osx/
+    
+    
+  - more design
+    - touch in starting area creates a touch entity, letting go removes it. When the player lets any one sprite leave the starting area, it begins the creation state.
+    - allowed to pick up finger vs not
+    
+  - design
+    - gameplay
+      - timed horse
+        - time increases with turn
+        - only resets on new game
+        - three stock
+          - adjustable
+      - three designs:
+      - 1. player can start touching anywhere, release at any time, and start again
+      - 2. player must hold the touch down
+      - 3. multi-touch
+      - start from a starting point, end from an ending point (or line)
+        - if fail to end, the player fails
+      - should the dancer instantly move toward the current touch or should it slowly move toward it?
+        - should be able to adjust this value
+      - lose when player fails to be within the correct area for longer than a certain amount of time (adjustable)
+      - could replay the moves before the next player's turn to copy, so that it is easier to see and remember (extra)
+        - or could just hand the iPad over
+      - multi-touch (extra)
+    - theme
+      - paint
+        - each path paints onto the canvas
+        - watercolor?
+        - thin lines
+      - dance
+        - dancer animates, certain gestures causes dancer to animate
+          - the player is not told about which gestures triggers animations, it is up to the player to play around
+            - a jump, hold hands, a throw, the dancer can jump to other lines, ignoring the path for a moment, a smooth and beautiful thing to see
+        - 2d sprite rotates along line
+        - 3d sprite dances on top of line
+        - second dancer is a male
+          - when the male and female get close, they hold hands
+          - ice skating*
+            - twirl, jump twirl, double twirl, triple twirl
+            - could still leave ice streaks, or colors, only the sprite is required
+      - cave paintings
+        - chalk on stone
+        - low frame animation
+      - white, light pink, light blue
+        - boring, but minimal and pleasing
+        - smooth animation, the feel of mirror's edge
+        
+  - implementation
+    - HaxePunk or Cocos2d or Unity (2dToolkit and iTween) or Citrus Engine

@@ -1,0 +1,8 @@
+the bullets are hitting the pyrimid no matter where the sprite goes
+no bullet/enemy collision?
+enemies aren't disappearing after they hit the pyramid
+
+Ah thats cool man! I think the hardest part about developing for the
+iPad/iPhone was learning how Interface Builder's objects are connected
+to the code. I think this blog explains it pretty well:
+http://www.icodeblog.com/2008/07/30/iphone-programming-tutorial-connecting-code-to-an-interface-builder-view/

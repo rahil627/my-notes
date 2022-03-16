@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with spencegarland@gmail.com on 2009-04-10</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:05:22"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">u2 working on it in lab?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:05:26"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yeah</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:05:37"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">word...wat we do in class? XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:05:44"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">just went to lab</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:05:46"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">so nothing</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:05:47"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:05:49"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:05:59"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">406 buy itself isnt working anymore</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:06:01"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">:(</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:06:12"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">406?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:06:22"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">error code 406</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:06:26"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">which one is that</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:06:37"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">makes a list of available files</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:06:50"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o multiple choice? =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:07:02"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">weird</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:07:25"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea i got bored of rewriting lab 2, so did some more programming last night</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:08:05"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">now it's nearing the amount of code assignment 3 had :/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:08:15"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i know i saw</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:09:44"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">great, none of the accept-lang anything is working</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:10:40"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh...i was going to take all the stuff out the function</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:10:57"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so that when it's a 200...it just continues through the send_head code</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:10:58"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">as normal</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:11:11"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you changed accept_header?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:11:14"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">huh?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:11:22"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:12:13"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">mannnnnnnnnnnnnnnnnn this is fuckin gay, i dont know why its not working anymore</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:12:47"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">comment authorize function out</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:13:11"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">that wouldnt be why, it never calls it right?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:13:17"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">if its a 404</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:13:36"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it shouldnt</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:14:23"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i was going to change <br>def authorize(self, path, f, type, language, charset, encoding, etag)<br>to<br>def authorize(self, path, etag)</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:15:11"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">meh i'll check it out again tonight.....gonna solder</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:15:27"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and godamn the weather is niice</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:15:47"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">alright</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:25:15"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">omg im about to just leave and forget it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:25:31"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">heh k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:25:42"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i can check it out right now</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:26:00"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">pretty much the whole A3 doesnt work anymore and the error log wont tell me anything</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:26:09"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:26:33"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">dont get on yet</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:32:53"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmmm..i dont see how the ribbon is supposed to fit into the 14 pin connector</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:33:21"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you put it in between the plastic and metal</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:33:24"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">and push down</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:33:28"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:38:36"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea that part...dont ge it =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:40:22"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">did you change some newline crap in basehttpserver?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:40:29"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">or something in that file</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:40:39"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">cause this is stupid and i dont think its my fault</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:40:40"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">umm it should be commented out</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:40:44"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">check</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 20:46:02"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i dont know what the fuck is going on, it worked before and not now, im done at 5</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 20:46:11"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmk</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 21:06:18"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">did you take out any imported shit?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 21:06:27"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 21:27:57"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">im done, i dont care anymore i checked everything in accept head and it works fine, it messes up after getting out of accept_head but doesnt say anything in error_log, i even tried going back to older versions and nothing</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 21:28:17"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrm k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 21:28:23"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">weird</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 21:28:47"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">im just gonna blame it on you :P</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 21:28:51"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah tanx</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 21:29:34"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">but other than that i fixed all the errors except i dont think he considered our etags to be structered</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 21:29:39"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">cause they were being sent</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 21:29:55"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh, all the a3 errors?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 21:29:59"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yeah</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 21:30:01"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">sweet</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-10 21:30:20"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i fixed them 2 and half hours ago</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-10 21:30:34"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:/</span></span></div>

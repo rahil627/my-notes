@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-03-26</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-03-26 04:07:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">then wahttt</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 04:08:18"><span class="buddy">fantastic2xs</span> <span class="msgcontent">wow</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:48:17"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i just watched me some slumdog millionaire</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 03:48:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">nice, i still have to</span></span></div>
+<div class="incoming message" auto="True" timestamp="2009-03-27 03:48:33"><span class="buddy">fantastic2xs</span> <span class="msgcontent">Sleeping Furiously</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 03:48:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">waitin til dvd</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:48:50"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it was perdy good</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:48:54"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i downloaded the dvd</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:48:56"><span class="buddy">fantastic2xs</span> <span class="msgcontent">MORAL FAG</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 03:49:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its easier this way</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:49:20"><span class="buddy">fantastic2xs</span> <span class="msgcontent">what</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 03:49:24"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">netflix</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:49:26"><span class="buddy">fantastic2xs</span> <span class="msgcontent">that doesn't even make sense</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:49:32"><span class="buddy">fantastic2xs</span> <span class="msgcontent">you have to tell netflix you want it</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:49:38"><span class="buddy">fantastic2xs</span> <span class="msgcontent">then you have to wait</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:49:46"><span class="buddy">fantastic2xs</span> <span class="msgcontent">which seems almost the same as torrenting</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 03:49:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh....but i need it on dvd, so i can watch it on a big tv :P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:50:00"><span class="buddy">fantastic2xs</span> <span class="msgcontent">starting downloading the torrent and wait</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:50:10"><span class="buddy">fantastic2xs</span> <span class="msgcontent">so download the whole dvd?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:50:37"><span class="buddy">fantastic2xs</span> <span class="msgcontent">4.71gb is easy to get over internets</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 03:51:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ugh i guess i can.....but that could lead to troubles with the mpaa or watever</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 03:51:19"><span class="buddy">fantastic2xs</span> <span class="msgcontent">DO IT YOUR WAY THEN</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 03:51:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i am</span></span></div>

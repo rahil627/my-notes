@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-04-15</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-15 06:51:15"><span class="buddy">fantastic2xs</span> <span class="msgcontent">is this an indian thread on /s/
+i think it is
+http://cgi.4chan.org/s/res/4400400.html</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 06:52:17"><span class="buddy">fantastic2xs</span> <span class="msgcontent">nah</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-15 06:57:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">thanks?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 06:57:21"><span class="buddy">fantastic2xs</span> <span class="msgcontent">?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-15 06:57:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">indian thread</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-15 06:57:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its near impossible to find indian other than sluts</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 06:58:05"><span class="buddy">fantastic2xs</span> <span class="msgcontent">saying these aren't?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 06:58:08"><span class="buddy">fantastic2xs</span> <span class="msgcontent">who knows</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-15 06:58:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh most look like it</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 06:59:48"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it's just hard to find indian females willing to be photographed</span></div>

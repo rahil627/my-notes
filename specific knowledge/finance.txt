@@ -1,0 +1,213 @@
+transactions:
+wire transfer - immediate, unsafe, high fee
+ACH - done in batches, safer, low or no fee
+
+https://www.google.com/advisor/uscredit
+
+what i want:
+no annual fee
+no foreign transaction fee
+no or low other fees and rates
+world master card or visa signature or higher
+2% cash back
+cash redeemable at any time
+
+current credit cards:
+Capital One Cash Rewards [the better version, without an annual fee], Visa Signature
+Capital One Platinum, MasterCard Platinum
+Wells Fargo Platinum, Visa
+
+current bank accounts:
+Wells Fargo
+PenFed
+Ally
+
+http://www.yelp.com/biz/sf-fire-credit-union-san-francisco
+
+
+BANK RELATED STUFF:
+branch:
+Charles Schwab*****
+  - someone had a $2000+ ATM limit
+  - need brokerage account, has $1000 minimum limit
+Capital One
+  - charges $2.00 for non-Capital One ATMs domestically and 3% foriegn ATM?
+credit unions
+  - better chance of receiving loans with low credit
+Wells Fargo
+  - $3 fee for outgoing bank-to-bank transfer for non-Wells Fargo account
+  - $5 foreign ATM fee
+  - 3% foreign purchase fee for debit and credit cards
+Bank of America
+  - part of ATM alliance
+HSBC
+  - in most countries
+
+online:
+ING Direct (being aquired by Capital One)
+  - any Allpoint ATM
+  - 2% + MasterCard conversion (< 1%)
+Ally
+  - reimburse any domestic ATM fees
+  - upto 1% for foriegn ATMs + the ATM owner fee (if one exists)
+  - 24/7 service
+  - $500 daily withdrawal limit
+  - free ACH transfers
+
+both online banks
+  - mobile deposit
+  - interest checking account
+  - savings account
+  
+
+resources:
+http://www.flyerguide.com/wiki/index.php/Credit/Debit/ATM_Cards_and_Foreign_Exchange
+http://money.wikia.com/wiki/Foreign_Exchange_fees_on_bank_cards_and_credit_cards
+http://www.moneycone.com/ally-versus-ing-direct-comparison/
+http://www.consumerismcommentary.com/least-evil-banks/
+
+visa/master card benefits:
+visa signature ~== mastercard world ~== american express?
+
+resources:
+http://usa.visa.com/personal/cards/benefits/index.html
+http://www.mastercard.us/card-benefits.html
+http://www.nerdwallet.com/blog/2011/best-mastercard-rewards-programs/
+http://www.fodors.com/news/story_5384.html
+
+
+international rates?
+http://www.money-rates.com/intsavings.htm
+everbank offers FDIC insured savings in other countries, but reviews say everbank sucks, online bank
+
+current rates
+3 year cd - 2.5% american express/ally
+savings - 1.3% american express/ally
+
+checking account
+savings account, like a checking account with higher APY
+certificate of deposits are insured, lock up money for a certain amount of time for higher APY than savings account
+money market mutual funds are not typically insured
+
+http://www.mybanktracker.com/
+best banks
+american express fsb*****, easy setup, quick transfers
+usaa
+charles schwab
+ally
+ING Direct
+
+bad:
+discover bank is slow
+everbank - highest apy, internet bank
+
+american express bank?
+
+"pick the issuer, then the best card, to get the best deal"
+
+credit union vs bank
+Since credit unions return profits to their members, interest rates for savings and checking accounts at credit unions tend to be higher than at commercial banks, while fees and minimums tend to be lower. But a credit union may offer fewer services than a bank and they may have more restricted access to ATMs.
+
+best card issuers / customer service
+USAA?
+U.S. Bank?
+1) Discover
+2) American Express
+schwab?
+penfed?
+3) CitiBank & Chase
+others (capital one, bank of america)
+
+best website
+discover
+american express
+CitiBank & Chase
+capital one
+bank of america
+
+notable cards
+1) penfed has the best cash back card, but is tough to get, and wouldn't have the best website....not that i'll be using it much
+schwab has 2% cash back, but aren't registering people at the moment
+costco amex
+american express blue cash
+discover - awesome rewards, website, and reviews, but limited access
+capital one has bad reviews, but no foriegn transaction fee, and an okay card
+
+
+sources:
+http://www.creditcardguide.com
+http://www.cardratings.com
+http://creditshout.com/capital-one-no-hassle-miles-review/
+http://creditshout.com/cash-back-credit-card-calculator/
+
+use credit card for internet purchases and debit card for everything else
+
+charge cards:
+has an annual fee - $25 for the lowest, but others are $125+!
+only american express offer these?
+
+credit card vs debit card
+main difference: debit comes from your bank, credit is money you owe to the bank who paid the vendors
+with a credit card, you can battle errors quicker?
+both have overdraft fees
+debit cards don't require a PIN or photo ID, so it's easier to steal
+credit cards have strict liability laws, they will investigate fraudulent charges if you request it within 60 days
+for debit cards, your liablity is $50 within the first two days, then $500 for 60 days, then your entire bank account!
+credit cards effect credit ratings, which include automobile loans, mortgages and personal loans.
+
+so...as long as you check your debit card every two days for theft, you're safe! or you could just keep a small amount of money in that bank account, and replenish as needed...
+
+reward is only 1-2%
+
+
+cash back vs travel vs rewards vs other?
+
+features i want:
+no over limit fee
+
+cash back
+capital one no hassle cash rewards - 2% on gas/groceries, 1% on the rest
+chase freedom 
+american express blue cash - 5% on gas/grocery/medicine, 1% on rest
+discover open road - 2% on restaurants and gas, 1% on the rest
+ink cash business card - 3% cash back at gas stations, restaurants, office supply and home improvement stores, 1% on the rest
+true earnings card from costco and american express - 3% on gas/restaurants, 2% for travel, 1% on the rest
+*discover more (and some other one) - have to sign up for each 5% category, custom, $15/$39 over limit fee, $0 Fraud Liability Guarantee (not responsible for fraudulent charges), high APR
+
+travel
+capital one no hassle miles (ultra for pro) - 1 mile/dollar, 2 miles per dollar above $1000, no limit on mile earnings, redeem for travel/merchandise/gift cards, fly free on any airline to any destitaion, no blackout date or seat restrictions, no foreign transaction fee
+blue sky american express - 1 mile/dollar, points good on any airline/hotel/car rental/more
+miles (escape is pro) by discover - 1 mile/dollar, 2 miles/dollar on travel and restaurants, flexible redemption options of travel/gift cards/cash, 12,000 bonus miles
+
+reward
+chase sapphire
+
+
+
+how does it check grocery? does walmart count?
+
+.01*6000 = 60 min cash back
+.05*6000 = 300 max cash back
+
+
+140/33500 = 0.004 - rewards suck
+
+based on capital one no hassle
+15,000 miles = $150
+35,000 miles = $150-$350
+60,000 miles = $350-600
+
+so at max, 75 cash back (but can only be used for travel!)
+
+cash back cards are the best deal
+
+discover more...so far
+
+bad cards - anything by one company--delta, exxon, etc.
+
+how large is discover's market share? may be better to keep visa.
+it's also convenient to use my bank's credit card, to make payments immediately.
+
+my bank's card (wachovia) vs discover more
+i'll stick with wachovia. it's convenient, and i'm lazy.
+may be worth changing when i use more than 6000/year.

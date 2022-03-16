@@ -1,0 +1,193 @@
+## Clean Wound
+use saltwater (sodium chloride, “saline solution”, lightly-soaped warm water) moistened paper towel or swabs to clean off anti-biotic gunk (usually yellow), debris, and other junk.
+
+paint with an anti-septic (surfactants and/or quats [benzalkonium chloride, chlorhexidine, octenidine dihydrochloride), povidone-iodine [“tincture of iodine”] to clean
+
+wash off the anti-septic?
+
+use anti-biotic ointment (“triple anti-biotic ointment” / neomycin/polymyxin B/bacitracin)the first few times, until wound stops bleeding, to avoid infection
+  - or just use petroleum jelly to maintain moisture
+  - or, if the climate is humid, don’t need an ointment!
+
+## Dress / "Pack"
+spread antibiotic ointment (or fast-healing non-antibiotic ointment, such as hydrogel) to keep wound moist and infection free, and to reduce sticking
+place a piece of gauze (kind of loose-woven material) sponge over it
+  - use more loosely-woven if freshly-cut, still bleeding, to allow blood to drain toward outer dressing
+  - use a pre-medicated gauze to further reduce sticking (this gauze is usually made from plastic, perhaps simply nylon, thus does not stick)
+  - use multiple gauze sponges (for example, 4-ply x 3) to add thickness, to add more cushion to the dressing
+  - keep the largest size in emergency kit, then cut it down to size of wound upon use
+if blood is expected, add wrap some extra gauze (comes in various forms: pre-cut, roll, wrapping) or a paper towel around the main gauze, to allow more drainage
+if wrapping gauze is available, use that to keep everything in place
+  - but wrapping gauze a come in different sizes for stretching / fitting, so it's best to just keep a roll of gauze and medical tape
+tape the gauze (and outer gauze) down around the wound
+  - use weak adhesive medical tape
+
+## Remove Dressing
+use saline (table salt okay?) water / solution to wet the dressing and ease of removing it, displacing the adhesive stuff, and lessening the chance of ripping newly formed skin
+
+# Notes
+https://en.wikipedia.org/wiki/Wound_healing
+  - whoa*****
+
+https://en.wikipedia.org/wiki/Dressing_(medical)
+  - A dressing is a sterile pad or compress[1] applied to a wound to promote healing and protect the wound from further harm. A dressing is designed to be in direct contact with the wound, as distinguished from a bandage, which is most often used to hold a dressing in place. Many modern dressings are self-adhesive.
+  - Ultimately, **the aim of a dressing is to promote healing of the wound by providing a sterile, breathable and moist environment** that facilitates granulation and epithelialization. This will then reduce the risk of infection, help the wound heal more quickly, and reduce scarring.
+
+https://en.wikipedia.org/wiki/Antiseptic
+  - Hydrogen peroxide is used as a 6% (20 Vols) solution to clean and deodorize wounds and ulcers. More commonly, 3% solutions of hydrogen peroxide have been used in household first aid for scrapes, etc. However, **the strong oxidization causes scar formation and increases healing time** during fetal development.[7]
+
+  - povidone-iodine (an iodophor, complex of povidone, a water-soluble polymer, with triiodide anions I3−, containing about 10% of active iodine) are far better tolerated, do not negatively affect wound healing, and leave a deposit of active iodine, thereby creating the so-called "remnant", or persistent, effect. The great advantage of iodine antiseptics is their wide scope of antimicrobial activity, killing all principal pathogens and, given enough time, even spores, which are considered to be the most difficult form of microorganisms to be inactivated by disinfectants and antiseptics.
+
+  - Sodium chloride (salt) is used as a general cleanser and as an antiseptic mouthwash. Its weak antiseptic effect is due to hyperosmolality of the solution above 0.9%.
+
+https://en.wikipedia.org/wiki/Neomycin/polymyxin_B/bacitracin
+  - The use of triple-antibiotic ointments, such as neomycin/polymyxin B/bacitracin, decreases infection rates in minor-contaminated wounds.[5] However, **if the wound is sterile then there are no benefits.**
+  - The original ointment contains three different antibiotics: bacitracin, neomycin, and polymyxin B, in a relatively low-molecular-weight patented base of cocoa butter, cottonseed oil, sodium pyruvate, tocopheryl acetate, and petroleum jelly.
+    - already has petroleum jelly!
+  - **there are no known side effects when using Neosporin**
+
+https://en.wikipedia.org/wiki/Gauze_sponge
+  - The open weave design of gauze sponges assists with the removal of dead tissue from the skin surface as well as vertically wick fluid from the wound onto any secondary dressing to assist with preventing maceration of skin tissue.
+
+https://en.wikipedia.org/wiki/Gauze
+  - Many modern medical gauzes are covered with a plastic porous film such as Telfa or a polyblend which prevents direct contact and further minimizes wound adhesion. Also, it can be impregnated with a thick, creamy mixture of zinc oxide and calamine to promote healing, as in Unna's boot.
+
+http://www.medicaldepartmentstore.com/Gauze-Dressings-s/292.htm
+  - Bordered Gauze is great because of its adhesive border. This adhesive border allows the wound to be covered by the gauze while the adhesive border attaches to intact, healthy skin. Most Bordered Gauzes also have a water resistant backing so you do not have to worry about ruining the adhesive when you get them wet.
+    - basically a bandage
+
+http://www.dressings.org/Dressings/telfa.html
+  - Description
+      Telfa consists of a thin layer of absorbent cotton fibres, enclosed in a sleeve of poly(ethylene terephthalate) that is perforated in a regular pattern and sealed along two edges. The plastic film is present to prevent the dressing adhering to the surface of the wound, and is perforated to allow the passage of exudate from the wound into the body of the pad.
+  - Contra-indications:
+      In common with other perforated plastic film dressings, Telfa should be used with caution in the treatment of leg ulcers that produce copious quantities of very viscous exudate. Under these circumstances, the exudate may become trapped under the dressing, leading to maceration and inflammation of the surrounding skin.
+  - Method of use:
+      Telfa has a low absorbent capacity and is therefore intended for use on lightly exuding wounds. Under these circumstances, a single dressing may simply be secured in position with surgical tape. On more heavily exuding wounds, Telfa may be used as a wound contact layer, beneath a secondary absorbent pad held in position with tape or a bandage.
+
+https://www.google.com.tw/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define+maceration+skin
+  - Maceration is defined as the softening and breaking down of skin resulting from prolonged exposure to moisture (Anderson, 1998). It was first described by Charcot in 1877.
+
+https://en.wikipedia.org/wiki/Occlusive_dressing
+  - An occlusive dressing is an air- and water-tight trauma dressing used in first aid. These dressings are generally made with a waxy coating so as to provide a total seal, and as a result do not have the absorbent properties of gauze pads. They are typically used to treat open, or "sucking," chest wounds (open pneumothorax) to alleviate or prevent a tension pneumothorax (a serious complication of a simple pneumothorax). They are also used in conjunction with a moist sterile dressing for intestinal evisceration.[1]
+
+http://www.ehow.com/facts_5595453_telfa-dressing_.html
+  - Telfa dressing is made of cotton fabric with a perforated seal of polyethylene terephthalate (polyester resin). This perforated seal acts as a non-adherent, preventing the dressing from sticking to the wound and/or acting as a barrier between the wound and excretions.
+  - Telfa consists of an absorbent thin layer of cotton fibers, enclosed in a polyethylene terephthalate film, which is a commonly used thermoplastic polymer. It's perforated and sealed along two edges. The film exists to prevent the Telfa dressing from sticking to the wound. However, at the same time, the padding allows the wound to seep into it, thereby slowing the bleeding.
+    - so, no sticking, but sower bleeding
+
+https://en.wikipedia.org/wiki/First_aid_kit :
+Dressings (sterile, applied directly to the wound)
+  - Sterile eye pads
+  - Sterile gauze pads
+  - Sterile non-adherent pads, containing a non-stick teflon layer
+  - Petrolatum gauze pads, used as an occlusive ( air-tight) dressing for sucking chest wounds, as well as a non-stick dressing
+Bandages (for securing dressings, not necessarily sterile)
+  - Gauze roller bandages - absorbent, breathable, and often elastic
+  - Elastic bandages - used for sprains, and pressure bandages
+  - Adhesive, elastic roller bandages (commonly called 'Vet wrap') - very effective pressure bandages and durable, waterproof bandaging
+  - Triangular bandages - used as slings, tourniquets, to tie splints, and many other uses
+
+  - Butterfly closure strips - used like stitches to close wounds, usually only included for higher level response as can seal in infection in uncleaned wounds.
+
+  - Antiseptic wipes or sprays for reducing the risk of infection in abrasions or around wounds. Dirty wounds must be cleaned for antiseptics to be effective.
+    - water is enough... or if alcohol is handy, can use that for the area around the wound
+
+  - Antiseptic fluid, moist wipe or spray- For cleaning and disinfecting a wound. Typically benzalkonium chloride, which disinfects wounds with minimal stinging or harm to exposed tissue. Can also be used as an antibacterial hand wipe for the person providing aid.
+  - Povidone iodine is an antiseptic in the form of liquid, swabstick, or towelette. Can be used in a weak dilution of clean water to prepare an irrigation solution for cleaning a wound.
+
+  - Alcohol pads- sometimes included for disinfecting instruments or unbroken skin (for example prior to draining a blister), or cleaning skin prior to applying an adhesive bandage. **Alcohol should not be used on an open wound, as it kills skin cells and delays healing.**
+
+  - Medicated antiseptic ointments- for preventing infection in a minor wound, after it is cleaned. Not typically used on wounds that are bleeding heavily. Ointments typically contain one, two, or all three of the following antibacterial ingredients(those containing all 3 are typically called 'triple-antibiotic ointment') Neomycin, Polymyxin B Sulphate or Bacitracin Zinc.
+
+  - Besides its regular use in first aid, many first-aid items can also have improvised uses in a survival situation. For example, alcohol pads and petroleum jelly-based ointments can be used as a fire-starting aid in an emergency, and the latter can even be used as an improvised lubricant for certain mechanical devices, and adhesive tapes and bandages can be used for repairs.
+    - lol, awesome, Wikipedia
+—
+
+https://en.wikipedia.org/wiki/Saline_(medicine)
+  - most commonly used is sterile normal saline, containing 9.0 g of salt per liter (0.90%).
+
+http://edudrugs.com/N/Nitrofural.html
+  - A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofural has also been administered orally in the treatment of trypanosomiasis.
+
+http://medical-dictionary.thefreedictionary.com/Nitrofural
+  - indications It is prescribed in the prophylaxis and treatment of infections in second- and third-degree burns and of the skin and mucous membranes.
+contraindication Known hypersensitivity to this drug prohibits its use.
+adverse effects Among the most serious adverse effects are severe allergic reactions and superinfections.
+
+https://www.drugs.com/vet/nitrofurazone-ointment.html :
+INDICATION: Nitrofurazone Ointment is a water-soluble antibacterial ointment for the prevention or treatment of surface bacterial infections of wounds, burns, and cutaneous ulcers. For use only on dogs, cats and horses (not for food use).
+
+CONTAINS: 0.2% nitrofurazone in a water-soluble base.
+
+Precautions
+In case of deep or puncture wounds or serious burns, use only as recommended by a veterinarian. If redness, irritation, or swelling persists or increases, discontinue use and consult a veterinarian.
+—
+
+https://www.doomandbloom.net/nailbed-injuries/
+  - by far the best advice for treating a fingernail injury!
+  - Cover the exposed (and very sensitive) nailbed with a non-adherent (telfa) dressing.  Some use a non-adherent dressing with Vaseline  as a covering. Change frequently.  Avoid ordinary gauze, as it will stick tenaciously and be painful to remove.
+  - If the nailbed is lacerated, suture (if clean) with the thinnest gauge absorbable suture available (6-0 Vicryl is good).  Be sure to remove any nail plate tissue over the laceration so the suture repair will be complete.
+  - Place a fingertip dressing.  Some will immobilze the digit with a finger splint to protect from further damage.
+  - A contaminated wound will require antibiotics.
+
+http://www.surgerysupplements.com/keep-wounds-moist-or-dry/ :
+  - simple, no non-sense article
+Benefits of Moist Wound Healing
+
+The benefits of moist wound healing
+
+Wounds heal up to 50% faster
+There’s less (risk on) infection
+removal of wound dressings is painless and newly formed tissue will remain intact
+less scar tissue thus better cosmetic appearance.
+--
+
+
+# References
+https://www.ucihealth.org/blog/2018/10/wound-care
+  - this one recommends to simply use petroleum jelly as the ointment, and avoid using anti-bacteria ointments and also avoid using iodine
+
+https://www.reddit.com/r/answers/comments/407nt8/iodine_vs_hydrogen_peroxide_vs_alcohol/
+  - “all 3 of those are what's called cytotoxic. Meaning they kill cells. Normally for what we use them for, that's a good thing because bacteria are cells so these things kill them. However, they also damage cells that can affect wound healing.
+
+Now with that being said, you would be fine to use any of these on your standard run of the mill cut. It's probably going to heal regardless of what you do. **The most important thing would be if you use any of these, make sure to rinse the area with water/saline to remove the risk of continued damage as they do more damage the longer they're in contact with the cells.**”
+
+  - “I would not use alcohol on any sort of open wound as it is the most tissue toxic of the 3. Hydrogen peroxide is great for removing dried blood, scabs, or if the dressing is stuck to the wound to help get it unstuck. Betadine if you're trying to cleanse a grossly contaminated wound. And like I said, always cleanse with water/saline to remove any residual to prevent damage from prolonged exposure.”
+  - “alcohol dries the skin too much.”
+  - “Hydrogen Peroxide can also damage skin (note how using it turns the edges of wounds white). It is great for killing bad stuff and dissolving pus, but it will make a wound more ragged if used too much. I believe iodine is preferred for wound care if you have it.”
+—
+
+
+https://medlineplus.gov/ency/patientinstructions/000800.htm
+  - great straightforward info
+
+http://emedicine.medscape.com/article/80792-overview#a7
+  - detailed as the survival website, without the survival-orientation
+
+http://m.wikihow.com/Pack-a-Wound
+  - whoa, a different meaning of packing
+
+https://www.sharecare.com/health/skin-injury/how-should-change-wound-dressing
+Remove
+  - Slowly lift the edges of the dressing or tape. If it sticks to the skin, dab the edges with an adhesive remover, a moistened gauze pad or a moistened paper towel.
+Hold down the skin surrounding the bandaged area.
+Lift the edges of the dressing toward the center of the wound, then gently lift it from the wound.
+If the dressing sticks to the wound, soak it with saline solution to help loosen it.
+Clean
+  - Slowly lift the edges of the dressing or tape. If it sticks to the skin, dab the edges with an adhesive remover, a moistened gauze pad or a moistened paper towel.
+Hold down the skin surrounding the bandaged area.
+Lift the edges of the dressing toward the center of the wound, then gently lift it from the wound.
+If the dressing sticks to the wound, soak it with saline solution to help loosen it.
+Carefully discard the old dressing into a plastic trash bag and tie it closed. Put that bag into a second plastic bag and throw it away.
+Remove the gloves and wash your hands again.
+Next you will need to clean the wound. After you remove the dressing, you may see a thick yellow gummy film over your wound. It means the dressing is keeping the wound moist, which helps it to heal. Gently wash it off when you change the dressing: 
+Put on new gloves.
+Place a towel under the wound.
+Wet a gauze sponge or pad with saline or water.
+Start at the center of the wound. Dab in circles out to 1 inch past the edge of the wound. Do not go from the outer edges of the wound back toward the center. This could spread germs into the wound.
+Be sure to clean away any liquid draining from the wound.
+Throw out your cloth or gauze and get a new one as often as you need to.
+  - New tissue at the bottom of the wound should be light red or pink and look lumpy or glossy. Do not disturb this tissue. It is very fragile and will bleed easily
+
+http://www.advancedtissue.com/guide-hydrocolloid-dressings/
+  - todo: get notes

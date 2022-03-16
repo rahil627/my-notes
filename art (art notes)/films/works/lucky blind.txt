@@ -1,0 +1,19 @@
+design:
+should be very experimental, color grade to a cool dark color, use effects
+while in the blind person's POV, can start with silence, then play human emotional sounds, pleasure, then show electronic visuals, then visions of clips I can take in Bangkok?
+
+editing:
+order:
+c/- trash clips using camera
+c/- import
+x/- copy to two external drives
+c/- rename clips
+p/- analyze and transcode media / import to FCP
+- edit
+- add effects (titles, color, special effects)
+
+publish:
+- original (compressed)
+- vimeo
+- add link to portfolio
+

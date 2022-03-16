@@ -1,0 +1,112 @@
+old game ideas to explore:
+1. ColorPad
+2. Doodle Tangle
+3. Mime
+4. Jenga
+5. Pinkies Up
+6. Audio Runner
+7. Touch and Tilt
+8. Pokemon Snap
+Battle
+*finish RGB
+steal animation frames
+volleypong
+take something complex and make the interface simple
+Kaho Abe / Makey like games
+Operation!
+multi-device game / input / gamepad
+trajectory game
+slicing / painting / separate screens
+multi-layer game (not limited to platformed)
+team pole riders
+multi-interface game
+the cake is a lie
+Google Maps games
+  - GTA Racing
+  - FFVII
+
+create a game that handles drawing on an iPad
+create a game that uses computer vision from a webcam
+create a multi-device iOS game
+create a game that uses input from Kinect
+Can all of the frameworks handle this? What is the highest level framework that can handle all of them?
+
+pokemon, gauntlet,
+
+a political game
+  - law in real time -- actions take several days to years
+    - use historical data to create an accurate system
+  - could be complex, or simple and more gamey
+
+RTS for iPad
+  - a few chess-like units
+
+1 button, two player game
+seemless peer to peer games
+oF/VS2010
+
+communist propaganda game
+a game that uses Google's voice recognition
+an RPG that takes place at home
+  - sounds like Earthbound
+camera perspective game
+copy paste 3d
+
+Infinity World:
+3D space game. Asteroid belts, planets, gravitational pull, black holes, comets, etc. Exists? Generated space game?
+
+Generated sprites consisting of multiple shapes. Shapes with legs! Lol. Each new land/world has a new sprite (species). Speak a generated language. Generate their animations. Use stick arms and legs. Like the Monty Python sketch.
+Take a 3d game world, but make the character very small
+
+from molydeux:
+imagine living in a world where all anyone can do is hurt each other. You on the other hand, your only ability is to hug those around you.
+
+Can you visualise a world where horizontal is impossible? You are forever falling or attached to verticals?
+
+Game where you play a life support machine in a hospital but during the night you turn into a diseased rat.
+
+Imagine if you will a game where you are a door willing people on to open you.
+
+Is it possible to make a videogame with no animation? does input always require animation?
+- change variables of an autonomous npc
+
+A game that comes with 4 pairs of specs. Each one changes the way the game world looks, so you have to keep changing them to get through.
+- YES
+- interactive puzzle game!
+
+
+
+see blog post
+
+infinite world
+
+3d
+audio feedback
+big games
+
+
+cooperative 4 player physics game - the players have to cooperate to move a funky organism about and void enemies
+4 player game like uprock! - beat game, rotates players, like horse, but continues
+
+
+new game idea based on emotions:
+
+how to make the player feel certain emotions with play?
+
+touch
+tablet
+
+the feelings of touching can indicate a connection (weary at first, then okay)
+
+not wanting to touch enemies (afraid)
+
+tapping (impatient)
+
+doodling (idle)
+
+have to condition the player first--it's okay to touch an ally but not okay to touch the enemy
+then can alter it later
+
+
+
+

@@ -1,0 +1,35 @@
+todo:
+  - get design from notes on mac and my design book
+  - if using HaxePunk, need to use nme to get accelometer data
+    - test it
+    - write a helper class for HaxePunk?
+
+from agenda 5/31:
+requires camera, tilemap, like Doodle Tangle
+tilting moves physics objects
+  - should the tilter control a ball that is physics based!?
+    - nah, boring
+based on touch and tilt
+choose simple theme / color pallette, yellow/blue?
+can release without art
+
+Gameplay:
+One player holds the iPad, tilting (and rotating?) it to direct a path for the other players to follow. The other players keep a touchpoint on the iPad, trying to stay on the generated path.
+
+Origin:
+Thinking about using iPad inputs. Possibly influenced by Mime and Doodle Tangle.
+
+Design:
+The iPad player tilts (or rotates?) to alter the direction of the road being generated. Maybe tilting up/down changes velocity. Or maybe the game is in 3D and rotating alters direction, tilting up/down changes the elevation of the path, tilting left/right twists the path.
+
+This idea is too similar to Roadeo, but it's the interface that makes the difference!
+
+Touch and Tilt, cooperative mode,
+
+Touch vs Tilt, versus mode,
+
+Implementation:
+I'm unsure if an iPad can detect rotation. If not, tilting is enough.
+
+If both rotation and tilting is possible, then 3D could be cool, in which Unity is needed. Although MonoGame does support 3D.
+

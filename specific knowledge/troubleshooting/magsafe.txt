@@ -1,0 +1,4 @@
+troubleshoot magsafe:
+line noise - unplug for 1 minute
+reset SMC - turn off, plug adapter, press control, option, command, let go, turn on
+reset PRAM - doesn't affect power?

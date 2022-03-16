@@ -1,0 +1,326 @@
+todo:
+c/1. Open Society Fellowship
+  - fail
+x/2. Fullbright with language award
+  - miss
+c/3. Taiwan Foundation for Democracy
+  - fail, unblock email
+  - call for status
+p/4. MIT Media Lab
+  - need to send letters of recommendation
+x/5. MIT Urban Studies and Planning
+  c/- sent email asking about tuition cost
+      - said they often pay much of the tuition, then can do part-time teaching or research
+p/4. other civil society grants
+  - see list of grants for civil society.txt
+    - pending emails
+
+new todo:
+see old todo for leftovers
+p/1. NTU urban planning
+p/2. scholarships for NTU (and NTUA? and NCKU?)
+p/3. Huayu Enrichment Program
+4. Check costs and departments of other schools: NTUA, TUDelft, UC Berkeley, Columbia, CUNY, etc.
+
+grants (civic, tech, civil organization):
+c/rolling basis - Open Society Fellowship
+m?/? - August 3 - [Core] U.S. Scholar Program
+m/March 31 - October 13 - Fullbright student
+c/rolling basis - Taiwan Foundation for Democracy
+m/November 15 - December 31 - United Nations Democracy Fund
+  - pending email
+
+schools:
+August 15 - MIT registration opens
+December 23 - NTU urban planning registration opens
+January - NTUA posts info
+February - NTUA registration likely opens
+February - apply all Taiwan scholarships (including Mandarin Enrichment Program (Chinese language scholarship))
+
+grants, detailed:
+Taiwan:
+Taiwan Foundation for Democracy:
+http://www.tfd.org.tw/opencms/english/fellowships/democracy/
+  - Democracy and Human Rights Service Fellowships are approved on a rolling basis. You must allow 3 months between the time you submit all your application materials and the time that the Taiwan Foundation for Democracy gives you its final decision.
+—
+
+United States:
+Open Society Fellowship
+  - https://www.opensocietyfoundations.org/grants/open-society-fellowship
+  - https://fellowships.submittable.com/submit
+    - Though most fellowship terms are for one year, the program will consider requests for shorter or longer durations. Slight preference is given to applications for full-time fellowships 
+    - Full-time fellows will receive a stipend of $80,000 or $100,000, depending on work experience, seniority, and current income.
+    - In addition to the stipend, fellows will receive a project budget. That budget may include expenses such as travel (including airfare and hotel), visa costs, part-time research assistance, conference fees and health insurance.
+    - The fellowship does not fund enrollment for degree or non-degree study at academic institutions, including dissertation research.
+  - https://www.opensocietyfoundations.org/sites/default/files/Tips%20for%20a%20robust%20OSF%20proposal.pdf
+    - tips on writing a robest proposal
+    - This is not a traditional grant or an academic proposal. Make your words leap off the page. We don’t need extensive citations, graphs or flowcharts. Rather, make your case in powerful and assertive language. 
+    - Lastly, please run a spelling and grammar check on your proposal, and turn off “track
+changes” if you have used it.
+
+Institute of International Education:
+http://www.iie.org/What-We-Do/Fellowship-And-Scholarship-Management/Programs
+
+Fullbright:
+August 3
+http://www.cies.org/application-guidelines
+Taiwan, http://catalog.cies.org/searchResults.aspx?wa=EA
+— end of IIE
+
+Global Health Corps
+http://ghcorps.org/fellows/apply/
+opens November 4
+seems social justice oriented
+
+National Endowment for Democracy
+
+— end of USA
+— end of grants
+
+
+
+
+schools, detailed:
+
+limit schools to free ones:
+http://www.thecollegesolution.com/list-of-colleges-that-meet-100-of-financial-need/
+  - mixed, some free for all, like Cooper Union, some free based no family income like most top colleges
+  - Columbia is probably a good one that meets 100% and may have a program within my interests
+  - UC Berkeley is not on the list, but may be good too
+
+civic media and urban planning:
+1. MIT Media Lab with Civic Media focus
+
+Parson’s D&T
+  - private design school, costs a lot
+
+NYU ITP
+  - public school, but still costs a lot
+
+UCLA Design Arts
+
+Caltech Social Science only has PH.d, the rest are hard sciences
+
+resources:
+https://www.quora.com/Which-schools-have-programs-similiar-to-MITs-Media-Lab
+
+2. MIT Urban Studies and Planning:
+  - not fully funded? Well, likely fully funded if I show that I have no income. Bases cost on parents? :(
+  - emailed about applying in addition to MIT Media Lab
+  - MIT city planning master’s program has a core master’s program, then one can choose a specialty from four things
+  - MIT international development group
+    - very similar to city planning, adding perhaps one economics and one spatial analysis
+  - MIT city design and development (not a master’s program, but a set that cane be chosen)
+    - perhaps the more theoretical, including David Lynch’s “mediated city” idea, design for “urban performance” (livability), transformation (re-use of material)
+     - collaborates with media lab (same building). Need to read more, but afraid that it’s mostly focused on developed countries, as opposed to Taiwan.
+  - Urban Information Systems “cross-cutting”
+  - http://dusp.mit.edu/behavior-and-policies-2014
+    - this class is super interesting
+  - Christopher Alexander, Kevin A. Lynch, Processing developers, possible first video game developers
+  - #1 according to planetizen (UC Berkeley at #2, and University of Illinois at #3)
+
+3. NTU grad [urban] planning and building (architecture) - 02-33665855
+  - December 23 - March 2 (January 26 early deadline)
+  - international affairs: 886-2-3366-2007(#206 for master's), 886-2-2362-6801
+NTUA new media - 886-2-2272-2181 ext. 2154
+ - international affairs: ext. 1921
+ - required info (including Chinese level):
+   - http://oia.ntua.edu.tw/Front/Department/Department.aspx?PSN=00401
+Sinica
+  - political thought, 886-2-27898136, 886-2-2782-1693
+
+4. TUDelft*
+  - costs a lot for people out of the EU
+
+UC Berkeley (and UCSF and UCSD)? Other UC? TUDelft*? University of Tokyo
+
+meh:
+x. New School city planning
+  - design and urban ecologies, MS, real work*
+  - x/theories of urban practice
+  - x/transdiciplinary design MFA, close to D&T, more fun designs
+    - theses are terrible, one is an okay idea, but a hackerspace jam idea at best
+    - feels as childish as D&T. Though, neither emphasize theses, and are studio-based, so a lot of work can’t be seen in them. The problem of rich people designing for poor people occurs again.
+
+
+resources:
+QS World Rankings for design
+Planetizen rankings (for urban planning in the U.S.)
+
+
+later in life:
+
+critical theory:
+
+1. New School for Social Research
+  - MA in liberal studies*, lol!? Amazing. School forever. Later in life.
+
+1. European Graduate School
+  - best school for critical theory or just a waste of money?
+    - “It’s essentially a critical theory summer camp that will give you a Master’s degree for $20,000”
+    - waste of money
+    - http://forum.thegradcafe.com/topic/20496-european-graduate-school/
+      - good two views
+    - https://www.reddit.com/r/CriticalTheory/comments/38j1hy/looking_for_phd_programmes_on_critical_theory_or/
+      - now accredited with improved MA and PH.D programs
+
+1. CUNY - environment psychology, human geography, etc.
+1. Columbia
+1. UC Berkeley - rhetoric, emphasis on critical theory
+
+1?. UC Irvine
+1?. Stanford - Modern Thought and Literature
+
+2. Northwestern
+2. Cornell
+
+3. NYU Gallatin
+
+x. UChicago Humanities Division’s Philosophy
+  - UC’s urban planning seems and even written “data-driven”. Old like their economics. It’s more of a place to read history, write, and think of philosophy, a la Zizek. Something of the past. Really outdated.
+  - John Dewey, George H. Mead, Hannah Arendt and Bertrand Russell
+  - Graeber
+  - current faculty are very old, with old ideas
+
+resources:
+http://www.topuniversities.com/university-rankings/university-subject-rankings/2014/philosophy
+
+https://www.reddit.com/r/CriticalTheory/comments/1ny14s/which_schools_have_the_best_critical_theory_or/
+
+http://forum.thegradcafe.com/topic/14586-good-programs-for-critical-theory-phd/
+English and Comp Lit departments tend to have some theory-minded faculty, as do French and German departments. Sometimes sociology, anthropology and other social science departments have critical theorists.
+
+
+http://www.topuniversities.com/student-info/studying-abroad/where-can-you-study-abroad-free
+  - study in Germany, France, and Nordic countries (including Denmark!) for free! Doh!
+
+
+
+to online self study:
+http://www.critical-theory.com/5-great-introductory-theory-philosophy-lecture-series-freely-online/
+  - EGS, https://www.youtube.com/watch?v=1ZjMKGTYfK4
+school of life
+
+
+sources:
+Chinese study scholarships:
+http://tafs.mofa.gov.tw/Schs.aspx?loc=en
+  - full list
+http://english.moe.gov.tw/lp.asp?ctNode=11425&CtUnit=1344&BaseDSD=16&mp=1
+  - MOE list
+Huayu Scholarship - Feburary 1 to March 31, applies for September 1 to August 1
+Taiwan Scholarship - similar
+  - TOO LATE. Just skip on to school?
+*/STRA award* - short term award for overseas PH.D students for social sciences related to Taiwan, 2-6 months, from March 31 - December 31
+  - good for MIT Media Lab and Taiwan combo
+
+other Taiwan scholarships and grants:
+http://tafs.mofa.gov.tw/Schs.aspx?loc=en
+  - full list
+http://www.tfd.org.tw/opencms/english/fellowships/democracy/
+  - *For those who want to be involved in democracy and human rights projects in Taiwan
+  - Those applicants who are interested in pursuing projects with a more practical focus are strongly encouraged to apply for this fellowship. Democracy and Human Rights Service Fellows may reside in Taiwan for up to one year to engage in projects designed to promote Taiwan’s democratic and human rights development. Applicants are encouraged to form relationships with organizations and institutions dealing with democracy and human rights issues based in Taiwan.
+
+
+NTU urban planning / public affairs (policy) / human geography / national development
+  - starts 12/23 again?
+  - http://www.oia.ntu.edu.tw/study-at-ntu/degree-student/201516-admission
+    - admissions
+  - up to 5 departments!
+  - http://www.oia.ntu.edu.tw/study-at-ntu/degree-student/scholarships/Comparison-of-the-scholarship-benefits
+    - scholarship comparison
+  - NTU scholarships eligibility conducted together with degree!
+    - Financial Assistance Grant for International Student
+    - Scholarship for Outstanding International Master's Students
+  - but still need to apply to government scholarships*
+    - MOE - February 1 - March 31, TOCFL level 3, by end of first semester, cannot fail Chinese scholarship in the past, has highest GPA requirement
+    - MOST - February 1 - March 31
+    - MOFA - February 1 - March 31, Continuous study, no breaks. (MOFA controls other scholarships and fellowships, including mandarin enrichment (LEP), foundation for democracy fellowship (TFD)*)
+  - http://www.ntu.edu.tw/english/academics/academics_socialSciences.html
+  */- graduate institute of planning and building
+    - college of social sciences*
+      - graduate institute of public affairs
+      - graduate institute of national development
+      - department of sociology
+      - all seem to be outdated or old compared to building and planning, whose philosophy is much more modern. These seem very academic as opposed to practical, experience, material ontology.
+        - should ask Pan for his opinion
+        - they also all just seem top-down oriented, government as opposed to capitalism.
+        - should just go to NTU myself and check the departments. Inquire, wander, like I did at NCKU.
+        - also costs $60 to apply for each department
+  - cost of NTU is only $1500 per semester! Not bad.
+
+   - https://oiasystem.ntu.edu.tw/admission/foreign/requirement/dept.list/fcollege/3/id/32/fsemester/1/fdegree/M
+     - can use this pretty system to learn more about each program
+     - department of social work
+ 
+ NCKU
+   - urban planning
+   - building and planning (creative industries (ICID, taught in English), architecture)
+   - industrial design
+   - two department for $60 (NT$1,600 / US$60 ), not sure if can apply for more
+   - http://www.studyintaiwan.org/~NCKU
+     - contains contact info
+       - em50951@email.ncku.edu.tw
+       - works!
+   - https://admissions.oia.ncku.edu.tw/college/open.programs
+    - list of programs
+     - https://admissions.oia.ncku.edu.tw/doc/view/sn/27
+       - list of programs taught in English
+   - User Name: rahil627@gmail.com
+   - Password: [general password]
+   - Double check date for application
+     - at the office
+   - due, March 30, can start in spring too, which deadline is October
+   - Todo: check readings in urban planning dept.
+   - Ask Valerie about industrial design
+     - failed to find the temporary building
+   - email a professor about industrial design for more older projects, or just check it out again tomorrow
+   - recheck urban planning department
+      - found books on last projects, very design oriented, more urban design (Jan Gehl) than anything else
+
+Fullbright
+  - http://us.fulbrightonline.org/countries/selectedcountry/taiwan
+    - can select any country
+      - study / research grant
+      - Applicants must identify appropriate host institutions for their projects, and include affiliation letters with their Fulbright applications.
+      - begin in September
+      - scholar partial grants
+        - Scholars who have already secured major financial support from other sources may apply for supplementary support and status as Fulbright scholars. Up to six awards (length of grant: 5~10 months) are available annually in this category.
+      - scholars, students, teachers
+        - scholars have research and teaching grants
+          - http://www.cies.org/country/taiwan
+        - students have research / study grants
+          - *research / study grant
+            - http://www.fulbright.org.tw/dispPageBox/CtEn.aspx?ddsPageID=FOSEENGBCB&
+              - limited grants for certain MA programs, depending on country, mostly international relations, but could have others
+            - http://us.fulbrightonline.org/applicants/application-components/academic
+              - march to oct open application? starts next september? 6-10 months
+              - A majority of Fulbrighters undertaking study/research grants will affiliate with universities, although in some countries it is possible to affiliate with other types of organizations, such as research institutes or government ministries. Affiliation requirements vary by country, so before starting the application you should note the specific requirements for the proposed host country. The affiliation letter should come from the institution/individual in the host country with whom you are proposing to work. It should be written in or translated to English, printed on official letterhead and should be signed by the author. Email correspondence is not acceptable.
+              - for academic study or research, or a combination of the two.
+              - Critical Language Enhancement Award for 3-6 months
+   
+NTUA new media (part of college of design)
+  - can be used to buy time, and keep D&T in mind, and do my own MIT media*
+  - http://m.ntua.edu.tw/ntuaen/2_204.htm
+    - Master’s Program in New Media Arts
+    - english site different from chinese, no admissions page
+  - http://www.ntua.edu.tw/recruit.html
+    p/- info will be posted on January 1, and it’s probably applications will be taken on February 1 - March 31
+    - sent email to ask for availability
+    - TODO: CALL, ask availability, ask language due date, what level
+  - http://oia.ntua.edu.tw/en/Enrollment/Enrollment.aspx?PSN=002010102
+  - http://oia.ntua.edu.tw/en/Problem.aspx?PSN=10100
+    - FAQs
+    - Feb 1 to March 31
+    - 1500ntd, 60usd fee
+    - 600ntd health insurance?
+    - maybe 12000 + 75000 ntd tuition. MOE waves it
+
+Academica Sinica
+  - http://www.rchss.sinica.edu.tw/web/super_pages.php?ID=intro4
+    - humanities and social sciences, includes politics and GIS
+    - http://www.rchss.sinica.edu.tw/politics/main.php
+      - politics (includes civics)
+        - emailed main dude (frankc@gate.sinica.edu.tw) and application caller toplee@gate.sinica.edu.tw (02-2789-9376 Mr. Li Hongwen), possibly open from 1/13-4/25.
+        p/- forwarded and responded by cwchentw@gate.sinica.edu.tw. She said open from January to March. Asked for non-doc programs. If it doesn’t exist, should ask for grants.
+    - fellowship: http://daais.sinica.edu.tw/english/pro_fdc.php, http://www.rchss.sinica.edu.tw/politics/news/news.php?Sn=1412

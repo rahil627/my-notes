@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with curiousenver on 2009-04-11</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:48:10"><span class="buddy">curiousenver</span> <span class="msgcontent">yoooo</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:48:17"><span class="buddy">curiousenver</span> <span class="msgcontent">Cow let me borrow his arcade stick =D</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:48:31"><span class="buddy">curiousenver</span> <span class="msgcontent">uggghhh this is gonna be hard haha</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:48:43"><span class="buddy">curiousenver</span> <span class="msgcontent">like...certain easy things are mad hard</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:53:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">sweet....yea.....jason said it wasnt so bad getting used to it</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:53:04"><span class="buddy">curiousenver</span> <span class="msgcontent">hadoken, for example.  esp cuz of the stick cow has</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:53:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">doh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:53:17"><span class="buddy">curiousenver</span> <span class="msgcontent">like he said it's got a square gate instead of octagonal</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:53:18"><span class="buddy">curiousenver</span> <span class="msgcontent">no no</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:53:20"><span class="buddy">curiousenver</span> <span class="msgcontent">it's a good stick</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:53:27"><span class="buddy">curiousenver</span> <span class="msgcontent">it's just different than what we're used to</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:53:27"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea...i dont even know the best was to use the stick</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:53:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:53:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">werid</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:53:47"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i thought it was circle</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:54:09"><span class="buddy">curiousenver</span> <span class="msgcontent">you don't SEE the square</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:54:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:54:16"><span class="buddy">curiousenver</span> <span class="msgcontent">but if you move the stick around, you hit the sides of a square</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:54:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:54:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i thought it moves around in a circle, no edges</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:54:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i have no idea hehe...never play in the arcade</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:56:08"><span class="buddy">curiousenver</span> <span class="msgcontent">@_@</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:56:09"><span class="buddy">curiousenver</span> <span class="msgcontent">omg</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:56:10"><span class="buddy">curiousenver</span> <span class="msgcontent">anyway</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:56:12"><span class="buddy">curiousenver</span> <span class="msgcontent">it's all good</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:56:14"><span class="buddy">curiousenver</span> <span class="msgcontent">I gotta go play</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 00:56:16"><span class="buddy">curiousenver</span> <span class="msgcontent">hehehe</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 00:56:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aiite ltr</span></span></div>

@@ -1,0 +1,38 @@
+Deadline: January 4th.
+
+deep understanding and proven track record of professional accomplishment.
+  - nope
+
+not for degree.
+  - okay
+
+one to two page, single-spaced, letter of inquiry that outlines the topic of the project and proposed work product in accordance with the guidelines above, accompanied by a CV. This is the first stage in the application process.
+  - 1. reduce to two pages
+    - done
+  - 2. what guidelines? check website.
+    - todo: uh oh*
+
+should address:
+what is the central argument of your proposal?
+who is/are the intended audiences/s
+why is now the time for this project
+what are the potential outputs?
+  - all done
+
+letter will be reviewed within 6 weeks. Then must submit full application.
+  - todo: create a reminder
+
+
+cut:
+In a society that still values survival, that values civil society enough to teach it, that ranks high in charitable social organizations in nearby less developed countries despite it having it’s own problems, that adapts to new technologies quickly,
+
+If one town in Taiwan finds success with an alternate recycling method, nature preservation method, a protest, urban planning ideas, creation of maker spaces, the idea gets around fast and people from other towns will self-organize to duplicate it’s success.
+
+Perhaps some ideas will be duplicated, perhaps the entire social organization will be duplicated in other towns, perhaps some ideas will be duplicated in the aid of nearby countries.
+
+The hope is that I will find some successes within the social organization and its locality. Those successes then may potentially spread or be duplicated to other people, areas, or even countries.
+
+Conversely, I feel that Taiwan’s society is constantly progressing rapidly anyway, in its own unique way and pace, as opposed to sheer mimicry via globalization.
+
+1-2 sentences:
+To create a civic technology center specialized in the advocation and facilitation of civic technology (to organize civic knowledge into digital data), and the experimentation of social and urban interventions (to create methods of civic actions), in and for Taiwan.

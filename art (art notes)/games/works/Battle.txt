@@ -1,0 +1,63 @@
+todo:
+  - current:
+    - use a small 32x32 arrow sprite
+    - adjust force using Unity Remote and exposing the variable
+    - if sprites collide, cancel
+    - limit number of attacks (or ink)
+    
+    - rotate the sprite correctly
+    - make the flick gesture feel as good as possible
+    - add health / damage condition
+    - add defense
+
+  - set the camera correctly to match the size of an image
+    - save the PSD/AI file
+    - use a large size (retina display is huge!)
+    
+  - set up git over bitbucket
+    
+  - move development to Windows and Visual Studio
+    - research and compare the two IDEs for Unity, especially with regards to debugging
+      - can't run on device
+  
+MonoDevelop settings:
+  - preferences -> visual style -> general -> compactness -> very compact
+  
+gotchas:
+  - to debug:
+    - close Unity, but keep Monodevelop open
+    - in MonoDevelop, Run -> Run with -> Unity Debugger
+    - play in full screen
+  - Unity Remote uses the resolution of the PC
+  
+setting up iOS:
+  - to test portrait mode for debugging, manually adjust the viewport's size to be vertical. Unity uses it's size to determine orientation.
+
+setting up 2d:
+  - to use a collider.bounds in 2d, set transform.scale = 1, collider.bounds.extents (size in editor) = 1000
+  - "No it's not very efficient. Each one of those cubes will result in a "DrawCall" because they are different objects. The way 2D frameworks in Unity handle sprites is that you, the developer, define your game elements in a similar fashion to how you have already done it, but then behind the scene the framework will merge those into one mesh. The result is one drawcall for everything that uses the same material."
+  
+  - texture import settings:
+    - Texture Type = advanced
+    - 1.0 SetTexture FilterMode to Point in inspector
+    - 2.0 SetTexture WrapeMode to Clamp in inspector
+    - 2.0 SetTexture Type to Advance in Texture import settings.
+    - 3.0 Set NonePower Of 2 to None in Texture importsettings. (unable to do for iOS)
+    - 4.0 UncheckGenerate Mip Maps option in Texture import settings.
+    - 7.0 SetTexture Max Size nearest power of 2 of your Image Size (minimum 32, maximum4096)
+    - 5.0 SetTexture Format Automatic Truecolor, iOS uses PVRTC compression, use Uncompressed RGB(A) 16 or 24 for best quality
+    - press apply
+    
+  - camera settings:
+    - orthographic
+    - size = resolution height / 2
+      - or resolution height / 2 / sprite size
+ 
+ - resources:
+   - http://answers.unity3d.com/questions/17573/universal-apps-and-graphics-best-practices.html
+   - http://sicklebrick.com/?p=411
+   - http://answers.unity3d.com/questions/54807/orthographic-2d-camera-texture-is-vogue-and-fuzzy.html
+   - http://www.linkedin.com/company/kento-studios-ltd./ortho-2d-in-unity3d-931470/product
+   - http://www.reddit.com/r/gamedev/comments/y3g2f/hey_rgamedev_i_just_released_the_alpha_of_my/
+    - really good discussion on 2d in Unity and it's limitations
+   - http://www.sarpersoher.com/texture-import-settings-for-gui-2d-games/

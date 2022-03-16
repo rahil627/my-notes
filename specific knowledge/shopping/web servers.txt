@@ -1,0 +1,68 @@
+10/2020
+
+“cloud-computing”
+
+big boys:
+Amazon Web Services (AWS)
+Google (Computing Machine?)
+etc.
+  - i woudn’t want to feed data to corporations that help the govs
+
+non-giants:
+Linode
+DigitalOcean
+Vultr
+
+special:
+Namecheap
+
+
+what to look for?:
+has servers in Asia, near Taiwan!
+unlimited (“unmetered”) space
+unlimited (“unmetered”) bandwidth
+
+
+typical specs / costs:
+$5 plan
+1-2gb ram
+2-5tb bandwidth
+
+typical features:
+can install any OS
+
+
+conclusion:
+**i just went with Vultr. Along with Linode and DigitalOcean, these 3 seem quite standard for individuals. Vultr has three locations in Asia, top performance, and good documentation... It also allows you to install not just the standard OSs, but any OS from an ISO image! Mac OS X?? Anyway, it just seemed solid.**
+
+**DigitalOcean, though the long-time standard, just seems to be losing to it’s two newer competitors.**
+
+**Linode, though great reviews, especially for their customer service, sounded very Linux nerdy... it might even be in the name!... Lin—.**
+
+
+research:
+https://wp-rocket.me/blog/shared-vs-vps-vs-dedicated-vs-cloud-hosting/
+  - very good metaphorical description of the differences between the types of web hosts
+
+https://www.upguard.com/blog/digitalocean-vs-linode
+  - a very good comparison between digital ocean and linode, while also including a little information on the others—Amazon, Microsoft, Google, Vultr, UpCloud, etc.
+
+https://www.reddit.com/r/webhosting/comments/7bcnig/linode_or_vultr_or_digital_ocean/
+  - digitalocean as the standard, linode for customer service, vultr for performance and data-center locations
+
+https://www.namecheap.com/support/knowledgebase/article.aspx/128/22/what-are-your-shared-servers-hardware-specs
+  - the shared servers are different according to the plans: $1.50 and $2.50 plans use old school simple shared servers, whereas the $5 plan uses “cloud” structures, which seems like the same design as contemporary cloud-computing servers
+
+https://www.namecheap.com/hosting/shared/
+  - shared hosting plans
+  - they **all have un-metered bandwidth!!**
+  - **the $2.50 plan even has un-metered storage**
+
+https://www.namecheap.com/hosting/vps/
+  - **full root access** and **OS selection**, these are the key-words that describes my desires!
+  - $12/month starting, 2gb ram, 1000gb bandwidth, 40gb space, 2 cores
+
+https://www.vultr.com/products/cloud-compute/
+  - $2.50 for ipv6 server, half ram (only for a few US server locations)
+  - $3.50 for ipv4 server, half ram (only for a few US server locations)
+  - $5.00 for a standard, competitive server

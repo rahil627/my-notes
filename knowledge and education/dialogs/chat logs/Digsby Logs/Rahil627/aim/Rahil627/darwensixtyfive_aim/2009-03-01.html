@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with darwensixtyfive on 2009-03-02</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:06:10"><span class="buddy">darwensixtyfive</span> <span class="msgcontent">got any songs to recommend?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:16:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmmm i enjoyed all of 'los campesinos!', cut copy's in ghost colours, portishead's third, koushik's out my window, shugo tokuumaro's exit</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:16:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">cd's not songs =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:16:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i'll try to find some songs</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:19:24"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">if u didnt pick up m83's 2008 cd...umm deer hunter, buena vista social club, the ruby suns, animal collective, oh and i think ya missed TV on the radio so get both cds XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:26:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">http://www.youtube.com/watch?v=QklfmJ4vfLs</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:26:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">[never seen any of these vids]</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:27:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">http://www.youtube.com/watch?v=6JEdf7XsV5g o snap</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:28:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">there were a couple epic songs in the last playlist i heard...would have to search heh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:30:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">omg it was MGMT...wow..i thought it was their voice..but damn</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:30:02"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">13 min song</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:31:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lawl, youtube cant fit 13 min vids</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:34:23"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea im still stuck on the indie playlists....looks like i wont be moving XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:37:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">http://www.youtube.com/watch?v=P-ZIPKxqdKA continues to part 2</span></span></div>

@@ -1,0 +1,64 @@
+First, the questions, then some chit-chat.
+
+The Questions:
+Why you wish to attend graduate school:
+To experience a great social space (MIT Media Lab) again and apply it’s successful methods, ethics, and rigour to the ones I desire to create in Taiwan, and wherever else I may be in the future. It's also nice to experience all of the directions The Lab is going, so that when I am wondering about creatively and philosophically, within a social space or alone, I have some anchored directions to compare my own with.
+
+What you would like to study:
+[EDIT: My first research field interest, Civic Media group, has been removed. Although unfortunate, I don’t think my statement requires much alteration. The groups that I have selected are the means to civil and social ends, of which pervade several groups within the lab.]
+
+My most desired direction of work overlaps well with the Civic Media group's statement: “…Transforming civic knowledge into civic action…” and “…experimenting with a variety of new civic media techniques, from technologies for protests and civil disobedience…”. I would like to re-experience current massively available technology (sensors, micro-controllers, etc.) and spend time playing with materials to have these things in working memory so that I (1) think of designs for civic tools. Ideally (more under Chit-Chat later) I prefer to consistently execute and innovate on direct social and urban interventions [/techniques?] to try to budge human behavior — in small steps toward collectively agreeable things like public safety, health, and sanitation — with a minimum amount of wealth. While experimenting, I would likely want to study anything related to that. The goal is to aid or enable people to make better decisions and actions and conversely to disorganize people from their habituated cultured actions to create more diverse social experiences, with the end being to improve society (non-material, culture) and urban (material),
+
+I think as a kind of nomadic autodidact, creating (2) tools to facilitate self-education whilst physically moving will always naturally come to mind, and as a kind of people organizer so too will (3) tools to facilitate social organizing. These interests are auxiliary to the more civic-action-oriented interests, but it sure would be nice to have these groups around to interact with.
+
+I think simply due to a long past of playing and even making games, I think as a counter to my more serious interests, (4) it would be nice to incept, design, and implement playful ideas again, even just for the sake of being actively making.
+
+What you would precisely like study (optional reading, in case the above was too general):
+The project that comes closest to my interests are the ideas (from the research paper) behind Action Path, not the actual product (from the powerpoint presentation), which seems to be far different. Here’s how I imagined it in an email to the creator of it: “I would love to subscribe to any changes in my neighborhood by the government, old-wealthy gangsters (Taiwan's old private sector), and new-wealth gentrifiers. If the information is not transparent (very likely for all of Taiwan), then people (likely advanced urban peoples) should be able to create geopoints of interests to begin a forum for discussion (and then the new tech generation will hold a physical meeting for the old people).” Or perhaps there should be a small voting device that can be physically placed at locations, for the old generation and keeping votes within proximity.
+
+Promise Tracker’s idea to "hold elected leaders accountable for political promises" is pretty good under a working representative democracy, but I feel the project's actions are too lenient to make any meaningful political change. Promise Tracker’s method of gathering real data, tracking the status, and attracting attention, however, is a good one, and could be applied to any civic problem and institution. A kind of more abstract FixMyStreet, and better suited tool than creating a Facebook group. It would be more interesting as a simple tool for smaller self-governing communities, or neighborhoods, where it feels less like blaming a representative and more of a cooperative initiative with neighbors.
+
+Perhaps my urge for more direct changes is from my experience in Taiwan, where law enforcement ideology is opposite of US: there is none. This allows people to take a lot more civil actions without worrying so much about laws and policies. Of course, this requires quite a good education and culture, but I also feel it creates a far more ideal social framework to design for.
+
+A class from MIT Urban Planning department titled behavior and policies (http://dusp.mit.edu/behavior-and-policies-2014), though heavily referencing pop science books, seems to have similar interests in the idea of negating bad behavior. Though, that class is limited to policy-making of transportation. I’m currently unsure about policy-making as its means of influencing behavior. I hope for more direct methods to alter culture — art / media, education, and mentioned in that class — peer pressure, and maybe further: guilt and responsibility.
+
+Though a part of my statement is a critical desire for people to adopt better behaviors, especially the case in urban areas, the counterpart is to create tools to enable people to self-organize socially,  civically, and most importantly, naturally. Politically reworded: to reduce the adverse behavioral affects of capitalism and to increase the social organization of anarchic communal spaces.
+
+Instead of what I want to study, it may help to list projects that I don’t care much about: projects that display crowd-sourced data-driven data, aggregate and order media, attempt to gather even more data from humans, projects that deals private housing, and projects that solely use data as the basis for its rationality. This is simply because I'm always skeptical about data and it’s oft pairing of top-down methodologies, especially of how urban material affects human minds and lives.
+
+Despite my desire for more reasonable behavior, I am a romantic and hope that everyone can walk and talk across the cities and countries they live in as opposed to gazing at data — People don't change their behavior because digital data tells them, it's because they had an experience [in Dewey’s sense]; The goal should be (5) to create tools that allow people to have more experiences, not data.
+
+Any research experience:
+Research requires too much time, so I’ve tend to skip to theory or practice and learn the hard way. This is a pretty consistent fault of my personality — think McCandless from Into the Wild —, and hence my interest in quicker solutions such as direct interventions and Banksy style art; I normally do not think systematically and I am not interested in writing about sociology into scientific journals; This may be another reason to attend a research graduate school: to experience research, especially at the top research institute. Though, I think I will always be skeptical.
+
+Describe one or more accomplishments you are particularly proud of that suggest that you will succeed in your chosen area of research:
+I'm particularly fond of my time in New York with the local game and new media scene which resulted in participating in game jams (includes Doodle Tangle prototype), making two games: Pinkies Up and Crystal Brawl, and spending time at Babycastles, an amazing public volunteer-based organization with what now seems incredible values and dreams, and set the bar for what a social organization can be and do.
+
+The hope here is that my design and tech past will converge with my more civil-oriented motivations.
+
+About the Quirkiness of my Application:
+Though my application is playfully written, I confirm it is as accurate within the limits of the application form. Of Letters of Recommendation: I won’t ask friends for letters until I enter society and begin talking again so that one has the most recent references, but if needed, I can provide previous letters of recommendation written last year for The New School / Parson’s / Design and Technology program, which are written from my game friends in New York. Of Subjects Taken: I don’t remember much of college work and therefore did not list it. Instead, I listed recent philosophic wonderings. Of Financial Support: I currently have no money and how much I will have will depend on the future. It’s all true, though seemingly a joke.
+
+Chit-Chat (extra reading):
+What I Want and Why I Applied:
+What I really desire is continue living in Taiwan, create a social organization here, not too far from what I feel MIT Center for Civic Media does, with less emphasis on the development of complex tools, and more on practice — using tools to create urban maps, using Action Path to geolocate discussions, using Promise Tracker to keep government in check, follow and use Taiwan’s kickstarter for civic projects, etc. — and for general community hall things for continuous local experience.
+
+The Paradox (written during a more intense time):
+I believe the organization (including public spaces) must be in the city because it is impossible to understand the complexity of a city outside of it.
+
+I prefer to complete these objectives by wandering the masses of stimuli of the city, 'thinking fast' in the space and time where they are needed, creating with the efficacy of a politically influenced artist, with much awareness of the people's minds, without decor, without human language.
+
+Therefore, physically attending MIT Media Lab is paradoxical [because it is not in Taipei, and is private], yet the execution of ideals are limited by time and the knowledge of people around me, and I again run into the familiar feeling of seeking like-minded people to be productive.
+
+Now and Next:
+I took a break from Taipei and lodged myself in a nearby small town, to which I thought and wrote a lot, beginning with this application meandering to grants applications in which my statement sounds like the creation of a kind of ‘MIT social and urban innovation lab’ and back to this.
+
+I’ve come to the conclusion that granting organizations, or anyone really, won’t fund wild individuals, so I’m just going to have to continue going around Taiwan on a scooter, hopping about social organizations, probably ending back in Taipei Fablab, which is where I will probably begin to organize again because that’s the most open organization I’ve run into here, and would help with obtaining grants.
+
+I’ll also be applying to National Taiwan University’s urban planning program (Taiwan doesn’t have anything like the Media Lab) and scholarships for it, as a strategy to stick myself in Taipei, get funding, and gather local and national organization knowledge, at the cost of time.
+
+Beyond Taiwan:
+Though Taiwan is my ideal first area for creating such public spaces for these directions, it is not the limit. I’ve lived somewhat nomadically since college graduation and I try to make a positive social impact wherever I am. The hope is that after MIT I will be more efficient at creating impacts in the right directions in any human settlement.
+
+My Online Portfolio:
+http://www.rahilpatel.com/blog/portfolio

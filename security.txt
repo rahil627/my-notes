@@ -1,0 +1,20 @@
+some notes on trying to be secure, and maintain privacy
+
+Google
+  - saves all info beneath *My Activity*... at the moment. The control of all information is separated into various *activity controls*. Can “pause” the tracking of everything. Can delete by click ing on the ‘...’ next to the search box to see the option.
+    - they try to track everything: every location you’ve been to, words you’ve searched, videos you’ve watched... everything!
+  - try to delete all “linked accounts”, especially those that have much access
+  - under the *security* tab, you can remove all “sign in with Google” accounts, “linked accounts”, and saved passwords, along with other stuff.
+  - *other activity* shows nearly everything they save: YouTube comments, etc. They hide a lot in here
+    - https://myactivity.google.com/more-activity?
+  - usually, there’s some sort of privacy check-list at https://myaccount.google.com
+
+Facebook
+  - just delete everything and use Messenger. No point of using Facebook.
+    - although Messenger is fine for public things, private things should use a smaller, more secure messenger app.
+
+Dropbox
+  - just remove all applications that have “full dropbox” access
+
+other social media
+  - I don’t use anything else, so, try to delete the accounts, and note which ones i’ve tried to delete. But before deleting them, delete the data first.

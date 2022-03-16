@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with cpuracr8 on 2009-03-02</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-03-02 02:49:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">uh wtf</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 02:49:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ece is impossible</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 02:49:31"><span class="buddy">cpuracr8</span> <span class="msgcontent">no</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 02:49:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yes</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 02:49:40"><span class="buddy">cpuracr8</span> <span class="msgcontent">we have it done</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 02:49:41"><span class="buddy">cpuracr8</span> <span class="msgcontent">for hex</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 02:49:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">not using interrupts</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 02:49:57"><span class="buddy">cpuracr8</span> <span class="msgcontent">using interrupts</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 02:50:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh i thoguht you meant we as a class</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 02:50:20"><span class="buddy">cpuracr8</span> <span class="msgcontent">no</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 02:50:24"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">argh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 02:50:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">u and cartwright?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 02:51:24"><span class="buddy">cpuracr8</span> <span class="msgcontent">yes</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 02:51:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">boooooooooo</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:23:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">how do u even et the counter running</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:23:47"><span class="buddy">cpuracr8</span> <span class="msgcontent">uh</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:23:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:'( </span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:23:51"><span class="buddy">cpuracr8</span> <span class="msgcontent">it just works</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:23:54"><span class="buddy">cpuracr8</span> <span class="msgcontent">use his example</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:24:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">his examples goes from 1 to 0</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:24:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">on a LED</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:24:19"><span class="buddy">cpuracr8</span> <span class="msgcontent">ok...so</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:25:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i thought the states are for when you implement decimals...so u can display 1 0 0 in three states</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:25:37"><span class="buddy">cpuracr8</span> <span class="msgcontent">ok</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:25:46"><span class="buddy">cpuracr8</span> <span class="msgcontent">or you can use two states and display the hex values</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:25:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:25:57"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but howww lol</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:26:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i cant even get one state to count</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:26:17"><span class="buddy">cpuracr8</span> <span class="msgcontent">what do you mean</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:26:23"><span class="buddy">cpuracr8</span> <span class="msgcontent">just get a counter and increment it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:26:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o snap</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:26:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">power went out for a split second</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:26:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i hope it didnt blow up my microcontroller :/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:27:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">waddumean just get a counter and increment it</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:27:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im using hw 2 code</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:27:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so a data full of hex values</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:27:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">then increment through it</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:28:01"><span class="buddy">cpuracr8</span> <span class="msgcontent">no</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:28:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:28:07"><span class="buddy">cpuracr8</span> <span class="msgcontent">make a variable for counter</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:28:11"><span class="buddy">cpuracr8</span> <span class="msgcontent">start it at 0 and then increment it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:28:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so you don't ldy #data then ldaa 0, Y and staa portb?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:29:03"><span class="buddy">cpuracr8</span> <span class="msgcontent">well you have to use those too</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:29:13"><span class="buddy">cpuracr8</span> <span class="msgcontent">but not when you are just counting only when you are trying to display</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:29:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">dont understand the difference =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:29:54"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its suppose to go thorugh data and display it..like a counter</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:29:58"><span class="buddy">cpuracr8</span> <span class="msgcontent">yea</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:30:02"><span class="buddy">cpuracr8</span> <span class="msgcontent">but you only said you can't get it to cound</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:30:03"><span class="buddy">cpuracr8</span> <span class="msgcontent">count</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:30:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:30:12"><span class="buddy">cpuracr8</span> <span class="msgcontent">you didn't mention anything about displaying</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:30:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well i can't get it to do shit rly..</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:32:46"><span class="buddy">cpuracr8</span> <span class="msgcontent">why not</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:33:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">iunno..it just displays 0 and everthing</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:33:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">switching between those 2</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:37:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i just tried 	<br />LDAA    $8D and         <br />STAA    PORTB</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:37:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and that doesn't even work</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:37:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">the hex code for 4</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:37:53"><span class="buddy">cpuracr8</span> <span class="msgcontent">maybe your interrupts don't work</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:38:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">&gt;:o </span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:38:23"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it has to...it switches between 2 chars every time</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:38:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its just the chars aren't coming out right</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:38:45"><span class="buddy">cpuracr8</span> <span class="msgcontent">oh</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:39:00"><span class="buddy">cpuracr8</span> <span class="msgcontent">well then you have to loop through the list of characters to display</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:39:07"><span class="buddy">cpuracr8</span> <span class="msgcontent">like you did in the homework 2</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:39:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh i've tried that...im just going backward now to see if simple stuff works</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:39:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and it doesnt =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:40:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">if<br />LDAA    $8D      <br />STAA    PORTB<br />doesn't work...i don't expect anything to work</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:40:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:'( </span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:40:17"><span class="buddy">cpuracr8</span> <span class="msgcontent">oh well you are doing that wrong</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:40:23"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no way</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:40:27"><span class="buddy">cpuracr8</span> <span class="msgcontent">you are trying to load a with an address</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:40:31"><span class="buddy">cpuracr8</span> <span class="msgcontent">not a value</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:41:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">??</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:41:51"><span class="buddy">cpuracr8</span> <span class="msgcontent">ldaa $8d</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:41:56"><span class="buddy">cpuracr8</span> <span class="msgcontent">you are trying to access memory</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:42:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm ldaa 8d doesnt work eitehr..</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:44:07"><span class="buddy">cpuracr8</span> <span class="msgcontent">i know</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:44:10"><span class="buddy">cpuracr8</span> <span class="msgcontent">you have to use other shit</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:44:17"><span class="buddy">cpuracr8</span> <span class="msgcontent">you have to load it with the valud 8d</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:59:29"><span class="buddy">cpuracr8</span> <span class="msgcontent">did you get it?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 03:59:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 03:59:56"><span class="buddy">cpuracr8</span> <span class="msgcontent">why not</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:00:02"><span class="buddy">cpuracr8</span> <span class="msgcontent">just load it with the value 8d</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:00:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">iunno..i've tried so much</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:00:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh ive treid that too</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:00:22"><span class="buddy">cpuracr8</span> <span class="msgcontent">how </span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:00:26"><span class="buddy">cpuracr8</span> <span class="msgcontent">you did it wrong then</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:01:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">LDY 8d<br />LDAA    0, Y //do u know what the 0 means?<br />STAA    PORTB<br /></span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:01:52"><span class="buddy">cpuracr8</span> <span class="msgcontent">that's not how you do it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:02:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i mean its displaying a 0...so its doing something..</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:02:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">0 is the first value in dat</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:02:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh wats wrong now XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:02:16"><span class="buddy">cpuracr8</span> <span class="msgcontent">ldy 8d</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:02:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrm</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:02:20"><span class="buddy">cpuracr8</span> <span class="msgcontent">is not loading the value 8d</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:02:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">y not</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:02:50"><span class="buddy">cpuracr8</span> <span class="msgcontent">i don't know what it's doing but you have to use a symbol</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:02:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wah?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:03:04"><span class="buddy">cpuracr8</span> <span class="msgcontent">a symbold before 8d</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:03:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">???</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:03:26"><span class="buddy">cpuracr8</span> <span class="msgcontent">first of all 8d is hex</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:03:29"><span class="buddy">cpuracr8</span> <span class="msgcontent">so you need that symbol</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:03:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat do u mean symbol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:03:40"><span class="buddy">cpuracr8</span> <span class="msgcontent">then you want to load the immediate value of 8d so you need that symbol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:03:48"><span class="buddy">cpuracr8</span> <span class="msgcontent">like $^&amp;*((#@@#$@#%^%&amp;^()</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:04:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:! </span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:05:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lolwut</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:05:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i read that so many times..not comprehending</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:06:02"><span class="buddy">cpuracr8</span> <span class="msgcontent">you have to put the symbol for hex values in front of 8d</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:06:10"><span class="buddy">cpuracr8</span> <span class="msgcontent">and the symbol for immediate</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:06:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">u mean #8d?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:06:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i mean $8d</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:06:42"><span class="buddy">cpuracr8</span> <span class="msgcontent">you have to use both of thos</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:06:44"><span class="buddy">cpuracr8</span> <span class="msgcontent">those</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:07:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat y...u just said its a value not an address...and no clue y immediate should be there..but i'll try</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:07:26"><span class="buddy">cpuracr8</span> <span class="msgcontent">immediate VALUE</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:21:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">loll gawd asshole...you made it so confusing saying symbols</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:21:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">holdon i'll try</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:21:47"><span class="buddy">cpuracr8</span> <span class="msgcontent">it is a symbol</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:41:02"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">fail</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:41:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">did nothing</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:41:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">displays nothing</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:41:42"><span class="buddy">cpuracr8</span> <span class="msgcontent">what is the command you used</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:41:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">same ones above with 	LDY 	#$8D</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:42:12"><span class="buddy">cpuracr8</span> <span class="msgcontent">why are you putting it in the index register</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:42:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wah?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:43:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">cause you said to? =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:43:37"><span class="buddy">cpuracr8</span> <span class="msgcontent">no</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:43:39"><span class="buddy">cpuracr8</span> <span class="msgcontent">i didn't</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:44:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">arghhhh you're so bad at directions</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-02 04:44:26"><span class="buddy">cpuracr8</span> <span class="msgcontent">i can't tell you how to do the program</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:44:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">you haven't told me anything yet</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-02 04:44:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i am where i started</span></span></div>

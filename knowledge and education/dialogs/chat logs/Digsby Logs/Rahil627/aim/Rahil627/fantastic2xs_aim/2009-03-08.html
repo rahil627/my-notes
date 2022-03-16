@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-03-08</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:50:12"><span class="buddy">fantastic2xs</span> <span class="msgcontent">didja see that watchmen?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:53:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no, i told ya..i still have to finish the book</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:53:40"><span class="buddy">fantastic2xs</span> <span class="msgcontent">well prepare yourself for flacid blue penis</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:54:34"><span class="buddy">fantastic2xs</span> <span class="msgcontent">and a surprising lack of breasts</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:55:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">u mean...penii? XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:55:56"><span class="buddy">fantastic2xs</span> <span class="msgcontent">if penis was spelled penus</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:56:05"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it would still only be peni</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:56:08"><span class="buddy">fantastic2xs</span> <span class="msgcontent">l2latin</span></div>

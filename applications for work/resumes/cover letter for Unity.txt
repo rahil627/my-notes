@@ -1,0 +1,19 @@
+Heyyo!
+
+This sounds pretty cool!...on paper at least.
+
+This seems interesting to me because when I was into creative tech projects (long long ago), there was always the question: which tool best fits this job?
+
+I’ve been out of tech for a decade, yet, I don’t really see it changing much, but one thing’s for sure: Unity has ever so slowly become the one-product-fits-all-solution, even among the scrappiest of digital tech artists, so much so that, Unity is always an optional answer to that question.
+
+When I was into sort of installation art or even indie game making, Unity was just a cludge. You *could* use it, but it always felt like a cludge: just not the right tool, but it can be hacked to do it.
+
+I’d have to get back in the groove of making stuff again to really understand the limits of Unity, or where it excels and where it doesn’t. It’s something... that was quite frustrating in 2012-2014. Everything used bitmap graphics for 2D, but I was fond of vector graphics, leading me to Flash, which was dying, or, raw C++ a la  OpenFrameworks which didn’t have a standard game engine (no basic entities, no basic collisions either). C# 4.0 was already out for god sakes! Who wants to do C++? Or, in the case of OpenGL, C! (without the ++)
+
+Anyway, that’s where I think this job would be quite cool. To just be able to have this view of a tech artist (think Gray Area since you’re in SF...), and just be able to know and consult: that, yeah, you can use so and so feature to implement so and so desired artistic expression (or, no you cannot), knowing the limits of the engine, and thus the limits of digital expressions. This sort of creative freedom and technical limitation, limited by the tools of course as one could make anything from scratch, I’m sure has restricted many digital expressions from ever coming to fruition.
+
+Anyway, I hope that’s wha the job is about. If not, then there’s a peice of my mind at least, to get to know me.
+
+Also, the job would give me an to make some tiny art projects abusing the engine of it’s features.
+
+I hope this is remote as it says. I’ve lived out of America for many years, close to nature in Asia. I saw the contradictions of civilization when I was a child. ;)

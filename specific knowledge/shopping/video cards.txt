@@ -1,0 +1,12 @@
+For video cards the de facto interface is still PCI-e and our power supply is still good enough to handle anything. We have PCI-e v1.1, but it's compatible with 2.0, and you won't hit the 1.1 limit unless you spend $400 on a video card.
+
+For buying one, Tom's Hardware has a good running monthly article for video cards within a price ranges.
+
+http://www.tomshardware.com/reviews/fastest-graphics-card-radeon-geforce,3067.html
+
+
+Some specifics on limitations:
+40A on 12v max [power supply]
+4000MT/s memory throughput [pci-e 1.1]
+
+....but again, you shouldn't hit these limits unless you spend >$400 or use two cards together

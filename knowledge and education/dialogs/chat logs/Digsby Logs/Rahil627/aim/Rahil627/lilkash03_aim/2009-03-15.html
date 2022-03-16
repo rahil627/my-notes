@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with lilkash03 on 2009-03-15</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:44:36"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>well hi a there neighbor</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 22:45:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">waddup</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 22:45:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">back @ school?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:45:25"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>nope</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:45:29"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>leavin tomorrow</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:45:31"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>in the AM</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:45:34"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>whats up with uu</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 22:46:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o wow...nathin...abouta go see some films</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:46:24"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>ohh nice</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:46:27"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>u got any new movies?</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:46:31"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>i could borrow for the night</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:46:31"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>hehe</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 22:46:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah...i let my friend borrow my most recent ones :/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:47:53"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>oo</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 22:48:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">the only ones i have on me are...dr. strangelove, the band's visit, the counterfeiters, man on wire, and the nightmare before christmas</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 22:48:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well the only recent ones i watched that is</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:48:34"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>ohh</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:48:34"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>yea</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:48:42"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>ill prob. just catch some tv shows then</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:48:45"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>family guy</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:48:45"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>haha</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 22:48:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah k</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:49:05"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>arite man</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:49:09"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>i gotta get back to hw</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:49:11"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>ill ttyl</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 22:49:12"><span class="buddy">lilkash03</span> <span class="msgcontent"><BODY bgcolor=#c0c0c0><FONT FACE="Arial" SIZE=2 COLOR=#000000>bye!</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 22:49:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ltr</span></span></div>

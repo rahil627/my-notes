@@ -1,0 +1,60 @@
+http://www.flamingbaby.com/gaming/tips-and-tricks/team-fortress-2-weapon-damage-chart.html
+
+scouts
+hit & run - come from behind everytime
+H - circle around/jump over their head/jump on their head
+S - don't get too close
+P - stay away
+
+spies
+find blind spots to recover cloaking or for easy spoofing
+back/side/top crits
+P - stay away
+E - stab & sap
+
+sniper
+find a nice crack where you can see enemy heads walk by
+able to kill anyone who walks in a straight line
+run away from all classes, but use machete when you can
+
+medic
+don't die
+start uber when an ally is about to die, and keep ubering people who are about to die
+uber up to 3 allies
+
+soldier
+good all-around, stay alive
+keep shooting rockets + getting ammo
+
+heavy
+look around frequently
+
+pyro
+spray & run, sorta like scout
+stay around corners
+
+demoman
+always have stickies behind the corner, so you can run back to safety
+shoot nades into tunnels/clusterfucks
+shoot 4 stickies at a lvl 3 sentry/2 at a lvl 1 or 2
+camp important territories
+
+engineer
+stay around sentry at all times
+build in a new spot everytime
+run away when it is going to die
+have atleast 50 metal at all times for repairs
+sentries have a large hitbox, so it's easy to hide behind without getting hit
+put dispesers in areas where allies will use it but not get killed by the enemy
+
+exploits
+demoman
+-can hold their sticky charges by holding down either the middle mouse or right mouse button while they charge.
+
+badwater
+invisible sentry on middle platform of stairs
+
+turbine
+invisible incline to build sentry
+
+

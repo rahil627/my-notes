@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with curiousenver on 2009-04-01</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:01:13"><span class="buddy">curiousenver</span> <span class="msgcontent">uhhhh</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:01:13"><span class="buddy">curiousenver</span> <span class="msgcontent">yo</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:01:55"><span class="buddy">curiousenver</span> <span class="msgcontent">antivir says "the heuristic detected a suspicious file.  for a more detailed analysis you should send the file to us.  Please send the file via quarantine manager"</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:02:13"><span class="buddy">curiousenver</span> <span class="msgcontent">and then it asks if I want to "move to quarantine" or "deny access"</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:02:49"><span class="buddy">curiousenver</span> <span class="msgcontent">what do I do?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:09:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">move to quarantine and tell me the file name :/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:09:42"><span class="buddy">curiousenver</span> <span class="msgcontent">contains heur/html.malware suspicious code</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:12:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">know the file yet? </span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:12:31"><span class="buddy">curiousenver</span> <span class="msgcontent">it didn't say anything</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:12:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrm, check in your quarantine</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:13:15"><span class="buddy">curiousenver</span> <span class="msgcontent">'C:\Documents and Settings\Enver Siddiky\Local Settings\Application Data\Mozilla\Firefox\Profiles\vu4cdjme.default\Cache\886602F8d01</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:14:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmk...must be something recent, not from the backup...iunno</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:15:08"><span class="buddy">curiousenver</span> <span class="msgcontent">yeah</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:15:13"><span class="buddy">curiousenver</span> <span class="msgcontent">I was on entensity.net</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:15:16"><span class="buddy">curiousenver</span> <span class="msgcontent">and clicked a random link</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:15:20"><span class="buddy">curiousenver</span> <span class="msgcontent">that site has never led me wrong :(</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:15:28"><span class="buddy">curiousenver</span> <span class="msgcontent">now I know</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:15:35"><span class="buddy">curiousenver</span> <span class="msgcontent">never go to their links ever again</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:15:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahah</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:23:37"><span class="buddy">curiousenver</span> <span class="msgcontent">:(</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:23:39"><span class="buddy">curiousenver</span> <span class="msgcontent">so</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:23:42"><span class="buddy">curiousenver</span> <span class="msgcontent">what do I do/</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:23:43"><span class="buddy">curiousenver</span> <span class="msgcontent">am I okay?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:24:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea, its fine</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:24:28"><span class="buddy">curiousenver</span> <span class="msgcontent">k</span></div>

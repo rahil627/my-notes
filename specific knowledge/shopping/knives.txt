@@ -1,0 +1,32 @@
+material:
+  - **stainless steel**
+  -  high carbon stainless steel - sharper, but requires more care
+  - aluminum?
+  - teflon coating - no difference for cutting, but maybe makes it more impervious to rust and generally protects the metal
+
+Japan has many high quality manufacturers
+  - Silky (Gombaro) - sells the best pruning knife, found on Amazon
+  - Corona (not sure if Japanese) - usually considered #2 for Amazon commercial pruning buyers
+  - **ARS**
+    - found in hardware and specialty knife shops in Taiwan
+    - has a **"classic" series** of straight knives which have **wooden handles**, also popular in Taiwan
+
+blade should be replaceable
+
+styles:
+  - standard pistol grip
+    - best, usually a single blade that goes through the entire handle
+    - comes with sheath
+  - folding
+    - the folding joint must be really well-designed for this to work
+    - has a longer blade for less space (in length)
+    - (no sheath necessary)
+  - pole
+
+  - blade styles:
+    - straight - works for everything, sawing evenly for cutting anything with a design intention
+    - curved - faster cutting, perfect for pruning
+
+Japanese styles:
+  - **dozuki** - the standard, with a reinforcement on the top part to balance the blade under pressure
+  - ? - **double-edged**, for wide and narrow teeth

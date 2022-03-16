@@ -1,0 +1,66 @@
+# how
+https://beatbreakdown.net/collections/episodes/products/reflection_eternal
+https://beatbreakdown.net/collections/episodes/products/dead-presidents
+  - just filter the sound for verses
+  - was, fucking simple, just sampled A Tribe…’s drum kit
+https://beatbreakdown.net/collections/free-stuff
+  - two drum break collections
+    - https://beatbreakdown.net/3778465/checkouts/29b3afe8bb7f671c3a468e21312f5b56/thank_you
+
+http://www.futureproducers.com/forums/production-techniques/sampling-and-digging/can-someone-explain-nujabes-style-drum-sampling-457962/
+  - Hmmm, I'm not sure that I understand your question, and I doubt anyone can without you pointing-out some tracks and asking more specific questions...
+
+https://www.whosampled.com/search/?q=nujabes
+  - https://www.whosampled.com/Nujabes/Luv(sic)-Pt.-3/
+    - speeds up some sort of piano + strings found on a 1975 vinyl, then filters it down for the verse parts. So that’s the pretty synthy, atmospheric sound. And in the beat breakdown videos, it has to be cut, then replayed to avoid high pitch and other artifacts.
+  - for the drums, he even samples that from another ’75 record, slowing it down
+
+In general, I suppose Nujabes and Shadow are similar in that they prefer "groovy," organic drum and percussion sounds, from diverse sources like soul/r&b and jazz. It sounds like Nujabes in particular used some very classic tracks from the jazz and soul genres (everything from Ahmad Jamal "Live at The Pershing" to Creed Taylor productions to Stax/Al Green type grooves) as the looping basis to build some pretty standard 90's "boom bap" beats. So they're using pre-recorded samples to make loops, then layering more (fairly organic, standard hip-hop sounding) drums on top of those loops, and layering additional samples and effect elements on to those. The original drums "sound like a kit" because they are/were; they were originally live drums played by a live drummer and recorded in a room with a band all at the same time. Vintage records that were made that way will sound like that. Same reason J. Dilla preferred those records.
+
+https://www.reddit.com/r/makinghiphop/comments/2e49jy/beginner_producer_here_looking_to_emulate_nujabes/
+  - Actually, nujabes seemed to use chopped drums a lot, and lots of percussion too, especially on the Samurai Champloo soundtrack.
+Another signifying aspect to his beats is the layering of samples from multiple different songs, so the tracks feel more like an original composition. He seems to layer in original piano and stuff sometimes too, as evidenced here: http://www.whosampled.com/sample/161606/Nujabes-Kujaku-Ahmad-Jamal-Lament/
+He had a somewhat unique style of drums when he did chop, often eschewing traditional boom bap patterns for a more busy pattern with lots of snares and kicks and fast hihats.
+A lot of Nujabes tracks also feature filtering work, where he filters a samples for the verses but then opens up the filter for the chorus and makes it feel stronger. Often he filtered samples so when he layered samples on other ones they still sounded separated.
+Also sorry for putting this all in a reply to you Vsx, only the first paragraph was really intended as a reply to you. I just kinda got going lol.
+
+https://www.reddit.com/r/makinghiphop/comments/37qkbv/whats_the_easiest_way_to_make_simple_but_good/
+  - “To be honest I just kept reading the titled hoping you misspelled "MPC"
+First thing to do is get acquainted with how those pieces are being put together on illmatic. Look on whosampled and see what loops and pianos are on there, and how they are altered, and start to listen to the record that way
+Then just find the right workflow for yourself and copy that shit, man.
+But those beats are all about pressing pads. Maybe get a midi controller if you're determined to stick with a computer.
+I'd say find a used MPC. I think you'll have more fun.”
+
+# drum samples (“drum kits”) for beat-making
+https://www.google.com.tw/search?q=torrent+%27Boom+Bap%27+drum+kit
+  - boom bap google search keywords, I used the top 4 results and downloaded many
+
+https://www.google.com.tw/search?q=nujabes+boom+bap+kit+free
+
+http://produceruni.blogspot.tw/
+  - some one stripped all the drum/sound kits of hip-hop producers!
+
+http://futuredrumkits.com/
+  - another site with most
+
+http://www.hipstrumentals.com/category/soundkits/sound-kit/
+  - http://www.hipstrumentals.com/2014/06/boom-bap-addict-soundkit/
+  - http://www.hipstrumentals.com/2014/05/boom-bap-drum-kit-drumkit/
+
+http://blog.imamusicmogul.com/category/downloads/drum-kits/
+
+http://hiphopmakers.com/free-vinyl-drum-kits
+  - more interesting vinyl samples
+
+https://soundpacks.com/free-sound-packs/ultimate-boom-bap-drum-kit/
+  - holy moly
+
+http://freedrumkits.net/download/dj-premier-kit-zip/
+
+https://www.reddit.com/r/Drumkits/comments/4lnwr4/18gb_of_top_producer_kits/
+
+https://www.theproducerschoice.com/collections/all/products/boom-bap-drum-kit?rfsn=114982.b84a0&subid=bprr
+  - $34 for boom-bap? worth or not? Probably not.
+
+https://www.reddit.com/r/WeAreTheMusicMakers/comments/3anwu8/the_drum_percussion_midi_archive_800k/
+  - hmmm, interesting to try, for global percussion

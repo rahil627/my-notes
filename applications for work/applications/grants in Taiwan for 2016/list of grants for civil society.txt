@@ -1,0 +1,117 @@
+applied:
+c/1. Open Society Institute
+  - fail
+c/2. Taiwan Foundation for Democracy
+  - fail, unblock email
+p/3. [paid research school] MIT Civic Media
+  - pending, need to send letters of recommendation
+
+pending emails:
+4. MacArthur Foundation
+  - human rights fund? other city fund?
+4. Ford Foundation
+  - individual?
+    - sent email again
+4. National Endowment for Democracy
+  - individual?
+    - sent email again
+4. Wallace Global Fund
+  - individual? (used their website to send message, but they should reply back via email)
+    - nope, it appears in my notes, I need to be a registered organization
+    - sent another message again anyway
+4. United Nations Democracy Fund
+  - supports Taiwan!
+  - add reminder
+
+lists:
+http://www.fundsforngos.org/category/civil-society-2/
+  - master list, can subscribe
+http://www.wfuna.org/human-rights-grants
+  - many listed below, a few on disabled people’s rights
+https://ihrfg.org/funder-directory-search
+http://foundationcenter.org/getstarted/individuals/
+  - because most private funding goes to nonprofit organizations, the individual grantseeker should expect to encounter even stiffer competition for grant dollars than the nonprofit organization. It is essential, therefore, that you research all potential funding sources within your own discipline or geographic area. Here are some basic rules of thumb concerning individual grantseeking.
+  - If you are seeking help with funding your higher education, you should first contact the financial-aid office at the college or university you plan to attend. Direct financial assistance from the college, federal and state subsidized loans and grants, work-study programs, and support from local clubs, alumni, or religious groups are all possibilities.
+  - Depending on the nature of your project, you might wish to consider affiliating with a tax-exempt organization to broaden your base of potential support. It is important that you begin looking for a fiscal sponsor at the same time that you start researching potential funders. Another option is to consider incorporating as a tax-exempt organization.
+The Foundation Directory, 2015 Edition
+  - a book, maybe can download
+
+grants:
+RFK award
+  - award, not grant. Strangers nominate others, though, I could influence people to write me one.
+NED**
+  - only for non-government, non state-supported, organizations, not individuals
+    - make an organization then apply
+The Public Welfare Foundation
+  - U.S. Only. Mostly legal / justice based. Very shallow bullshit.
+The Open Society Institute
+  - *****
+UN-HABITAT's Opportunities Fund for Urban Youth-led Development
+  - requirements: Non-governmental or community-based non-profit organizations led by young people aged 15-32 years can apply for the fund. The organizations must be based in cities or towns with more than 10,000 inhabitants, have been registered for at least one year and have a valid bank account.
+MacArthur Foundation**
+  - Please note that the Foundation awards the majority of its grants to organizations identified by our staff. Each year we also award grants to individuals through the MacArthur Fellows program, which does not accept applications or nominations. - See more at: https://www.macfound.org/info-grantseekers/#sthash.9IhMcDux.dpuf
+The Libra Foundation
+  - The Libra Foundation does not accept unsolicited proposals or unsolicited letters of inquiry.
+    - wtf?
+The Fund for Global Human Rights
+  - good grants, targets developing countries and issues
+Norwegian Human Right Fund
+  - The Norwegian Human Rights Fund (NHRF) is a civil society foundation working to protect and promote human rights internationally through direct support to organisations working in the first line of defence for human rights (frontline organisations).
+    - perfect
+Overbrook Foundation
+  - The Overbrook Foundation is a progressive family foundation that supports organizations advancing human rights and conserving the natural environment
+  - The Foundation makes grants only to organizations that meet Internal Revenue Code 501(c)(3) requirements as nonprofit, tax-exempt organizations or to qualified governmental units or agencies.
+Sigrid Rausing Trust
+  - private funding
+Wallace Global Foundation*
+  - good large broad foundation
+  - Applicants based in the United States must be registered 501(c)(3) non-profit organizations. Applicants based outside the United States must show 501(c)(3) equivalency under U.S. law and, if invited to submit a proposal, will be asked to sign an affidavit stating this equivalency
+  - failed eligibility quiz, should try again. Answers: Other, Operations Support, Democracy
+Ford Foundation*
+  - good large broad foundation
+Humanitarian Innovation Fund****
+  - The Fund exists to support humanitarian innovation.
+    - quite ideal!
+Global Road Safety Partnership
+  - Taiwan not there, yet?
+  - Senior-level, full-time staff to work within city governments on their road safety initiatives for up to 5 years
+United Nations Democracy Fund*
+  - great
+Glboal Partnership for Social Accountability
+  - missed deadline
+
+related emails:
+Heya,
+
+I have a contradiction. I want to apply for a grant for the creation of a voluntary organization (a branch from another) that befits much of Wallace's themes, but, according to a webpage, must be registered 501c3 or equivalent is required.
+
+1. Is it possible to apply without a registered organization, with the intention of creating one?
+
+2. If I am a volunteer of tech and urban planning spaces, which may overlap civics, should I apply under those organizations instead?
+
+Any help is helpful. I find individual grants (not awards) are near nonexistent, yet I am an individual who regularly participates in many organizations.
+—
+
+Hey.
+
+I'd like to apply for a grant, but find myself in a interstitial situation:
+
+I want to apply for a grant for the creation of a voluntary organization, which may share materials and people of existing organizations.
+
+1. Is it possible to apply without a registered organization, with the intention of creating one?
+2. If I am a volunteer of various tech, urban planning, and social spaces, which all overlap civics, would it be a good strategy (for the sake of securing grant) to cram the civic projects under one of the existing organizations?
+
+Any help is helpful for very near future grant inquiries as I have always funded myself and am inexperienced in grants.
+—
+
+
+notes:
+MacArthur Foundation:
+Grantmaking takes account of these trends through a strategy that is framed around two fundamental aspects of human rights: free expression and criminal justice.  There is an emphasis on accountability as essential to securing human rights and a focus on leveraging technology to advance the work.
+…
+What MacArthur Funds:
+Defending free expression includes attention to: responding to government pushback against human rights advocates; promoting political accountability; advancing Internet opennes.
+
+Enhancing criminal justice focuses on: expanding national-level accountability for mass atrocities; and advancing criminal justice reform in selected countries.
+
+- See more at: https://www.macfound.org/info-grantseekers/grantmaking-guidelines/human_rights-grant-guidelines/#sthash.zw64piGF.dpuf

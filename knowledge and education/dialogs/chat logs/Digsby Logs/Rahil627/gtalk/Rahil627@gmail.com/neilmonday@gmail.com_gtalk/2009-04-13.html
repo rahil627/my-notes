@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with neilmonday@gmail.com on 2009-04-13</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:05:34"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">alright man im out.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:02:43"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">touching servers some more?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 02:08:55"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">nope</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:09:02"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hehe k</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 02:09:31"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">I'll tell you what I am doing.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:09:47"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 02:10:05"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">Posting on http://www.compsciforums.com</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:10:15"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hehe</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:16:28"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">man, i prolly saved us from like 3 points</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 02:16:58"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">just now?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:17:15"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah...just reading the test outputs and making sure things look good</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:18:08"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it was sending content normally and non-chunked, content-length with chunked in one, and the last 0 was missing</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:18:20"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just 1 line fixes rly</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 02:19:10"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">I am satisfied with how mine is now.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:19:34"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">nice</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:19:51"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just make sure output files look okay</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 02:20:58"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">aight</span></div>

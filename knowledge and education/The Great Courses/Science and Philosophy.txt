@@ -1,0 +1,98 @@
+
+1. Science and Philosphy
+Philosophy is finding answers child ask in the manner of lawyers.
+
+Philosophy comes from an interest in wisdom.
+
+Over history philosophy became separated into sciences. Physics, then biology, then psychology.
+
+Main questions:
+How are scientific claims justified?
+What is a law of nature?
+  - how can one say cigerettes causes cancer?
+How does it become a law?
+What is the difference from a physical law and a logical truth?
+Does it explain or describe?
+Does our notion of biological species reflect real differences in nature or just a convenient way to classify nature?
+
+The professor feels philosophy can approach these problems more 'directly' then other disciplines do.
+
+Philosophy was known to provide the foundation of science, and science was only of observation.
+
+What use is philosophy now?
+
+He plans to focus on epistemics, not ethics within science.
+
+A good biologist doesn't ask a philosopher to verify his work. A good pitcher doesn't ask a physicist to verify his.
+
+He contends it's impossible to do science without philosophy.
+
+The professor mostly does work within philosophy of science in the 19th century. Now there is logical positivism and empericism. The course will follow the rise and fall of the positivist program.
+
+Karl Popper, Einstein, Thomas Kuhn
+
+2. Popper and the Problem of Demarcation
+Distinguish science from psuedo science.
+
+Astrology is a pseudoscience. We haven't scientifically proved things in space.
+
+Popper:
+Historically interesting, in his time, people thought Marx and Freud was science. It was fact, not pseudoscience. So it was important to distinguish such things.
+
+Open society:
+What makes a good society is what makes a good science.*
+
+Popper saw people write 'science' based on empirical data, making hypotheses, but felt that it was too easy. (Marx, Adler) Instead, he felt Einstein was doing real work, as he disocovered things that had little empirical data.
+
+Popper didn't care much that Einstein's theories were true, but that it was bold, and it could have been falsified. (Whereas others are harder to falsify).
+
+Pseudoscience is difficult to falsify, genuine science is not.*
+
+Falsifyability:
+A condition, that all scientific statements are falsifiable, but that does not make it scientific.
+
+Unscientific things are not useless, there may be some part in it useful, but it's just not science yet.
+
+Atomism wasn't scientific, and then was proven much later.
+
+Probability statements are important. Scientists can agree when something is improbable.
+
+Scientist don't always follow the falssbility rule. Example: Using Newtonian physics, scientists thought Uranas was in the place of Neptune. But the theory was really good, then what? Modify it?
+
+Not clear if scientists should stick to the falsifiable ideal.
+
+3.
+Going to stop here, perhaps look at Wikipedia.
+
+I don't feel I gain much knowledge here because the content feels more regurgitated than novel. He looks at history of the philosophy of science, but I could do that quicker through Wikipedia and give my own judgement.
+
+From Wikipedia:
+Concerned with foundations, methods, and implications of science.
+
+Starts in wake of logical positivism, in the 20th century. To formulate criteria to ensure all phosphate statements meaningfulness and objectively asses them.
+
+Thomas Kuhn find la throughout history science does not achieve clear progress. A paradigm is essentially a logical portrait of the world.*
+
+A majority of scientists take a coherantist approach, to validate observations based on a coherant whole. (I guess not finding new theories disconnected from what exists). Other views: see how it is created sociologically*, continental philosophy.* (I guess these are theories of knowledge - social construction, continental, coherant)
+
+A central theme is to see if one science can be reduced to another. Can physics be reduced to chemistry? Can psychology be reduced to sociology?
+
+Can biology, sociology, psychology, explore whether scientific study if human nature can achieve objectivity, or is it inevitably shaped by values and social relations?
+
+Philosophy of particular sciences: these are philosophical questions in areas which are considered science:
+
+Biology: reduction of all life to biochemical processes.
+Psychology: philosophy of mind, thoughts and processes.
+Chemistry: can all phenomena be explained by quantum mechanics?
+Physics: space and time
+Math: does math require experience or reason alone?
+Statistics: Bayesian inference to assign probabilities to hypotheses.
+
+So, conclusion:
+There is much to do in the verifiability of sciences, which is of great importance, and a possible method to find truths by finding false ones, but this portion I find very boring, and would require much dialog between like-minded people to keep alive, similar to my feelings with analytic philosophy. I'm an emotional being, I'd rather do something more practical, or make art. These are problems in philosophy that were created by philosophers (quoting the human values professor), these don't answer the real questions (perhaps I need humans in my philosophical inquiry).
+
+What's really interesting are the views people take the entire world as: coherentism, social, analytic. Theories of knowledge? Epistemology?
+
+Another great interest is of trying to reduce sciences to other sciences; or, to unify science. Physics to biology and sociology to psychology, etc. I just love any synthesis of knowledge. And further it to design and practice.
+
+That's a great idea: to gain knowledge in sciences to create something practical, design or technology.

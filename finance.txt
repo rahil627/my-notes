@@ -1,0 +1,260 @@
+Cheaper to eat out for lunch
+  - 10NT$ rice, 10NT/vegetable, free tea
+  - maybe even for breakfast (10NT$ omelette, real cost: 5NT$)
+    - 12 eggs: 60-400NT$, normal to free range
+  - only toast is not worth buying (15NT$/2 slices, real cost: 1-2NT$)
+  - 10NT$ sausage at Carrefour, for cheap protein and a day trip experience, keeping the world and people in view
+
+
+  
+
+
+todo:
+?
+
+debt in Taiwan:
+Issei:
+3600-4000NT
+  - Paypal through someone > bitcoin > wire transfer
+
+Chu:
+ramen x 10-20
+cafe and paper cups x 1 per day
+use of computer, speaker
+borrowed charger*
+soy sauce bottle
+pesto sauce bottle
+
+BaiBai:
+500ntd + some food
+
+XiaoXiao (XiaoZhu):
+1000-2000ntd to grandmother
+some to her for food, shirt, tea, etc.
+
+set of customers at the hostel:
+50 to Doremi
+30 to 銀行
+40 to xiaowang(?)
+
+airBnB in Taiwan
+1 night?
+
+Baozi:
+tea shop help and ingredients
+scooter
+scooter help / small repairs
+extra food
+food:
+$60 takoyaki x2
+$90 shrimp
+$30 baked good
+$45 liao4 (ingredients?)
+$60 last (thing that I ate?)
+$50 dispark (?)
++ parents gave me
+
+龍。。。公司
+綠島之星3號
+300(?)NT motorcycle fee
+-
+
+# Paypal
+Why not just use my Taiwan debit card to add money to Paypal?
+
+https://www.paypal-community.com/t5/Account-balance-Archive/Add-money-using-debit-card/td-p/369996
+  - “You can add money to your PayPal account from a bank account, there is not a way to add money from your debit card. If you are not able to add your bank account to your PayPal account you may want to purchase a Green Dot MoneyPak card. Take your cash to one of these retails store near you: Wal-Mart, Walgreens, CVS Pharmacy, Kmart or 7 Eleven. Once you purchase the card log into your PayPal account and click add funds (under My Account) and select the MoneyPak option..”
+    - Green Dot MoneyPak (aka Paypal-Cash?), some sort of card with visa / master-card, but no line of credit on it. Terrible reviews. Monthly fees. Reloading fees.
+
+# Bitcoin
+see digital currency.txt
+
+
+Loans:
+HSBC in Taiwan - ridiculous requirements
+
+Dad
+
+Wells Fargo credit line. Have an APR, quite high, 9-18%? Instant loan, depending on amount, and can then transfer to Schwab (3 days), then get cash. No worry about payments, but have APR.
+
+Wells Fargo 0% APR credit card, but would need to pay minimum on time, and very likely, there is APR on cash advance, so have to purchase PayPal.
+  - can use PayPal to make a purchase (3% commission) by creating another account. One with bank, one with credit card. These transfers would be done near instantly because it is credit.
+
+Best option seems to be to use 0% APR card with PayPal, as it wastes the least money (no APR and possibility of no transfer fee, but likely 3% transfer fee)
+
+The most convenient option is the credit line, taking only how much I need. (Todo: ask if it requires a minimum payments, also ask actual APR)
+
+note:
+$300 - $500 in Hong Kong in two weeks
+$600? in South Korea in three weeks, $200/week
+$600? in Japan in three weeks, $200/week
+$? in ? to startup
+
+debt:
+Dad:
+18,000 rupees from Dhananjay
+10,150 since 7/1/13
++ unsure about 3,000 deposit around 5/12
++ United credit card charges for a flight from Taiwan to Singapore and possibly Luang Prabang to Chiang Mai / Chiang Mai to Bangkok / Bangkok to Baroda
+  + $345, flight from Amhedabad to Hong Kong
++ flight from Virginia to Taipei
+
+Emily:
+air conditioner
+
+Samip:
+cell phone plan
+
+
+
+# other methods to transfer money
+from an e-mail to Jon:
+“Otherwise I can send the money to one of my banks and eat a transfer fee ($25 Charles Schwab, $30+ Wells Fargo) to another friend. Ughhhh, hate to give an American bank money.”…”There's even a fee for incoming transfers of like $12 (+ the normal outgoing, which is normally a lot in America).”
+  - so, $12 incoming + ~$400NT+ (todo: check amount) outgoing.
+
+from living in east side Taiwan.txt
+“I’ve checked many options, and it's really just Bitcoin (no fees? instant? :0 ), which I haven't done the research for, and then the strange bullshit: Western Union and MoneyGram (and others?), which have $12 and $17.50 fees + actual currency exchange fee + bullshit fee within the currency exchange fee. Unfortunately, I fear, these are my only choices at the moment.”
+
+
+
+# current bank accounts:
+## 玉山
+    only bank in Taiwan with Paypal access
+      - 400NT$+ (300 + 100 + x) for outgoing international transfer
+      - 200-800NT$ for incoming international transfer
+      - but, need an ARC to access online banking
+      - furthermore, only works with Taiwan’s Paypal (NT$ as opposed to $)? Maybe.
+      - must make sure the name on the account matches the Paypal account name
+
+## Charles Schwab
+        $0 foreign ATM fee and reimburse foreign ATM fees
+        $0 foreign transaction fee for debit visa card
+        visa debit card also contains travel warranties and things like a credit card
+        $0 transfer to any US Bank
+	$500 / ATM transaction
+	$1000 ATM withdrawal daily limit
+	$25 wire fee
+
+## Wells Fargo checking
+	$? if lower than $1500?
+	$3 fee to transfer to a non Wells Fargo bank
+	 - $30 wire fee
+	 - can use "ExpressPay" service to transfer money to certain international institutions for a $5 fee
+    - can use "SurePay" service to transfer money to other US banks for free (at the moment) in 2-3 business days
+    - can use "BillPay" service to send checks to places, not quite sure how it determines electronic check or paper check yet
+
+## Ally
+	$0
+	0.9% interest checkings
+	1% savings
+	1.5% two year CD
+
+Penfed (closed?)
+	$10
+	
+Wells Fargo ATM card:
+  $1000 daily limit
+  $500 point of sale
+
+credit cards:
+Capital One CashRewards Cash Back Visa Signature
+	2% cash back
+	?% apr
+	$7500 limit
+	?% cash advance apr
+	$3750 cash advance limit
+	$400 ATM cash advance limit
+	no cash advance limit from banks?
+	more warranties and protection
+
+Capital One no hassle cash back MasterCard Platinum
+	1% cash back
+	0% apr until October, then variable based on rating and market
+	$750 limit
+	$250 cash advance limit
+	warranties/protection
+
+Penfed
+	failed to get Platinum gas card, tried too many times
+
+
+banks:
+  1. Charles Schwab*
+    - waives ATM fees entirely
+    - excellent reputation
+    - profiting company
+
+  2. Capital One 360 (Capital One bought out ING Direct)
+    - no ATM fee, but fee from other institution (not bad!)
+    - profiting company
+   
+  3. Wells Fargo
+    - standard shit bank, to cover normal bank things
+
+  Citibank
+    - many ATMs and branches worldwide
+    - need $15,000 minimum to avoid fees from Citibank, not the ATM's bank
+    - bad service reviews
+
+  HSBC
+    - many ATMs and branches world wide
+    - need to maintain $100,000 for the account that allows fee-free HSBC ATMs, and waive non-HSBC charges
+    - HSBC Direct
+    - personally seen in all major cities
+
+  Fidelity
+    - trading company
+    - mySmart Cash Account
+    - cash management account*
+
+  EverBank
+
+
+term life insurance > permanent life insurance
+
+www.annualcreditreport.com - free credit reports, backed by government
+www.credit.com - free credit score estimate, not real, but good enough
+
+
+ING Direct savings
+
+http://www.walletpop.com/banking/credit-cards-vs-debit-cards
+
+money markets
+People tend to confuse money market FUNDS (MMFs) with money market ACCOUNTS (MMAs). They're two different things. MMFs are not FDIC insured, even if bought through a bank. Yes, some banks now offer MMFs, just as some offer stocks and mutual funds, but these are not deposit accounts and are not FDIC-insured.
+
+MMAs, on the other hand, are deposit accounts, are FDIC-insured and are typically what's offered at banks. 
+
+Read more: http://www.city-data.com/forum/investing/283393-how-safe-money-market-funds.html#ixzz0g45UwNvZ
+
+
+you have to work lawfully for 10 years or 40 quarters to be eligible for social security benefits
+
+w4 allowances doesn't matter until you file the 1099?
+
+paycheck city - http://www.paycheckcity.com/netpaycalc/netpaycalculator.asp
+	10.75%	federal withholding (2 allowances)
+	6.20%	social security
+	1.45%	medicare
+	4.82%	virginia
+	23.21%
+
+real
+	10.74%	federal withholding (2 allowances)
+	6.20%	social security
+	1.45%	medicare
+	4.28%	state withholding (1 allowance)
+	22.67%
+	
+	23.08%?
+
+46-20%=36.8-6.8=30
+
+1360.88*26
+	35382.88
+1769.23*26
+	45999.98
+answer-35382.88
+	10617.1
+10617.1/45999.98
+	0.23080662208983569123290923169967

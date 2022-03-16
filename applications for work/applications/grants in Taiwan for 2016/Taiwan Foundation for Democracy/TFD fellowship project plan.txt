@@ -1,0 +1,147 @@
+II. Project Plan
+
+1. Project Title and Date
+
+1.1 Project Title:
+Center for Civic Tools and Urban Interventions
+
+1.2 Proposal of Project Dates:
+In general, 2016. In September 2016 I may pursue a research or a different master’s program, likely MIT Media Lab or NTU Graduate Institute of Building and Planning, but unless I can manage to fit this project’s work into the program, I will postpone it.
+
+1.3 Application Problems:
+I sent my application via email to grants@tfd.org.tw on September 7th, October 4th, then called on October 5th, to discover I must send a physical copy to your foundation. Please update the application (“Program Description”) to reflect this.
+
+1.4 Application Format:
+I hope the lack of dogmatic double space doesn’t bother you. Also, the length of the paper is long because there are recommended and optional readings.
+
+
+2. Description of Project Plan
+
+2.1.1 My Perspective of Taiwan’s Issues:
+Taiwan is a beautiful mess. The feeling of lack of government, enforcement, and social security continues. Even as the country unevenly advances to the most contemporary form of society, it still feels the people must survive on their own. It’s people have leveraged technology as exemplified in the prevalent use of technological knowledge to manufacture high quality products, accommodation and skill-share web services, social media as a primary source for national news, and social media to manage large-scale protests. The alacrity of their adaption to new technology and the strain of low income has resulted in a technological society with survival values.
+
+Though the people have adapted, the government has not. Along with a little normative government ilk, Taiwan’s government has bare digital services for citizens, keeps non-harmful data private, and contains non-sensical policies that aren’t being enforced properly anyway. Thus, it is generally up to the people to manage themselves, which itself has become a common moral and ideology. Though I believe most of the people will be able to survive — have shelter, eat, obtain health services and an education — thanks to civil society, I believe their civic progress will remain scattered outcries without tools to help them direct conversation.
+
+2.1.2 My Belief and Proposal:
+I believe Taiwan’s civil society is active enough to adapt to civic tools, convert conversation to actions, and experiment with technology and methods of social actions, as a means of progress.
+
+My proposal, defined by my personal background, is a civic technology center specialized in (1) the advocation and facilitation of civic technology, and (2) the creation of social and urban interventions.
+
+1. It advocates the use of mobile digital tools, extracts and serves functional civic data in more meaningful forms (already started at Taipei Hackerspace), and helps organize the useful bits of the infinite civic dialog created through their peculiar digital communication mediums (BBS system and non-Facebook social media) to lead to more effective civic actions. Basically, a Taiwanese sister organization of MIT Center for Civic Media, without the development of technology — leave that to MIT.
+
+2. It serves as a local community hall for the sake of constant personal civil experience, allotting time to solving local social and urban problems, and experimenting new forms of social intervention, urban intervention, and activism on a reoccurring basis.
+
+2.1.3 On Objectives
+The objective of the organization is not singular; It is a an a social organization of constant ongoing practice which may include: development of local-specific and general tools, advocation of tools, innovation and experimentation of methods of local interventions, and direct action.
+
+2.2 On Methodology
+My means are quite simple: to keep experimenting with technology, direct action, and interventions; Trying new ideas, seeing what works, and re-using what works in the future. I measure my own productivity by the number of ideas executed over time, the goal being to achieve the efficacy of a prolific artist, for example, Banksy; That is, to create different things on a daily basis. Can read [5.3] On Methodology’s Other Definition.
+
+2.3.1 Relevance of Work to Others / Potential Outputs
+
+1. The creation of the aforementioned social organization.
+
+To understand the other potential outputs, it is essential to understand how I believe ideas spread in Taiwan. Taiwan is rather small by area and consists of multiple urban centers. Knowledge often disseminates physically, with daily train commutes between cities, weekend train trips to hometowns, or simply going around the island with personal transportation. Another method of dissemination is social media, which due to a strong culture (separation of the internet by country domain and language) is also often limited to the country. Similar to the way capitalism results in the duplicate of ideas based on success of other implementation of ideas, I feel Taiwan heavily replicates civic ideas based on the success of other implementations of civic ideas in Taiwan.
+
+2. It serves as a model of such an organization (and public spaces in general) for other urban areas in Taiwan.
+
+3. Any successful tools or methods used or created will be available to the public. Examples: simple crowdsourcing data and data mapping tools to map pictures of civil engineering problems or intrusive urban plans of rich people or real estate pricing, organization of civic tech jam events and site-specific events near social problems, methods organize pinpoint social media protests, the creation of provocative or informative new media urban art, or the creation of interactive civic objects.
+
+4. Any successful specific outcomes may be duplicated elsewhere. Examples: use of crowdfunding for civic action, creation of new public policies (oral or written) such as the ban of vehicles in market areas, and even direct social and urban actions such as physically placing no-vehicle signs and personally redirecting traffic.
+
+5. Because Taiwan is highly charitable to nearby less developed countries, the organization may potentially impact beyond the island.
+
+Basically, if there is success locally, it then may potentially spread elsewhere.
+
+2.3.2 Relevance to Democracy
+The scope of the organization is larger than the simple promotion of democracy; The organization intersects with democracy with the following possible goals (likely in the form of digital tools): increase the amount of civic decisions people make, which may include the selection of leaders, finding ways to hold leaders accountable for their promises, encouraging solidarity against negative interventions from outside the community, and most importantly in Taiwan’s case: give voice to those who don’t use technology or don’t simply do not participate civically. If necessary, we can negotiate priorities.
+
+2.4 Progress to Date of the Project, Timetable, and Potential Collaborators
+
+2.4.1 Progress to Date of the Project:
+Until 2016 I will likely be traveling around Taiwan via scooter, stopping by impact possibilities and organizations on the way. Early 2016 I plan to begin. It’s speed depends on personal finance.
+
+2.4.2 Timetable:
+I do not have a timetable, instead, I hope the [5.2] Rough Outline of Actions serves as a guide of progress of the organization.
+
+2.4.3 Potential Collaborators
+As mentioned before, I have friends in Taipei whom are interested in technology, urban planning, and civics. I also have friends in New York and other parts of the world that fit the civil society and public space realms. Yet, I am most interested in working with anyone who physically appears at the organization’s space with interest and eagerness to volunteer.
+
+
+3. The Advantage of TFD:
+As mentioned in the [5.1] Rough Outline of Actions, TFD will come in handy during the early phases: information gathering and the possibility of permitting a space, even if temporary. The greatest advantage is having stable social contacts with civil pursuits.
+
+
+4. Personal Additions / Recommended Readings
+
+4.1 Personal Clashes with TFD:
+At first, I decided to apply to this fellowship because I felt it fit my project, but after reading the tasks and publications on the TFD website, I’m a little afraid that TFD is impractical, broad, theoretical, research-driven, data-driven, and therefore opposed my bottom-up methodology.
+
+4.2 On The Impracticality of Writing:
+I’m aware of the generalization that Chinese, and subsequently Taiwanese, education tend to give writing more weight but, I am applying to this particular [Service] fellowship because it seems more practical, and my hope is that I am not forced to write any lengthy papers for “research” or historical purposes; It greatly hinders work, experimentation, and progress. Furthermore, I am a very slow writer. Instead I hope writing is limited to the purpose of determining progress for the allotment of capital, as this proposal does, which itself may be conveyed without writing.
+
+4.3 On Politics
+My politics probably fits closer to autonomism, but I don’t delve on political theories much. Maybe in the democracy world, autonomism is closer to direct democracy, in that there is no middle person — no representatives, political parties, states, or trade unions.
+
+The idea of promoting a political theory, including democracy, is in theory a terrible idea. In very few cases, it might be better than the status quo, for example, in countries with authoritarian political leaders. I am not interested in promotion of political theories.
+
+My interest in politics relies solely on enabling people to make more civic decisions that lead to more civic actions. This does not mean merely voting for a representative or political party. It means allowing people to participate in community development and public policy-making, enforcing policies, and making people accountable for their actions.
+
+On Taiwan’s Kindness:
+From what it seems, this fellowship may be aimed toward leaders in less developed countries seeking political and human rights experience. It is extremely kind of Taiwan to help nearby less developed countries like a caring mother island, but conversely, as I previously mentioned, I feel that increasing Taiwan’s civic efficiency with tools and methods may help those Taiwanese people whom aid other countries. Additionally, I feel Taiwan has many of it’s own problems to aid.
+
+
+5. Optional Readings
+
+5.1 On Reality:
+Thus far my answers address the general, not the particular, and perhaps appear to be detached from reality or naively ideal. That’s kind of true, I’m somewhat optimistic of technology in a well-educated survival-valued society, and have ideals in my mind that I often strive toward.
+
+From the few travels around Taiwan I am aware of social problems: rampant urban development projects, unlivable urban areas, lack of policy, lack of care of policies, lack of enforcement (what do they do?), prostitution, low resources of healthcare on the east coast, land conflicts with indigenous peoples, inequality of migrant workers, lack of a justice system (?), etc. I am also aware of current social processes: the accumulation of capital, consumerism, urbanization, globalization, etc.
+
+Despite the prevalence of social problems and negative social processes, I feel that Taiwanese people are quite well-natured and civil. For example, if a migrant worker were to come to a clinic without health insurance, I believe it is up to the clinician to do the right thing, and from my experience, this is often positive. More likely the problem, I think, is the lack of resources in less developed areas, in this example, a professionally trained clinician with medicine in the area. Continuing to use the example, if the migrant worker married a Taiwanese, divorced, and now operates a food stall, I believe the government will make the right decision in giving that person nationality. On a roll with this example now, if the migrant worker lives in a derelict area with other migrants or immigrants, Taiwanese people will organize to improve the housing. If a derelict house collapses (with no one inside) from poor construction, the person will always have a home elsewhere — hospitality is a strong trait among Taiwanese people. Despite the lack of a justice system and social security, the community is strong enough to take care of itself.
+
+In a country where laws are often only enforced if unjustly pressured by those in power, I believe working toward better self-governance, education (including self-education), civil (including ecological) conduct, is better.
+
+Hence my interest in civic technology and urban intervention wherein it affects civil society in general. From local experience I am aware of some the ways it’s affects trickle down to social reality, but it’s impossible to understand all the particulars.
+
+5.2 Rough Outline of Actions
+I have a very materialistic, urban-planning, autonomist philosophy, and so my outline radiates spatially outward, from a place to neighborhood to city to country.
+
+0. See current organizations for experience and determine if any can be used as a public place.
+
+Place:
+1. Create a physical (and digital) public place. It may be possible to take over a current public space, such as TFD, FabLab or some kind of town hall. It must be accessible to a dense urban area, preferably in a working-class neighborhood.
+
+2. Gather organizational information. Leveraging TFD contacts and my friends from the public realm (Hackerspaces, NTU landscape students, social spaces in Gongguan) quickly gather information about Taiwan’s hierarchy of organizations.
+
+*. Hold workshops. There’s no time for teaching, but I think civic-oriented workshops may come to mind, as I have a need for creativity :) . Teach map-making, Wikipedia editing event, problem-solution design jams, protest tactics against government interventions, etc.
+
+Neighborhood:
+*. I will personally be able to detect local problems, social and material, have an experience (as opposed to relying purely on data, including news) and take action against them. For example, prevent automobile traffic from entering market streets, inform lack of walking and biking lanes for the working class, displace people in poor quality rooftop housing. The action could be from policy-making to direct intervention.
+
+4. The public space also serves as a community hall for the neighborhood. It is a place for people to direct social problems to, and a physical (and digital) forum for discussion.
+
+?. Neighborhood media. Social problems must disperse back to the neighborhood. I haven’t decided how (paper, digital, radio, etc.) yet.
+
+City:
+5. Mapping of existing data. The first tool I believe that’s necessary are maps with data. Whatever the problem may be, the physical areas must be identified. In case the data is stuck in ugly government databases and websites, I can leverage friends from Hackerspaces to help here, or do it myself, putting it into a more modern mapping system, available for public use. There are several good existing technologies for this. Other organizations may benefit from learning how to do this. Maybe Taiwan has this, but I personally know of friends who are scraping data from poorly designed or outdated government websites because they are so bad.
+
+6. Creation and mapping of new data. Next there must be a tool for people to create geopoints of interest to begin a forum of discussion, to centralize conversations.
+
+Taiwanese citizens are often very civic-minded people. They talk about problems, but it is often through personal networks (LINE, Facebook, and BBS), private and unorganizable.
+
+I realize that the stipulation of having a digital device will restrict access to residents, but I also believe it just has to be up to the younger generation to pass information to the non-digital users. (Maybe create a radio station for the non-digital?).
+
+I am actually not sure if there is an existing technology for the first point. MIT’s Action Path is close to the idea, but still quite far in execution. But at the least, something can be done about BBS.
+
+7. Further tools to enable people to take civil actions where it is beyond their own control. Enable people to be able to directly give real and current information to the right organization i.e. sending a picture.
+
+?. City media. Thanks to the political problems, I’m guessing there’s a non-corporate online media source already in place, but I wonder how that information can get to the non-digital audience, and furthermore, non-Chinese language audience.
+
+Country:
+*. Follow civic crowdsourcing. Can even try to pass the idea of campaigning for bike and motorcycle helmets, for public bike systems in dense urban areas, for laptops, for public libraries, etc.
+
+8. What successful actions I take locally has a chance to propagate to other localities, and other cities. If they do not naturally propagate, then communication to organizations in other towns may be needed, but not forced.
+
+5.3 On Methodology’s Other Definition
+Methodology turns out to be a complex word. I’m not going to detail this further, but I will say this: My epistemology is quite empirical, and therefore quite skeptical, similar to Dewey’s logic — instrumentalist and pragmatism. Because of my empiricism, I am limited to observing effects of applications locally. Relying solely on local experience, I create things.

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-04-07</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:07:57"><span class="buddy">fantastic2xs</span> <span class="msgcontent">whats going on right now ra</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:08:07"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">writing</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:08:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">due at 12 :/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:08:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but i did get some 'who is jesus' in the background</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:08:54"><span class="buddy">fantastic2xs</span> <span class="msgcontent">whats due</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:09:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">take home midterm...which i should have done over the weekend....but other work got in the way</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:12:45"><span class="buddy">fantastic2xs</span> <span class="msgcontent">im just studyin this svenska</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:12:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:13:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol!</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:13:21"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">waddyu doing with these random languages</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:13:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it must be the girlll</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:14:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">or your ultimate plan to move there =D</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:14:42"><span class="buddy">fantastic2xs</span> <span class="msgcontent">jag studerar den häd svenska</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:15:09"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i would best describe it as a whim</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:15:30"><span class="buddy">fantastic2xs</span> <span class="msgcontent">the girl is gay dude</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:15:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh yea lawl</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:15:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i c</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:16:44"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">cool..i didn't care about spanish class...wouldn't want to do another</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:17:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">if anything, i'd like to read/write in my language</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:17:07"><span class="buddy">fantastic2xs</span> <span class="msgcontent">an indian knowing spanish</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:17:10"><span class="buddy">fantastic2xs</span> <span class="msgcontent">a little odd IMO</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:17:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">haha</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:17:34"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but im watching swedish movies and shit now</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:17:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol whoa...you're full-on about this</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:17:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat swedish movie XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:18:13"><span class="buddy">fantastic2xs</span> <span class="msgcontent">Fuckin åmål</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:18:18"><span class="buddy">fantastic2xs</span> <span class="msgcontent">Let the right one in</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:18:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o snap, that's swedish?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:18:41"><span class="buddy">fantastic2xs</span> <span class="msgcontent">the original is</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:18:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:18:47"><span class="buddy">fantastic2xs</span> <span class="msgcontent">they're working on an american one</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:18:53"><span class="buddy">fantastic2xs</span> <span class="msgcontent">the book was originally swedish dude :P</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:19:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its on the top of my queue...had no idea</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:19:28"><span class="buddy">fantastic2xs</span> <span class="msgcontent">well you're gonna have to use english subtitles :P</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:19:32"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i dont think they dubbed it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:19:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well i always watch subtitles regardless...and i doubt you can already grasp the dialogue of a film!</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:20:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">u just started learning!</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:20:10"><span class="buddy">fantastic2xs</span> <span class="msgcontent">no i can't</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:20:18"><span class="buddy">fantastic2xs</span> <span class="msgcontent">im using it to hear the words and flow</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:20:53"><span class="buddy">fantastic2xs</span> <span class="msgcontent">if they're talking about what color their cat is i can understand it :P</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:20:57"><span class="buddy">fantastic2xs</span> <span class="msgcontent">(just as an example)</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:21:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahaha</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:21:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">niice</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:21:43"><span class="buddy">fantastic2xs</span> <span class="msgcontent">when they speak swedish a LOT of the syllables get dropped</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:22:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">doh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:23:41"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i aint dumb man</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:23:51"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i learned latin and spanish before and chose to forget them</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:24:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o sry, didnt mean a duhhhh, just doh! like homer</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:25:02"><span class="buddy">fantastic2xs</span> <span class="msgcontent">whats the difference</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:25:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aiite gotta work on paper! no moree</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:25:11"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i don't watch that show</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:29:07"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">quick question, wat do u use to burn general media? just nero 6.6?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:29:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">like audio, data, maybe something else time to time</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:30:29"><span class="buddy">fantastic2xs</span> <span class="msgcontent">nero</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:30:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">version?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:30:47"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but it is becoming increasingly difficult to pirate it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:31:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wah? the torrents r there</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:31:07"><span class="buddy">fantastic2xs</span> <span class="msgcontent">nero 7 or 8</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:31:11"><span class="buddy">fantastic2xs</span> <span class="msgcontent">9 is annoying</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:31:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so 7&gt;6.6?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:31:21"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just giving to enver</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:31:24"><span class="buddy">fantastic2xs</span> <span class="msgcontent">yeah but the methods for cracking it are becoming too elaborate for me</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:31:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:31:45"><span class="buddy">fantastic2xs</span> <span class="msgcontent">if it needs more than a keygen i get annoyed</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:31:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:32:59"><span class="buddy">fantastic2xs</span> <span class="msgcontent">theres 2 reasons im so into this swedish thing</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:33:05"><span class="buddy">fantastic2xs</span> <span class="msgcontent">1 i like it, quite fun</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:33:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">cool</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:33:20"><span class="buddy">fantastic2xs</span> <span class="msgcontent">2 im afraid ill get bored</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:33:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hm?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:33:32"><span class="buddy">fantastic2xs</span> <span class="msgcontent">so im learning all i can before that happens if it happens</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-07 02:33:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">neverrr</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:33:45"><span class="buddy">fantastic2xs</span> <span class="msgcontent">yeahp</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-07 02:33:53"><span class="buddy">fantastic2xs</span> <span class="msgcontent">ODU doesn't offer swedish as a language :P</span></div>

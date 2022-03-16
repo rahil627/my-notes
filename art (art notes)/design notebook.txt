@@ -1,0 +1,195 @@
+Dance*
+  - design
+    - gameplay
+      - timed horse
+        - time increases with turn
+        - only resets on new game
+        - three stock
+          - adjustable
+      - start from a starting point, end from an ending point (or line)
+        - if fail to end, the player fails
+      - should the dancer intently move toward the current touch or should it slowly move toward it?
+        - should be able to adjust this value
+      - lose when player fails to be within the correct area for longer than a certain amount of time (adjustable)
+      - (extra) could replay the moves before the next player's turn to copy, so that it is easier to see and remember
+        - or could just hand the iPad over
+    - theme
+      - paint
+        - each path paints onto the canvas
+        - watercolor?
+        - thin lines
+      - dance
+        - dancer animates, certain gestures causes dancer to animate
+          - ice skating*
+            - twirl, jump twirl, double twirl, triple twirl
+            - could still leave ice streaks, or colors, only the sprite is required
+      - cave paintings
+        - chalk on stone
+        - low frame animation
+
+  - implementation
+    - HaxePunk or Cocos2d
+
+EGP construct
+  - done?
+    - check world of good tower building gameplay
+      - youtube "world of goo record" and "world of goo multiplayer"
+  - design:
+  - gameplay
+    - stack building blocks to create a tall building, the player with the tallest building wins
+    - once the building topples, the height counter stops and is measured against the opposing player
+    - camera zooms out when the building becomes tall
+      - two cameras, split screen
+    - user interface for adding blocks
+      - 1:
+      - tap and hold to show block outline, let go to add vertical block
+        - color outline green or red to display ability to add block
+      - two finger touch and hold to add horizontal block
+      - 2:
+      - tap and hold to show block outline in last orientation, use second finger to twirl orientation
+        - snap to perfect vertical and horizontal
+    - with this design the player could just stack vertical blocks infinitely
+    - limit the player from adding blocks directly to the building, forcing players to drop blocks a certain distance
+    - maybe the player is unable to perfectly stack blocks due to difference in touch points
+
+  - implementation:
+  - HaxeFlixel (and Nape) or Cocos2d
+
+Mime
+  - design:
+  - gameplay:
+    - single touch:
+    - creating
+      - tap, tap and hold, nothing
+    - matching
+      - start point and end point, like a long step in DDR
+    - multi touch:
+      - creating
+      - matching
+
+  - theme:
+   - quilt
+   - pitch increases as touch moves right
+     - taps play a single short-length note
+     - have to choose a soothing instrument
+
+  - implementation:
+    - Flash or Haxe NME or Cocos2d
+      - see how HaxePunk and HaxeFlixel handle sprite/entity with custom drawing
+    - Flash and Haxe NME
+      - using the drawing API, it may be limited to just solid colors, as opposed to fill texture of Cocos2d
+    - proto; llvvb    type in Flash or Haxe NME, test quilt design later
+
+Doodle Tangle
+  - design:
+  - gameplay:
+  - 
+  - theme:
+  - 70s, like Drive, cheesy neon, flashing lights
+    - uncreative
+  - something smooth, inspired by the curves of the game
+
+  - implementation:
+  - HaxePunk or Cocos2d
+  - prototype in HaxePunk?
+    - is it worth the work?
+
+  - the map / tile method will not work because each tile is unique
+    - can still use tiles for certain objects
+  - preload textures as the camera gets closer to them
+    - automatically done in Unity?
+    - when a new texture is added, detect the collision curves (edge)*
+      - could be a colored line
+  - see how that one hill game paints textures, through ray wenderlich's tutorial
+    - I think it used Box2d to draw polygons
+  - the problem is drawing filled textures
+    - I do want curved lines though
+  - the camera moves on a x-y coordinate plane, it's a matter of adding points
+
+
+EGP Construct 2
+  - idea:
+  - create building blocks in augmented reality
+  - multiplayer
+    - players build a level together consisting of blocks which act as obstacles
+    - players must then maneuver through without touching the blocks
+
+  - design:
+  - start simply with the add block to augmented reality space
+  - then detect if iPad overlaps with a block
+  - start / stop detection button
+  - reset button to remove all blocks
+  - interface to add blocks
+    - start with center
+
+  - implementation:
+  - unity?
+  - check that one image space application
+    - creative frameworks?
+
+touch vs tilt*
+  - design:
+  - see notebook
+  - gyroscope controls road, touch controls car
+  - due to the sensitivity of the gyroscope, it may be really difficult to control the road
+  - game should be 2d
+  - able to overlap roads
+  - obstacles can be static and dynamic
+  - coop mode:
+  - what I normally imagine
+  - vesus mode:
+  - crazy road movement
+
+  - implementation:
+  - Flash, Haxe NME, Cocos2d
+  - draw bezier curve and check collision against touch sprite
+  - next point depends on gyromenter
+
+EGP Construct 3:
+  - idea:
+  - use camera to create character animation for a simple fighting game
+  
+  - design:
+  - each button is assigned an attack, players can create any attack
+  - hitbox is automatically created around the character
+  - how to determine winning attack?
+    - STOPPED HERE
+
+  - implementation:
+  - Construct
+
+EGP Construct ideas:
+  - construct terrace farms with blocks
+    - start with a randomly generated 3d mountain, click in a 3d grid to add a terrace block
+    - no fun
+  - should think about other user interfaces other than iPad and augmented reality
+    - look up new user interfaces
+  - projectors?
+    - no different from screens, well, you can move projectors
+    - games dealing with moving projectors?
+      - really limited audience
+  - cameras
+    - take pictures of things and create a collage*
+
+EGP Construct film ideas:
+  - piece together a film
+    - setting, narrative, actors, screenplay
+      - in an order so that the audience only understands the story at the end
+      - each piece should change the audience's perception of narrative
+      - example: start with a dark setting, show actors having fun, show actors separately, play entire film
+
+  - add pieces of film together
+    - overlap*****
+      - a train going through a city street
+      - sloppy cutout instead of green screen
+      - create an entire short film out of this mechanic!
+     - can cut from my own video or other video*
+     - surreal
+       - created from real scenes (not animation)
+       - play with size, dialogue*
+         - bungee jumping over the himalayas
+       - create machines*
+         - use somersaulting swimmers as wheels of car
+     - need a strong narrative
+     - start with one film, introduce another, then more later, then back to one
+

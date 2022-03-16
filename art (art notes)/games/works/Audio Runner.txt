@@ -1,0 +1,43 @@
+http://unity3dtutorial.com/unity-3d-tutorials/audio-based-procedural-levelgeneration-manipulation-in-unity-3/#comment-6983
+
+differences between microphone classes:
+  - nme
+  - flash
+    - would need to test performance for vector drawing
+  - cocos2d
+  - Unity
+    - does it cost money?
+  - MonoGame
+  http://codeand.me/a/how-to-make-a-voice-control-game-on-iphone/
+  
+
+Gameplay:
+Take turns making noise to generate levels, and time jumps to pace ahead of other players.
+
+Origin:
+EGP theme: Audio
+
+Design:
+
+It's just a multiplayer runner game, in which the audio creates the level made of sound waves.
+
+Players take turn using the microphone, and therefore generate the level. Perhaps there is a turn in which everyone is allowed to make noise to generate the level. Players' avatars run along the wave. Players have to time jumps at the peak of waves to pace ahead of competitors.
+
+I'm afraid the idea is too close to Uprock. And Uprock's gameplay is way better (holding down and releasing jump as opposed to a pressing jump button). Especially when played with a foot pedal.
+
+Implementation:
+I need to look at sound waves again. I surely can't use real sound waves, it would generate crazy levels. I'd have to massage the data and create somewhat pretty waves.
+
+It would be pretty cool in 3d, but unnecessary, therefore I think it would be a good candidate for MonoGame, along with ColorPad.
+
+future features:
+  - zoom in and out depending on speed (stolen from uprok)
+  - speed depends on playback speed
+
+game engine:
+Start in Flash and do not worry about porting it until later
+Unity has a better library and is free to publish to Windows, Mac, Linux, and web player
+  - some library features require Pro version
+
+Cocos2d:
+  - http://codeand.me/a/how-to-make-a-voice-control-game-on-iphone/

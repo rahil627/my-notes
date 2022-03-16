@@ -1,0 +1,72 @@
+new:
+and update perhaps 15 years later...
+using mostly an iPad mini 2 / iOS...
+
+Dropbox
+  - main source
+  - backups folder
+    - backup of web server
+    - screenshot of apps
+Google Drive
+  - backup of Dropbox, encrypted with Dropbox password
+  - on iOS, must use IFTTT (or another service)
+    - must be careful and delete access / permissions immediately afterwards
+iCloud
+  - backup of iOS devices
+    - includes: settings, contacts, photos (currently on the devices), music (currently on the devices), etc.
+      - Voice Dream Reader is probably the largest and most important thing to backup
+      - all writing applications (text and markdown writers) might have some text files saved under the Apps folder (on the iOS device)
+        - should avoid using this, and put everything into Dropbox, but, when offline, maybe tough to do
+      - game saves
+      - GarageBand songs and other making apps
+
+
+
+
+old:
+current drives:
+250gb		main, SSD
+320gb		extra, time machine backup
+1tb 2.5" fw	high speed storage, 500gb Mac, 500gb Windows, backups
+1tb 2.5"	storage, NTFS
+1tb 3.5"	backup of storage, NTFS
+
+250gb 3.5"	external, left at home, contains backup of families' documents
+
+backup programs:
+Windows
+  - WinClone
+  - Windows 7 or higher have a native backup application
+Mac
+  - SuperDuper (alt Carbon Copy Cleaner) for image
+  - Time Machine for versioning backup
+iOS
+  - snyc
+  - backup to iCloud
+  - manual backup to Mac
+  - transfer purchases to Store, file -> devices -> transfer purchases from [device]
+
+what to backup and where:
+Mac to old 320gb or 1tb fw if lazy
+Windows to storage
+keep text in Dropbox
+web server to storage
+music to storage
+pictures to storage
+large and recent program installers to storage
+
+screenshot of desktop
+screenshot of start menu (make sure all programs on desktop/program files r in there)
+screenshot of add/remove programs
+screenshot of program files
+OR
+create a programs.txt
+
+sweta - C:\Documents and Settings\[username] folder
+dad - C:\Documents and Settings\[username] folder
+
+delete those that are 'not in source'
+
+
+http://forums.storagereview.com/index.php/topic/24707-hd-longevity-in-external-enclosure/
+

@@ -1,0 +1,549 @@
+todo:
+
+From temp todo:
+Clip-on models at the store at 師大夜市: EQ300m, mdr-q38lw, Panasonic rp-hs47.
+  - EQ300m has bad reviews
+  - Q38L has an extremely short and thin cord
+  - didn't check about Panasonics
+
+new DT 1350 vs portable around ears (m50) vs non-portable around ears (DT 770)
+
+Just down to the same: t51p, hd25, amperior, dt 1350, m50
+  - dt 1350 without much doubt. The only problem would be EQing it, versus having a more accurate Senn or t51p and EQing those. Need to google EQing.
+--
+
+Price check for Bayerdynamic 1350. Inventory check Koss, Yuin, CIEM cable repair.
+  - Bayerdynamic 1350: 8000 at Hifi in Taipei (9000-12000 in other shops), $200 at eBay /w shipping to Taiwan, $127-$135 from Amazon warehouse deals. Order now, ship to the space in Tainan. At that price there's no need for Sony's. Though, finding the new version may be worth it for the long-term, especially the diameter of cups.
+  - Try balanced (/dynamic) IEMs at HiFi (vSonics, DUNU Titan series) and maybe a few warm ones (RHAs, Yamahas) for comparison. Check website to see Joker's comparison to Music Art Ones. If price is same or near as online, buy a pair. Should try to aim for something different from the custom Ones and the closed Beyers.
+  - Check all stores for Dunu Titan 1 / Fiio EX1. Check price online. Cheaper than 2500NTD? Difference between the two?
+
+Try Bayerdynamic DT 770 and 880s.
+
+Order Koss, Yuin G2a, Bayerdynamic.
+  - maybe choose between Koss and Yuin. Maybe the Yuins can't be shipped through Amazon anyway, and must be ordered directly from China.
+  - maybe choose to repair my customs over buying another IEM
+
+0988279494
+--
+Stores in Taipei:
+J M Plus
+https://www.facebook.com/musichifi
+Taipei,
+中正區羅斯福路4段134號3樓
+  - near Taida, like a cafe (they even sell tea!), can sit and listen all day, without pressure. Great selection. No vSonics or Etymotics.
+02 2365 1207
+http://m.ruten.com.tw/class/store_list.php?s=jmplus01&k=&c=0023002700020006
+
+EarZone
+https://www.facebook.com/eartron.tw
+市民大道三段2號5樓R517櫃
+  - in a large electronic shopping center neighboring GuangHua plaza. The entire floor is for headphones, though EarZone seemed the only multi-branded one. Snagged the cheap Phillips from the crazy building next door. Unlike JM, all of the headphones are in working condition here. Also okay to listen all day, but feels like a mall...because it is one.
+02 3322 1449
+http://class.ruten.com.tw/user/index00.php?s=t99music
+
+Pincha
+https://www.facebook.com/pincha.audio
+Taipei
+開封街一段98號
+  - on an "electronic" street in Ximen district, close to the subway station. The shop next door had GR07 classics and another shop had Ostry KC06(/A)s. Though, Pincha was clearly the best, with tube amps, electrostatic headphones, and other super expensive things hanging about.
+02 2382 5339
+https://www.pincha.com.tw/catalogsearch/result/?q=sennheiser
+
+HiFi
+https://www.facebook.com/musichifi
+Taipei,
+重慶南路二段59號
+  - had GR07 BE
+台北店:(02)23928832 (02)23928558
+--
+
+found on a note:
+Ostry
+DUNU
+
+[I think these were at the J M Plus audio store:
+Cleartune / 1864
+Custom Art
+UE4 Pro
+—
+
+Past:
+Sennheiser HD280
+  - high-school, when my stereo wasn't working? or perhaps when I moved my PC to the living room? Crushed my skull, semi-portable (folding) except for coiled cable (lugged around well in my Jansport bag during college), dreadful in-head sound, dark times indeed. Did not replace stereo well at all. Fixed the stereo and only used these as portables.
+Ultrasone HiFi 580/780
+  - for "surround sound" in a closed headphone, probably a reaction to the previous Sennhesiers; also semi-portable, this time with a short straight cable; more airy, more (punchy) bass, and sound out of my head! The sound is a bit odd, artificial, maybe even fatiguing, but for the few portable uses it recieved, it worked out fine. Still using stereo most of the time during college and San Francisco. I think I used these mostly in New York. Or did I get the AD700s by then?
+Audio Technica AD700
+  - first open headphone, luxurious as the colors (purple and gold), not portable at all: nearly destroyed the plastic headband parts in my backpack. It's a portable stereo in the form of a pillow hat: amazing for music, games, films, all-day listening. It's still is where it belongs: at (my parent's) home on my computer desk, just above a speaker system I couldn't sell (z-5500s). Served me well in the apartment in New York.
+
+Current set:
+  *. Sony 7506 (or ZX700) vs ATH M50x vs Sennheiser HD25-II (closed, portable (DJ), bright, If I could have one headphone...)
+  - because I'm a full-sized headphones guy, as opposed to a IEMs guy. These seem great for everyday use. Way better than my old 280s and Ultrasonic HiFis. Probably go for the Sonys for around-the-ear neutral experience.
+2. Philips SHE3590 (cheapos, dynamic)
+  - buying these when my custom's cables were broken and losing my taped-up vSonic v1000s saved my life. I immediately bought another pair. Fits better than the v1000s, and probably has equal durability. Way way better than the Panasonic 125s, though I may have gotten a bad batch. Way better than anything pre-2005?
+3. Custom Art One (CIEMs, neutral to warm)
+  - customs for everyday, easy-listening, non-obtrusive use
+  - Contender to replace everyday portable headphones. It seems IEMs are far less durable thus far, unable to replace tough portables.
+  - I should have bought detachable cable version. :(
+  - Need to get my ear tip set from home
+x. vSonic GR07 series -> Jays q-Jays (IEMs, bright, detailed, airy)
+  - standard $100 all-around bright models which are ideally durable (machined design, detachable cable), comfortable, and come with many tips (silicone, foam, flange) which provide much versatility, which makes these the most functional, can use one-ear to replace the function of clip-ons, can use while biking or scootering too. Ideally replaces full-size closed portable headphones. It depends on how well these things fit, and how long they can be comfortable for.
+  - Meh, just repair the Customs. Then try to buy different tips.
+  - Can buy if found cheap, as backups for customs, but resale value is probably high
+4.2. Ostry KC06A < DUNU Titan 1 (Fiio EX1) (open IEMs)
+  - the open Titan 1's could be an interesting replacement for full-size and/or portable open headphones. Depends on weather they are comfortable to wear all day like full-sizes and clip-ons do. Either way, they seem like a versatile part within a set.
+  - Though I often use one ear, listening in one ear, and listening to reality in the other, then put both on for music or simply using them without sound input to dampen sound of the streets, keeping me in equanimity. Increasing / decreasing volume with these might work.
+  - http://www.head-fi.org/products/fiio-ex1-nanotech-titanium-diaphragm-in-ear-monitors/reviews/14304
+6. Bayerdynamic DT 1350 vs 770 (closed, portable (DJ), dark)
+  - for intimate, super-high detailed closed-headphone listening experience, yet, still travel-friendly. (chose to go this route because a high-end open portable headphones seem physically impossible)
+  - these high ends are merely $135 on Amazon warehouse!!!
+  - These along with either Yuin G2a or Titan 1s would be a killer closed and open combo.
+*. Koss KSC75 -> Yuin G2a (clip-ons) vs Sennheiser 2xx [?]
+  - for an open experience, listening to radio, eBooks, etc., possibly the most useful kind of headphone, also the most comfortable
+  - might be difficult to find in a store, and if ordering online, might as well buy the superior Yuins, though the Koss's do have better design that won't break.
+  - Hmmm, with clip-ons, might suck to use one-ear, leaving the other hanging? It's easier to keep an IEM 
+  - A little afraid that the G2a standard clip design might fall from ear. Could mod it though.
+7. ATH-TAD500 vs Sennheiser HD598 vs my ATH-AD700X
+--
+(warm) Yamaha EPH-100 > RHA MA750(i) == DUNU-1000 > Shure e215
+  - I don't think I like "warm", seems boring. The Beyer's will provide all the warmth I need.
+
+  - this is what I like my IEMs to sound like, like those $10 semi-open Philips IEMs I had ages ago to replace my iPhone earbuds.
+  - should choose: do I want closed or open? If they are open, they may become useless on the city streets, but otherwise, great, as I normally use one-ear.
+
+  - Shures are durable, have high-isolating foam tips, is a "bass cannon", go around the ear, have detacheable cable
+  - vSonics have better sound but durability may suck (as it was with my vSonic vc1000s)
+  - RHAs seem great all around with great machine-built quality which make it better than vSonics and far more neutral sounds than Shures. They also have a little remote for iOS.
+  - "The bass of the MA750 is boomier and results in more veiling of the midrange. The GR07BE lacks some of the full-bodied character of the RHA, but remains clearer, especially in the midrange. Up top, the MA750 is a little smoother where it counts while the GR07 is more sibilance-prone."
+  - "Yeah, balanced to bright does not describe the MA750. Compared to the Titan 1 and GR07 classic the bass on them is definitely more enhanced and a little bloated. Not sure about the A71 but if you get them they’ll definitely become your bassy/fun set over the VSonics/DUNUs."
+  - I remember not being enthusiastic about the RHA EP-2s
+  - Titan 1 is semi-open :(
+--
+Tried at the store near NTU:
+1. Ath-m50x
+  - winner thus far, complete sound (with 7510, and maybe the 840s), heavy, strong, pretty, clamping not nearly as bad as Sennheiser 280 pro, it's special in producing sounds never heard before and being the most fun, though not as bright as the Sonys it had something magical in them, nice pleather pads, more clear and bright than say the Shures
+  - not musical for classical music!
+  - the bass lingers a bit longer than it should, making it less ideal for classical, but also for short bass hits. So perhaps more for pop music.
+  - it’s also probably more fatiguing too
+Isolation tips
+  - 5200ntd
+  - $130? Amazon
+  - $100 m50 Amazon?
+
+1a. AKG 240 MKii - most accurate, low bass like Sony 750s, maybe because phone can't power it, lightweight, no clamping, sits on head comfortably, sound leaks which I like, probably can't run, not foldable, not very portable, still great design
+  - should try 720 model
+
+1.2. Sony 750 (MDRv6/7506?) - weak bass which sound a little different (not bad), sounds less complete than m50 and 7510, crispy / bright feeling, lightweight, foldable, favorite design
+  - should try again to see if bass is that bad
+  - note: 7506 and v6 have a little difference in sound and price ($5), the 7506 is superior
+
+x./ Sony 7510 - complete sound, livelier than m50s, high frequency sounds sound bad, mid-singer's voice in head, otherwise 2nd only to M50s, maybe foldable?, design is ugly though fine in size, though not as good design as the 750s, designs appears cheap (right/left cables sticking out, no metal hinge like the 7506), good cups though comparable to m50, punchy like the m50 which complements less punchy IEMs and just more fun overall
+
+1.3. Shure840
+  - because the 7510 has high frequency and inner voice, this is second best, it's a little duller than both the m50s and the 7510s, but perhaps that's the real sound? It seems to have a complete sound too. Design and quality seems equal to m50, a bit clampy, nice pleather pads, heavy, strong, not as pretty as m50s
+  - "(WN) Shure SRH840, $140-$200. Isolates well, folds for portability, and good build quality. Accurate/punchy bass, great mids, highs are somewhat lacking. #1, #2, #3"
+  - 6300ntd
+
+x. Sennheiser HD25-1 II
+  - store model problems. Used Amperior model instead.
+
+HD 25 vs Bayer DT1350
+  - the note presentation of the Sennheiser HD25 is softer but the Sennheisers have more of a mid-bass hump for added punch and power. The bass of the DT1350 is not lacking, however, and sub-bass is a touch stronger than with the Sennheisers. Interestingly, with amplification, the sub-bass gets stronger still – high-efficiency Tesla drivers or not, performance at the very limits still seems limited with portable devices.
+  - Less fatiguing
+  - Senn has slight v, "involving, exciting", but maybe not so well for movies and audiobooks, for which I could just use my in ears anyway
+  - Senn layers better -- easier to discern instruments and better dynamics, Bayer images better -- more accurate, with amplification even better. Neither can help the soundstage problem. Maybe need to try the AKGs again, but then lose portability. Can't keep those around my neck or in my backpack so easily, can I?
+  - from another source:
+    - The DT1350's have a bigger soundstage, better bass and treble extension, and slightly better isolation (though at the expense of comfort, as they do clamp down pretty hard). Meanwhile, the Amperiors are super punchy and lively, with slightly better instrument separation, and are much more comfortable but with really good isolation still. The Amperiors are also very mid-bass heavy without a whole lot of sub-bass (unlike the balanced bass in the DT1350), and the treble is very much 'in-your-face', as opposed to being 'airy'/'sparkly' like with the 1350's. Just depends what kind of sound you prefer really. They both perform pretty evenly across every genre I've t
+    - "I use both straight out of my phone (Nexus 4), and while the 1350's do scale better with amping, it's not really a huge difference.
+    - ve got or had all 3 and for me the Amperior is the best for general use and out of a portable device. Although, as others have said, you can't really get much extra soundstage from a closed portable, the slightly warmer signature of the Amperior is better in noisy environments. Whether I'd say they are worth replacing your HD25s for is moot in my view. I don't think the difference is significant"
+    - If you are wanting to try the 1350s I do recommend you audition them as they can be difficult to get a good seal and that is problematic in portable use.
+  - One last comment, I also have a pair of B&W P5s which I wear a lot. I preferred them to the HD25s because of comfort and looks and while not audiophile sound they still sound really nice. Even Tyll seems to rate them well enough to be on his wall of fame. I concur and suggest you audition them before laying out your hard earned.
+  - Also, I'd like to note that while they sound incredible, they are a bit tight (as you may read about most supra-aural style headphones) and if you wear glasses, they will put pressure on  your temples.  It's because of this that I am looking to part ways with them and consider IEMs.  I'd say as long as you don't wear them with glasses, they are perfect - if you wear glasses and travel (like myself) you may consider something else.
+  - I prefer the Amperior comfort-wise. They dont clamp on the headband as much, thus not making a mess out of my hair :D
+U need a very good seal to make the dt1350 really sound good, the amperior is far more forgiving on this point.
+for more serious listener(jazz,accoustics) the dt1350 is the better choise with the more mid-centric sounding.
+Bass quantity is about the same, i would say. again, it depends on the seal with the dt1350.
+i feel like the bass of the dt1350 goes lower, the amperior has a strong kickbass.
+both headphones are great, but for me the amperior wins.
+the uncomplicated seal paired with the more fun-sounding signature were the deciding factor.
+
+P5
+
+V-moda XS
+  - too easy to move with head movement
+
+Urbanite
+  - eh
+
+X. Grado 60i / professional something (Alessandro?)
+- open, feel can listen without problem, but I also feel I can listen to the sound-leaking monitors (Sonys, AKG) just as well, quality seemed duller than the closed monitors, not sure if because it's open, and/or because the room was noisy, just didn't interest me as much as the Sonys, AKG, M50
+
+amp. Bayerdynamic DT660
+- accurate, similar to AKG, even had quite okay bass, I was just afraid that my phone wasn't giving it enough juice (high resistance than even the AKGs), perhaps worth trying though
+--
+
+AKG K240*
+  - open*
+  -  "(NW) AKG K240, $70-$100. Good build quality, detachable cable. Tight natural highs, slightly forward mids and highs. #1, #2, #3"
+    - entry-level open
+
+--
+Second time at the same store:
+OCX686
+  - in ear with around ear wire housing
+  - in ear headphones sound great! Holy moly. Comparable to the dull Shure headphones.
+
+*?. Sennheiser HD25-1 II
+  - my iPhone 5 can't power it? Didn't some funky stuff like volume going up and down.
+  -- turns out it was a store model problem
+
+Sennheisser Amperior (similar to HD25 but lower impedance)
+  - quite good, to m50 and 7506, need to relisten. Sounds like what it's big brother sounded like for the bits I heard. A little dynamic, fun. Great design for the head piece. Super portable. Bad design on the cable. For some reason, I found the M50s and 7506s to be a little more clearer, brighter, whereas the Sennheisers and Bayerdynamic to be darker, plain-sounding. Though small and the lightest, they are not foldable, can't even turn the ear-cups; Can only swerve. All parts replaceable? Lol. Crazy. No carrying case. Maybe need to buy a different cable.
+  - Someone on Amazon has the same woes: "if you are tired of hassling with trying to keep earbuds in place, (I was and I had several high end ones), and you are looking for something portable and comfortable that gives you incredible sound reproduction, these are the ones to get." Oh so true. Effing earbuds.
+
+
+AKG 240 mk2 vs 271 mk2
+  - 240 is semi-open!
+
+Fiio Q1
+
+Beyerdynamic DT1350
+  - hmmmm, very similar design and sound to Sennheisser D25-II / Amperior (split headband, swerving ear cups for one ear monitoring, with more metal, but even tinier, more portable, perhaps the most portable, and best design of all, certainly more than the M50 and even 7506 with a smaller ear cups and small but metal headband. Tightest clamp, maybe even tighter than the Sennheisers and M50. Most isolation because of it? It's missing the mid-bass of the Sennheisers and M50, which I'm not sure if I want or not, as I focus much on it. Using the reviewer's words, it's indeed darker. Not much energy here. I enjoyed the Amperior more. Actually, I enjoyed all of the others more. This is just true flat.
+  - Uh oh, found out it's 80 ohms. Dang. Amperior is the way to go.
+  - Flat-folding and rotatable and swivel able ear cups.* The two band design allows to control clamping force.*
+  - "I've never tried an on-ear headphone that didn't hurt my ears. The 1350s are no exception."
+  - "I'm listening to them as I write this review, and I can't hear any keyboard clicks at all, which is saying something since I use one of those super-noisy mechanical (clicky) keyboards that you can hear from across the house"
+  - "mostly neutral sounding."
+  - "They aren't as dark as the M80s and not as bright as the HD25s. They're somewhere in between, which is exactly what I was looking for. On the M80s, I felt that the overall sound was good, but that the treble was just a tad too soft. On the HD25s, I thought the treble was just a touch too bright and the bass was just a tad too loose. The 1350s don't have any of these issues to my ears."
+  - "Soundstage is obviously not a strength of these headphones due to their closed nature and small size." Hmm, maybe in addition to being dark I felt it was a bit small too, smaller than the m50 and 7506.
+  - "I've used them for a couple of movies and an episode of The Walking Dead so far and have been perfectly satisfied with their performance. Their clarity and low-distortion makes them great for dialogue and helps them to excel with movies and podcasts. I still prefer a nice open-back full-sized headphone for what they add in soundstage, but I can use these guys without feeling like I'm missing out on anything substantial." Crazy good point. Need to use to watch films. Crud. Need soundstage.
+  - "These are easily driven and work great out of a portable device. You can get plenty of volume and most of what I like about the sound remains intact"
+  - Comes with carrying case
+--
+Second headphone shop, listening part 3:
+All headphones (thinksound, v moda XS, etc.) had some problem in comparison to the Senns, Bayers, and ATs.
+
+1. Bayerdynamic t51p/i
+  - like the Senns, mostly flat, but add a bit of richness to the bass, making it sound way more fun for any sort of hip-hop bass hits.
+  - Unlike the D1350 it doesn't have a split headband. I really dig that feature in the Ds and Senns as it feels much more secure when moving around. Also unlike, it has two cables, one from each ear. Could be annoying, not sure. But it does clamp less and seems more comfortable than the Ds. Perhaps equal or even a bit more comfortable than the Sennheisers. Though the Senns are super-light that it doesn't matter.
+
+1. Sennheiser 25D-II
+  - the most flat, mids are right there in the middle, bass is plain, accurate, but not rewarding.
+  - Crazy good comfort, design, feather-weight, etc. Just doesn't fold -- ear cups nor headband.
+
+1d. Audio Technica M50
+  - still a competing headphone. Compared to the other two, it's got more dynamic, something between those two and the rich, layering dynamic of the D1350s, yet more airy than all of them, causing less fatigue than D1350, yet offering fun. It's quite special.
+  - Also the build is seems the strongest, and as s backpacker, this matters. I feel I could fold the headband and throw it in a large backpack and not worry. The Senns and Bayers, surely need a hard-cover. Even for daypack use they could get crushed, metal bent by a book, etc.
+  - Also, because they are not quite in ear not off, just-around-ear, making them then portable enough, they're perhaps the most comfortable of the bunch, and perhaps that is how it gets that airy sound, there's some space between my ears and the inner-cup.
+  - So with comfort, least fatigue (maybe even a tad less than Senns and T51s), strongest build, competing sound, why not just buy this?
+
+1d. Bayerdynamic D1350
+  - buttery rich, with all the layers of goodness, fat bass (from mid to all the way down), more so than any of the others. Vocals are much closer to the front (back of my head?). Highs and lows are layered elsewhere. All of it creating a wildly rich, dark, intimate experience. Not sure how this translates to all music and especially non-music, but man is it good.
+  - Though it clamps a bit more, it's my favorite design. Above the Senns the cups fold both ways, it has one single cable (unlike the t51p(/i), a beefy cable end, though I was informed the wire can easily get worn like Apple lightning cables at at the headphone end [todo: electric tape it up!]
+
+Audio Technica ERS7(?)
+  - sounds great, similar to M50, but missing something that the M50s had. Perhaps equally or more comfortable, more luxury-looking. But not foldable, neither the cups nor headband.
+
+V-Moda 100
+  - sounded like it could compete. Good amount of clamp and comfort. Around ear, like M50x. Can try again. Not as portable as the Senns and Bayers. Maybe not even foldable? If foldable, then can compete with the M50x. More durable, perhaps even moreso than the super durable seeming M50xs because the design is so simple.
+--
+
+Headphone shops for the umpteenth time in Ximen district:
+
+Sennheiser PXii
+  - cute little walkman headphones, sounds disappear if there's any noise in the environment at all.
+
+Beyerdynamic DT 770 (250ohm)
+  - my god, do I really need portable? What's portable anyway? Fuck portability; Get these! Circumcameral is a huge difference. Leagues better than IEMs and on-ears. I don't think my iPhone could provide enough juice for bass.
+
+Etymotic MC5
+  - eh. Maybe slightly thicker than the ER-4S, but eh.
+
+Etymotic ER-4S
+  - ah, vaguely reminds me of the breakable vSonic v1000s. No thanks. Sounds as thin as the design. I fear putting these things deeply in my ear, then snagging the cable, as I had done so many times with my customs.
+
+Shure e215
+  - holy moly, the opposite of the Etymotics, strangely atmospheric mid bass world, entering consumer-grade non-sense sound area?
+  - Durability, foam tips, design (housing, around-ear) are all awesome though.
+
+vSonic GR07
+  - Ahhhh, I like this kind of sound. Maybe cheap-sounding compared to the super rich Shures, but I like the airy, detailed in IEMs. Isn't that where IEMs thrive? Leave the richness to the closed Beyers. Now to add just a wee bit more pump and find the bass version!
+  - The nozzle moves? Interesting design! Fits me as well as the Shure's.
+
+Ostry KC06(A)
+  - whoa, for $50 these are nearly as lovely as the GR07s! The A being the bass version. Worthy of side-by-side comparison.
+--
+
+ATH-TAD500
+  - soundstage, harsh highs, still less fatiguing than the Senns? Stereo vocals.
+  - more clamp than the AD700, but still quite bad if head moves, can walk but not bike
+
+Sennheiser HD598
+  - controlled, clean, clear
+  - a bit boring?
+  - I feel my old AD700s are a bit more airy, maybe even more musical, more neutral. These Sennhesiers have sounds in the right place, whereas the TAD500s seem to have sound coming out of everywhere, lacking sound placement. 
+
+Next:
+Ostry KC06A
+vSonic GR07 BE
+DUNU Titan series
+
+RHA
+Yamaha
+
+--
+To try:
+"(WN) NVX XPT100, $80. Laid-back/neutral clean sound. Soundstage is perhaps the best in this price range for closed headphones, giving a very open feel to them. Great accessory list. #1, #2"
+
+"(WN) OnkyoES-FC300, $100. Removable cable, good comfort and build quality. Slightly warm leaning neutral and spacious sound. #1"
+
+"(N) KAM HP-1, $150. Great balance, bright leaning neutral. Good isolation, detachable cable, good comfort. Excellent imaging and good soundstage. #1"
+
+Budget:
+IEM:
+1. (V) Philips SHE3590, $8-$15. Strong bass, v-shape, good extension on both ends. #1, #2
+    - I love them. Sound great, clearer than the Panasonics, all around better, more clearer bass, and even a rubberized cable. I was able to wear them all day quite comfortably. They coil well around my ear, close to my face, to prevent wind noise. Micro phonics are amazing. Better than vSonics v1000. They also stay put better than the v1000, which had to be balanced because of the tiny cylinder design. These merely just become more loose, lessening seal.
+  - can buy two, if I don't find the Panasonic
+3. Panasonic ErgoFit HJE(/TCM?)-120/125/300/350/355
+  - the 125s are muddy compared to the Philips, more thick, less fatiguing because of muddiness, less comfortable than Philips, cheaper build quality than Philips, but still quite an interesting alternative
+1. Etymotic MK5
+  - "I haven't listened Ety Kids 5 but I'm a MK5 user and had HF5 before and listened ER4S. All I can say is that I do really enjoy MK5 more than HF5 and ER4S. MK5 has more bass than ER4S and HF5 and seems more spacious and more 3D sounding. The details in the mids are amazing and vocals come out very clear and so natural with these even after IM50/70."... Because of dynamic driver
+*. Etymotic Kids
+  - for city/scooter use, but the kid-friendly 300ohm impedance might ruin the use of it, so may need to jump to mid-level Ety HF5.
+
+JVC riptidz
+JVC HA-FX-40
+
+Open or Closed and travel-friendly:
+1. (N) Sony 7506/MDR-V6 (digital) , $80-$100. Folds for portability. Clear sound with a rather flat response. #1, #2
+X. Sennheiser HD280
+  - my high school headphones, for when my speaker set was temporarily dead. They clamped me to death. But at least they were circumcameral. And they even folded nicely into my backpack. If only it had a straight cable.
+
+Special:
+1. (T) Koss KSC75, $10-$20. Mid-bass heavy, sub-bass roll-off and sparkly highs. *These are clip-ons*. #1, #2, #3
+  - "1 - Koss KSC75 [$13-$15]: Best bang for buck phones anywhere. Very good for modding"
+  - clip-one ear, open
+  - can buy two
+3. (Vm) Meelectronics M6, $13-$23. Fit might be a pain, v-shaped somewhat sibilant sound. Design feels cheap, available in many colors. #1, #2, #3
+  - sports design around ear
+
+Entry-level
+I
+Open (best):
+1. (NW) AKG K240, $70-$100. Good build quality, detachable cable. Tight natural highs, slightly forward mids and highs. #1, #2, #3
+1. (MT) Audio Technica ATH-AD700x, $120-$160. Great comfort and decent build quality. Weak bass though it has some impact, detailed mids and highs with no fatigue. One of the best soundstages in the price range. #1
+    - I have these and love them. I thought the bass was fine, making it more airy, but it's probably true. These things feel like pillows but they are terrible for any kind of movement of a body, or even head movement.
+
+Open and travel friendly:
+See above.
+  - Grado 60/80/Alessandro MS-1i, AKG 240 MKii
+
+Closed and travel friendly:
+See above.
+  - ATH M50
+  - Shure SRH840 (though more expensive for this bracket at $200 Amazon, $160 Amazon reaeller)
+  - *. Sony V6/7506/MDRV6
+  - if you can get one for $60, it destroys all consumer crap, and is nice to keep for travel and not worry much about because of the price and popularity
+  - still need to try the 7506/MDRV6
+
+Mid-level:
+IEM:
+1. (WN) Custom Art Music One, $260. Custom Fit. Perhaps the cheapest customs available. Bass can distract from the overall balance with a warm leaning signature, full and rich sounding. Great isolation and comfort. Hard to remove from ear. #1
+    - I have these, wired. I should have bought the detachable version. Need to repair it.
+    - "One of the many reasons the dynamic-driver VSonic GR07 has maintained its popularity over the past few years is that it can go toe to toe with many higher-priced sets. Pitted against the Custom Art Music One, it loses out in midrange and treble quality but partly makes up for it with great bass. The main differences lie in the midrange, where the Music One offers better presence and clarity. The GR07, in comparison, sounds slightly mid-recessed. This, in turn, accentuates the bass of the VSonics, which appears a little more impactful but also quicker compared to the Music One. The Custom Art unit offers smoother treble while the more energetic GR07 is susceptible to sibilance. The presentation of the GR07 tends to have good width and little else, while the Music One is more well-rounded and offers depth and imaging to match."
+    - "Long-time industry leader and innovator Etymotic Research first released the ER4 in 1991, and its ER4S tuning remains one of my all-time favorite universal-fit earphones. The Custom Art Music One and ER4S each have advantages over the other and it’s difficult to pick a clear winner here. The Music One definitely sounds fuller and warmer overall, thanks in part to its weightier low end. Despite the bass, however, it appears a bit more mid-centric overall. Its treble is less prominent and more forgiving, and its midrange – thicker and more attention-grabbing. The leaner ER4S can at times sound a touch clearer and has a small advantage in overall balance, while the Music One oftentimes sounds more natural thanks to its thicker, fuller"
+    - "In terms of presentation, the CT-200 is more spacious and open-sounding while the Music One tends to be slightly more intimate. Nonetheless, the Music One again sounds very natural in this comparison – arguably more so than the CT-200 thanks to its warmer, thicker sound"
+1. vSonic GR07
+  - a head-fi favorite, should simply just own one
+  - "To sum up, DT1350 handily beat much more expensive headphones (such as HD800, D7000, HE-5, LCD-2) to my ears; not to mention the swath of other headphones and IEMs I've tried. Value is enormous - they only cost ~$300...Perhaps the closest competitor would be the half as expensive VSonic GR07, however the difference is far larger than the price suggests"
+3. (Nm) Etymotic ER4S, $250-$300. Incredibly detailed, clear, neutral and analytical sound, if a bit bright. Bass is extended, though definitely not emphasized. Outstanding isolation, though deep insertion may not be for everyone. #1, #2
+  - "next best thing to live music"
+  - maybe can EQ it to be more musical
+  - todo: check amp / iPhone requirements
+  - people create custom molds with these drivers
+4. Etymotic Research HF5 ($120) – Etymotic Research invented the universal-fit in-ear headphone back in the 80s, and the company still manufactures some of the most accurate-sounding earphones on the market more than two decades later. The HF5 is a top-tier model with a mid-level price tag, offering an impeccably clear and detailed sound from a tiny balanced armature driver. It also offers outstanding noise isolation – better than pretty much any other universal-fit earphone on the market – all at a very reasonable price. Two headset versions – the single-button HF2 and 3-button HF3 – are also available.
+  - very detailed / accurate, more bass and less harsh treble than the ER-4S. So, might not add much to Custom Art Ones. ER-4S has better soundstage and layering, and infinite detail.
+  - Because of isolation, could work well with scooter, as it costs less and is not a huge loss if lost.
+  - Lower impendence: the ER-4S have 100 ohms! "amp-dependent"
+5. (N) ACS T15, $230.Top notch comfort, good build and isolation. Bass is lean but has good presence, neutral mids, natural sounding. #1
+6. 1, 2 - JAYS q-JAYS [$220]: Very clean, detailed and rather bright. Includes a wealth of accessories including Comply T300 tips. Sound stage is airy. Bass is quick with nice upper bass impact but not much sub-bass presence. Mids are clean and slightly forward. Highs are sibilant until burnt in, then they are very detailed and sparkle. Similar to Ad900 or AKG K701 in sound
+      - hmmm, interesting choice for portable open-air, as opposed to ATH-M50x circumcamerals and Grados or Koss Porta Pro, for films, everyday listening. Maybe can upgrade from Koss clip ons if needed.
+
+Open (best):
+1. "(NT) AKG K701/702, $240-$270. Amazing detail and clarity, bass is adequate and precise. Largely considered the most detailed headphones in the price range. The K702 offers a detachable cable. #1, #2, #3"
+    - $175-200
+    - seems like the ATH-700/900, maybe loose fit too
+1. (NT) AKG Q701, $225-$250. Slightly more bass impact than the K701, very clear detailed sound. Comes in many colors. #1, #2, #3
+1. "(NT) Audio Technica ATH-AD900x, $200-$300. Good clarity, lush balanced mids and highs, punchy accurate bass. Very comfortable, great soundstage. #1, #2"
+
+Open and travel friendly:
+?. "(WN) Sennheiser HD558, $125-$180. Warm bass, though not much impact, slightly recessed mids, and rolled off highs. Very relaxed sounding. #1, #2"
+    - 3.5mm connector (with 2.5mm connector may stick out quite far), 3 meter detachable cord
+    - $100 amazon, see related cable purchase
+?. "(WN) Sennheiser HD598, $175-$250. Looks fantastic, good comfort. Warm leaning neutral sound signature. Decent bass impact and extension, smooth mids, slightly rolled off highs. #1, #2, #3"
+      - 6.3mm (!?!?) jack with 3.5mm adapter, detachable cord
+      - $150 amazon
+
+Closed and travel-friendly:
+1. (N) Sennheiser HD 25-1 II, $130-$200. Durable with good isolation. Well defined lows, neutral mids, and smooth highs. #1, #2, #3
+1. (V) Beyerdynamic Dt770, $170-$250. Bassy with a v-shape. Very comfortable. Multiple impedance versions, all have similar characteristics. #1, #2
+  - largest closed ear soundstage?
+  - might require amp
+    - has 32 ohm and 80 ohm versions
+  - only 9 ounces
+  - doesn't fold it swivel
+  - real circumcamerals, unlike Sonys. Even ATH-M50s are a bit shallow in comparison.
+  - "The nearly twice as expensive Denons are much more accurate than the 770s and still the best sounding closed cans I’ve heard on good source material. But the Denons ruthlessly reveal flaws and have a more “in your face” sound. The Beyers sit you a few rows further back in the venue, are more spacious, and try to offer some of the bass and treble “enhancement” many have grown used to."
+  - "They sound similar to the Audio-Technica M50s but are much more comfortable"
+3. (N) Beyerdynamic DT1350, $175-$300. Excellent build quality. Very neutral, detailed, sound. Tight accurate bass with great clarity throughout. #1, #2, #3
+  - might require amp
+4. DJ, 1 - Audio Technica M50 [$160]: Great bang for buck, good isolation, fun sounding but not overly colored, folds up for easy transport. VERY good bass response/impact which adapts well to the music.
+5. (WN) V-Moda M-80, $179-$220. Amazing build quality. Removable Cables. Decent Isolation. Deep bass with forward mids. Highs lack sparkle but extended. Very smooth sound. #1, #2, #3
+  - $130 amazon*
+6. (Wm) V-Moda XS, $180-$200. Folds nicely, comfortable, removable cables. Warm and smooth sounding, #1, #2
+7. (W) Sennheiser Urbanite, $250. Built well with a detachable cable. Sound is warm with rolled off highs, coming off veiled. #1
+8. (T) Audio Technica ATH-MSR7, $260. Removable cable, secure fit, good build, good for portable use. Clear and detailed, bright leaning. Near reference quality. #1
+9. (N) thinksound On1, $250-$300. Neutral, clean, and detailed. Wooden cups, removable cable. Lightweight and good isolation. #1
+10. (WNm) NAD VISO HP50, $300. Warm to neutral with a good soundstage, Light, comfortable, and isolate well
+*. "(N) Shure SRH940, $220-$300. Removable cable and good isolation. Warm clean sound great for all sorts of music. #1, #2, #3"
+  - probably like the 840, so no need
+
+High-Level
+Open (best)
+3 - AKG K701 or 702 [$250]: Extremely detailed with a large soundstage. Some feel anemic bass dependent on amping. 
+3 - Beyerdynamic DT880 [$310]: Very flat, neutral sound. Excellent and accurate soundstage. Very good for gaming.
+2 - Audio Technica AD2000 [$500]: Open, airy soundstage with very lush forward midrange and great speed. One of the best for female vocals.
+3 - Beyerdynamic DT990 [$300]: Semi-Open, great soundstage, natural sound especially when paired with tube amp, present but controlled bass.
+3 - Sennheiser HD600 [$400]:
+3 - Sennheiser HD650 [$360]: Circumaural, open. Upgraded version of the HD600 with better soundstage.
+
+Sources:
+1. http://www.head-fi.org/a/headphone-buying-guide
+  - I'm at entry-level
+  - by Tyll?
+1. http://theheadphonelist.com/headphone-review-list/
+  - by |Joker|
+  - has a "Portable Headphone Review List"
+  -- top 5: DT1350, HD25-1 II, ATH-M50, P5, ADL H118
+  -- near top: V-Moda Crossfade M-80, Denon AH-D1100 (quality issue?), Sony MDR-ZX700, Sony MDR-V6, Audio-Technica ATH-ESW9A ($170, woodgrain, less fatigue than m50)
+http://www.head-fi.org/a/buying-guide-headphones-by-price-range
+1. http://www.innerfidelity.com/content/innerfidelitys-wall-fame
+2. http://www.head-fi.org/t/574617/review-comparison-beyerdynamic-dt1350-t50p-sennheiser-hd25-1-ii-hd25-13-ii-pioneer-hdj-2000-v-moda-m80-aiaiai-tma-1
+  - " Splitting the headband increases clamping force; (of HD25)"
+  - "The splitting band here doesn't hold nearly as securely as the HD25 so will tend to collapse if left alone. Overall, this distributes the weight across both the earpads and headband, which is good since the DT1350 is heavy for its size; noticeably moreso than the HD25."
+  - "wearing a hat beneath the headphones actually made them fit better and improved comfort (and also alleviated the Beyer's pesky tendency to pull my hairs out at the side)"
+  - "M80: Very solidly built"
+  - "HD25:
+- not my first choice for classical in general
+- the impact that it brings to rock and metal just doesn't translate to classical;
+- midrange instruments feel boxed in, bassy intruments too boomy; treble is good actually and reminds me of the T50p somewhat
+- great for rock and metal, guitars and drums/cymbals have emphasis"
+    - ouch, need to try some soft piano tracks then
+  - "DT1350...- generally sounds good with any well recorded instrumental/jazz/acoustic/vocal/etc
+- sounds sterile with synthesized sounds"
+    -  the high resolution allows it win here
+
+*. http://www.head-fi.org/t/701109/beyerdynamic-t51p-review-amperior-comparison
+  - http://en.goldenears.net/13268
+  - http://en.goldenears.net/GR_Headphones/4726
+*. http://thewirecutter.com/reviews/the-best-150-over-ear-headphones/
+  - compares Sony 7506 to similar MDR-V6
+  - also noticed the Sony 7510s problem at high frequency
+
+
+http://www.head-fi.org/t/56698/great-headphone-audio-stores-in-taipei
+  - shops in Taipei
+  -- http://class.ruten.com.tw/user/index00.php?s=jmplus01&d=3070043&o=6&m=1&p=2
+  
+  http://m.thewirecutter.com/reviews/best-headphones-under-40/
+
+https://m.reddit.com/r/headphones/comments/2nbdlh/cheap_iem_battle_philips_she3590_vs_panasonic/
+
+--
+http://www.head-fi.org/t/661508/vsonic-gr07-vs-hifiman-re-400-did-someone-compare-those-2
+  - "Does ANYTHING (under $200) beat the gr07s? They seem to be the favorites around here"
+  - The gr07s have a MUCH fuller richer sound
+
+http://nwavguy.blogspot.tw/2011/04/beyerdynamic-dt-770-pro-80-review.html?m=1
+  - convinced to try DT 770s
+
+http://theheadphonelist.com/headphone_review/custom-art-music-one-review/
+  - music one, don't need GR07s because the Ones are already thick and warm, could try ERS4 for the most detailed sound of any kind of headphone.
+--
+http://www.head-fi.org/t/706339/vsonic-gr-07-be-vs-rha-ma750
+--
+temp bookmarks:
+http://en.goldenears.net/13268
+http://en.goldenears.net/388
+http://en.goldenears.net/451
+http://en.goldenears.net/371
+http://en.goldenears.net/26761
+http://en.goldenears.net/16315
+http://en.goldenears.net/4761
+http://en.goldenears.net/GR_Headphones/4726
+
+http://www.head-fi.org/t/574617/review-comparison-beyerdynamic-dt1350-t50p-sennheiser-hd25-1-ii-hd25-13-ii-pioneer-hdj-2000-v-moda-m80-aiaiai-tma-1
+
+http://www.head-fi.org/t/701109/beyerdynamic-t51p-review-amperior-comparison
+
+http://www.head-fi.org/t/551154/beyer-dt1350-vs-senn-hd25-1-ii
+
+[closed one by accident]
+
+http://www.head-fi.org/t/574617/review-comparison-beyerdynamic-dt1350-t50p-sennheiser-hd25-1-ii-hd25-13-ii-pioneer-hdj-2000-v-moda-m80-aiaiai-tma-1
+
+https://www.google.com.tw/search?q=DT1350%3A+vs+m50+technica+bayerdynamic&oq=DT1350%3A+vs+m50+technica+bayerdynamic&gs_l=serp.3..30i10.11723.19723.0.19817.50.34.14.0.0.0.164.2443.26j7.33.0....0...1c.1.64.serp..3.8.501...0i30.I_8PntldIi8
+
+http://www.head-fi.org/t/665919/100-300-headphones-review-ath-m50-vs-ath-ad700-vs-hd598-vs-srh940-vs-dt1350-vs-v6-vs-modded-v6-vs-bose-oe-updated-6-19-13
+
+http://www.head-fi.org/t/685034/audio-technica-ath-m50-vs-beyerdynamic-dt-1350-80
+
+http://www.headfonia.com/beyerdynamic-dt1350-death-to-the-hd25-1/
+
+http://www.head-fi.org/t/701109/beyerdynamic-t51p-review-amperior-comparison
+
+http://www.headfonia.com/closed-cans-shootout-m-50-esw-9-t50p-hd25-1-beats-studio-srh-840-srh-750dj-k181dj-and-dj1pro/
+
+https://translate.google.com.tw/translate?hl=zh-TW&sl=en&u=http://www.head-fi.org/t/701109/beyerdynamic-t51p-review-amperior-comparison&prev=search
+
+http://www.head-fi.org/t/574617/review-comparison-beyerdynamic-dt1350-t50p-sennheiser-hd25-1-ii-hd25-13-ii-pioneer-hdj-2000-v-moda-m80-aiaiai-tma-1
+
+
+
+http://www.headfonia.com/amazing-beyerdynamic-t51p/
+
+
+
+
+# notes found from another file, throwing it here for now:
+Shure840
+  - because the 7510 has high frequency and inner voice, this is second best, it's a little duller than both the m50s and the 7510s, but perhaps that's the real sound? It seems to have a complete sound too. Design and quality seems equal to m50, a bit clampy, nice pleather pads, heavy, strong, not as pretty as m50s
+  - 6300ntd
+
+Ath-m50x
+  - winner thus far, complete sound (with 7510, and maybe the 840s), heavy, strong, pretty, clamping nearly as bad as Sennheiser 280 pro, it's special in producing sounds never heard before and being the most fun, though not as bright as the Sonys it had something magical in them, nice pleather pads
+Isolation tips
+  - 5200ntd
+  - $120 (free shipping to US) Amazon
+  - $125 (free shipping to US) (old model) m50 Amazon?
+
+Akg mkii - most accurate, low bass like Sony 750s, maybe because phone can't power it, lightweight, no clamping, sits on head comfortably, sound leaks which I like, probably can't run, not foldable, not very portable, still great design
+  - should try 240, 720 models
+
+Sony 7510 - complete sound, livelier than m50s, high frequency sounds sound bad, mid-singer's voice in head, otherwise 2nd only to M50s, maybe foldable?, design is ugly though fine in size, though not as good design as the 750s, designs appears cheap
+
+Sony 750 - weak bass which sound a little different (not bad), sounds less complete than m50 and 7510, crispy / bright feeling, lightweight, foldable, favorite design
+  - should try again to see if bass is that bad
+
+Grado 60 / professional something
+- open, feel can listen without problem, but I also feel I can listen to the sound-leaking monitors (Sonys, AKG) just as well, quality seemed duller than the closed monitors, not sure if because it's open, and/or because the room was noisy, just didn't interest me as much as the Sonys, AKG, M50
+
+Bayerdynamic DT660
+- accurate, similar to AKG, even had quite okay bass, I was just afraid that my phone wasn't giving it enough juice (high resistance than even the AKGs), perhaps worth trying though
+
+/
+
+Ath ckl22?
+  - great! Has amazing bass for the price!
+  - 480ntd
+
+—

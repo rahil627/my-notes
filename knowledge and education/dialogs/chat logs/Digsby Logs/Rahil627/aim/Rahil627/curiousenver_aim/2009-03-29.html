@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with curiousenver on 2009-03-29</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-03-29 06:57:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrm...the scariest thing happened....after reformatting your computer &amp; installing windows, an error came up saying &quot;winlogon.exe encountered a problem and needed to close&quot; ...</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 07:12:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">fuck man...now im a bit scared of your files on my external XD<br />that virus is known to destroy networks</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 01:53:47"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">yo</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 01:53:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">waddup</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 01:54:01"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">about my tourney</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 01:54:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmmhmm</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 01:54:38"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">should I do $5 venue for:<br>Chips/Drinks/Pizza or LASAGNA FROM GUSTOS + drinks</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 01:54:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">LASAGNA FROM GUSTOS</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 01:55:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">didnt that work well last time?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 01:56:17"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">hahaha yeah</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 01:56:32"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">but it might not feed as much as pizzas could</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 01:56:33"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">but we'll seeee</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 01:56:37"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">I'll talk to Gusto's =D</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 01:56:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 02:01:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh, can i drop the laptop off tomorrow?..prolly at night</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:01:48"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">yeah</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:01:51"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">plz at night :)</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:01:59"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">I'll be home at like 6ish</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 02:02:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">k, i'll call b4...yea my last class ends at 7</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:02:10"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">and if not I'll tell my parents you'll drop by :)</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:02:13"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">oh word you're good then</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 02:02:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmk</span></span></div>

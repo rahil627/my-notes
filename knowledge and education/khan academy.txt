@@ -1,0 +1,35 @@
+raising money for a startup:
+assets = liability + equity
+equity (net worth, shareholders equity) - owner's value in the assets
+
+angel investor - rich people willing to take risks. The chance of a venture being successful is low,  but the payoff is really high.
+seed venture capitalist - manage other people's money
+series A
+
+round financing
+
+banks only loan an amount they feel you would be willing to pay
+can put collateral down to increase loan amount
+
+dilution - shares increase
+
+the amount an angel investor loans directly affects how much of the company he owns.
+
+then when a seed venture capitalist invests in the company, they get shares.
+
+then when another seed venture capitalist (series B) invests in a company they get shares. Note that if the value of the company increased, than the amount/share increased, so the company will be giving less shares for more money.
+
+initial public offering (IPO) - can be used to raise more money, also the investors can exchange shares for money. On the public stock exchange (NASDAQ, New York stock exchange)
+
+lead underwriter - legal work, model projections
+syndicate - group of banks, investment banks (although they are now all commercial), lead by the underwriter
+
+the underwriter and syndicate tell their customers (hedge funds, brokerage accounts) about the company. The company "goes public". The lead underwriter and syndicate get 7% of the shares for about two months of work
+
+prime brokerage account - a brokerage account for big guys
+
+secondary market - when you buy a share from IBM, you're not actually investing in the company, you're buying it from someone else
+
+why even buy a share from an IPO?
+dividend - cash given to shareholders
+or maybe the companies gets bought out for a higher price

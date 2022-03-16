@@ -1,0 +1,124 @@
+
+places to check by personal favorite tools:
+Haxe
+  - Haxe discord is probably the most active
+  - HaxeFlixel forums is dead
+  - HaxePunk forums is dead
+  - OpenFL forums is probably the most active forums
+  - Kha forums is tiny
+  - Heaps forums?
+Godot
+  - Godot forums
+C/C++
+  - creative applicatinos
+
+
+—
+jobs that I feel that I can do at the moment:
+‘customer support’
+‘support engineer’ for non-web apps
+**‘interactive engineer’, junior position**
+‘game support’, ‘game community support’, especially for MMOGs
+intern / junior position at a design studio
+
+resume link:
+https://www.dropbox.com/s/0umbfmq6ssixr3s/resume.pdf?dl=0
+
+key-words:
+design studio
+game design studio
+
+digital art
+interactive art
+
+interactive developer
+creative developer
+creative coder
+
+tools:
+openframeworks
+processing(.js?)
+cinder
+
+TouchDesigner
+vvvv
+
+opengl, glsl
+directx, hlsl
+
+webgl
+  - three.js
+SVG and/or Canvas APIs 
+Experience with visualization libraries like d3.js, Raphael, Fabric.js, Processing.js, etc 
+Experience with application frameworks such as Riot.js / React.js / Vue.js 
+
+OpenLayers, Leaflet, Three.js, Cesium.js, Node.js, Express.js, D3.js … 
+
+JavaScript Animation Frameworks (GSAP, Anime.js or similar) 
+Hardware Integration: Sensors, cameras, Kinect, LED lighting, RealSense, etc 
+Embedded systems such as Phidgets, Arduino, Raspberry Pi 
+
+arduino
+raspberry pi
+
+unity
+unreal
+
+flash, actionscript, haxe, openfl
+
+
+
+simplyhired
+  - general catch-all aggregate job site with a good design, especially for tablets!
+  - has remote-only option
+  - can find anything, including rare ‘interactive art’ jobs
+
+remote:
+**remoteok.io**
+  - very simple ‘n cute site, mostly startups, and mostly all-remote companies!
+  - can use their remote.dev site profile as a short resume
+  - mostly trendy web development startups; not very creative, nor do they sound fun. Only ‘customer support’ and ‘support engineer’ sounds okay.
+
+ratracerebellion.com
+  - list of web-sites that pay people to do tasks remotely
+    - meh, it feels like the whole world would be competing for these simple tasks, need to specialize.
+
+games:
+gamedevjobs.io
+  - has tags for remote and temp
+  - https://gamedevjobs.io/tags/remote-temp/
+gamasutra
+  - very few, better to subscribe to e-mail, mostly corporate, but easy to go through as big companies cannot spam posts for multiple positions
+gamejobs.co
+  - very cool search filter system, but, mostly corporate
+
+tech:
+stack overflow jobs
+  - not many remote, and those that exist are really lame
+
+current tech:
+https://insights.stackoverflow.com/survey/2019#development-environments-and-tools
+
+https://www.creativeapplications.net/tools/
+  - in addition, this site lists the tech used for each project!
+  - it also has a jobs board! have to become a member to see all past companies that used it
+
+https://www.creativeapplications.net/features/can-2019-highlights-and-favourites/
+
+
+applied to:
+interactive art:
+sosolimited
+hush studios
+
+game:
+star citizen, generalist position? (customer voice, design, test, support dev, etc.)
+seed, software dev, but said general position in cover letter
+
+customer service / support dev:
+p/NCSoft
+
+other:
+upwork, ontology
+unity, solutions engineer (business)
+

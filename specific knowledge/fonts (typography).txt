@@ -1,0 +1,13 @@
+For web - Geordia as serif, Calibri as sans
+For print - Sabon Next + Syntax
+For code - Consolas, hands down
+For brochures - Gill Sans + Perpetua
+For presentations - unequivocally Myriad Pro
+
+calibri
+myriad pro
+helvetica - especially for all caps titles
+georgia > times new roman
+
+serif for papers/documents
+sans serif for presentation

@@ -1,0 +1,227 @@
+game development philosophy:
+ipad game -> prototype -> playtest -> kickstarter -> create
+
+Be playful, prototype, playtest, and release quickly
+
+probably the greatest resource:
+great articles by indie gamers?
+  - supersword brohters
+Valve’s guide book
+Daniel Cook
+http://www.lostgarden.com
+http://www.lostgarden.com/2008/07/directory-of-posts.html
+
+Check github for game library function classes for any framework. Also search for game examples.
+
+great articles
+  - http://makegames.tumblr.com/post/44181247500/making-it-in-indie-games-starter-guide
+  - http://emrahozer.wordpress.com/2012/11/05/advices-for-indie-game-programmers/
+  - http://www.gamasutra.com/view/feature/130848/how_to_prototype_a_game_in_under_7_.php?print=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remember to use people's code as a resource: GitHub, BitBucket, Ludum Dare, and other game competitions. Just search the engine, then what you want to do.
+
+http://orteil.dashnet.org/gamegen
+  - random game generator
+
+become amazing using a creative framework:
+  - http://thenextweb.com/dd/2012/05/04/amazing-video-drawing-experiments-by-kynd-use-openframeworks-to-create-art/
+
+keep it simple:
+  - http://www.creativeapplications.net/openframeworks/dolfball-ipad-openframeworks/
+
+animation
+  - http://img.myconfinedspace.com/wp-content/uploads/tdomf/160151/draw.jpg
+
+
+make the game juicy:
+http://www.youtube.com/watch?v=Fy0aCDmgnxg&t=12m50s
+
+
+
+http://forum.unity3d.com/threads/7883-2D-shooter-tutorial
+
+TAKE YOUR TIME. DESIGN IT. DESIGN FIRST THEN BEGIN PROGRAMMING. DESIGN INSPIRES PROGRAMMING.
+
+http://www.derekyu.com/tigs/assemblee/
+  - should keep a blog like him
+
+http://compohub.net/
+
+be more expiremental, expirement with feelings, try to capture the slow pace of films
+
+
+
+
+
+Prototyping also includes playtesting. Does the game work do what it was intended to do? That's the main question.
+
+MAKE A GAME TO EXPRESS FEELINGS. Ask yourself, "is the experience of playing the game meaningful? Did it move me?". If it can't do that, then it's not worth making.
+
+
+
+http://forums.tigsource.com/index.php?topic=3972.0 - game competitions
+
+http://gamestorm.tumblr.com/
+
+https://twitter.com/#!/petermolydeux
+horse ebooks
+
+http://actionscripter.co.uk/blog/?cat=76
+http://www.damesmakinggames.com/?page_id=119
+
+
+
+
+playtesting
+have a few advisors that share a somewhat similar vision or taste with you.
+
+ask newbies the following questions and ignore any of their other advice
+what did you like?
+what didn't you like?
+what confused you?
+
+http://www.gamejamcentral.com/
+http://www.gdcvault.com/free/
+
+appropriate the qualities of cultural pastimes: easy to learn, spread through word-of-mouth, and possessing organically evolving rules sets defined by those playing.
+
+http://groups.google.com/group/gamesforchange
+
+http://compohub.net
+
+http://www.java4k.com - really smart games
+
+http://gamedev.stackexchange.com/questions/2988/how-do-you-come-up-with-ideas-for-new-games
+
+
+http://www.gamasutra.com/blogs/PaulSztajer/5376/profile/
+
+
+think of a game idea first
+make a complete paper prototype, then begin programming
+then choose your programming language / game engine / physics engine
+
+aaron oldenburg - http://aaronoldenburg.com/ - from EGP, prolific artist/assistant professor
+vazor222 - http://vazor222.livejournal.com/ - from EGP, worked on third party games
+jesse.lampert@gmail.com - Karen's contact at Tremor Video
+
+http://quote-un-quote.tumblr.com/post/10614011394/interview-indiedev-connor-ullmann
+  - game making from a flash developer
+
+see ludam dare game source code
+
+1. Use Flash to start making games immediately.
+2. Use C# to make more advanced games and learn more advanced programming.
+
+enter game contests to at least start programming
+then think of game concepts, with the mechanic first
+
+small indie game competitions and jams:
+compos?, http://gdc.randati.net/ - a timeline of all of them
+experimental gameplay project - one theme per month
+ludum dare - one theme, short time
+global game jam - once a year, largest game jam
+game prototype challenge - two themes mixed
+http://content.gpwiki.org/index.php/Contests
+
+smaller:
+TIGjam
+Reddit Jam
+http://www.glorioustrainwrecks.com/
+
+new:
+http://www.onegameamonth.com/games - can post games here when finished
+
+larger contests
+8/31 activision, 175,000, 75,000
+
+10/03 indie game challenge 100,000, split the other 150,000
+10/18? IGF
+06/14 dreamplaybuild
+http://www.indiepubgames.com/previousWinners.php
+indiecade
+
+conventions:
+GDC
+PAX East, PAX Prime
+http://fantasticfest.com/arcade, ?
+
+interaction/creative libraries
+processing
+openFrameworks
+cinder
+HYPE
+
+art and sound assets:
+http://www.pixelprospector.com/indie-resources/
+incompetech
+freesound
+
+more on engines:
+Use FlashPunk with AIR?
+- FlashPunk (and likely Flixel) don't perform well on iOS becuase they use bitmap.copyPixels
+- display-list rendering is faster (and likely optimized by AIR)
+- source: http://flashpunk.net/forums/index.php?topic=3866.0
+
+- http://stackoverflow.com/questions/9272797/framework-for-game-development-on-adobes-air-mobile
+
+https://github.com/ericjohnson/canabalt-ios/tree/master/flixel-ios - Flixel port for iOS, not updated as much 
+
+game engines:
+unity - 3d, now 2d open source, free, costs $400 to publish to iOS or Android, great IDE
+openframeworks - like processing, except in C++, seems like the best C++ framework
+monogame - C#, open source (OpenGL) version of xna, ports to anything, based off of XNA, OpenGL, lacks drawing primitives
+x/xna - C#, limited to Windows and Xbox 360
+flash - 2d (some 3d), ActionScript, FlashDevelop, FlashPunk, perfect for 2d, relies on Adobe AIR to port mobile 
+APIs, not bad, may limitperformance
+sdl - C++, world of goo, crayon physics deluxe, most of Jason Rohrer and Petri Purho, world of goo's framework is open source
+x/game maker - for non-programmers, too limiting
+sfml
+cocos2d - 2d, Objective-C, iOS, OpenGL-ES
+x/love - 2d, lua, windows/mac/linux, lua is terrible
+processing - java, mainly for prototyping or interaction design for creative people, can use for quick sketches
+
+flash libraries - flixel, flashpunk, pushbutton
+  Starling - an optimized version of Flash for mobile devices 
+  - only use if Flash version cannot be optimized
+
+resources:
+http://www.neogaf.com/forum/showthread.php?t=491431
+http://blog.dragonline-thegame.com/2011/cocos2d-x-vs-openframeworks-vs-unity-vs-flash/
+  - comparison similar to my thoughts
+
+other libraries
+physics engines - Box2d, Farseer for XNA
+tweening - greensock tweenmax for flash
+
+flash specific
+signals - for flash, as3-signals or turbosignals
+gamepad - simulates gamepad keys for keyboard, http://blog.iainlobb.com/2010/04/introducing-gamepad.html
+visual level editor - ogmo editor, tiles
+
+http://flashgamedojo.com/
+http://www.flashrealtime.com/flash-game-library-engine-list/
+http://www.adrianparr.com/?p=83 - a billion flash libraries
+
+
+

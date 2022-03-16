@@ -1,0 +1,42 @@
+try nme.display.graphics drawTriangles and bitmap fill to test the quilt pattern
+
+if using HaxePunk
+  - add a nme.display.sprite to HXP.stage. In the render function for each haxepunk.sprite, overload it and use the sprite to draw to
+  - to check collision, create a nme.display.sprite for each haxepunk.sprite (or a more basic object), then use hittest()
+  - maybe using plain nme (or flash) is better
+
+use Flash or HaxeNME or HaxeFlixel and Nape
+  - test Flash frame rate on iOS
+    - remember to build for release
+    - try drawing one line
+    - try drawing 10 lines
+    - test on iPad 3 because it is likely slower than iPhone 5
+      - google this
+  - create a class that does the following:
+    - draw:
+      - draw using FlxSprite draw functions
+      - draw using nme.display.sprite
+    - check collision:
+      - use nme.display.sprite.hittest()
+      - check collisions by creating a polygon with Nape (one polygon per line segment)
+
+design:
+
+implementation:
+  - requirements:
+  - handle touch input
+  - draw thick smooth bezier curves
+  - check collision on the thick smooth bezier curves
+    - need to use NME to use HitTest
+    - layer correctly
+    - color code for multi-touch?
+    - blend colors on overlap?
+   - see deepknight's code for building a game with NME
+
+draw smooth lines with cocos2d
+  - http://www.merowing.info/2012/04/drawing-smooth-lines-with-cocos2d-ios-inspired-by-paper/
+  - see notes in Dance.txt
+  - create a class that does the following:
+    - draw using OpenGL
+    - check collision in polygon
+  

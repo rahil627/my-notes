@@ -1,0 +1,130 @@
+my notes:
+10-20km/h
+  - 3rd gear can click
+20+km/h
+  - can be in any gear and let go of clutch without problems, though, 4th and 5th might click
+
+tryin to figure out the most optimal way to change gears... optimal for the life of the motorcycle...
+
+https://m.youtube.com/watch?v=l9HfiYOmsPk
+  - amazing 30-minute video that explains everything quite superbly. YouTube is amazing!
+
+https://jalopnik.com/heres-how-to-destroy-your-manual-transmission-and-how-1828403150
+  - “*The best release of the clutch pedal when shifting is quick but not too quick, since you also don’t want to just dump it into gear, both to keep the ride smooth and to protect the gears.** Still, Wyatt said that **if he had to choose between slipping and dumping, he’d go with dumping, since gears are pretty tough, and clutches less so**.”
+    - **so, err on the side of *dumping***
+  - “The longer you spend in that gray area the less life you’re going to get out of your clutch,” Wyatt says. “You could get a couple of hundred thousand miles out of a clutch if you want to, or you could burn it out in an afternoon.”
+  - How Long Would It Actually Take To Destroy A Transmission Grinding Gears?
+    - Which leads us to grinding, or that awful noise you hear when you engage the clutch halfway into the gear, or when you try to shift without disengaging the clutch and the revs aren’t matched, or when you’re coasting in neutral and you try to put the car into gear without first disengaging the clutch.
+    . The sound is very bad and even panic-inducing but, I was happy to learn, far from the end of the world. Wyatt says if you intentionally ground a gear, it would be an hour or two before it was stripped, meaning that “you’ve got a lot in the bank” before that happens, since most drivers hear the noise and within a few seconds remedy the situation by putting it back in neutral.
+
+https://www.quora.com/When-changing-gears-on-manual-transmission-should-you-fully-release-the-clutch-and-then-accelerate-or-smoothly-release-and-press-gas-at-the-same-time-to-improve-engine-life?share=1
+  - first answer is quite good, well written, detailed
+    - in it he says, to rev-match, you relieve the throttle a little when up-shifting; and you increase throttle a little when you down-shift
+      - so, i’m guessing he just holds the throttle down when changing gears (and thus causing clutch slip)
+  - another answer uses a metaphor of a see-saw, with the see-saw being balanced as *rev-matched*, and the height of each side of the see-saw as the rpm.
+
+i’m really trying to figure out if i could just rev in neutral, let go of the throttle, then release the clutch instantly...
+
+https://mechanics.stackexchange.com/questions/6788/does-giving-gas-while-releasing-the-clutch-cause-unnecessary-wear
+  - here, the top big answer gave me this impression: two plates spinning not completely connected but touching, and it is okay when they spin at the same speed. ...but, i think friction (slipping) is friction, regardless that they are moving at the same speed or not
+    - “tl;dr: You have to slip the clutch from a stop. In higher gears, your goal is to avoid slipping the clutch. You do this by matching engine speed to transmission speed before releasing the clutch pedal.”
+
+https://www.reddit.com/r/cars/comments/2fq5to/when_driving_stick_is_it_okay_to_let_off_the/
+  - **“Lift it up like your left foot just stepped in dog shit. Fast enough because, well, you just stepped in shit. Smooth enough because you don't want it to fall off your shoe and onto your leg.”**
+    - this is perhaps the best metaphor!
+  - in one tiny comment, someone says that “dumping” the clutch wears the engine / drive-train, not the clutch
+  - “The jerkiness in manual gearshifting comes from mismatched revs. **The point of letting your clutch out relatively slowly, is that you use the clutch to match the revs of your engine to your gearbox. This shouldn't take too long, otherwise your clutch plate will heat up and wear.**
+
+  . The clutch is the link between your transmission and your engine. Make sure you engage it quickly but not too jerky, otherwise your ride will be uncomfortable. **The slower you engage your clutch, the more it'll wear.**
+
+  . So in short: **be quick and match your revs well**.”
+
+https://www.reddit.com/r/cars/comments/26ys38/how_long_do_you_slip_the_clutch_going_in_first/
+  - “Quick as possible, and err on the side of stalling, if possible”
+    - it’s okay to stall! it’s not okay to over-rev to get out of first
+  - “Rpms are so low that you will not cause any noticeable damage” (1-3k rpm, usually 1.5)”
+  - “As little slip as possible, and as smooth as you can get it going is best”
+
+https://m.youtube.com/watch?v=slBxtYWKdjo#
+  - good video showing the pedals of a manual car for various ways of shifting out of first, including what happens on a hill
+    - it seems, you must find “engagement point” of the clutch, throttle it a little, enough to switch and not stall, then continue to drive
+      - **you don’t ride the clutch for a long time, even on first!**
+
+
+
+https://m.youtube.com/watch?v=VgNB3MJlSoE
+  - shift like a pro! (immediate shifting)
+  - accelerate a little before letting go of the throttle (to keep the rpms matched when you go to neutral), press the clutch down (instantly), as you let go of the clutch flick the throttle when it is in the engagement range?... hmmm... not sure....
+  - mentions its okay to press the clutch quickly, but not okay to release it quickly
+
+https://m.youtube.com/watch?v=-zHUQuzTiWI&list=PL0EAB6FA5E995A4E3&index=2&t=0s
+  - how to ride a motorcycle tutorial video series by same person as above
+  - in the first video, he shows how to properly turn on and turn off a motorcycle, including the order of switches
+    - maybe can lock the motorcycle steering wheel by turning the ignition key left (and turning the steering to a side)
+   - on-off switch could be useful if your key fell out while the motorcycle was still running!
+   - FINEC: fuel valve, ignition, neutral, engine switch, choke & clutch (in that order)
+  - can use choke for cold weather
+  - it seems okay to change the gears while the motorcycle is off.. i mean, even in the video he accidentally goes to 2nd gear instead of neutral and then kicks half down
+
+
+https://m.youtube.com/watch?v=9zyFIrF8vZk&list=PL0EAB6FA5E995A4E3&index=3
+  - how to shift gears, part of the same series as above
+  - can’t tell if you completely let go of throttle before pressing clutch or not...
+  - he seems to accelerate as he let’s go of the clutch to ensure smoothness...
+  - **”the faster you shift gears, the smoother it is”**
+
+
+https://www.reddit.com/r/motorcycles/comments/8c6lwn/how_much_throttle_to_give_while_releasing_the/
+  - one guy says, as soon as you *feel* the clutch engage (with the engine), you should throttle to rev-match. (if your revs dip too low when completely releasing the clutch, the engine could stall.)
+  - based on this, i feel you could instantly release the clutch and throttle immediately (to rev-match)... but every single person thus far seems to say that you must release slowly
+  - “i think the best way for beginners to start is to hold the throttle and a constant RPM then let the clutch out slow. If it stalls then give it a little more throttle next time. Easier than trying to change both at the same time and finding the release point.”
+
+https://en.m.wikipedia.org/wiki/Clutch_control
+  - great info and concepts
+  - the friction on the clutch plate allows the drive shaft to gradually equalize with the speed of the engine
+  - **”When shifting properly, the driver "shifts" to another gear and then releases pressure on the clutch pedal to re-engage the engine to the driveshaft. If the pedal is released quickly, a definite lurch can be felt as the engine and driveshaft re-engage and their speeds equalize. However, if the clutch is released slowly the clutch disc will "slip" against the flywheel; this friction permits the engine a smoother transition to its new rotation speed...”**
+    - so, **you could release it instantly, but it would result in a rougher transition. Yet, the alternative is to release it slowly, allowing the clutch to slip, and therefore cause wear. So, it’s a trade-off: rough transition vs wearing the clutch.** **The best solution seams to be to engage (and dis-engage) as fast as possible (that is: to release and press the clutch as fast as possible), whilst keeping the revs matched**
+  - “... Such routine slippage causes wear on the clutch analogous to the wear-and-tear on a brake pad when stopping. Some amount of wear is unavoidable, but with better clutching/shifting technique it can be minimized by **releasing the clutch as close to the correct engine speed for the gear and vehicle speed as possible**...”
+  - “...When upshifting, this will involve allowing the engine speed to fall. Conversely, when downshifting, increasing the engine speed with the accelerator prior to releasing clutch will result in a smoother transition and minimal clutch wear.”
+    - **when you shift down, you generally need to keep the revs slightly high to match; when you shift up, you generally need to keep the revs slightly low to match (because a higher gear requires less revs, and a lower gear requires more revs... to provide the same amount of power)**
+
+
+https://www.reddit.com/r/cars/comments/5tnm8r/when_do_i_blip_the_throttle_on_a_downshift/
+  - **on the order of changing gears, it probably doesn’t matter if you shift first or provide some throttle first (while the clutch is pressed / dis-engaged), as it’s in neutral, and you can shift and throttle all you want.**
+  - **when doing it quickly, they are done nearly at the same time**
+  - **however, because of throttle delay, it may be necessary to throttle first, then dis-engage / release during the delay**
+
+
+**why *blip the throttle*, when you could just hold the throttle matching the rev and release? 
+  - probably because you want to avoid throttling while the clutch is slipping
+  - ...but if you release the clutch instantly... it shouldn’t make much of a difference...**
+
+
+**if you release / engage the clutch instantly, you’ve probably got to rev immediately to rev match, as opposed to slowly engaging and rev-matching during clutch slip**
+  - **that’s the difference between instant engagement and slow engagement**
+  - also, **if you don’t rev immediately (after instantly engaging), you could stall the engine**
+
+
+i think the order is:
+(from clutch dis-engaged)
+rev-match (if mis-matched)
+instantly release clutch
+rev-match again
+
+a much easier way is to simply:
+  - this is wrong! **you don’t need a minimum throttle beyond first gear, you can let go of the clutch at any time without really worrying about stalling.** think of how when i ride a Dream, I get to 4th, coast until 20km/h, then get out of neutral and back into 4th. **low rpm is okay, as long as the motorcycle is moving at a sufficient speed.**
+
+(from clutch dis-engaged)
+hold the throttle with low revs, just above idle
+instantly release the clutch
+  - the difference in wear between zero slip and instant slip with low-rev, i think, is nearly none
+
+turns out, that’s all wrong.
+the way from my current understanding:
+at the engagement/dis-engagement range, release *smoothly*, not instantly. you can do it quickly, as long it’s smooth. so, perhaps, **as quick and smooth as possible**. also, perhaps, **the more rev-matched, the quicker it can be engaged**
+
+rev-matching is for having a smooth ride, not so much too much about wear
+
+todo:
+figure out engagement range
+practice getting out of first gear quickly (and smoothly)

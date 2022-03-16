@@ -1,0 +1,202 @@
+to think about:
+  - what do you want to do at Parson’s?
+    - see what you wrote
+  - write more ideas
+  - propose to audience at Parson’s
+
+Resources:
+1. watch speeches by experimental artists like Babycastles, and pop game designers Jonathan Blow, Jenova Chen
+2. play IGF games
+3. live, love, life
+4. make games based on my interests?
+
+
+
+1. public games on on public transportation, to remind people on the daily basis that they are creative. That they don’t have to encounter some passive medium such as books or film to impart some feeling on them. That at any given moment in their life, they can do something, create an experience, remember it, with the people around them. Similar to a street musician, except it is active participation. Subway games.
+  - art as experience
+
+2. contemplation games. Dissimilar to public games, these games are not just for fun. They punch you, stop you from life, and make you think for a moment. Perhaps you become flooded with past memories. (scaled games: Shadow of the Colossus, Journey, Mario 64; contemplating film directors: Tsai-Ming Liang, Hirokazu Koreeda, Yoshihiro Ozu). It’s this pace that allows one to contemplate. One needs to give the player time to think, then stumble upon some gameplay, at their own pace. The player should feel as if they always have the opportunity to stop and do something else. Like reading a single story from Calvino’s invincible cities. It should give a bit of gameplay, then it should allow one to wander.
+  - Requires a lot of work and perfection. I don’t want to do the work, programming, so I will not go this route. I would rather make a film for that purpose. Instead, I want to stick to more fundamental games.
+
+What is it? Is it flow? The scale? You not being distracted by the world? You are not forced to focus on this one thing, you want to.
+
+
+
+3.
+
+what is the point of games?
+  - see Jonathan Blow, Chen
+
+
+
+todo:
+see last e-mail sent to Jon. Append it to game manifesto.
+read articles by Ian Bogost
+
+to try:
+Paper’s Please
+Gone Home
+http://www.moma.org/explore/inside_out/2012/11/29/video-games-14-in-the-collection-for-starters
+
+
+sequential list of times games imparted some philosophy on me:
+playground games
+Arcade games
+Earthbound
+Mario Party, Mario Kart 64, Goldeneye
+JRPGs
+  - Final Fantasy VII
+  - Chrono Trigger
+Castlevania: Symphony of the Night
+Mario 64
+WarioWare
+Super Smash Bros.
+Shadow of the Colossus
+Braid
+  - lectures by Jonathan Blow, Jenova Chen, Chris Crawford, EGP, and everything else
+advent of indie games
+IGF games
+playground games revisited
+New York:
+  - lectures by indie artists and professors
+  - Babycastles
+    - Pole Riders and Johann Sebastian Joust
+    - that time where Keita designed a bunch of games and they made it
+    - many game exhibitions
+    - many interactive art exhibitions
+And then I started traveling and stopped consuming media, especially games.
+
+resources:
+http://beautifulduwang.wordpress.com/2014/05/16/my-favourite-video-games/
+
+
+philosophical activities:
+  - Depth Jams
+
+
+
+
+Thinking about my games. I don't think they should have to have a visual style or be juicy. They're mechanical. If the mechanics work, then it depends on the players as to how fun it is, not the game. The fun is the responsibility of the person.
+
+Games should be exploitive by nature. Shadow of the Colossus, JRPGs, The Witness, etc. You stumble upon bits of gameplay, instead of the game telling you what to do. This treats the player as a wondrous child, an adult. No hand-holding experience. A unique experience for whoever enters.*
+
+
+You really do have to aim for giant leaps in design. Compare Braid to any game on Ludum Dare. Sure, ludum dare has overall fun games, and even some experimental ones that are really cool, but without fully exploring them, there the game becomes a missed opportunity.
+
+
+http://kotaku.com/5930196/some-of-keita-takhashis-video-game-dreams-will-come-true-this-summer-and-you-can-play-them*****
+
+
+great articles
+  - http://civic.mit.edu/blog/natematias/the-politics-behind-babycastles
+  - http://www.capitalnewyork.com/article/culture/2012/04/5665874/video-game-designer-anna-anthropy-describes-life-radical-queer-trans
+
+
+http://chrishecker.com/Please_finish_your_game
+
+Go is a good example of a game made of simple rules but complex play.
+
+
+Derek Yu:
+My name is Derek Yu. In 2009, I created Mossmouth as my personal studio where I can develop exciting, uncompromising games for dedicated players. I like dense experiences full of surprises waiting to be discovered through fun challenges. I believe that if a video game respects the player and respects its own design, then people will want to play it. That's the kind of game I want to make!
+
+“A better way to create games may be to start with a visual theme. Or at least try to create a very meaningful visual theme on top of a mechanical game. It must all fit well together.*
+
+—
+http://www.youtube.com/watch?v=dAX0trP3hIQ
+  - Chris Crawford's whip speech
+  - As Jon said before, creativity comes from within, not based on any existing idea, Chris Crawford yearns for giant leaps in creativity, completely new games. Jonathan Blow takes it further by wanting to explore an idea to the fullest extent.
+
+  - guidelines:
+    - design before implement, without thinking about technology
+    - do not think about marketing, marketing is inimical to creativity as marketing bases their strategies on historical data. Although, you may have to compromise to profit.
+    + live in a world with ideas, be intellectually curious about everything
+      + talk to different people
+      + read (consume art?), read whatever interests you, not a single subject
+    + develop an appreciation for the creative process
+    + "one of the most difficult tasks that men can perform, however much others they despise it, is the invention of good games, and it can not be done from men out of touch with their instinctive selves" - Carl Jung
+
+    - design:
+    - identify the problem
+    - use all senses to communicate the problem to all parts of the brain: hear it, draw pictures, create tactile representation
+    - drive the problem up the whip (the whip is a spectrum from irrational / instinct to rational / technical, feel the problem, human emotion is the coin of the mind, creative agony, and when it hurts...
+    - do nothing, let it simmer, the human psyche does not operate on a deadline
+
+    - schedule the work so that your mind is always working. schedule the creative work in the beginning and the mindless boring programming work at end and begin thinking about new designs while mindlessly programming.
+—
+
+
+   - why do all of this? Why suffer for creativity? Nothing is more satisfying than creating beauty.
+
+
+
+Gray Area foundation's slogan: "Prototype quickly. Scale what works."
+
+
+"social, gallery setting.", "explore the design space of social and local play"
+  - NYU no quarter exhibition 2013 synopsis
+
+http://marctenbosch.com/megabooth/index.html
+  - migakure
+
+Andy Shatz takeaway from his speech "How to win the IGF in 15 weeks or less" - Work on one feature per day that makes you happy. Made the game more fun than before. Never leave the game in a broken state.
+
+Jenova Chen:
+http://en.wikipedia.org/wiki/Thatgamecompany#Philosophy
+  -  they begin by deciding on the emotions and feelings they wish to invoke in the player. This differs from the approach of most developers, who build from game mechanics or genre features.
+
+
+Jonathan Blow Keynote Lecture at Free Play 2007
+http://www.youtube.com/watch?v=Y0iPt5AeCJ0
+
+1) just make stuff
+
+2) advanced:
+prototype*
+make and think out gameplay first, making sure it works, think like the player. Take intangible gameplay problems seriously. Keep prototyping until you find something great, then go with it.
+the art and animation can come in later
+
+jonathan blow created the prototype for braid in thailand in a week. "It was my most creative and productive time in my entire game development career".
+
+be: innovative, ethical, personal, or any other value that you think of highly
+
+It is illegal for a big US company to make something personal or indie
+
+
+to get noticed, make the game personal, separate from mainstream
+
+
+
+
+
+http://lukeoc.co.uk/plastique.html - holy crap, this is amazing
+
+
+EGP:
+manifesto:
+
+
+
+Jonathan Blow:
+
+from another lecture?:
+Jonathan blows response to an ìidea of what games should do:
+They should be pushing the boundaries and trying to expand the medium because someday games can have a much bigger role in terms of their participation,î
+..
+ìWe as video game designers are creating a significant part of the modern environment. We should be thinking about what that is doing to everybody.î
+
+from Jonathan Blow’s lecture:
+when people go to conference they ask the same questions:
+how do i become an indie developer?
+how can i get a deal? [as in what steps do I take]
+
+So there's this swarm of normal everyday things that happen, business advice, here's how you get a deal, etc. That only affects the bottom 95%. You want to be in the top 5%. You just do it, and the rest will come.
+
+"years of built cynicism and distance" - regarding how people do not want to approach things realistically
+
+resources:
+number-none
+braid blog
+the witness blog
+
+

@@ -1,0 +1,114 @@
+book flap.
+find circumstanced under which society becomes inertial and finds change difficult.
+use of space is a powerful source of inertia
+society's symbolization, organizational structuring of space, and capitalization of landscape
+how society steered radical change around the mapping of intertia
+
+1. human geography and societal change:
+beginning:
+"...if spatial organization makes a difference to how society work and how it changes, then far form being the realm of stasis, space and the spatial are also implicated (contra Laclau) in the production of history -- and thus, potentially, in politics." - Massey
+
+this book is about the geography of societal or socio-cultural change.
+my objective is to show how understanding the geography can contribute to a concept of how society changes, on that helps to explain how and why change tends to occur where it does.
+
+"There are no aspatial social processes" - Edward Soja.
+...
+end:
+chapters outline
+
+2. establishing a taxonomy of societal change
+begin:
+
+content:
+a bunch a charts showing the range of debate of societal change: social systems, social change, etc.
+
+end:
+the prime disagreement is between those which see society as typically organized for stability and those that see it as organized for change.
+
+a contextual theory (Gregory) of societal change, one that is sensitive to the different way sin which society's capacity for change varies geographically across society and between societies.
+
+3. the experience of change: world systems and empires
+begin:
+wants to argue that, from historical analysis of society and socio-cultural change...the experience of social systems when considered individually is that they ultimately resist ongoing change or cope with it badly.
+
+content:
+seeming fun read of historical examples, many with maps! Yay.
+
+end:
+?
+
+4. the experience of change: states and regions
+intro:
+Much detailed  analytical work dealing with geographical change has naturally focused on change within the framework of the state...it is not his intention to so that such changes takes place, that's obvious...there is also a case for arguing that states have experienced powerful intertias or rigidities that have acted to retard, deflect, or refract these changes geographically...for the geographer is that many of these constraints are geographically specific. Indeed, a great deal of socially produced space is potentially inertial and therefore a source of constraint on further change...how the pressures and forces working for change are constantly having to negotiate around these geographically emplaced constraints. To put this another way, change is about a potential that is continually being remapped through the social construction of different geographies.
+
+content:
+?
+
+conclusion:
+I want to suggest that the way in which society organizes itself in space forms a powerful source of inertia for societal systems, one that ultimately retards or deflects change...how these interial properties are not just mapped into their geography but are their geography...three types: cultural or symbolic, organizational, and that created by the built environment.
+
+5. Sources of inertia: the cultural construction of landscape
+intro:
+
+content:
+super interesting bit on early cultures, referencing Strauss, Chomsky, Leach, Lyle, Bordieu, ibid, etc.)
+
+end:
+basically, early culture's source of inertia was not thinking about change, it was their ideology, their concept of cosmography. Modern culture's source actually think about change, and foster symbolic or cultural sources.
+
+6. Organizational sources of inertia
+"Institutions are like fortresses. They must be well designed and properly manned. - Karl Popper
+
+7. The built environment as a source of inertia
+"Spatial fixity -- the pinning down of locales to definite built environments, especially in the forms of cities -- marks a new departure in human history." -- Giddens
+
+Urbanization means the creation of relatively permanent resources systems. Human effort is, as it were, incorporated into the land as fixed and immobile capital assets that may last hundreds of years. -- Harvey
+
+8. Conceptualizing inertia: the first step towards a geography of societal change
+meh
+
+9. The geography of societal change: a concluding synthesis
+begin:
+The more complex a society, the more stable
+
+Fundamental differences of attitude exist, both between and within societies, over whether particular forms of socio-cultural knowledge, values or structures should be maintained or abandoned. These differences permeate all dimensions of social life, from the most deep-rooted norms to the more manifest structures of the built environment.
+
+"Every society has a centre, he argued, formed by the 'centre of the order of  symbols, of value sand beliefs, which govern it (Shils)". However, and this is the essence of his argument, it is not the whole of the values of beliefs within a society.
+
+Third space is composed of the hybridity that comes from being betwixt and between, and the differences which it generates as regards signification. (Bhaba)
+
+As deriving from his constant mediation between life in the provinces and life in Paris, his 'ambidexterity' in negotiating their differences (Soja).
+
+The essence of globalization and post-modernity is their 'disordering' effect on space and the way in which the great conformities of space are being broken down into a multiplicity of forms and meanings, at least in the city. Third spaces, with all their new orientations and imaginative possibilities, are seen by him as an outgrowth of this disordering (ibid.)
+
+Society variously symbolizes space, organizes it, and enhances its value through massive investments in the built environment...imagined geographies are not through out in the abstract but are simply different ways of codifying or symbolizing what is ultimately real.
+
+There are good reasons for supposing that core groups will occupy the spaces that are potentially more inflexible simply because they consume and invest more of society's real wealth, focus more of its organizational needs around themselves and consume more of its symbolic capital on reinforcing their position... not only can it be said that those who gain most from a system are less likely to will to change it, but they are also more likely to be surrounded by constructed spaces across which more choice has been expended and on which more is being expended to maintain inertia, or the constructiveness of choice.*
+...
+Likewise, we can expect marginal or interstital areas, spaces which are not sites of domination, to be occupied by those who gain least from a given system and whose spaces of identity have, relatively speaking, greater resources of flexibility or unused freedom still available.*
+
+Once the pattern of center and periphery, will and opportunities, domination and resistance, is mapped in this way, then it opens up a geography of change.
+
+The more organized a society then the more problems it will face over change.
+
+content:
+[TODO: READ THIS CHAPTER]
+
+end (some concluding thoughts):
+'no such thing as social change in general' (Tilly)
+
+'everyone who lives, acts and talks is implicated' in change (Harvey)
+
+Harvey directed criticism a the work of writers like bell hooks who have defined peripheral or marginal spaces within modern urban societies as spaces of change...what hooks has to say are but a small part of a much larger argument.
+
+On the one hand, there is a sense in which it is impossible to disagree with his [Harvey's] view that some degree of change has always been inherent in the human condition...differences can be accommodated by recognizing that societal change is richly dimensional...Braudel's structuring of the problem through different scales of analysis, each scale turning over at a different rate and, as a consequence, having a different intertial value, makes the same point.
+
+greater freedom of action rather than thought*****...Even if we assume that there is an equal capability for thinking out new ideas amongst all societies, whether core or peripheral, old or new, it does not follow that all are equally capable or interested in responding to them.
+
+[todo: REREAD THIS CONCLUSION]
+
+Such inertia in the midst of complexity derives from a society's archaeology of past experience, that which it carries forward either as norms, codes, and values or embodied in the symbolization, institutionalization and capitalization of the space through which it orders and identifies itself. It is this embeddedness to inertia, its geography or spatiality plain and simple, that helps configure the possibilities for change in the landscape...needless to say, it is the geographical variations in this freedom that provide the basis for a geographically informed concept of change.
+
+it could be argued that if all societal change is contingent, or conjuncture, then it hardly matters whether the forces or institutional forms brought together within an episode of change are deep-rooted or shallow. All that matters is their configuration at the moment when they come together.*
+
+If we follow Bourdieu in believing that 'to change the world, one has to change the way of making the world, that is, the vision of the world', then we are compelled -- necessarily so -- to start with how we envision the past.

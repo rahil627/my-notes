@@ -1,0 +1,81 @@
+to tool-kit:
+
+1. adjustable wrench ($4)
+  - covers most common adjustment nuts, removing the need for a socket set. only need sockets for those nuts that are impossible to reach without an adjustable wrench (engine casing, spark plug, etc.)
+  - although can remove and replace the tire nut, adding torque to a ratchet ‘n socket is much easier and allows greater potential torque
+
+pre-made multi-tools ($3):
+  - todo: compare my old Leatherman multi-tool to the best bike tools, and figure out what the most used tools are
+- normally contains a hex driver and common bits (flat, star), a blade, and pliers
+- swivels: can turn like a standard straight driver or use it at any angle, including perpendicular, to make adding torque easier
+  - Leatherman
+  - Decathlon bike multi-tools
+
+vice grips ($10):
+  - a plier with the ability to lock in position, allowing one to focus all the torque on turning, instead of turning *and* clamping
+  - like the adjustable wrench, it cover a lot of scenarios, but also like it, it cannot reach places where only sockets can
+
+bits and sockets:
+  - socket driver standard diameter sizes: 1/4in, 3/8in, 1/2in)
+    - the larger the diameter of the bit driver, the larger the sockets it can handle. typically, for 1/4in, the largest socket size is 14mm
+
+pre-selected bit and socket set:
+BikeMaster driver set (1/4in, 3/8in)
+  - 6, 8, 10, 12, 14mm sockets, #2 phillips socket
+  - T-handle, each of the three ends have drivers
+Casco 1/4in driver set
+  - Japanese
+  - ratchet, 3-14mm sockets, bit driver, common bits
+
+custom:
+ratchet
+  - can have features: swivel, switch lock direction, button to detach
+  - **$3 for the most basic 1/4in ratchet, all steel, the head moves along the base handle, allowing one to make an L-shape or a T-shape!**
+T-shape driver
+  - easier to torque the long-end than an L-shaped driver, allowing the use of two hands
+L-shape driver?
+  - i thought of this, but, it makes sense
+bit socket
+  - todo: what are the standard bit socket sizes?
+
+flat screw bit
+star screw bit
+hex bit
+... other common bits
+
+socket driver set:
+swivel socket driver
+hex wrench
+
+common motorcycle sockets:
+23mm - spark plug
+21mm - spark plug for my motorcycle
+  - need to buy a separate tool ($3)
+14mm - either the tire or near the tire
+7mm - most popular screw size on the Kawasaki GTO
+
+common bicycle sockets:
+(see the BikeMaster driver set)
+
+compare costs:
+850th$ for the Casco bit and socket driver set
+vs
+custom:
+140 adjustable wrench
+100 bike tool or multi-tool
+  - **todo: double-check prices** 
+150 socket driver
+75 per socket
+  - need to find much cheaper sockets
+  - need to find a cheap bit set that fits a normal socket
+20 bit driver set (dollar-store quality)
+
+
+tire levers
+  - $1 for plastic
+
+lubricating oil
+  - $1
+    - comes in a dropper container
+  - $3 spray can
+    - convenient way of lubing the entire motorcycle: just spray it all over the frame

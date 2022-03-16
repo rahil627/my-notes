@@ -1,0 +1,107 @@
+used hard drive space?
+15gb windows, 4gb+ vRAM, hiberfil.sys = RAM
+
+search hard drive by last modified
+
+spyware
+check for suspicious recently modified files
+ComboFix
+Malwarebyte's Anti-Malware
+HijackThis
+install avast! or NOD32
+CCleaner
+
+disable all services and startup items and try restarting
+
+run system restore
+
+if vista
+	insert vista cd, run repair
+	if not, do an upgrade install
+
+
+rename combofix and malwarebytes install, if they don't run
+
+http://www.bleepingcomputer.com/forums/topic114147.html - run combofix with a script?
+
+stop error codes - http://myitkb.net/100/windows-stop-error-codes.html
+
+http://support.microsoft.com/kb/314058
+
+Disk diagnostic and CHKDSK /R are common to all in order to rule out:
+- physical disk problems and
+- file system problems PRIOR to trying the fix.
+
+Common to several fixes
+Black Screen Hang (before splash screen shows)
+- Disk Diagnostic
+- CHKDSK /R (try to boot) [/R implies /P in recovery console] [/R implies /F in windows]
+- fixmbr (try to boot)
+- fixboot (try to boot)
+- Safe Mode (try to boot)
+
+MBR
+Invalid Partition Table
+Missing Operating System
+Error Loading Operating System
+- Disk Diagnostic
+- CHKDSK /F /R
+- fixmbr (try to boot)
+
+BOOT SECTOR
+Disk Read Error occurred
+NTLDR missing/compressed ( http://tinyempire.com/notes/ntldrismissing.htm )
+- Disk Diagnostic
+- CHKDSK /F /R
+- fixboot (try to boot)
+
+NTLDR
+Boot Device is Inaccesible (boot.ini)
+- Disk Diagnostic
+- CHKDSK /F /R
+- bootcfg /rebuild
+
+more than one boot entry
+The problematic Boot.ini file needs to be edited to ensure correct Default entry and accurate pointing to directories. For this go to My Computer->Properties->Advanced->Settings (under Startup and Recovery)-> System Setup->Edit. You can also use bootcfg /rebuild command through Recovery Console command prompt
+
+System Hive is Corrupt
+- Disk Diagnostic
+- CHKDSK /F /R
+- restore System Hive from backup
+
+other File missing or corrupt
+- Disk Diagnostic
+- CHKDSK /F /R
+- restore copy from backup
+
+NTOSKRNL.EXE
+Black Screen Hang (after splash screen appears) (usually video driver)
+- Last Known Good Configuration
+- Safe Mode
+
+Windows Boot Disk
+set boot order
+press a key when it asks
+
+first screen - R for recovery console
+it's a command line interface, so you can copy files from the cd or use functions like boot.ini /rebuild
+
+hard disk screen R
+repair windows by replacing the current windows with the files from the cd (will need to reformat afterwards)
+
+to reformat
+delete all partitions, NTFS (quick)
+
+writing zeros to a drive:
+When you do the write zero test, it basically will write from the first to the last sector of the harddisk and in doing so can determine if any of the sector is bad and remap it. 
+If however your harddisk's bad sector is growing and it is not due to a virus then you might want to look at getting a harddisk replacement and copy as much data as possible over to the new harddisk.
+
+
+sfc /scannow - http://www.updatexp.com/scannow-sfc.html
+
+
+errors => solution
+-unmountable boot disk blue screen => chkdsk from windows recovery
+-"the volume appears to contain one or more unrecoverable problems" -> chkdsk => write zeros to drive. the hard drive was too old and died soon after
+x2-spyware => hiren's boot cd -> run all anti-spyware and anti-virus programs. then, boot into safe mode and rename and run combo fix
+-hard drive would not should up in BIOS, had a power surge earlier => replug the cable to the hard drive

@@ -1,0 +1,15 @@
+todo:
+- what happened to the iPad audio?
+
+editing:
+order:
+c/- trash clips using camera
+c/- import
+x/- copy to two external drives
+c/- rename clips
+p/- analyze and transcode media / import to FCP
+- edit
+- add effects (titles, color, special effects)
+
+publish:
+- vimeo:

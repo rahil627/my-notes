@@ -1,0 +1,93 @@
+# _to books.txt
+## to notes
+todo:
+rename files, adding ‘(content only)’ or ‘(intro included)’
+
+## book list
+### couldn’t find
+* Kingdom... by Jacques Ellul
+* The Nature oF Order by Christopher Alexander
+
+### to read
+new (written from another time):
+https://www.goodreads.com/list/show/18916.Best_Books_on_Spiritual_Enlightenment_Awakening
+https://www.goodreads.com/list/show/1232.Books_that_Changed_the_Way_You_View_Life?page=1
+https://www.goodreads.com/list/show/736.Books_Which_Provoke_Inner_Thought#46114
+
+scraped from old tabs and e-mails:
+design for non-designers
+  - blew Josh Raab’s mind
+—
+
+Compared to Laozi / Zhuangzi by Lin Yutang:
+Emerson
+Whitman / Thoreau
+Rousseau / Voltaire
+
+other:
+Pablo Neruda
+Bukowski
+
+Daoist texts:
+core:
+1. Laozi
+2. Zhuangzi (inner chapters, daode essay, yellow emperor chapters, disciples’ chapters; in that order)
+
+Wang Bi
+
+pre-Daodeing:
+0. Songs of Chu (Qu Yuan)
+
+contemporary to Daodejing:
+4. Guanzi (inner chapters, xinshu)
+5. Huainanzi
+Xiang’er (commentary)
+
+post-Daodejing:
+3. Yellow Emperor
+
+other:
+Yiqing (change)
+Xici commentary on Yiqing, contemporary to DDJ
+
+Chinese texts:
+Library of Chinese Classics (book series)
+The Story of the Stone, translated by David Hawkes
+check David Hawkes goodreads
+
+### Daoism reading list (from Wiki)
+Based on what we know now, we could offer the following summary of the sources of early Daoism. Stage One: Zhuang Zhou’s “inner chapters” (chs. 1-7) of the Zhuangzi (c. 350 B.C.E.) and some components of the *Guanzi, including perhaps both the Neiye and the Xin shu*. Stage Two: The essay in Chs. 8-10 of the Zhuangzi  and some collections of material which represent versions of our final redaction of the Daodejing, as well as Chs. 17-28 of the Zhuangzi representing materials likely gathered by Zhuang Zhou’s disciples.. Stage Three: the “Yellow Emperor” (Huang-Lao) manuscripts from Mawangdui and of the Zhuangzi (Chs. 11-19, and 22), and the text known as the *Huainanzi* (c. 139 B.C.E.).
+...
+Although there are several versions of how the remainder of the Zhuangzi may be divided, one that is gaining currency is Chs. 1-7 (Inner Chapters), Chs. 8-10 (the “Daode” essay), Chs. 11-16 and parts of 18, 19, and 22 (Yellow Emperor Chapters), and Chs. 17-28 (Zhuang Zhou’s Disciples’ material), with the remains of the text attributable to the final redactor. 
+
+#### from Arthur Waley’s intro to a collection of his translated Chinese poems
+“The greatest of these recluses was *T’ao Ch’ien* (A.D. 365-427), twelve of whose poems will be found on p. 71, seq. Something of his philosophy may be gathered from the poem “Substance, Shadow, and Spirit” (p. 73), his own views being voiced by the last speaker. He was not an original thinker, but a great poet who reflects in an interesting way the outlook of his time.”
+
+#### from David Hinton’s further readings of his classical Chinese poetry
+It seems David Young, Arthur Waley, and perhaps whomever David said in his intro matters:
+“It can thus be said that I hope to take my place with other poets--*Ezra Pound, Kenneth Rexroth and Gary Snyder*, in particular, along with *Arthur Waley*, the scholar who translated like a poet--who have worked in Chinese translation.”
+
+*The New Directions Anthology of Classical Chinese Poetry.* This can be compared to Burton Watson’s anthology (The Columbia book of Chinese poetry) and his many other books. This can also be compared to Stephen Owen’s An Anthology of Chinese Literature: Beginnings to 1911. Keep these as the main starting points. The New Directions anthology may in many cases contain the best academic translation.
+
+The general collections:
+Red Pine. Poems of the Masters: China’s Classic Anthology of T’ang and Sung Dynasty Verse. Port Townsend, Wash.: Copper Canyon Press, 2003.
+Rexroth, Kenneth, ed. and trans. Love and the Turning Year: One Hundred More Poems from the Chinese. New York: New Directions, 1970.
+———. One Hundred Poems from the Chinese. New York: New Directions, 1956.
+Sze, Arthur, ed. and trans. The Silk Dragon: Translations from the Chinese. Port Townsend, Wash.: Copper Canyon Press, 2001.
+Waley, Arthur. Chinese Poems. London: George Allen & Unwin, 1946.
+Watson, Burton. Chinese Lyricism: Shih Poetry from the Second to the Twelfth Century. New York: Columbia University Press, 1971.
+
+And then perhaps the following specific ones:
+Snyder for Cold Mountain. Rexroth for Li Ch’ing-chao.
+
+I believe both were chosen for the *Chinese Humanities series* of free e-books. I believe many are part of *New Directions* publisher.
+
+A few other special books:
+Pound, Ezra, and Ernest Fenollosa. The Chinese Written Character as a Medium for Poetry. San Francisco: City Lights Books, 1964. (First printing 1920, expanded edition 1936.)
+Lin, Yutang. The Gay Genius: The Life and Times of Su Tungpo. New York: John Day, 1947.
+Rexroth, Kenneth, and Ling Chung, trans. The Orchid Boat: Women Poets of China. New York: McGraw Hill, 1972. Reprinted as Women Poets of China. New York: New Directions, 1982.
+Elvin, Mark. The Retreat of the Elephants: An Environmental History of China. New Haven: Yale University Press, 2004. (See pp. 335–36.)
+
+### stoicism reading list (from White’s intro to The Enchiridion)
+This is not the place for a large bibliography, and so I shall merely indicate where the interested reader may start in order to find out more about Epictetus and Stoic philosophy. For alternative ways of translating the Handbook, one should look particularly at the version by Oldfather (London, 1928), which is printed in the Loeb Classical Library edition along with the Discourses. One should also look at the translation by *Matheson (Oxford, 1916), which is reprinted in Jason L. Saunders, Greek and Roman Philosophy after Aristotle (New York, 1966). This book also contains a very useful brief selection of fragments of the earlier Stoics in translation, and is the best way now available for readers of English to read those fragments.* For a general introduction to Stoic philosophy in its earlier form, one should read Ch. 4 of A. A. Long, Hellenistic Philosophy (New York, 1974); some later developments are discussed in Ch. 5. For brief accounts of the major Stoic philosophers, *the most efficient course is to read the following articles in The Encyclopedia of Philosophy, ed. Paul Edwards (New York, 1967): “Zeno of Cytium” (c. 336-c. 265 B.C.); “Cleanthes” (c. 331-232); “Chrysippus” (c. 279-206); “Panaetius of Rhodes” (c. 185-c. 105); “Posidonius” (135-c. 51); “Seneca” (c. 5 B.C.-A.D. 65); “Epictetus” (c. 50-A.D. 130); “Marcus Aurelius Antoninus” (121-180). All of these articles give bibliographical information.* Two recent collections of essays that give some idea of the range and interest of Stoic thought are A. A. Long, ed., Problems in Stoicism (London, 1971), and John M. Rist, ed. The Stoics (Berkeley and Los Angeles, 1978). A recent collection of fragments of Stoic writings, translated into English, along with helpful discussions of Stoic thought, is to be found in *A. A. Long and D. N. Sedley 1987, The Hellenistic Philosophers, Vol. 1 (Cambridge, England: Cambridge University Press).*
+I am grateful to Professor Paul Woodruff for reading this translation and for making very helpful suggestions which led to its improvement. Of course, any remaining deficiencies are my responsibility.

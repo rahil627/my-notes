@@ -1,0 +1,11 @@
+Yoh.
+
+I caught an ad somewhere on this screen. I wonder: is there space in your company for a intern / junior creative tech role?
+
+I’ve been out of tech for more than 5 years, but quarantine... maybe got me back into a certain frame of mind that allows me to think in such narrow ways. In 2012-2014 (excluding a shit AR contract) I was quite into game art and more normative indie games, specifically input controllers, more so than visual, thus my lacking of experience in visualization stuff. Besides, (as far as output) I was quite happy with what could be accomplished with a simple flash game, so one could focus on funky input. Input, interaction, and especially play, for me and my friends were far far more important than any output. Babycastles was the community that I was part of and best reflected my interests and even human values. (check out their site, and you’ll get the idea.)
+
+At the moment, stuck in another country during the pandemic, I thought it would be cool to get back into some generalist art programming. You know, just do whatever’s needed to get shit done sort of work. Back in 2012 processing.js was used for limited pop stuff, and you likely sorta had to dig into C++ via OpenFrameworks or even back to SDL, where things got too ugly for me. I hope it’s gotten prettier since then (c# wrapper of opengl?)
+
+Although I’ve done some programming in my past (c#, .net, full stack, flash games etc.), I absolutely don’t have the personality of a full-time optics embedded graphics programmer. That might hurt my soul and brain. I need the output feedback cycle to keep me sane. I’m way more on the simple experimental game jam sort of a person, like hooking up old DDR pads or musical instruments to already made games. Short, but simple projects. Hence, junior. ... maybe sensors would have been my next natural step of that time / direction, but my time in NY was short.
+
+Anyway, just a shot from a very very remote place in the world. :(

@@ -1,0 +1,6 @@
+c/write statement
+c/ask for fee wavier
+  c/- then submit application
+inquire about recommendation letters
+  c/- noted lack of letters in statement
+c/publish MIT statement blog post

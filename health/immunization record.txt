@@ -1,0 +1,74 @@
+info:
+http://wwwnc.cdc.gov/travel/destinations/list
+http://www.cdc.gov/vaccines/schedules/
+
+shot record:
+Varicella (chickenpox) - I remember having this
+DTP/aP (5-series), 10/20/87, 12/4/87, 3/1/88, 6/22/89, 6/15/92
+Hepatitus A (2-series) - 7/11/97, 8/14/12
+Hepatitus B (3-series), 2/17/97, 7/11/97, 10/21/99
+Measles (Rubeola), 6/15/92
+Meningococcal (MCV-4, Menactra, “full” dose), 7/14/05
+Measles, Mumps, Rubelia (MMR, MMR II, 2-series), 9/22/88, 6/15/92
+Pertussis (one series, not sure about other) - 7/8/05, 
+Polio (Poliomyelitus) (OPV, eIPV, IPOL, 5-series), 10/20/87, 12/4/87, 6/22/89, 6/12/92
+
+boosters and tests:
+TDaP or DTP (not sure which one, booster), 7/8/05
+TDaP (booster) 12/15/11 - every 10 years
+Typhoid (2-series, Typhim Vi), 8/8/12, 2/14/15 - every 2-3 years for shot, 5 years for oral
+Tine Test (TB, “primary series”), 6/15/92, 10/21/99 or 97 (difficult to read), 7/8/05
+PPD / Mantoux Test (TB) - 7/11/05 (read 7/13/05, result 0mm)
+
+unsure, need to check records:
+DTP or Td?, 6/12/94
+Measeles, 6/12/94, I had disease / confirmed by office record on 9/22/88? Not sure about that. I’d be 1 year old.
+
+found in adult schedule:
+Pneumococcal*
+x/HPV (Human papillomavirus) - not needed for over age 21 or over
+x/Hib* (Haemophilus influenzae type b) - if no problem, don’t take
+x/Flu* (Influenza) - if no problem, don’t take
+x/Singles (Zoster) - age 60, or once you get the shingles
+x/Pneumococcal - <5 or > 65, if has certain risk factors, then >6
+
+special:
+Typhoid - needs booster after three years if injected, five years if live oral vaccine (requires a strict routine over time to take)
+
+Japanese Encephalitis* - Night mosquitos and ticks. Need it, also lifelong immunity! Really expensive though, and requires 3 shots over a month period. Might be best to get in Taiwan. For rural areas in Asia (all of it!). Transmitted through mosquito bites. Domestic pigs and wild birds (especially herons) are reservoirs of the virus. Incubation period of 5 to 15 days. 1 in 250 infections develop into encephalitis. Severe rigors may mark the onset of this disease in humans. Laos and Pakistan had the highest rates, but it exists all over Asia.
+
+Rabies* - Useful for Mongolia. Scratches and saliva are enough, not just bites. Have 48 hours to find medicine. Vaccine works for life, but basically buys time. Post prophylaxis is a 5 series shot, but it is reduced to 2 with the vaccine. Take it if health insurance covers it. It costs $500 to $1,200 and requires three shots over a month period.. avoid dog bites in developing countries and bat bites in developed countries. Rabies can be transmitted when an infected animal scratches or bites another animal or human. The period between infection and the first flu-like symptoms is typically 2 to 12 weeks in humans. Post-exposure prophylaxis needed within first 10 days. Death almost always occurs 2 to 10 days after first symptoms. Vaccine works for 2-3 years and has yearly booster shots.
+
+Malaria - use mosquito repellent, taking any anti-malarial for long-term traveling is not worth it in side effects and cost. Doxycylcline gave me stomach problems, or generally made me feel uneasy, but it may have been due to a high does. Chloroquine has psychotic problems. Antoquane costs a lot.
+
+Dengue Fever - no vaccine.  “Dengue fever is usually not fatal, but infection with one of four serotypes can increase later susceptibility to other serotypes, resulting in a potentially fatal disease called severe Dengue.” “Dengue has become a global problem since the Second World War and is endemic in more than 110 countries. Apart from eliminating the mosquitoes, work is ongoing on a vaccine, as well as medication targeted directly at the virus.” “Most people with dengue recover without any ongoing problems.[30] The fatality rate is 1–5%,[7] and less than 1% with adequate treatment;[30] however those who develop significantly low blood pressure may have a fatality rate of up to 26%.” Infections are most commonly acquired in the urban environment. Seems to be endemic all along the equator (tropical climate), starting from Southeast Asia, spreading to nearly the entire world.
+
+
+health insurance:
+Many health insurance plans do not cover travel-related vaccinations because they are considered elective. However, some plans that offer preventive benefits do cover them.
+
+The health department covers required vaccines for free or cheap. Just find local health department.*
+
+http://www.costco.com/Pharmacy/adult-immunization-program.html
+  - costco has routine
+
+Walmart pharmacy began offering many routine shots too
+
+Walgreens has Typhoid, and a lot of antibiotics, such as Cipro for diarrhea
+
+Travel Clinic - Travel Health of Williamsburg, LLC, 287 McLaws Circle, Suite 2, Williamsburg, VA 23185
+
+http://www.cdc.gov/vaccines/adults/find-pay-vaccines.html
+  - All Health Insurance Marketplace plans and most other private insurance plans must cover the following list of vaccines without charging a copayment or coinsurance when provided by an in-network provider. This is true even for patients who have not met a yearly deductible:
+Hepatitis A
+Hepatitis B
+Herpes Zoster
+Human Papillomavirus
+Influenza
+Measles, Mumps, Rubella
+Meningococcal
+Pneumococcal
+Tetanus, Diphtheria, Pertussis
+Varicella
+
+For patients covered by health insurance, typical expenses include a copay of $10 to $40 for the doctor visit and a copay for each dose of the vaccine. For example, this BlueCare Direct HMO[1] covers vaccinations, including those needed for travel, for a $20 copay.

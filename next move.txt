@@ -1,0 +1,901 @@
+Fall 2013:
+Teach English / Learn basic Mandarin / Finish games:
+  - Learn Mandarin! Then teach learning English and Mandarin through games with Simon.
+Apply to Mandarin classes
+Apply to NYU ITP and Parsons MFADT
+
+Winter 2014 / Spring / Summer 2014 (age 27):
+Learn Mandarin
+Make film, games, and more.
+Start a business? Maybe too early.
+
+Fall 2014:
+Parson's
+Language learning: Spanish (maintain Mandarin)
+
+Spring 2015:
+Parson's
+Language leaning: French vs Italian (maintain Spanish and Mandarin)
+
+Fall 2015:
+Parson's
+
+Spring 2016:
+Parson’s
+
+
+
+1. make films and games, and learn the language of the place you are living in
+2. do local film jobs (apply to all TV studios in Taiwan, Hong Kong, Paris)
+3. apply to master's in new media, film, or game
+4. move friends and studio to Taiwan
+
+
+media related curriculums at top schools:
+
+conclusion:
+all seem quite traditional with a focus on history, except MIT’s graduate programs. I would choose D&T / ITP over all of them
+
+http://web.mit.edu/admissions/graduate/graduate/programs.html, http://act.mit.edu/academic-program/courses/ (undergraduate)
+http://arts.stanford.edu/design/
+  - looks old
+http://www.ox.ac.uk/admissions/postgraduate_courses/course_guide/fine_art.html
+http://www.gsas.harvard.edu/programs_of_study/film_and_visual_studies.php
+
+old goals:
+create an arcade
+  - build arcade cabinets
+interface jam
+film jam
+do good for society with technology jam
+public space
+  - fine art exhibitions
+  - game tournaments
+  - etc.
+
+
+
+Create or join a film studio in a place I like. A place where I like to be outside. All of the time. I have a love for life. I can show it to others. Keep living, meeting people. Don't work during the day.
+--
+
+film schools:
+USC: $70,000
+AFI: $100,000
+NYU: $50,000*
+UCLA: $30,000
+
+reference:
+http://www.hollywoodreporter.com/news/best-film-schools-hollywood-reporter-595712?page=4
+
+conclusion: Film school costs way too much. Apply for scholarships to other schools.
+—
+todo list papers from India:
+
+?:
+travel -> graduate art school, high design, grand design, new media, design, film
+  -> crate studio in East Asia
+  -> work and live in NY
+
+studio/freelance -> apply art festivals, graduate schools around the world, scholarships in New York
+
+sleep, live, work, anywhere
+freelance programming
+
+?:
+old game ideas to explore:
+1. ColorPad
+2. Doodle Tangle
+3. Mime
+4. Jenga
+5. Pinkies Up
+6. Audio Runner
+7. Touch and Tilt
+8. Pokemon Snap
+Battle
+*finish RGB
+steal animation frames
+volleypong
+take something complex and make the interface simple
+Kaho Abe / Makey like games
+Operation!
+multi-device game / input / gamepad
+trajectory game
+slicing / painting / separate screens
+multi-layer game (not limited to platformed)
+team pole riders
+multi-interface game
+the cake is a lie
+Google Maps games
+  - GTA Racing
+  - FFVII
+
+?:
+Track your time. Work in one hour intervals.
+
+2. local jam proposals
+  - fine art
+  - social work
+  - community service
+
+3. game jam
+  - reply to Raju
+  - figure out what’s needed
+
+4. personal game
+  - Mime design and implementation
+  - Dance in Haxe/HaxePunk or HaxeFlixel
+
+5. find or create a studio in East Asia
+  - films
+  - release four games first*
+
+5. film Bharatbhai
+
+?:
+only post life-related things to Facebook.
+
+?:
+contact great people
+
+goals:
+direct a film
+open a cafe
+open a hostel
+
+live by the hour, calmly
+
+just go
+
+?:
+don’t stop learning and making! Be playful, use space, be happy.
+count healthy days***** (meaning, when I arrived in India, there was a large difference in mood, I felt the lack of experience was unhealthy)
+finish games***
+don’t skimp on art work***
+
+organize the largest free game jam in India
+organize a local business jam
+one project per week, multiple projects simultaneously
+  - fine art
+Vincent moon style videos for musicians
+goals:
+  - release 5 games before leaving India
+  - learn written Gujarati and grammar
+  - learn written Hindi
+  - live in cooler climate - Paris, Berlin
+live in Mandarin speaking country
+Japan is very playful, they have game shows, analog games
+cook Indian food
+join competitions! Creative sports. parkour, dance (breakdance, ballet), martial arts (kickbox, muy thai, jig hit su, mixed)
+
+?:
+blog all good game designs and new mediaa art ideas
+  - pencil sketches
+    - including kite idea
+  - see old thought and notes, keep writing, blogging, designing; you’ve travelled enough
+  - to blog: inability to balance life, work ,travel observations
+Indicade selection for $25,000
+  - good goal!
+looking at the program [ITP?], I just don’t need it. I juts need to finish projects and talk to people.
+two years of school versus travel and work? Just live and work!
+goal: live and work, bring my work to others, be more social, playful, even with people without similar interests
+play Chinese radio
+
+--
+
+Find the Williamsburg, Brooklyn, Oakland of Asian cities.
+
+Instead of looking at game companies, I should stick with internationally innovative places.
+
+Mobile game companies are too narrow. I need more diverse projects.
+
+take on as many cool projects as possible. Push yourself. Enter festivals. Set deadlines. Make stuff.
+continue to meet people and make art, like Humans of New York, Vincent Moon, and Babycastles
+place yourself amongst the smartest peers
+plan less, live more
+just go and live? Directionless?
+live life, wake up two hours before work to live life and travel, look forward to mornings, not just work
+stay calm, meet people, work on personal things, enter art events and festivals, ask artists where they work, start a design studio with a few people
+I think any job in which I often interact with people is good, even better if it is outside
+pick up side jobs
+get money
+open a hostel, cafe, or design company
+
+
+from thoughts:
+6/26
+to next move:
+If I live in an east Asian country, I would have to create my own Babycastles. Like Rajiv, I'd have to struggle to create a community. Be a leader.
+
+I feel that people, smart people, create communities. Lead communities. Become an inspiration for the people around them. these smart people, creative class, use local resources -- Babycastles use nearby universities, venues, volunteers. Dhananjay uses local people, friends, and family to market his products, help people by connecting them to to other people. Smart people nurture good people.
+
+I have to start a design studio, with at least one person. An artist with more specialized talent than me. I just run the business, and work when it is indeed. I design, constantly thinking about the big picture.
+
+How?:
+Don't worry about how. Just do it.
+Find people, money, go! Don't overwork.
+Meet and talk to people. Build a community. Start projects.
+Make as many startups as you can. Projects are key. Not full-time work.
+Ask people I admire for advice.
+Startup dating? No. Friends that I meet.
+
+I want to place myself in a place which requires significant design and responsibility.
+
+The studio should be extremely flexible and creative, taking on film, education, travel, technology, society, and anything else of interest.
+
+
+6/27
+How can I choose the next city I want to live in? I can live in any city. What factors are there? Why Tokyo over Taiwan? Because I like Taiwanese people and I am fearful that I may not get along with Japanese people as well. Also, I like that Taipei is not as developed. It allows me to live in an undeveloped atmosphere with friends.
+
+7/*
+from emails:
+Jason Cheung of GoPublic.com.hk
+  - HK is easier to fit in than Japan, but about money, entrepeneurs are welcome
+
+7/1
+***Live as much as you can. Go out everyday. Do 10 things per day. Balance life. Have a girlfriends. Make close friends. Make art. Lead people. Make events. Start a company. Travel. buy a scooter and a bicycle. Learn the language. Play a sport. Cook. Live with a diverse group of people. Work with a diverse group of people. Work outside, every time. Make artists friends to start projects and eventually start a studio.
+
+Avoid taking a job that places me in front of a compute for a long period of time or a job that secludes me to an office, unless the office is full of people I love.
+
+Aim for a job that places me in a strategic yet social position. A designer, project manager, art director, NGO.
+
+A job that places me outside, allowing me to travel frequently.
+
+Writer, photographer, event manager, videographer, film-maker, design jobs with social life during development. Pick up as many design jobs as possible! Quality people.
+
+How to choose?:
+Go. Do i like the people? Is there a scene? Are people, even a small group willing to create one?
+
+7/9
+What are my goals while traveling east Asia?
+Get an overall feel of the city. Local people, local artists, culture, mentality.
+Make great friends. Be open to all occupations.
+Explore. By myself and with others. Meet people everywhere.
+Try to integrate into the art scene.
+
+By the time I have been to Tokyo for two weeks, I should be able to make a decision.
+
+Should I work a full-time job to pay off debt or continue boldly by simply meeting people and joining local projects?
+Meet people and join local projects. The quality of work and people is most important.
+
+What are my goals living in east Asia?
+Make great friends. Smart people.
+Live, as you did while traveling. Make local friends, cook, tend to friends, treat them like family.
+Make great work, professional and personal.
+Start a company or business.
+Learn the language.
+Give back to society. Start a NGO.
+
+check jobs at Google in east Asian cities
+  - meh positions. Just software engineer, and even they aren't cool. I think I already applied for software engineer in Tokyo, but am going to apply again. It's the only one with somewhat cool areas such as artificial intelligence.
+    - c/https://www.google.com/about/jobs/search/#!t=jo&jid=45080
+    
+check jobs at Google in all cities
+https://www.google.com/about/jobs/search/#!t=jo&jid=289001&
+  - interaction designer in San Francisco, but I'm not motivated to go to San Francisco. I want a better community. Or to create a better one.
+
+
+note the requirements for creative lead, designer
+5 years experience at design firm/agency working on iconic global brands
+Advanced skill in InDesign, Illustrator and Photoshop (After Effects, Final Cut Pro, Flash, HTML)
+Portfolio of original and breakthrough ideas
+Smart, bold, and accessible sense of design
+Interest in world-changing leaps in technology, along with a healthy disrespect for the impossible
+
+
+GGJ
+  - Hong Kong
+    - 85 jammers, one place
+    c/- contacted Hanna Wirman
+    - has Hong Kong Film festival
+  - Taiwan
+      - 15 + 29 jammers in Taipei
+      - 50 jammers in Kaohsiung
+    c/- Jung-Sheng Lin
+    c/- Faust Li
+      - gave all Taiwan info
+ - Japan
+   - tons of sites all over the country
+     Tokyo
+       - 22 + 124 in Tokyo
+       - has Tokyo International Film Festival
+   - 59 in Fukuoka
+     - much more creative
+   - 59 in Sapporo
+     - Push Papa!
+       p/- Fumihito Shimizu
+       - https://www.facebook.com/ethfumi
+        
+ - Seoul
+  - 88 jammers
+    c/- Jooeun Hwang
+    c/- Archer Fung
+  p/- Paul Jung
+  - also has a good amount of films, probably shared with Busan, where a film festival is held
+
+Ask friends of Babycastles.
+  - fail
+
+Spend a few hours Googling top universities, research, jobs, that I'm interested in. Contact people. Get a job within a top University for money and work your way into the city. Talk to people at the University. Join as many top projects as you can.
+
+Work at top schools as a researcher or assistant?
+  - http://en.wikipedia.org/wiki/University_rankings
+
+I think NYU fits me best. It's innovative in research, the use of research in lower level applications, and simply more fun. Other top universities seems research heavy. Which is great, futuristic, but boring.
+
+Currently:
+
+work on Crystal Brawl a few hours a day
+complete a personal game
+
+goal: start a studio. Or, find a research job that involves things I like. For example, visual applications for neurology.
+
+search IGF and Cannes film festival winners in desired cities
+  - contact the people and ask about the scene there
+
+New York vs East Asian cities vs Google
+  - East Asia
+    - new culture
+    - learn language
+    - incorporate culture into art
+  - New York
+    - friends
+    - family
+    - long-term relationships
+    - top universities, people, and art
+    
+If I go to East Asia, I'd have to repeat the dating process again, looking for people to work with. I have to maintain my relaxed state, not giving into the rat race. I'd want to pick up multiple art projects, most interested in games, film, and new media. After finding that, I'd probably feel like doing some voluntary services. After that, I'd probably want to open a cafe or hostel.
+
+Hong Kong
+  - meh, feels like Chinatown New York
+  - guessing the people have city mentality
+  - has high creative capital
+  - English is the second national language
+  - the country is a city
+  
+Tokyo
+  + most interesting
+  + good art scene
+  + large country to explore
+  - language barrier
+  
+Taiwan (Taipei or Giaosiung)
+  - meh, quite bland
+    + this is because I've been there. I'm sure if I lived there as I lived in Bhaktapur, I'd fall in love with it.
+  + great personality of people
+  + love the country
+  - weak art scene
+
+Seoul
+  - heard from several sources that the people are rude, like mainland Chinese people
+  - people don't stray far from the norm of society
+
+also can go to:
+  - Yukushima
+  - Fukuoka
+  - Kyoto*/Osaka/Kobe
+
+
+
+
+
+see todo2.txt
+
+
+THE FOLLOWING IS MY CURRENT MOVE:
+on the bus to Jaipur:
+I only learn things by doing it. When have I ever learned something from books, class, or otherwise? I learned making games by making one. I learned making programs by making one. I made film by making one. I learned to talk to people because I need to. The only way to learn foreign languages is by having the need to talk to people with it. I learned teaching kids by doing it. I learned organizing an event by doing it. Each time I am self-motivated to do the thing. Instead of learning, I need to place myself in a position in which I am forced to do something, or else I won't. *Think about places to put myself.* Don't learn, do.
+
+Figure out what you want to do, place yourself there, then do it.
+
+I want to go to Taiwan, contact people, make stuff, and never stop. I also want to get some money to get out of debt. I'd still like to make games in my spare time. I don't want a full-time job (8 hours). The job should force me to speak Mandarin. It should allow me time to do what I want. No office job. Independent, so I feel that I am able to do anything. Or just pick up as many projects as I can and somehow get a work visa out of it. Or not. Just re-enter. Work with people, whether it's a company or me alone with people as customers. An independent photographer, journalist, videographer, filmmaker, designer, teacher, professor, artist, game designer, game developer, parkour teacher, martial arts master, and whatever else I am interested in. Don't stop.
+
+My work should not be influenced by anyone. It should be pure creativity. I should be able to talk to people about it, and get them excited.
+
+I may need to put myself in a position in which I am struggling to get the inspiration to create fine art. Or just consume a little fine art media. Try not to use it over real life though.
+
+My goal? Maintain a stable and productive life. Do as much as I can. Don't stop. Don't cut off people so that I can do my own work. Don't be superior. I need people to finish projects.
+
+How:
+0. When you go back to Baroda, finish your prototypes. You still want to do it over anything else. The game mechanics should be tuned. Release them to the app store. It's needed to show that you have the capacity to complete a project. 
+
+If you still have some motivation, create a social jam and gam jam. Enter a contest. Just do it. Go through the whole creation process. Make a film to avoid the whole game development engine choice. Use what you have.
+
+Create a business card. Clean the portfolio site and blog. Then go to Taiwan.
+
+1. Get a list of all the studios, especially independent film and interactive art. Contact them, ask them for work.
+
+2. Check out contemporary events. Go to them. Talk to people, especially people from higher up, and especially those I am personally interested in. Avoid the stereotype goody Asian students. Find the most eccentric ones. Join them for cooperative events. Talk about creating something together. Use a contest or event as a theme and deadline. Use their equipment, of the school's.
+
+3. Talk to professors at NTU for film and game design.
+
+4. Keep working on my own projects. Make games. Make films. Make stuff. Use jams, contests, and art events as deadlines. EGP once per month. Experimental film contest once per month? Pure creativity. Start with nothing and create something. That's what builds motivation. Tell people about it. Finish the project while you still have the motivation.
+
+5. Make events. Make Babycastles Taiwan.
+
+6. Somehow, I need to make money. Take on gigs. Learn Mandarin. Learn to communicate with kids. Learn to communicate with a community.
+
+7. Get a girlfriend.
+
+
+
+
+
+
+
+initial goal:
+work in a foreign country of interest for 4-6 months, make art (games, film, music), learn language by living, participate in local arts?, break even or make money, take on cool part times jobs (teach, build, journalist, photography, etc. [skilled work, not programming related]).
+
+conclusion:
+Full-time teaching takes away an essence of the reason I want to live in other countries. Do something else, anything social. Or, live normally, create films, games, and whatever else.
+
+
+
+
+Find experimental art communities and find gigs through it.
+
+positions I would take in the professional field:
+assistant director
+cinematographer
+[video] editor
+
+game designer
+designer [general]
+
+fine art
+business
+NGO
+
+workshops of current skills
+
+keywords:
+experimental
+interactive/interaction
+installation art
+game
+film
+videography/videographer
+photography/photographer
+art
+experimental
+studio
+designer
+contemporary art
+design
+video design
+media
+
+multi-media studio > film studio > independent > game studio
+  - I like to be around people. I don't like to do programming for large projects.
+
+
+use Google search parameters for all of craigslist East Asia, and other job sites
+  - http://www.google.ca/advanced_search
+  - site:craigslist.hk OR site:craigslist.jp OR site:craigslist.co.kr OR site:craigslist.com.tw [keywords]
+  - craigslist have few posts for all East Asian countries, have to use a local job database, or aggregate
+
+see East Asian artist work histories
+  - some take the school route, staying in school, becoming a professor
+  - some work at media companies
+    - visual artist, art director, video editor, etc.
+
+
+travel through Thailand, Laos, Cambodia:
+Focus on creativity not consumption. Travel slowly, allowing more time to create. Sit at the hostel at night to record experience and design and complete some designs from 8pm - 2 am. Take a break at a cafe during the day.
+
+Teaching art in the U.S. would have been a better experience, not sacrificing or stopping my routine, work, thoughts, contact with friends and family. Conversely, finding a way to travel via art project or business is far more fulfilling and directional.
+
+revised ultimate choice:
+Babycastles, and the game development scene in New York
+working and living in the private sector of an East Asian city
+
+
+
+make art and get involved with local artists -> apply to artist residencies and grants -> work as professor
+
+for money: teach kids, lectures, workshops, etc.
+
+for more money: job within specific expertise
+
+later in future:
+  - sustainable development in Burma/Loas/Combodia
+    - includes sustainable skills (engineering, building, teaching, cooking, etc.)
+
+  - try the Embassy. Robin said she received help. Find a job through people. Go to events. Apply to local job boards? Find cool professional jobs such as photography, video editor, game designer, musician, martial arts instructor, reporter, journalist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+temp:
+cheap flights
+
+KL/SIN to HK
+tiger airway - $105/$128
+air asia
+jetstar
+
+KL/SIN to BDQ
+Jet Airways - $280
+Air India - $350
+
+HK to BDQ
+multiple - $510 (may be stupid)
+Jet Airways - $650
+
+
+after Taiwan:
+
+note to self:
+  - do not fall for another waste of time professional job
+  - stick to great people, make great stuff, either with others, or alone, never lower your standards
+
+The only jobs I would take:
+  - media company
+    - general crew, video-related, interactive programing related
+  - film studio
+    - assistant director, cinematographer, general crew
+  - game studio
+    - game designer
+    - game programmer if indie or experimental
+
+make stuff all the time, even in Kuala Lumpur:
+  - interview people in KL about politics
+  - document all classes of society, a day in the life
+  - begin Pinkies Up again. Use iPhone.
+  - begin tracing game again.
+  - blog
+  - update resume/website
+  - write genuine cover letter
+
+order of things to do:
+  - find work from KL
+
+1. research projects in East Asia [from KL]
+2.1 if fail, go to Hong Kong, part-time work exchange, research local game/film, join events and contests, find people, work on personal game 70% of time, push self to join local art projects (like urban prototyping, or film jam events)
+2.2 if fail to find anything interesting, go to India to work alone, finish 2 games, few short films
+3. go back to NY, reconnect with Babycastles and Zack and NY game/film scenes in general, join many projects of interest, work as intern for money, live in a very cheap apartment, don't stop working
+4. done!
+
+games in NY vs film in anywhere (East Asia?)
+  - where to get money?
+  - work within film/media during the day
+  - make games at night
+
+is there anything better than NY's game/film scene in terms of quality and innovation?
+
+possibilities:
+1. find organization, work, people, in East Asia
+  - people/work must be great
+  - IGF winners, film festival winners
+  - something like Babycastles, contemporary
+  - ArtInAsia, similar websites?
+  - is it possible to work in countries in which the official language is not English?
+    - Google it
+    - ask CS artists
+    - ask friends
+      - Mandy/Rico/sisters
+    - aren't great ones universal, international, English-speaking?
+  - location does not matter, any city would be amazing, only the people I work with matters
+  - begin my own Babycastles! FUCK YES.
+  - get involved with new media companies, arts, design, universities, film production studios in East Asia
+  
+2. work independently in India
+  - must do this before going back to U.S.
+  - full-time artist
+  - can learn Gujarati
+  - need to finish games
+  - need to begin film
+    - do not be afraid
+  - utilize internet to enter contests
+  - check local art organizations, then national ones
+    - independent Indian filmmakers?
+      - contact Patung director
+    - independent Indian digital artists?
+    - Google gujarati film/game/digital/interactive first
+  - after completing works:
+    - apply to art residencies
+    - jobs will come to you
+    - freelance
+      - creativeapplications
+    - find jobs and projects (art or professional) in East Asia (or elsewhere) online, then move there
+
+3. go back to New York
+  - continue the life I had before:
+    - Babycastles
+    - indie game and film development
+    - cheap apartment
+    - apply to game designer and assistant film positions
+    - get last professional job
+      - save money
+      - buy business
+      - continue art in NY, business in wherever, and work on personal art
+    
+x. continue volunteer/work exchange
+  - it doesn't feel right, I'd rather work on things I love with a group and independently, while living in a new area
+  
+x. travel quickly through Hong Kong, Korea, Japan (couchsurf/helpx)?
+  - don't want to travel right now, want to work
+  - would need to maintain happiness by being creative while traveling
+    - take video, help people with work
+  - would need to focus on people
+    - couchsurf, work exchange with families
+      - live like a family member
+    - can determine best place to live in after this
+
+TRY VERY HARD TO FIND GOOD PEOPLE
+SETTLE SOMEWHERE IN HONG KONG
+START MAKING STUFF
+  - is it worth the time to look for people again?
+  - maybe I should just go to India
+    - can go from Singapore
+    - can stop at a cheap country on the way back
+      - can begin filming
+      - can do sustainable development
+
+need to find work: whether it's art, work exchange, or volunteer
+
+1. art
+  - the following pertains to anywhere interesting in Asia:
+    - order: Taiwan + Hong Kong + Japan > Korea
+  - find film studios to work at
+    - find indie filmmaking events
+    - find indie filmmaking gigs
+  - find game studios to work at
+    - gamedevmap, indie festivals for HK/SK/Japan, send email
+    - look for indie game events in HK
+  - find media companies to work at
+  - find digital art spaces/events/festivals/etc. to volunteer at
+    - it's likely film/game/digital art does not post on large job websites, just craigslist by chance, or more in-the-know ways, like signing up for newsletters, checking websites of specific places, art sites, etc.
+  - events at art departments of universities for leads
+  - asia art website
+  - the smaller and cooler, the better I can narrow the crowd
+2. work exchange/volunteer
+  - red cross?
+    - medical would be awesome
+      - could save for sustainable development in Cambodia
+        - can do in any country
+3. hostel/contemporary art/travel
+4. work
+  - skilled work that I can do myself
+
+
+
+
+OLD:
+
+  - move to Taiwan, get ESL job, get ARC
+  - then decide to move to other countries (workaway, esl, hostel)
+    - work exchange in Tokyo and Seoul
+    - work exchange sustainable development in Bali
+  - Now I feel I chose Taipei because it was safer, which is a terrible reason. I should have gone with Tokyo or Seoul.
+  - Now I feel like the following: Hong Kong > Tokyo > Seoul and Taipei
+    - English proficiency: Hong Kong > Taipei > Tokyo and Seoul
+  - Should I rush through Taipei, Hong Kong, Seoul, and Tokyo, then choose one to live in?
+  - it seems the best thing to do is to work for food an accomodation and work on personal games on my spare time
+  - currently in Taipei
+  - I feel that I have two options. One: rush through all of the cities I wish to live in, then choose one, live there, learn the language, find contemporary art, work with contemporary aritsts. Two: work exhange or take part-time jobs in each city, and work on personal games.
+    - I really should finish my games before moving on to other arts, but it's so much more fun working with other people in public spaces.
+  - Should fit sustainable development in Bhutan, Mongolia, Myanmar 
+
+Read more: http://www.city-data.com/forum/asia/159691-tokyo-seoul-hong-kong-singapore-high-3.html#ixzz23DfaAHCZ
+http://www.city-data.com/forum/asia/159691-tokyo-seoul-hong-kong-singapore-4.html
+  - "As I like to say, HK is organized chaos. Singapore is just organized. Give me chaos any day."
+  - "I've only been to Hong Kong and Tokyo thus far, and I'm tipping my vote towards Tokyo just because everything was so damn curious to me.”
+  - "Singapore was nice but not very exciting, very clean and safe."
+  - "Definitely Taipei should be considered. But compared to Hong Kong, there is a relative lack of English speakers in Taipei, though if you try approaching college or high school students, you'll probably get around fine. If you want to learn Mandarin though, Taipei is a good place, though they tend to mix in some Minnan(Hokkien) every now and then. Hong Kong is definitely NOT a place to learn Mandarin; most locals there aren't fluent in it, and they probably speak English better than they speak Mandarin."
+
+Things to think about:
+- is it possible to seek other artists while traveling?
+  - google it
+  - check gamedevmap
+  - check some international film site
+  - what can be done in 3 months?
+    - a lot
+
+- What do I want?
+  - I want to continue creating stuff
+    - finish 1-2 games, try ColorPad, try other designs
+    - enter contests, stay creatively active
+      - only ones that fit my intrinsic motivations
+    - try creating things in other mediums: film, music, writing, comic book, illustration
+      - especially film
+    - try part-time temporary jobs for fun?
+      - likely illegal in most countries.
+      - should require some skill or meaningfulness
+        - sustainable development, teaching, martial arts, medicine, farming
+  - I want to travel, to excite me, to inspire me, to work, to live
+  - I think I still need a more concrete goal
+  - I'm not the kind of person to go "into the wild". I wouldn't want to live in isolation. I wouldn't want to hike for long periods of time. I enjoy working on things I am interested in. I simply want to be in a new environment and work on new things. I'm a city explorer. I like people.
+  - explore cities and towns, enter contests, make stuff, 16 hour days, don't stop
+    - especially films
+  - my work should be in art, not freelance crap, keep high standards!
+  - there are two ambitions: art and travel
+    - if I can become commercially successful in art, I can travel
+    - if I travel, I will be inspired to create art
+  - is it possible to seek other artists while traveling?
+    - not really; I have a meaningless background and don't speak the language
+    - would 
+  - now leaning toward either city or heavy sustainable development, not a hybrid
+  - stick with part-time work
+  - CourchSurf to meet local artists
+  
+  goals:
+  - work 75% of the time
+  - find new wave art and get a part-time job within it
+  
+  requirements:
+  - internet connection
+  - part-time
+  - 3 month stay or longer
+  - for most of the time, live in cities: Tokyo, Taiwan, Hong Kong, Seoul
+  - for short periods of time try rural jobs: sustainable development in Bali, community development in Cambodia
+  
+  - What places do I want to see?
+  
+    -  where would artists exist?
+      - top tier schools in global cities
+        - Hong Kong, Tokyo, Seoul, Taipei
+      - indie film, new wave
+      - digital/interactive/game art
+  
+    - Eastern Asia
+      - Japan* (3-6 months)
+        - Tokyo*
+        - Osaka/Kyoto
+        - Fukuoka* (sounds like I could live there)
+        - Others, Yokohama, Sapporo (north!), Kobe
+      - Korea
+        - Seoul*
+          - I think Japan covers this
+      - China* (3 months)
+        - Hong Kong*
+        - Taipei/New Taipei City*
+        - Macau, nah
+        - Shanghai?
+        - Beijing?
+      - Singapore
+        - seems like all business and no art. No film industry.
+      - Malaysia
+        - Kuala Lampur
+      - Indonesia
+        - Jakarta
+      - Thailand
+        - Bangkok
+      - Vietnam
+        - don't really care for this either
+      - Philippines
+      - Cambodia
+        - Phnom Penh
+      - India (end in Gujarat)
+        - Gujarat
+        - Bangalore
+        
+      South Pacific
+      - some island
+      - Australia
+        - Melbourne
+        - Sydney
+      - New Zealand
+        - Auckland
+      
+    - Western Europe
+      - France
+        - Paris*
+      - Spain
+        - Barcelona 
+        - Madrid?
+      - Italy
+        - Milan
+        - Venice*
+  
+
+
+Routes:
+begin in India
+East
+West
+
+
+
+
+
+Notes:
+- developed countries (Western Europe and Eastern Asia) costs more
+
+http://www.travelindependent.info/links.htm#Accommodation
+1 Copenhagen
+2 Munich
+3 Tokyo
+4 Zurich
+5 Helsinki
+6 Vienna
+7 Stockholm
+8 Vancouver
+9 Melbourne
+10 Paris
+11 Sydney
+12 Honolulu
+13 Madrid
+14 Berlin
+15 Barcelona
+16 Montreal
+17 Fukuoka
+18 Amsterdam
+19 Minneapolis
+20 Kyoto
+
+Tech cities:
+Tokyo
+San Francisco
+Seoul
+Seattle
+Taipei
+Hong Kong
+Singapore
+Stockholm
+Bangalore
+New York
+
+Resources:
+http://www.travelindependent.info/links.htm#Accommodation
+http://en.wikipedia.org/wiki/Global_city
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+conclusion:
+- all of the following anywhere in East Asia:
+- try local job boards for professional jobs (game design and development, film, etc.)
+- try sustainable development jobs with wifi
+- try work exchange
+- find film production studios in East Asia
+
+conclusion:
+- choose a country to teach English in
+  - Hong Kong
+    - expensive cost of living, unknown friendliness, few teaching jobs, speak English, better chance to convert to professional job?
+  - Japan
+    - expensive cost of living, shy and unfriendly to foreigners
+  - South Korea
+    - okay cost of living, great pay, unfriendly people
+  - Taiwan
+    - cheap cost of living, good pay, friendly people, no worries 
+
+
+
+
+
+
+

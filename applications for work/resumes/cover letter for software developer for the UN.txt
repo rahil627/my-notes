@@ -1,0 +1,28 @@
+Yo.
+
+I’m here in Northern Thailand, trapped indefinitely. When I first got here, during the summer heat, I lived in a hostel with one younger girl from Myanmar. I was the only guest. Her family lived nearby and we all often lived together like a family. The hostel closed and the girl began college in July. After that, I moved to a place close to a woman, a Myanmar house worker that used to hang out with us. She lived in a nearby cement housing block that houses a ton of workers’ families from Myanmar. Later, she had to leave Chiang Mai. Now I’m alone, but the late night phone calls of her ‘sisters’ being thrown back to Mae Sot / border police will always be on my mind.
+
+I’ve been thinking of either two paths: go to the Myanmar-Thailand border and find a nice, caring, loving grassroots org to volunteer at, or, find a way to use my brain to do something more.
+
+Because I had much down-time during the hot(!) and “rainy” seasons of the outbreak, I’ve been taken to a more making mood. This is quite rare in my life. I haven’t been in the mood for making tech things for nearly a decade! Since then, I’ve been solely doing hands-on work: organizing and building communities (communal families), living right, with nature, along-side rural and indigenous people, always trying to figure out how to take better care of everything around.
+
+Recently, I’ve been thinking about tech projects to aid the world, and catching up on what I missed in programming (game engines, lower-level frameworks, UI frameworks, etc. maker tools): nothing’s really changed! So, this job, seems to fit both: my need to take care of / support others and my current desire to get back into making tech tools. It also seems like a good step, as it shouldn’t have much difficult low-level game engine ‘n graphics programming: the languages listed are thankfully all very high-level, often transpiled and with managed memory.
+
+**For me, the most interesting part of the job is precisely this process: figuring out what people need the most and concepting / designing / making the simplest and cleanest solution, maximizing the conquest of low-hanging fruit.** If this were the entire job, It’d be perfect!
+
+Actually, this job even looks a little different from what I remember; I remember seeing a third-party job post specifically about updating two particular data sites, one had to do with refugees... I hope this is the right job!! There can’t be too many in Bangkok can there...?  (I also applied to the Data Scientist position, just in case that was it...)
+
+Anyway, I’m quite a social-supportive person, so it would be even better to have the freedom to talk to anyone at the UN to figure out what tools everyone desires, and be able to prioritize them by importance. I just don’t see any reason for anyone at the UN to have waste time using old software tools to get the info they need in order to make life-changing decisions. Surely just using a simple suite of recent libraries (data scraping / parsing, visualization, and UI) and even apps (AirTable?) could replace a lot of old crud? Technology has come a long way. It shouldn’t be so bad. In fact, it could be beautiful!: Even the person who made therefugeeproject.org is just another like-minded artist from Brooklyn NY, who used the UN’s data to make something more accessible. I’m sure there’s quite a lot to be desired with the current tool-set over there, all around the world. It would be great to quickly make these tools, from concept to prototype to immediate use and iteration. If this is indeed what the position entails, this could quite ideal for me.
+
+I must warn you though: I never enjoyed web programming, and I loathe PHP. I much much prefer systems-style programming (like games!): for example, in simple case of a UI app, I hope it’s a cross-platform native solution (Flutter, Xamarin, Haxe...) and not a nasty solution from the JavaScript road (visualizations may be an exception). Let’s think long-term strongly-typed solutions and compile down to C!
+
+Anyway, I’ll likely be here in Thailand until the government finally kicks everyone out. Normally, I live in south-western rural or eastern natural parts of Taiwan, and I’m waiting for it to open up to re-unite with my friends whom I dearly miss.
+
+I do my best computer work working at night in remotely in rural or natural parts of Thailand (or warm Asia), far far away from Bangkok... But, I understand I’d have to figure out how everyone works in the office during the day first... I’ll try... but it would certainly be detrimental to anyone’s health and productivity. I can’t even tolerate Chiang Mai’s traffic!...
+
+Just e-mail back. Otherwise, I’ll likely be heading to Pai soon (two weeks?) for a short break, then, toward indigenous villages, slowly going toward the Myanmar border. Hopefully I’ll find some caring groups of people along the way! Or perhaps the UN is one such group?...
+
+...
+
+From the bottoms of mountains in warm Asia,
+Ra

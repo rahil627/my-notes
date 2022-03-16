@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with seungtrl on 2009-04-22</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:46:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">LOL</span></span></div>
+<div class="incoming message" auto="True" timestamp="2009-04-22 05:46:25"><span class="buddy">seungtrl</span> <span class="msgcontent">I'm not here right now</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:46:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wyatt's bit in sweden is killing me</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:47:08"><span class="buddy">seungtrl</span> <span class="msgcontent">goddammit</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:47:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:47:19"><span class="buddy">seungtrl</span> <span class="msgcontent">was sleeping</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:47:22"><span class="buddy">seungtrl</span> <span class="msgcontent">did it jus end?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:47:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah..show is on, the bit is over</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:47:35"><span class="buddy">seungtrl</span> <span class="msgcontent">guh</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:47:39"><span class="buddy">seungtrl</span> <span class="msgcontent">knew i shoulda kept it on</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:47:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">meh, you'll prolly catch a rerun</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:47:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ohhh hahaha</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:47:58"><span class="buddy">seungtrl</span> <span class="msgcontent">ni i never watch tv anymore</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:48:04"><span class="buddy">seungtrl</span> <span class="msgcontent">never remember to catch them</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:48:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im burning dvds...so, not much else to do :(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:50:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">the daily show did its media magic and showed a buncha pundits saying something about america is getting closer to socialism</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:50:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">the last one being bil o reilly saying, nooot sweden!!!</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:52:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so he sent wyatt to sweden to see how bad life is over there, and to save them from socialism ;)</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:53:25"><span class="buddy">seungtrl</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:53:28"><span class="buddy">seungtrl</span> <span class="msgcontent">fucking oreilly</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:53:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hehehe</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:53:38"><span class="buddy">seungtrl</span> <span class="msgcontent">they'll be a special circle of hell just for him</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:53:44"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmhmm</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:53:52"><span class="buddy">seungtrl</span> <span class="msgcontent">but was that segment the one in the commercial?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:54:01"><span class="buddy">seungtrl</span> <span class="msgcontent">WAKE UP PEOPLE! YOURE BEING SOCIALISTS!</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:54:02"><span class="buddy">seungtrl</span> <span class="msgcontent">or w/e?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:54:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:54:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">haven't seen the commercial, but yea, that was part of it</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:54:18"><span class="buddy">seungtrl</span> <span class="msgcontent">goddammit</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:54:22"><span class="buddy">seungtrl</span> <span class="msgcontent">that looked funny as hell</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:55:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">meh it's aiite, no need to feel bad =P ....but the best part of about the difference between an american start (50 cent) who watches movies on his giant projector in his gigantic house and swedish pop star robyn....who RECYCLES bags</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:56:07"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and had an overall ordinary lookin house</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 05:56:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it was quite anti-mtv cribs</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 05:57:46"><span class="buddy">seungtrl</span> <span class="msgcontent">lol</span></div>

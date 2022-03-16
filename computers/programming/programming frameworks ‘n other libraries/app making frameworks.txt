@@ -1,0 +1,38 @@
+cross-platform frameworks:
+Xamarin
+React
+Ionic
+Flutter
+
+notes:
+Flutter
+  - dart, Google’s new stuff
+  - live-reload
+  - supports native and web
+  - most loved framework on a survey
+
+Xamarin
+  - .net / c# world, uses native ui
+  - two ways to do ui: forms library can be used for completely code-shared ui, or, ios and android specific libraries can be accessed making for more complex platform-specific ui
+  - there is only ‘fast deployment’ for android devices via android studio; there is no live-reloading
+  - old-school build ‘n deploy process
+  - of the big 3, this was the least loved
+
+React
+  - javascript world, uses native code beneath (via React Native library)
+  - popular, therefore many libraries, tutorials, support, but, likely messy, inefficient
+  - live-reload (no need to build, deploy, etc.)
+  - completely code shared, ‘build once, run everywhere’
+
+Ionic
+  - typescript, angular, uses cordova (aka phonegap) to port web code to devices, uses web (html, css) for ui
+  - because it uses web for ui, it just can’t look good as native ui apps
+  - can now be used with any javascript front-end (react, angular, vue, etc.)?
+
+
+sources:
+https://insights.stackoverflow.com/survey
+
+https://insights.stackoverflow.com/survey/2020#technology-other-frameworks-libraries-and-tools-all-respondents3
+
+https://medium.com/swlh/xamarin-vs-ionic-vs-react-native-differences-under-the-hood-6b9cc3d2c826

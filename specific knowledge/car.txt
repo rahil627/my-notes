@@ -1,0 +1,357 @@
+from an old paper titled "Car Maintenance":
+when refueling:
+	check fluid levels: brake and clutch, engine coolant, engine oil, washer, automatic transaxle, power steering
+monthly:
+	check tire pressure
+
+appearance care:
+when refeuling:
+	clean off bird droppings, insects, and other crap with a wet tissue from the gas station
+	use window cleaner if it's on the window
+monthly:
+	pressure wash
+4-6 months:
+	wax
+	clean interior
+
+from an old paper titled "Efficient Driving":
+can skip gear shifts but stay >2000rpm
+10-15% engine tuning
+5-33 aggressive driving
+100lb = 2% mpg
+idling = 0mpg
+cruise control = constant speed, better than most humans
+0-10% oil and filter
+0-3% tire inflation
+1-2% recommended oil
+10% air conditioner
+
+best at 30/60mpg, sucks at <25 and >60
+turn off engine if idle over 30 seconds
+no need to warm up the car in the winter
+shift to neutral at long red lights and other stops
+higher gear = more efficient, getting to the highest gear quickly = efficiency
+lower gear on hills/curves
+the colder the engine, the more fuel it uses to start the car
+use windows on local streets and air conditioner or vent on the highway
+accelerate smoothly/consistently
+anticipate stops and coast (let go of acceleration)
+refuel at empty, don't partially refuel
+
+walmart prices:
+	$10 flat repair
+	$30 service, includes oil change, filling fluids,  tire inflation, vacuum interior, check other stuff
+	do state inspections!
+
+buying a used car:
+	g35, 100k, $10,000
+	328i, 75k, $19,000
+	celica GT, 136k, $4000 (craigslist)
+	mazda 3 S, 83k, $7500
+	mazda rx-8, 75k $12800 (craigslist)
+	
+	conclusion: luxury cars end up $10,000 at 100k miles, economy $5000 100k
+		it's much tougher to find a cheap economy card than a cheap luxury car. For some reason 100k economy cars level at $10,000
+
+http://poorcarreviews.blogspot.com/2010_05_30_archive.html - good reviews
+
+clean/detail/wax process
+http://cars.about.com/od/adviceforowners/ss/howtodetailext.htm
+http://www.popularmechanics.com/cars/how-to/repair/1272211
+
+wash with hose with a spray attachment or a local power wash, then hose without attachment, flooding the car
+wash door jambs
+use vinyl/rubber cleaner on black parts (around doors)
+clay the car if it hasn't been washed/waxed for a while. To test, run finger across car, is it smooth? Don't drop the clay!
+polish (pre-wax)
+wax car - Wax when water no longer beads on the surface of the paint, otherwise you can use polish. Wax in shade for non-sythetic waxes.
+	be careful not to get it on the black trim or emblems
+use microfibre towel or brush to clean any wax that has gotten on the emblems
+
+tires
+	costco - Free mounting/balancing. Lifetime services include inflation pressure checks, tire balancing, tire rotations, as well as flat repairs.
+	walmart - ~$60 mounting/balancing, 7.50/tire for rotation/balancing for life? free installation if bought from walmart
+	
+stores
+	JDs place on bonney rd - 498-0009 - automotive consultants
+	Irving's Detailing Salon - 333-7854 - in town center parking garage, city mentality, look for deals on their facebook page, was $30 wash/wax with a groupon
+	protime automotive - 466-0877 - automotive consultant's owner's son
+	Great Bridge Mufflers & Brakes - 757-548-3572 - has good google reviews
+	Fink's Care Care - 545-3573 - good reviews
+	checkered flag - 490-1111 - many great reviews
+
+maintenance
+shila
+2001? lexus RX300?
+oil and filter, rotation, lube locks every 4 [i do 6] months or 5000 miles
+Clean, fresh oil is amber clear. Used oil is sooty and dark. can mark oil filter before oil change, to see if they change it.
+dueler h/t bridgestone p225/70r16 101s, 44psi max, ~32-35 cold?
+firestone - 547-7784, can drop car off and even has state inpsections on sundays
+
+best tires
+good year assurance triple tread vs michelin hydroedge/harmony/hydroedge with green x
+	goodyear has 80k warranty, best bet
+	hydro has 90k warranty/best tread life
+	harmony is like hydro with focus on comfort
+	hydro with green x is a fuel saving tire
+good year assurance comfor tread - great ride/noise
+Hankook Optimo H727 vs Yokohama AVID TRZ/TOURING-S - budget, hancock as 100k warranty tread
+Michelin Primacy MXV4 - performance
+Michelin Pilot Sport PS2 - max performance, $193
+Continental ExtremeContact DWS - extreme high performance, 6 Years / 50,000 miles, $126
+Continental ExtremeContact DW - max performance summer, $133
+
+fluids
+antifreeze & coolants - make sure colors match (yellow/green/orange/pink), still there are some differences of the same colored coolants. check when it gets cold. prestone or any brand? mixing antifreeze can reduce performance. shila's needs ehylene glycol. buy the full not 50/50. http://www.popularmechanics.com/cars/how-to/products/1272436
+washer fluid with antifreeze - $1 for a large container, any brand
+
+tire treads 	
+mine	3.5FL/3.5FR/8RL/5RR in 1/32", 12/23/2009
+shila's 4.66FL/4.25FR/5.33RL/5RR, 4.5-5-4.5/3.5-5-4/6-4-6/5-5-6, 1/25/2009
+
+temperature and air pressure have a direct correlation. 1psi/10 degree fahrenheit
+
+digital guage ($10) and inflator ($60)
+
+gas stations near me charges 75c for air
+
+flood
+x-stinkt
+damprid
+shampoo
+baking soda + toothbrush + spray vinegar
+
+baking soda (let it sit for a few days) + vacuum***** easiest
+Zep Premium Carpet and Upholstery Shampoo
+
+oil + filter		free at dealership
+tire rotation		costco should be free but the one in norfolk isn't
+						$20 merchant's coupon for tire rotation/balance/alignment check/air pressure set
+						$18 oil change + rotation at jiffy lube/firestone/merchant's/mr. tire with a coupon
+						$20 rotate and balance at mr. tire
+
+lube locks and hinges	?
+brake inspection	free everywhere
+air pressure		home/gas station/with service
+when to balance? 	feel trembling, can see the rear view mirror or steering wheel trembling, or feel floor shaking
+when to align? 		if the car "pulls" over or tires show significant irregular tire wear
+
+scratchx?
+wax?
+recommended 32psi, over inflate to 35psi, sidewall 4-?psi
+
+clean
+carpet		glass cleaner for most stains
+seats
+dashboard
+
+sell car @ 20k miles for $18,500 (price i paid)
+buy a prius or mazda 3i manual or civic EX
+
+oil types
+-notation: (min)W-(max) temps
+-the higher the thicker the oil
+-high mileage cars should use 10W-30 or even 10W-40
+
+05 - -22
+10 - -4
+15 - 14
+20 - ?
+30 - 86
+40 - 104
+50 - 122
+
+my car: 5w-30
+recommended/best all around 10W-30
+
+fuel saving tips - http://www.edmunds.com/reviews/list/top10/103164/article.html
+
+maintenance
+
+tire inflation
+Excessive wear on both outer edges = under inflation.
+Excessive wear in center of tread indicates over-inflation.
+best to replace all 4 tires
+next best to replace tires in pairs
+Gas mileage drops about 1% for every pound of tire pressure below recommended level.
+every 10 degree drop in temperature, tire pressure decreases by one pound.
+Have your car's alignment checked once a year.
+
+tune-ups
+Keep the engine tuned properly. Checking spark plugs, oxygen sensors, air filters, hoses and belts are a few examples of maintenance that can save a vehicle owner up to 165 gallons of gas per year, resulting in potential savings of $350.
+A car in tune consumes 20 percent less fuel and releases less heat trapping carbon dioxide into the atmosphere.
+Get tune-ups (or do them yourself) as recommended by your owner's manual.
+The following emission control parts should be inspected:
+Charcoal canister: absorbs gasoline fumes from fuel system and routes them into the engine.
+Positive crankcase ventilation valve: The PCV system recycles gases into the engine for combustion.
+Exhaust gas recirculation: The EGR system cuts down on the formation of nitrogen oxides, which sunlight transforms into smog.
+Fuel injectors: Deliver the right amount of fuel to the cylinders.
+Catalytic converter: Turns carbon monoxide and unburned gas into carbon dioxide and water. Most converters also break down nitrogen oxides.
+Other items to check during a check-up:
+Dirty air filters restrict airflow and decrease energy efficiency.
+Clogged fuel injectors produce a mix too lean or too rich, which hurts your engine, your fuel economy and the atmosphere.
+Worn spark plugs misfire, causing fuel to pass through the exhaust system unburned.
+A thermostat that lets the engine run too cool or too hot wastes gas and increases exhaust emissions.
+Change or adjust these parts according to the schedule in your owner's manual to keep emissions down.
+
+gas mileage estimates
+EPA 2008
+civic
+	manual	26/35
+	auto	26/27
+	hybrid	42/46
+	si	21/29
+mazda3
+2.0	manual	25/32
+	auto	23/31
+2.3	manual	23/30
+	auto	22/29
+
+fueleconomy.gov
+civic
+	manual	33.6
+	auto	31.5
+	hybrid	45
+	si	27.7
+mazda3
+2.0	manual	29
+	auto	30
+2.3	manual	29
+	auto	27
+
+camry hybrid 36
+prius 47
+integra auto 30
+jetta auto 25
+honda insight 60
+honda fit 35
+kia rio 35
+
+Toyota Prius (base)  		44  	35  	50
+Toyota Prius Touring  		42  	34  	47
+Honda Civic Hybrid  		37  	26  	47
+Honda Civic EX (MT)  		31  	22  	40
+Mazda3 i (MT)  			30  	21	42
+Mazda3 s Grand Touring  	25  	17  	35
+
+the following is after the flood:
+
+auto insurance per year = ~1500
+
+new 2010
+      MSRP	invoice
+5d s  20300	19100
+5d gt 22750	21345
+4d s  19790	18600
+4d gt 22250	20900
+
+autotrader
+5d
+18000	7250	2009
+
+4d s
+13500	25000	2007	manual
+14000	19000	2007	manual
+16000	24000	2008
+15000	26000	2008
+16000	10000	2008		****
+15000	18000	2007		***
+12000	25000	2007	manual	******	private seller
+
+craigslist
+5d s
+15900	13200	2008	manual	***
+10500	40273	2004
+
+4d s
+12690	44000	2008
+14800	18000	2008		***
+11900	?	2008	757-823-2277
+?	34000	2006	757-580-0007	not sure if S
+
+honda fit sport
+17100	sport automatic invoice
+13,750	11000	2008	manual
+
+honda civic
+LX
+16000	10000	2008
+Si coupe
+15500	11000	2009
+EX coupe
+12000	12000	2008	****** 757-435-3438 (msrp 22000) wtf?
+
+insurance adjuster letter analyzed and questioned
+
+CCC bases prices is based on market research from local dealers and newspapers
+KBB, NADA, edmunds prices is a guide
+
+What CCC doesn't know is if you had recent maintenance done, if you had a recent paint job, upholester replacement, or a new set of tires put on your car.
+
+http://www.stephencryanpc.com/Articles.shtml CCC 
+
+salvage value? - 15%-20% of actual cash value depending on age
+comp - comparable property
+
+
+1) how come the salvage value is so high? 4000/16000 = 25%!
+2) baseline adjustment = -688?
+
+out of the 3 car comparable cards, only two were the same model.
+The "take" prices were:
+$16000 @ 23500 miles [my car reference]
+$16000 @ 37000 miles comp1
+$16400 @ 42000 miles comp2
+
+i'm ignoring the following:
+take price = -$1000
+options = -$250 to -$500
+value given = $200 over the lowest adjusted value
+
+the "take price" assumes that the insured can bargain dealers down to their lowest sale (a very large assumption).
+i won't bother with fighting for the options, since the CCC system seems to pick and choose random features here.
+the value i was given was $200 over the lowest value. this nearly assumes i can find the best deal possible.
+the dealers were 150 miles away
+
+
+after a flood
+do not turn the car on
+wet vac what you can immediately (without removing anything)
+call your insurance company
+check oil, if there is water, do not drive it, change your oil
+
+how to clean a car after a flood
+wash the outside of car - disinfectant and hot pressure washer
+dismantle interior
+disinfect and clean everything dismantled (upholstery, mats, seats)
+[extra] remove and clean plastic trim, door rubbers, center console, side panels, door panels
+[costly?] fog (atomize) the car
+wet vac the inside of the car
+dehumidify the inside
+reassemble
+re-grease bare metal parts nad seat adjusters
+
+electronics under the car - airbags, heated seats
+
+
+
+how to take care of leather upholstery (seats and steering wheel)
+travel blanket - cover backseat
+sun reflector - cover front seats
+Leather cleaner - 3-4x per year
+leather conditioner - once per year (during spring)
+'ink stick' - stain remover
+
+Supagard Leather Kit
+AutoSmart products
+AutoGlym
+
+creases -> cracks
+
+general wear - connollise ASAP
+
+other
+the cost of damage typically decreases the value of a car by three times the cost of repair
+http://www.clean-image.co.uk/articles/increase-the-value-of-your-car.htm
+write off - cost of damage is greater than the cost of repair
+

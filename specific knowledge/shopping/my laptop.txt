@@ -1,0 +1,110 @@
+notebookcheck
+laptop mag
+pc mag
+engadget
+
+newegg
+amazon
+walmart
+bestbuy
+
+If you want a 13" forgo the white for the pro because you get:
+Aluminum Unibody
+2GB more of RAM
+FireWire 800
+Built-in subwoofer***
+SD Card Slot
+Better Screen (Wider Color Gamut)***
+.2 lbs lighter
+IR port
+
+Read more: http://www.brighthub.com/computing/mac-platform/articles/61978.aspx#ixzz17eMRQ7Qw
+
+
+check dimensions of all of the laptops
+
+CW2S1E/L old vaio
+
+qx310 - 331 x 236.4 x 27mm, bluetooth
+qx410 - 348.5 x 246.6 x 27.2 mm
+qx510
+
+
+try using sweta's laptop one night, see if the screen is big enough*****
+
+x/qx510
+x/VPC-EB3Z1E/BQ - not available in US
+
+1)RF510-S01 - $730, almost rubber textured keys! has a keypad, better-than-average sound (although no subwoofer), usb3, 14.90" x 10.10" x 1.20" - 1.50", bad battery life (1.5-3.5 hours), okay design, 1.5x14.9x10.1 inches, not as sexy as qx410, much thicker, 330m, boring glossy cover, glossy fingerprint-prone border sticks out, seperate mouse buttons, matte display?, AR coated, nice palm rest, missing expresscard reader
+2)macbook pro - $1100 with student discount, 12.68 x 8.94 x .95, backlit keyboard, 320m, 10h battery life, core 2 duo, can run windows natively
+x)Envy 14-1110NR - $1000, 14.01" (W) x 9.33" (D) x 1.16" (min H)/1.18" (max H), good speakers, i7 deal, glossy screen, hd5650, trackpad has integrated buttons like sweta's but reviews said it's been updated
+x/vpceb33fm - $600 at best buy, 1366x768, 14.56" x 9.77" x 1.22", i3, textured mouse pad (not so great), esata, terrible battery life 1.5 hour load or 3 hours surfing or maybe 4.5 with intel GMA, integrated graphics, wimax, widi, speakers suck, has keypad, 15x10.1x1.3
+   vpcEB3QFX - $550 at office max
+?/qx410 - $800 - 14" so no keypad*, 13.7" x 1.07" x 9.7", 310m, wimax,  1366x768, 7 hours non replaceable battery, wimax/widi, multitouch
+x/SF510 - $630, 310m optimus, 4 hour battery life, wimax, widi, motion blurring? awesome touchpad
+?/xps 15 - $800, i5, 7200rpm*, best sound, hd webcam, 2.4-GHz Core i5 460M CPU, 7,200 rpm hard drive, best video card - Nvidia GT420, usb 3, bulky, gets warm, very short battery life
+
+x/asus u30jc b1 or x3k- 625 - http://dealnews.com/ASUS-Core-i3-Dual-2.26-GHz-13-Laptop-for-625-after-rebate-free-shipping/412360.html, 13.1 x 9.5 x 1.2, NVIDIA GeForce 310M, optimum
+x/U35JC-A1 - 725, thinner, no optical drive, weighs less, keyboard flexes, so does the one above though...
+r705
+macbook pro 15
+
+x/macbook
+
+AS5745 - 
+AS5742G-7200 - 420m
+
+Read more: http://www.laptopmag.com/review/laptops/dell-xps-15.aspx?page=3#ixzz17UTo7xrt
+
+from walmart:
+AS7741Z-5731 - 17" acer 500, 16.3 x 10.8 x 1.07
+sony e
+dv7 - 600?
+
+from best buy:
+NV59c - 550*, NV55C03u for 400 at best buy with coupon
+k52-bgr5
+dell im5030
+toshiba a665
+r580
+u52f-bbl9 - sony-like keys
+
+crazy - http://www.walmart.com/ip/Acer-AS7741Z-5731/14575770
+Asus U45Jc-A1 - 900, N61JV-JX007V - $830, U35JC-XA1 for 675 with deal
+Gateway NV59c
+vostro 3500
+
+Acer Aspire AS5745-7247 - $600
+g62t
+
+
+reference
+	cpu									cpu3dmark06
+	atom n270							479
+	atom n450							495
+	neo mv-40							601
+	Intel Core 2 Solo SU3500	649 (single core)
+	SU4100								1158 (dual core)
+	Athlon Neo X2					1155
+	Turion X2 RM-74				1561
+	athlon II p340					1741
+	T4400								1881
+	Turion II M520 					1850
+	P6100								1845
+	T6500								1856
+	T6570								1751?
+	E6600								2047
+	T8300								2121
+	i3 350M								2376
+	i3 370M								2575
+	i5 430M								2579
+	i5 460M								2877
+	
+	gpu
+	4250									1362
+	intel GMA							1491
+	310m								3158
+	320m								4706
+	330m								6217
+	GT 420m							6068
+	ATI 5650							6478

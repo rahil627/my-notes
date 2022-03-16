@@ -1,0 +1,20 @@
+from a post-it:
+
+breton male	cap
+s	40	100
+i	50	110
+w	50	110
+a	30+5	95+10
+s	30	90+10
+e	30	90
+p	40->270	100
+l	50+5	105+10
+
+tgm	toggle god mode
+tdt	frame rate
+tcl	unstuck
+showracemenu
+showclassmenu
+showbirthsignmenu
+fov	field of vision
+set mdgb1horsespeedmultiplier to 1.0 (.5-1.5)

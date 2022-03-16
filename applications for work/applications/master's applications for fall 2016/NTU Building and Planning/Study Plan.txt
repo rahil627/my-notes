@@ -1,0 +1,295 @@
+#### Study Plan
+
+A note: I did not find any guidelines for this writing, so I will proceed to write without restriction.
+
+A disclaimer: Sometime ago I wrote my desired directions in life, then I fit it into relevant grants and institutions. Two writings encompass what I want to do and what I want to study which provide creative means toward desired social ends. I will reference them with "(m)" for MIT Media Lab graduate application and "(d)" for Taiwan Foundation for Democracy grant fellowship application. Though, I will try to avoid referencing them, and instead append them to the end of this writing.
+
+Project Plan:
+As I just mentioned, I've already written what I want to do in a grant application (see appendix 1) which asked for a "project plan". What I want to do remains unchanged, only the methods of study differ. The school did not ask for it, but it is probably more useful to read it instead of my study plan.
+
+Study Plan:
+This study plan merely complements my project plan. Ideally I would simply anything that relates to what I want to do, in sync with time.
+
+Perhaps what I want to study, or more precisely, what experiences in an academic space that I think could be beneficial to my desired plans, can be divided into these categories: theory, practice, reality, history, social relations, technology, and my social network.
+
+##### Theory
+Theorizing is something I naturally do, often while experiencing, and sometimes while reflecting after an experience. How I've communicated those theories in the past varied through various arts. I hope that will never stop.
+
+Arguing (engaging in dialectic) with philosophers and theorists is a rare and optional part of my process of theorizing, that may occur after much experience. It is unnecessary, but in academia, it may be helpful to use the language of philosophers and theorists to communicate with people in academia. I think it would be nice to have conversations or even dialectics with people who are also interested, within the same space, leveraging the use of local or national cases as examples to the theories.
+
+Though I feel I could participate in much of the conversation that relates to human geography, urban planning, critical theory, new media, media studies, and more, yet, as I mentioned in my autobiography, I am quite afraid of encountering a bourgeoisie worldview usual of academia from my past personal experiences; I'm not sure how to cure this: Perhaps living in different areas and communicating through digital means, as opposed to being in the same space is one way. I also am unsure how talking to people within the same social class could ever lead to more understanding other people compared to simply living nomadic ally, changing area, work, and social relations. Or more simply, I am unsure how solely communication through human language between people could ever provide useful data. That, I guess, is something I may need to learn too.
+
+The first thing to study, especially at an academic institution, is the philosophy of social science. First the institution must try to persuade me into believing that their research, especially in the "social sciences", done in academia is worthwhile, or even functional. I want to see their methods of research. I want to see what separates my past essay-style writings, in which I create pure theory from personal experiences in reality, from academic "research" writings, which I imagine are peer-reviewed, and determine if that difference is worth the effort, compared to simply writing (or communicating through other mediums).
+
+Another thing to learn in the domain of research is how to obtain academic resources efficiently (Google Scholar?). How do researchers research (reality and primary sources?).
+
+Ultimately, Are there people able to create anything meaningful, especially compared to a film documentary? How does that information lead to practical urban and social interventions? Or are most social philosophy journals privatized, forgotten, into some impractical abyss? I have no idea. I've never spent time reading scholarly journals in my life. But as a person interested in humans (not natural sciences), is it even useful compared to experience?
+
+##### Practice [of the institution]
+I simply desire to see the practice of people working within the field, so that I can judge the usefulness of the work myself [in my mind], and to compare it to my own personal practice [project plan].
+
+##### Reality
+Although I've traveled and lived in several areas in Taiwan, simply continuing to live in several areas in Taiwan is an important part of my plan because it allows me to freely experience the material (urban) and social (cultural) reality.
+
+This brings about a stipulation: I cannot live in the space of an academic institution, and, hopefully I spend very little time there -- for the simple reason: only a few culturally and economically privileged people live in or around academic institutions. Living in different city neighborhoods is good, but I will also need to spend much time outside of the city to maintain an up-to-date mind mapping of the country.
+
+Perhaps to refresh my mind from the singular culture of Taiwan, I will desire to get out of Taiwan and experience a different, nearby society-nations (likely other islands in the Pacific and Southeast Asia) -- to help me compare societies with Taiwan, and to let go of habits and ideas ingrained in Taiwan's society.
+
+This constant shift between societies allows me to constantly compare societies, forcing my mind to think simultaneously more specifically and more abstractly, and is crucial to critically understand any society, including Taiwan.
+
+Contrary to reality and experience, I hope that the school will merely allow me space and time to communicate ideas with people, and to provide ideals and theories of other societies through academic readings, conversation, academic journals, film, and other relevant media.
+
+##### History [and Culture]
+To understand contemporary urban and social reality, I may need to dig into history. Some social questions and concerns that have a cultural history are: lack of police enforcement, privilege of academia and its students,  privilege of government, a history of social movements, a history of social and urban interventions.
+
+As for urban, I would simply like to learn how he built environment came to be, that is, who planned and who built everything, and why. Who is the Robert Moses of Taiwan? What percentage of do the government, academic planners, or those with abundant capital (individual to corporate) have in what is built?
+
+##### [Local and National] Social Relations
+Although I've already spent quite some time in Taiwan, I've always had a difficult time connecting with any sort social or urban (especially the exclusive ones: academic, government, and national) organizations. I don't mind much as I am unwilling to join any top-down institution, yet, I still desire to understand the workings of contemporary policy, role of government (especially in urbanization), role of NGOs, role of private sector, and how nearly any political institution that is currently greatly influencing people's actions; I still desire to understand the social relationships between each organization.
+
+With this knowledge, organizations can be checked, at times down to the individual, and target them to take responsibility for their actions. Furthermore, this knowledge should be more readily available to the public, especially the civil society, through better media sources.
+
+Here I want to answer the questions: Who is responsible for road safety, road maintenance, illegal housing, squatters, homeless people, bad urban planning, wasteful urbanization, public health, and so on. With this knowledge, then I can better determine if e-government tools can be created or used to guide people to take more civil actions.
+
+##### [Design, Art, Civics, and] Technology
+The final category of study comes closer to the Civic Media group from MIT Media Lab, which itself contains ideas from my design and technology past in New York. For more details see my study plan written for MIT Media Lab graduate application (appendix 2).
+
+Though I will be busy with urban planning and theory, a large part of my personal history involves technology, in education and work. Although I plan to spend less time on creating products, one form of creativity I gravitate toward is using material, especially combined with technology, as a means of aiding social and especially urban ends.
+
+I think it is always a good idea to play with current massively available technology (input devices [sensors], output devices, micro-controllers, etc.). This I believe was the gist of the creative process for new media art, and the core of Parson's D&T and NYU's ITP programs. Since my time in New York, I have always been associated with local public tech-oriented spaces (hackerspaces, fablabs, etc.) and artist co-living communities (communes, villages, etc.). I think I will always create some form of art, and this kind of new media in public spaces may fit as a means of social and urban solutions, placing information in the public, in reality, which could be really effective when the information contradicts the reality.
+
+Here, the experience with the environment is re-imagined. How can information be obtained from the environment? What, if any, should that be? How can the environment be enhanced by technology to guide people into better behaved (sustainable, ethical, altruistic) acts?
+
+Here, is the experience with people within their current space is re-imagined. What mobile or place-based technologies can be used to help people organize social events with civil ends? How can digital communication be organized to bring about civil actions?
+
+If the other categories are more academic, then part of this category encompasses my non-academic side: it is playful (I love games), disruptive (think Situationists), and just creative (think Fluxus). During this mode of thought, I do not care for the urban or the society; It's all silly old ideas; Instead, I ignore all old ideas and do what I want, re-using the environment as I wish, playing games on the streets.
+
+##### My Social Network
+I am a product of public spaces, so it is likely I will in the future work with NGOs in Taiwan, and continue to affiliate myself with public  spaces in the city: DIY spaces (Fablabs, Hackerspaces), venues with DIY ethics (free spaces, art spaces, community spaces), and more general public spaces.
+
+At NCKU specifically, I was happy to see that several departments (urban planning and creative industries included) were all within the same area: the northwestern bit of the large campus. This density of people and equipment is really what attracts me to the university, making it superior to even NTU.
+
+This structure makes me feel that I could easily go to industrial design department's workshop for rapid prototyping, walk to the urban planning department to talk about urban theories and design, walk to the architecture department to talk about experience within space, and then finally hang out in creative industries design, using it as the public space to communicate with anyone.
+
+Furthermore, the campus is simply in the heart of the city, which is odd considering the size of it, but a blessing. The reason I chose Parson's in my past is because it is in the heart of New York. This allows me to experience the city, maintaining social networks in the city, yet attend school.
+
+Though the structure of NCKU as long as it is private, it is useless to most, and out of personal ethics, I will try to utilize spaces in the city, as opposed to the institution, as much as possible.
+
+##### Of Categorization
+Of course, all of this is merely a random categorization of my desires. In reality, I hope it's a chaotic mess of experience and information.
+
+#### Appendix
+##### A1. project plan for Taiwan Foundation for Democracy fellowship grant
+II. Project Plan
+
+1. Project Title and Date
+
+1.1 Project Title:
+Center for Civic Tools and Urban Interventions
+
+1.2 Proposal of Project Dates:
+In general, 2016. In September 2016 I may pursue a research or a different master’s program, likely MIT Media Lab or NTU Graduate Institute of Building and Planning, but unless I can manage to fit this project’s work into the program, I will postpone it.
+
+1.3 Application Problems:
+I sent my application via email to grants@tfd.org.tw on September 7th, October 4th, then called on October 5th, to discover I must send a physical copy to your foundation. Please update the application (“Program Description”) to reflect this.
+
+1.4 Application Format:
+I hope the lack of dogmatic double space doesn’t bother you. Also, the length of the paper is long because there are recommended and optional readings.
+
+
+2. Description of Project Plan
+
+2.1.1 My Perspective of Taiwan’s Issues:
+Taiwan is a beautiful mess. The feeling of lack of government, enforcement, and social security continues. Even as the country unevenly advances to the most contemporary form of society, it still feels the people must survive on their own. It’s people have leveraged technology as exemplified in the prevalent use of technological knowledge to manufacture high quality products, accommodation and skill-share web services, social media as a primary source for national news, and social media to manage large-scale protests. The alacrity of their adaption to new technology and the strain of low income has resulted in a technological society with survival values.
+
+Though the people have adapted, the government has not. Along with a little normative government ilk, Taiwan’s government has bare digital services for citizens, keeps non-harmful data private, and contains non-sensical policies that aren’t being enforced properly anyway. Thus, it is generally up to the people to manage themselves, which itself has become a common moral and ideology. Though I believe most of the people will be able to survive — have shelter, eat, obtain health services and an education — thanks to civil society, I believe their civic progress will remain scattered outcries without tools to help them direct conversation.
+
+2.1.2 My Belief and Proposal:
+I believe Taiwan’s civil society is active enough to adapt to civic tools, convert conversation to actions, and experiment with technology and methods of social actions, as a means of progress.
+
+My proposal, defined by my personal background, is a civic technology center specialized in (1) the advocation and facilitation of civic technology, and (2) the creation of social and urban interventions.
+
+1. It advocates the use of mobile digital tools, extracts and serves functional civic data in more meaningful forms (already started at Taipei Hackerspace), and helps organize the useful bits of the infinite civic dialog created through their peculiar digital communication mediums (BBS system and non-Facebook social media) to lead to more effective civic actions. Basically, a Taiwanese sister organization of MIT Center for Civic Media, without the development of technology — leave that to MIT.
+
+2. It serves as a local community hall for the sake of constant personal civil experience, allotting time to solving local social and urban problems, and experimenting new forms of social intervention, urban intervention, and activism on a reoccurring basis.
+
+2.1.3 On Objectives
+The objective of the organization is not singular; It is a an a social organization of constant ongoing practice which may include: development of local-specific and general tools, advocation of tools, innovation and experimentation of methods of local interventions, and direct action.
+
+2.2 On Methodology
+My means are quite simple: to keep experimenting with technology, direct action, and interventions; Trying new ideas, seeing what works, and re-using what works in the future. I measure my own productivity by the number of ideas executed over time, the goal being to achieve the efficacy of a prolific artist, for example, Banksy; That is, to create different things on a daily basis. Can read [5.3] On Methodology’s Other Definition.
+
+2.3.1 Relevance of Work to Others / Potential Outputs
+
+1. The creation of the aforementioned social organization.
+
+To understand the other potential outputs, it is essential to understand how I believe ideas spread in Taiwan. Taiwan is rather small by area and consists of multiple urban centers. Knowledge often disseminates physically, with daily train commutes between cities, weekend train trips to hometowns, or simply going around the island with personal transportation. Another method of dissemination is social media, which due to a strong culture (separation of the internet by country domain and language) is also often limited to the country. Similar to the way capitalism results in the duplicate of ideas based on success of other implementation of ideas, I feel Taiwan heavily replicates civic ideas based on the success of other implementations of civic ideas in Taiwan.
+
+2. It serves as a model of such an organization (and public spaces in general) for other urban areas in Taiwan.
+
+3. Any successful tools or methods used or created will be available to the public. Examples: simple crowdsourcing data and data mapping tools to map pictures of civil engineering problems or intrusive urban plans of rich people or real estate pricing, organization of civic tech jam events and site-specific events near social problems, methods organize pinpoint social media protests, the creation of provocative or informative new media urban art, or the creation of interactive civic objects.
+
+4. Any successful specific outcomes may be duplicated elsewhere. Examples: use of crowdfunding for civic action, creation of new public policies (oral or written) such as the ban of vehicles in market areas, and even direct social and urban actions such as physically placing no-vehicle signs and personally redirecting traffic.
+
+5. Because Taiwan is highly charitable to nearby less developed countries, the organization may potentially impact beyond the island.
+
+Basically, if there is success locally, it then may potentially spread elsewhere.
+
+2.3.2 Relevance to Democracy
+The scope of the organization is larger than the simple promotion of democracy; The organization intersects with democracy with the following possible goals (likely in the form of digital tools): increase the amount of civic decisions people make, which may include the selection of leaders, finding ways to hold leaders accountable for their promises, encouraging solidarity against negative interventions from outside the community, and most importantly in Taiwan’s case: give voice to those who don’t use technology or don’t simply do not participate civically. If necessary, we can negotiate priorities.
+
+2.4 Progress to Date of the Project, Timetable, and Potential Collaborators
+
+2.4.1 Progress to Date of the Project:
+Until 2016 I will likely be traveling around Taiwan via scooter, stopping by impact possibilities and organizations on the way. Early 2016 I plan to begin. It’s speed depends on personal finance.
+
+2.4.2 Timetable:
+I do not have a timetable, instead, I hope the [5.2] Rough Outline of Actions serves as a guide of progress of the organization.
+
+2.4.3 Potential Collaborators
+As mentioned before, I have friends in Taipei whom are interested in technology, urban planning, and civics. I also have friends in New York and other parts of the world that fit the civil society and public space realms. Yet, I am most interested in working with anyone who physically appears at the organization’s space with interest and eagerness to volunteer.
+
+
+3. The Advantage of TFD:
+As mentioned in the [5.1] Rough Outline of Actions, TFD will come in handy during the early phases: information gathering and the possibility of permitting a space, even if temporary. The greatest advantage is having stable social contacts with civil pursuits.
+
+
+4. Personal Additions / Recommended Readings
+
+4.1 Personal Clashes with TFD:
+At first, I decided to apply to this fellowship because I felt it fit my project, but after reading the tasks and publications on the TFD website, I’m a little afraid that TFD is impractical, broad, theoretical, research-driven, data-driven, and therefore opposed my bottom-up methodology.
+
+4.2 On The Impracticality of Writing:
+I’m aware of the generalization that Chinese, and subsequently Taiwanese, education tend to give writing more weight but, I am applying to this particular [Service] fellowship because it seems more practical, and my hope is that I am not forced to write any lengthy papers for “research” or historical purposes; It greatly hinders work, experimentation, and progress. Furthermore, I am a very slow writer. Instead I hope writing is limited to the purpose of determining progress for the allotment of capital, as this proposal does, which itself may be conveyed without writing.
+
+4.3 On Politics
+My politics probably fits closer to autonomism, but I don’t delve on political theories much. Maybe in the democracy world, autonomism is closer to direct democracy, in that there is no middle person — no representatives, political parties, states, or trade unions.
+
+The idea of promoting a political theory, including democracy, is in theory a terrible idea. In very few cases, it might be better than the status quo, for example, in countries with authoritarian political leaders. I am not interested in promotion of political theories.
+
+My interest in politics relies solely on enabling people to make more civic decisions that lead to more civic actions. This does not mean merely voting for a representative or political party. It means allowing people to participate in community development and public policy-making, enforcing policies, and making people accountable for their actions.
+
+On Taiwan’s Kindness:
+From what it seems, this fellowship may be aimed toward leaders in less developed countries seeking political and human rights experience. It is extremely kind of Taiwan to help nearby less developed countries like a caring mother island, but conversely, as I previously mentioned, I feel that increasing Taiwan’s civic efficiency with tools and methods may help those Taiwanese people whom aid other countries. Additionally, I feel Taiwan has many of it’s own problems to aid.
+
+
+5. Optional Readings
+
+5.1 On Reality:
+Thus far my answers address the general, not the particular, and perhaps appear to be detached from reality or naively ideal. That’s kind of true, I’m somewhat optimistic of technology in a well-educated survival-valued society, and have ideals in my mind that I often strive toward.
+
+From the few travels around Taiwan I am aware of social problems: rampant urban development projects, unlivable urban areas, lack of policy, lack of care of policies, lack of enforcement (what do they do?), prostitution, low resources of healthcare on the east coast, land conflicts with indigenous peoples, inequality of migrant workers, lack of a justice system (?), etc. I am also aware of current social processes: the accumulation of capital, consumerism, urbanization, globalization, etc.
+
+Despite the prevalence of social problems and negative social processes, I feel that Taiwanese people are quite well-natured and civil. For example, if a migrant worker were to come to a clinic without health insurance, I believe it is up to the clinician to do the right thing, and from my experience, this is often positive. More likely the problem, I think, is the lack of resources in less developed areas, in this example, a professionally trained clinician with medicine in the area. Continuing to use the example, if the migrant worker married a Taiwanese, divorced, and now operates a food stall, I believe the government will make the right decision in giving that person nationality. On a roll with this example now, if the migrant worker lives in a derelict area with other migrants or immigrants, Taiwanese people will organize to improve the housing. If a derelict house collapses (with no one inside) from poor construction, the person will always have a home elsewhere — hospitality is a strong trait among Taiwanese people. Despite the lack of a justice system and social security, the community is strong enough to take care of itself.
+
+In a country where laws are often only enforced if unjustly pressured by those in power, I believe working toward better self-governance, education (including self-education), civil (including ecological) conduct, is better.
+
+Hence my interest in civic technology and urban intervention wherein it affects civil society in general. From local experience I am aware of some the ways it’s affects trickle down to social reality, but it’s impossible to understand all the particulars.
+
+5.2 Rough Outline of Actions
+I have a very materialistic, urban-planning, autonomist philosophy, and so my outline radiates spatially outward, from a place to neighborhood to city to country.
+
+0. See current organizations for experience and determine if any can be used as a public place.
+
+Place:
+1. Create a physical (and digital) public place. It may be possible to take over a current public space, such as TFD, FabLab or some kind of town hall. It must be accessible to a dense urban area, preferably in a working-class neighborhood.
+
+2. Gather organizational information. Leveraging TFD contacts and my friends from the public realm (Hackerspaces, NTU landscape students, social spaces in Gongguan) quickly gather information about Taiwan’s hierarchy of organizations.
+
+*. Hold workshops. There’s no time for teaching, but I think civic-oriented workshops may come to mind, as I have a need for creativity :) . Teach map-making, Wikipedia editing event, problem-solution design jams, protest tactics against government interventions, etc.
+
+Neighborhood:
+*. I will personally be able to detect local problems, social and material, have an experience (as opposed to relying purely on data, including news) and take action against them. For example, prevent automobile traffic from entering market streets, inform lack of walking and biking lanes for the working class, displace people in poor quality rooftop housing. The action could be from policy-making to direct intervention.
+
+4. The public space also serves as a community hall for the neighborhood. It is a place for people to direct social problems to, and a physical (and digital) forum for discussion.
+
+?. Neighborhood media. Social problems must disperse back to the neighborhood. I haven’t decided how (paper, digital, radio, etc.) yet.
+
+City:
+5. Mapping of existing data. The first tool I believe that’s necessary are maps with data. Whatever the problem may be, the physical areas must be identified. In case the data is stuck in ugly government databases and websites, I can leverage friends from Hackerspaces to help here, or do it myself, putting it into a more modern mapping system, available for public use. There are several good existing technologies for this. Other organizations may benefit from learning how to do this. Maybe Taiwan has this, but I personally know of friends who are scraping data from poorly designed or outdated government websites because they are so bad.
+
+6. Creation and mapping of new data. Next there must be a tool for people to create geopoints of interest to begin a forum of discussion, to centralize conversations.
+
+Taiwanese citizens are often very civic-minded people. They talk about problems, but it is often through personal networks (LINE, Facebook, and BBS), private and unorganizable.
+
+I realize that the stipulation of having a digital device will restrict access to residents, but I also believe it just has to be up to the younger generation to pass information to the non-digital users. (Maybe create a radio station for the non-digital?).
+
+I am actually not sure if there is an existing technology for the first point. MIT’s Action Path is close to the idea, but still quite far in execution. But at the least, something can be done about BBS.
+
+7. Further tools to enable people to take civil actions where it is beyond their own control. Enable people to be able to directly give real and current information to the right organization i.e. sending a picture.
+
+?. City media. Thanks to the political problems, I’m guessing there’s a non-corporate online media source already in place, but I wonder how that information can get to the non-digital audience, and furthermore, non-Chinese language audience.
+
+Country:
+*. Follow civic crowdsourcing. Can even try to pass the idea of campaigning for bike and motorcycle helmets, for public bike systems in dense urban areas, for laptops, for public libraries, etc.
+
+8. What successful actions I take locally has a chance to propagate to other localities, and other cities. If they do not naturally propagate, then communication to organizations in other towns may be needed, but not forced.
+
+5.3 On Methodology’s Other Definition
+Methodology turns out to be a complex word. I’m not going to detail this further, but I will say this: My epistemology is quite empirical, and therefore quite skeptical, similar to Dewey’s logic — instrumentalist and pragmatism. Because of my empiricism, I am limited to observing effects of applications locally. Relying solely on local experience, I create things.
+
+##### A2. study plan for MIT Media Lab graduate application
+First, the questions, then some chit-chat.
+
+The Questions:
+Why you wish to attend graduate school:
+To experience a great social space (MIT Media Lab) again and apply it’s successful methods, ethics, and rigour to the ones I desire to create in Taiwan, and wherever else I may be in the future. It's also nice to experience all of the directions The Lab is going, so that when I am wondering about creatively and philosophically, within a social space or alone, I have some anchored directions to compare my own with.
+
+What you would like to study:
+[EDIT: My first research field interest, Civic Media group, has been removed. Although unfortunate, I don’t think my statement requires much alteration. The groups that I have selected are the means to civil and social ends, of which pervade several groups within the lab.]
+
+My most desired direction of work overlaps well with the Civic Media group's statement: “…Transforming civic knowledge into civic action…” and “…experimenting with a variety of new civic media techniques, from technologies for protests and civil disobedience…”. I would like to re-experience current massively available technology (sensors, micro-controllers, etc.) and spend time playing with materials to have these things in working memory so that I (1) think of designs for civic tools. Ideally (more under Chit-Chat later) I prefer to consistently execute and innovate on direct social and urban interventions [/techniques?] to try to budge human behavior — in small steps toward collectively agreeable things like public safety, health, and sanitation — with a minimum amount of wealth. While experimenting, I would likely want to study anything related to that. The goal is to aid or enable people to make better decisions and actions and conversely to disorganize people from their habituated cultured actions to create more diverse social experiences, with the end being to improve society (non-material, culture) and urban (material),
+
+I think as a kind of nomadic autodidact, creating (2) tools to facilitate self-education whilst physically moving will always naturally come to mind, and as a kind of people organizer so too will (3) tools to facilitate social organizing. These interests are auxiliary to the more civic-action-oriented interests, but it sure would be nice to have these groups around to interact with.
+
+I think simply due to a long past of playing and even making games, I think as a counter to my more serious interests, (4) it would be nice to incept, design, and implement playful ideas again, even just for the sake of being actively making.
+
+What you would precisely like study (optional reading, in case the above was too general):
+The project that comes closest to my interests are the ideas (from the research paper) behind Action Path, not the actual product (from the powerpoint presentation), which seems to be far different. Here’s how I imagined it in an email to the creator of it: “I would love to subscribe to any changes in my neighborhood by the government, old-wealthy gangsters (Taiwan's old private sector), and new-wealth gentrifiers. If the information is not transparent (very likely for all of Taiwan), then people (likely advanced urban peoples) should be able to create geopoints of interests to begin a forum for discussion (and then the new tech generation will hold a physical meeting for the old people).” Or perhaps there should be a small voting device that can be physically placed at locations, for the old generation and keeping votes within proximity.
+
+Promise Tracker’s idea to "hold elected leaders accountable for political promises" is pretty good under a working representative democracy, but I feel the project's actions are too lenient to make any meaningful political change. Promise Tracker’s method of gathering real data, tracking the status, and attracting attention, however, is a good one, and could be applied to any civic problem and institution. A kind of more abstract FixMyStreet, and better suited tool than creating a Facebook group. It would be more interesting as a simple tool for smaller self-governing communities, or neighborhoods, where it feels less like blaming a representative and more of a cooperative initiative with neighbors.
+
+Perhaps my urge for more direct changes is from my experience in Taiwan, where law enforcement ideology is opposite of US: there is none. This allows people to take a lot more civil actions without worrying so much about laws and policies. Of course, this requires quite a good education and culture, but I also feel it creates a far more ideal social framework to design for.
+
+A class from MIT Urban Planning department titled behavior and policies (http://dusp.mit.edu/behavior-and-policies-2014), though heavily referencing pop science books, seems to have similar interests in the idea of negating bad behavior. Though, that class is limited to policy-making of transportation. I’m currently unsure about policy-making as its means of influencing behavior. I hope for more direct methods to alter culture — art / media, education, and mentioned in that class — peer pressure, and maybe further: guilt and responsibility.
+
+Though a part of my statement is a critical desire for people to adopt better behaviors, especially the case in urban areas, the counterpart is to create tools to enable people to self-organize socially,  civically, and most importantly, naturally. Politically reworded: to reduce the adverse behavioral affects of capitalism and to increase the social organization of anarchic communal spaces.
+
+Instead of what I want to study, it may help to list projects that I don’t care much about: projects that display crowd-sourced data-driven data, aggregate and order media, attempt to gather even more data from humans, projects that deals private housing, and projects that solely use data as the basis for its rationality. This is simply because I'm always skeptical about data and it’s oft pairing of top-down methodologies, especially of how urban material affects human minds and lives.
+
+Despite my desire for more reasonable behavior, I am a romantic and hope that everyone can walk and talk across the cities and countries they live in as opposed to gazing at data — People don't change their behavior because digital data tells them, it's because they had an experience [in Dewey’s sense]; The goal should be (5) to create tools that allow people to have more experiences, not data.
+
+Any research experience:
+Research requires too much time, so I’ve tend to skip to theory or practice and learn the hard way. This is a pretty consistent fault of my personality — think McCandless from Into the Wild —, and hence my interest in quicker solutions such as direct interventions and Banksy style art; I normally do not think systematically and I am not interested in writing about sociology into scientific journals; This may be another reason to attend a research graduate school: to experience research, especially at the top research institute. Though, I think I will always be skeptical.
+
+Describe one or more accomplishments you are particularly proud of that suggest that you will succeed in your chosen area of research:
+I'm particularly fond of my time in New York with the local game and new media scene which resulted in participating in game jams (includes Doodle Tangle prototype), making two games: Pinkies Up and Crystal Brawl, and spending time at Babycastles, an amazing public volunteer-based organization with what now seems incredible values and dreams, and set the bar for what a social organization can be and do.
+
+The hope here is that my design and tech past will converge with my more civil-oriented motivations.
+
+About the Quirkiness of my Application:
+Though my application is playfully written, I confirm it is as accurate within the limits of the application form. Of Letters of Recommendation: I won’t ask friends for letters until I enter society and begin talking again so that one has the most recent references, but if needed, I can provide previous letters of recommendation written last year for The New School / Parson’s / Design and Technology program, which are written from my game friends in New York. Of Subjects Taken: I don’t remember much of college work and therefore did not list it. Instead, I listed recent philosophic wonderings. Of Financial Support: I currently have no money and how much I will have will depend on the future. It’s all true, though seemingly a joke.
+
+Chit-Chat (extra reading):
+What I Want and Why I Applied:
+What I really desire is continue living in Taiwan, create a social organization here, not too far from what I feel MIT Center for Civic Media does, with less emphasis on the development of complex tools, and more on practice — using tools to create urban maps, using Action Path to geolocate discussions, using Promise Tracker to keep government in check, follow and use Taiwan’s kickstarter for civic projects, etc. — and for general community hall things for continuous local experience.
+
+The Paradox (written during a more intense time):
+I believe the organization (including public spaces) must be in the city because it is impossible to understand the complexity of a city outside of it.
+
+I prefer to complete these objectives by wandering the masses of stimuli of the city, 'thinking fast' in the space and time where they are needed, creating with the efficacy of a politically influenced artist, with much awareness of the people's minds, without decor, without human language.
+
+Therefore, physically attending MIT Media Lab is paradoxical [because it is not in Taipei, and is private], yet the execution of ideals are limited by time and the knowledge of people around me, and I again run into the familiar feeling of seeking like-minded people to be productive.
+
+Now and Next:
+I took a break from Taipei and lodged myself in a nearby small town, to which I thought and wrote a lot, beginning with this application meandering to grants applications in which my statement sounds like the creation of a kind of ‘MIT social and urban innovation lab’ and back to this.
+
+I’ve come to the conclusion that granting organizations, or anyone really, won’t fund wild individuals, so I’m just going to have to continue going around Taiwan on a scooter, hopping about social organizations, probably ending back in Taipei Fablab, which is where I will probably begin to organize again because that’s the most open organization I’ve run into here, and would help with obtaining grants.
+
+I’ll also be applying to National Taiwan University’s urban planning program (Taiwan doesn’t have anything like the Media Lab) and scholarships for it, as a strategy to stick myself in Taipei, get funding, and gather local and national organization knowledge, at the cost of time.
+
+Beyond Taiwan:
+Though Taiwan is my ideal first area for creating such public spaces for these directions, it is not the limit. I’ve lived somewhat nomadically since college graduation and I try to make a positive social impact wherever I am. The hope is that after MIT I will be more efficient at creating impacts in the right directions in any human settlement.
+
+My Online Portfolio:
+http://www.rahilpatel.com/blog/portfolio

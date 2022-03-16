@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with orochiexodus on 2009-02-28</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-02-28 06:34:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">taake meeee</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-02-28 06:34:16"><span class="buddy">orochiexodus</span> <span class="msgcontent"><BODY bgcolor=#000000><I><FONT FACE="Gautami" SIZE=3 COLOR=#00ff00>where?</FONT></I></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-02-28 06:34:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">cnu</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-02-28 06:34:27"><span class="buddy">orochiexodus</span> <span class="msgcontent"><BODY bgcolor=#000000><I><FONT FACE="Gautami" SIZE=3 COLOR=#00ff00>i'm not goin</FONT></I></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-02-28 06:34:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-02-28 06:34:39"><span class="buddy">orochiexodus</span> <span class="msgcontent"><BODY bgcolor=#000000><I><FONT FACE="Gautami" SIZE=3 COLOR=#00ff00>work</FONT></I></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-02-28 06:34:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea i sorta dont wanna either =/ rly busy and hella far</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-02-28 06:34:47"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but mashi wants m$ n shit</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-02-28 06:35:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and not showing up means enver/boose/billy will be mad heh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-02-28 06:35:27"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm...i'll text mashi</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-02-28 06:35:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">god..must be 1+half from his hose</span></span></div>

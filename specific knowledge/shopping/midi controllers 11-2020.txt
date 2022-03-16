@@ -1,0 +1,182 @@
+
+# for piano playing:
+wants:
+49-key+ (4+ octaves, 8 white + 5 black per octave)
+  - 25-key is only 2 octaves, too small
+  - 32-key is between 2 and 3 octaves, still small
+pads
+  - can assign keys to replace pads until I can get a controller with them
+  - could get another device for pads only
+
+
+keybed quality
+  - roland? > arturia > nektar =? m-audio >? midiplus
+
+
+**novation launchpad 49**
+  - **might have the best keyboard and be the best overall midi controller**
+
+
+**m-audio keystation 49**
+  - full-size keys, lighter, plastic
+  - 32.36 x 2.68 x 7.44 inches
+  - modulation / pitch wheels
+  - transport buttons set: d-pad
+  - recording buttons set: play/pause/recordo
+  - works with iOS
+  - **worth hunting for an older mk2 version** for a discount price
+  - **49 key version is better than the 61 key**
+
+**Nektar SE49**
+  - considered the best cheap 49 keys, though they click
+
+Nektar Impact GX series
+  - keys click
+  - more resistance than LX series
+
+m-audio keystation 32
+  - interesting choice for a mini controller
+
+x/Midiplus AKM320
+  - **the keys are awful**, like children’s toys from the 80s!
+
+midiplus x4 pro mini
+  - adds 8 pads
+  - adds speaker out and pro line outs (L & R)
+  - 9 knobs, 8 buttons (pads?) and 5 transport buttons
+  - 13.7 x 70.3 x 5.2 (cm) ｜ 5.3 x 27.6 x 2  (in), same size as original version
+  - 1.85 (kg)｜ 4.07 (lb), **lighter!!**
+
+
+x/midiplus x4
+  - tried this at the shop, and, though i was pushing through a plastic cover, **the keys sucked**: the keys next to each other became pressed down, and, it was harder to press.
+  - **mini-keys**, heavier, **metal**?
+  - 5 transport buttons?, **5 knobs**
+  - midi out, usb
+  - 70.3 x 13.7 x 5.1 (cm) ｜ 27.7 x 5.4 x 2  (in)
+  - 2.5 (kg)｜ 5.5 (lb)
+  - modulation / pitch trackers
+
+https://m.youtube.com/watch?v=8EstpPV8ShA
+  - 14 min in, talks about keybeds
+  - **novation 61 > m-audio keystation 49 / oxygen 61 > m-audio 61**
+  - **Nektar Impact series, GX and LX make click noises upon press**
+
+https://m-audio.com/keystation-49-mk3
+https://www.midiplus.com.tw/product-detail/X4pro-mini/
+https://www.midiplus.com.tw/product-detail/X4mini/
+
+https://m.youtube.com/watch?v=gaa0f2OVDs0&list=PLfnoTq3i—NST5sCsSn0w84emBiL0FDLa&index=66
+  - **mk2 > mk3, better keybed, more durable rubber buttons**
+
+https://m.youtube.com/watch?v=pP1CDF5TnY0
+  - compares novation launchkey to m-audio keystation
+  - can hear the clicky clacky ness of the novation keyboard
+
+https://discuss.cakewalk.com/index.php?/topic/3856-arturia-keylabcontrol-surfaces/page/2/
+  - **Nektar Impact GX has more resistance than LX**, in an attempt to mimic real piano resistance, it just fights against you
+
+
+https://www.quora.com/Which-is-better-the-Nektar-GX49-or-the-M-Audio-Keystation-49-II-midi-boards?share=1
+
+The Keystation has synth action like a classic synth. Though it also has a rubbery feel at the bottom which is weird. It’s perfectly usable though
+
+Nektar GX49 has deep action with stiffer spring (deeper than my piano). But the Nektar keys feel a bit sloppy and noisy. It was harder to play faster runs with the keys being deep and stiff. For me, playing the springs feels more exhausting than playing a fully weighted piano.
+
+But personally I don’t like semi-weighted action. I prefer classic sync (low tension springs like the Korg Triton) or a fully weighted piano. But some people prefer stiffer springs to help avoid hitting wrong notes.
+
+
+# for portable workstation
+
+## 25 keys, mini
+Akai MK3 mini
+  - joystick might break in packing
+  - keys are slightly better than Novation’s because it has more depth
+  - **no transport controls**
+  - more sensitive, professional APC pads
+  - more durable hard plastic, compared to Novation, **2lb** weight
+  - pitch ‘n mod joystick
+  - 8 pads, 8 endless
+
+**Novation Launchpad mini mk3**
+  - Ableton-focused workflow transport controls
+    - now supports Logic and Reason too
+    - can use with anything else though
+ - feels like cheap plastic
+ - extremely light at **1lb**, thin, ‘n portable, fits in a small backpack
+ - pitch ‘n mod touch strips
+ - 16 pads, 8 **fixed** knobs
+ - **mk2 weights 1.5lb and has better reviews**
+
+**arturia microlab**
+  - same and great keybed from keystep ‘n keylab
+  - **best choice for mini 25 key for just the piano keys**
+
+**arturia keystep 32**
+  - an interesting portable choice
+  - **highest quality keybed**, but no pads
+  - fantastic connections
+  - great quality build
+  - **best reviews** on amazon
+  - 3lb / 1.4kg, too heavy and at 19”, too large!
+ 
+Arturia MiniLab
+  - **best keys**, smoothest, slightly larger keys too
+    - but with 25 keys, maybe doesn’t have to be so great?
+  - pads are the worst of the three
+  - some DAW controls
+  - most analog *feeling*
+  - **most durable**, metal bottom, but possibly the **heaviest at 3lb ‘n least portable**
+    - at 4lb you can get 49 keys!
+  - pitch ‘n mod touch strips
+  - 16 endless knobs
+
+Alesis v25
+  - **best keys** according to one youtube reviewer, still portable, but much longer than the others, rectangular shape, which might work for a long backpack though
+
+Alesis v-mini
+  - **the smallest** form factor
+  - pitch and mod buttons
+
+M Audio Axiom Air
+  - the **keys are tiny**, making it more for general use
+  - 8 pads, but “memory banks” to have possibly 80!
+
+
+
+conclusion:
+The Arturia mini might be *too big, too heavy* for portability, as most 25 keys are, and if you’re going to have another controller just for the keys, then... it won’t be much use.
+
+The Akai and Novation seem to be a better choice, in case it’s used as an additional controller, as they are so small and portable.
+
+
+set up:
+use the mini midi keyboard for Nujabes / lo-fi and Beach House production
+  - this takes time, learning software
+use a 49 key keyboard for piano production
+  - this takes time learning piano
+
+
+
+https://www.engadget.com/2019-12-04-best-portable-and-affordable-usb-midi-controllers.html
+  - solid review of top controllers: minilab, microlab, novation mk3 mini, akao mpk, komplete control
+
+https://m.youtube.com/watch?v=aQv3oyDfCHg&list=PLfnoTq3i—NST5sCsSn0w84emBiL0FDLa&index=120
+  - Mike’s review series covers many overlooked keyboards, including the midiplus and KZ headphones!!
+
+https://m.youtube.com/watch?v=NfpAPc87pK4
+  - Taetro’ review
+
+https://m.youtube.com/watch?v=OXDRWwc5pUs
+  - Sunjay’s review
+
+https://fidlarmusic.com/best-49-key-midi-controller/
+
+https://www.pianodreamers.com/best-midi-keyboards/
+  - very good taste, especially for pianists
+  - Arturia keystep as best mini controller, due the keys and connections
+  - **Nektar SE49 over m-audio keystation** for the best 49 non-weighted keys
+
+https://m.youtube.com/watch?v=dJw3lnXyrpw
+  - someone tapes really good reviews of midi controllers, here he compared his two favs: komplete kontrol 32 and the novation mini mk3
+  - he also loves the m-audio 49, for it’s keys

@@ -1,0 +1,339 @@
+We don't need to debate the merits of Pitchfork, it's role as a tastemaker, how much hipsters suck, or the general futility of making lists of songs.
+
+"Doubt Bernie Madoff? Doubt Bernie? No. You doubt God. You can doubt God, but you don't doubt Bernie. He had that aura about him."
+
+Jesus's vision is based on movement.. if you masturbate really slow you won't be a sinner.
+
+fallout - increase speech + do vault 13 quests
+zeus - patch/enhancement pack hero=normal titan=hard
+
+126449 (http://support.microsoft.com/kb/126449/) Keyboard shortcuts for Windows
+
+Captain Falcon is the reason Samus took her clothes off.
+There is no character roster to the Smash Bros games, just a list of Nintendo characters Capitan Falcon didn't kill before the game was made.
+men get sex changes just so they have a better chance at sleeping with Captain Falcon
+"Falcon" is the most common surname on Earth.
+Captain Falcon plays Melee. He mains Mewtwo.
+Captain Falcon can believe it's not butter. 
+Captain Falcon's myspace has more friends than Tom.
+"Captain Falcon doesn't need oxygen, he only breaths so we die faster."
+
+let me explain what happens:
+cf jabs
+marth counters
+jet engine ...this screnshot is the instance of a jet engine
+
+wait, let me start from the beginning
+
+marth discovers wht cf is awesome
+marth decides that living is a sin as long as captain falcon roams the earth and 
+
+This is how it works.  And probably one piece of why I'm cracking up.
+
+Hedgehog/Porcupine dilemna.
+The idea that one may need to become close to another, yet, will undoubtedly hurt each other, and must step away, regardless of the need and intention of a close reciprocal relationship.
+No matter how much one intends for good, one will always find harm in intimacy.  So some of us, in the end, will walk away.  Some of us will simply never allow ourselves to get close or the chance at getting hurt.
+
+For a while, I understood the idea, and didn't care how many times it hurt to let others close.  In the end, they found their warmth from the blood they drew from me, and I was fine.
+The problem is, I didn't dare trust anyone to help, lest they get pricked by me.
+"My shoulders are strong, my burdens are mine alone.  I can bear the weight of my friends and self on these legs.  I am strong."
+I was simply afraid of finding rejection at the end of the trust.  I didn't trust my friends to be strong for me.  It was far easier to keep your distance, not allow yourself the true chance to get hurt.  
+I didn't want to lose friends because I wasn't as exciting and happy as I pretended to be.  Everyone would stay in my company to forget theirs, I dare not remind them of what that was.  I was everyone's distraction, everyone's good time.
+
+This applied to how much I trusted anyone.  I never chased anyone, but rather, allowed myself to get attached to the ones who sought me first.  I never trusted anyone if I had to bear myself to them without knowing the returns.  I eventually found out why this worked.
+Ones who are so used to being chased are tired of that which is given to them so easily.  Such easy, meaningless gifts we be.  So by never chasing, they must work for you.  A gift earned is always worth keeping, once obtained.
+
+Here I am, laying that on the line.  By doing this, I am giving up the game.
+
+---
+
+Profile: cont.
+
+So I have explained my defense mechanism.  I cracked up under the pressures of life, and the inability to truly blow off steam.  I still buckle under the pressures of life, the need for sucess that comes so easily to all that share my blood.  My fear of failure prevents me from stepping forward.  And I still fear that throwing myself out here will only result in people being turned off, and throwing me right back.
+
+But now I throw myself into this corner because I don't know what else to do.
+
+I explained the game as I see it, so to the number of you I've been an asshole to, that's why.  It's all a sham.  I've been a sham.  I'll tell you straight up.  There hasn't been "just a one" in a long time.  I'll cheat to re-establish the fact that I am a bad guy who didn't deserve that happiness.  I took the porcupine's excuse.
+
+Of course, this created issues of cognitive dissonance.  This lead to Andrew's infamous "Anger/hatred."  The more I liked you, chances are, the more I hated you, just to justify my actions against you and my inability to get truly close to anyone.  Reasons just made up to justify my defense mechanisms from allowing anyone to get close-I simply hated them instead of accepted the fact that I was afraid of letting someone get close enough to hurt me.
+
+I did it to confirm to myself that whatever negativity is happening to me is justified.  I chose to be single because I didn't trust I was worth it, so I chose to lie to myself and made the wrong decision to show myself I'm bad-but for the wrong reason.
+
+I jumped back and forth to different girls and different beds just hours between seeing each just to remind myself that I wasn't worth the long term, even though I knew I really just wanted "just a one."  And I would still give it all up, for "just a one."
+
+And whatever I told anyone, I didn't lie about who you were and the value's you have and owe to yourself to keep.  You are worth greatness.  But now you know what I've been telling you all along is true.  I am not worth it for you.
+
+It was easier to tell myself I was no good than to let someone else do it for me.
+
+I still would rather not grow cold, and I still welcome those to come and bear themselves to me, I welcome your pain.  These shoulders are strong.  I will support you until it kills me.
+
+It is the problem with me.  I won't learn from my mistakes.  I'll continually allow others who need me to have me, so long as they show they do.  And I will continually forgive damn near any transgressions against me, because I, too, want nothing more than forgiveness and acceptance.  As my sister described, my "damned jesus complex".
+
+These are a portion of my confessions, though I am sure a number of you are tired of reading my periodical spill of words.  Chances are, I will give up a great many of you before you get the chance to do this to me.
+
+
+Saying java is good because it works on all OSes is like saying anal sex is good because it works on all genders.
+
+
+lol, well I bugged him a lot about it so he probably had a natural (read: programmed) reaction to succumb to nagging but once the job was completed he realized, much to his chagrin, that I was, in fact, not a female offering female parts for his services.
+
+
+Big O notation is useful when analyzing algorithms for efficiency. For example, the time (or the number of steps) it takes to complete a problem of size n might be found to be T(n) = 4n² - 2n + 2.
+
+As n grows large, the n² term will come to dominate, so that all other terms can be neglected — for instance when n = 500, the term 4n² is 1000 times as large as the 2n term. Ignoring the latter would have negligible effect on the expression's value for most purposes.
+
+Further, the coefficients become irrelevant as well if we compare to any other order of expression, such as an expression containing a term n³ or n². Even if T(n) = 1,000,000n², if U(n) = n³, the latter will always exceed the former once n grows larger than 1,000,000 (T(1,000,000) = 1,000,000³ = U(1,000,000)). Additionally, the number of steps depends on the details of the machine model on which the algorithm runs, but different types of machines typically vary by only a constant factor in the number of steps needed to execute an algorithm.
+
+So the big O notation captures what remains: we write either
+
+    T(n) = O(n2)
+
+or
+
+    T(n)\in O(n^2)
+
+(read as "big o of n squared") and say that the algorithm has order of n² time complexity.
+
+Note that "=" is not meant to express "is equal to" in its normal mathematical sense, but rather a more colloquial "is", so the second expression may be more accurate (see the "Equals sign" discussion below).
+
+"Love is a temporary madness. It erupts like an earthquake and then subsides. And when it subsides you have to make a decision. You have to work out whether your roots have become so entwined together that it is inconceivable that you should ever part. Because this is what love is. Love is not breathlessness, it is not excitement, it is not the promulgation of promises of eternal passion. That is just being "in love" which any of us can convince ourselves we are.
+
+Love itself is what is left over when being in love has burned away, and this is both an art and a fortunate accident. Your mother and I had it, we had roots that grew towards each other underground, and when all the pretty blossoms had fallen from our branches we found that we were one tree and not two."
+-- Captain Corelli's Mandolin
+
+los campesinos
+I'm stitching up each one of your pockets so when we are together you'll maybe look a little less bored
+I'm sticking your fingers into sockets to kick-start your little heart and maybe sleep a tiny bit more
+Oh maybe we should read more into the books that we adore, perhaps we should drink less vitamin C
+And now I'm shouting out in capital letters "I WILL THROW YOU HIGH FIVES IF YOU KEEP YOUR OWN SECRETS!" 
+
+Oh we kid ourselves there's future in the fucking
+But there is no fucking future
+
+I taught myself the only way to vaguely get along in love
+Is to like the other slightly less than you get in return
+I keep feeling like I'm being undercut
+
+In the shower, I chew the soap bar
+from the plastic, the morning after.
+I love the look of empathy in your eyes
+I love the look of lust between your thighs.
+
+Honestly, you're an absolute tragedy,
+not like 'heroically' in all of the books you read.
+I read your novella,
+oh how I laughed.
+Killed off the lot of them.
+
+Plunge your hand, rip out my spine
+Replace it with a UV light
+So I can be the beacon of hope that you'd always expected
+
+And every sentence that I spoke began and ended in ellipsis
+Each of eight fingers gripping what he wrote, clung on tightly, like parenthesis
+And for each correctly used apostrophe, I could feel my heart sink inside my chest in front of me
+
+They said "it's not what you like, it's what you're like as a person",
+Well, I need new hobbies, that's one thing for certain
+Not what you like, but what you're like as a person,
+Well, I need new hobbies, that's one thing for certain.
+
+
+It's you!
+It's me!
+And there's dancing!
+It's you!
+It's me!
+And there's dancing!
+
+Not sure if you mind if I dance with you
+but I don't think right now you care about anything
+And oh, if only there were clothes on the floor,
+I'd feel for certain I was bedroom dancing
+And it's all flailing limbs at the front line
+Every single one of us is twisted by design
+and dispatches from the back of my mind
+say so long as we're here everything is alright
+
+
+If there's one thing I could never confess,
+it's that I can't dance a single step.
+
+
+And I always get confused,
+Because in supermarkets they turn the lights off when they want you to leave,
+but in discos they turn them on.
+And it's always sad to go, but it's never that sad,
+Because there's only so many places you're guaranteed on getting a hug when you leave.
+And then on the way home, it always seems like a good idea to go paddling in the fountain, and that's because it IS a good idea.
+And we're just like, how Rousseau depicts man in the state of nature:
+We're undeveloped, we're ignorant, we're stupid, but we're happy. 
+
+
+
+I laughed. I cried. And when I considered the truth I died a little inside.
+
+I've never trusted amoebas.
+
+They'd get the picture of skin cells and from that get their DNA. They'd use the DNA sample to create a model of the person and then they'd run that against a complete model of society that they created in Visual Basic. Using this complex algorithm they'd be able to relive the person's life entirely, seeing every crime he's ever committed.
+
+Shall I say it? Yeah, I guess I might as well.
+*ahem*
+WHOOOOOOSH.
+
+(1:37:13 PM) Seung: if i open the door the christians will get in
+
+it's like looking in the mirror, after snorting a line of coke off of it
+
+hellz nein
+
+The year is at least 2, 3, or more generations into the future. Technology seems to have progressed steadily. The potential use for bulletproof glass has been completely forgotten and discarded.
+
+Samip Patel Sweta: Hey family I am going to Ghana to "join in the continuous support of humanitarianism globally".
+Rahil: (Glances up from computer screen just long enough to say) . . .Ok?
+Mom: Why can't you do any humanitarian at home?
+Sweta: Mom! You wouldn't understand! (Turns her attention to Dad) So . . . do you want to pay for my trip? You know I have no moneeeey. 
+[Sweta tries to play the only daughter card]
+Dad: . . .
+[Only daughter card fails]
+Sweta: Don't you want to help impoverished kids in Africa?
+[Sweta tries to play the guilt trip card]
+Dad: . . .
+[Guilt trip card fails]
+Sweta: Okay fine! I will pay for myself. But you have to at least donate some money for the kids.
+Dad: We'll see. (Which means Yes in Dad language)
+Sweta: (Yes! That bargaining for dummies book really worked! Now back to business. One down, one more to go) 
+Me: (Checking out my credit card bill after going on a cruise. Did I really spend $400 on alcohol? I need an intervention. And why did they have a casino on the boat? They know we are stuck on the boat all night long with nothing else to do. Was it that bad that all the dealers and I were on a first name basis by the end of the trip? Oh well, will make up loss in Vegas. Suddenly I hear a voice that I've learned to drown out over the years.) 
+Sweta: Sameeep. How much are U going to donate?
+Me: (Oh great. I feel like I have a hole in my pocket and all my money if just flowing out. I know there is no way out of it, but its worth a try.) Well thanks for just assuming I am going to donate something.
+Sweta: You have to!
+Me: Why? You owe me money. Just donate that. (Yes! I might be free of this just yet!)
+Sweta: Thats not the same! You HAVE to donate!
+Me: (Knowing if I don't stop this now It will go on everyday single day.) Okay fine.
+Sweta: Good. Now you have to go on facebook and comment on my note.
+Me: But I don't go on facebook. I haven't logged on for months.
+Sweta: But you HAVE to!
+ME: (One again knowing if I don't stop this now It will go on everyday single day.) 
+So here is your comment. Enjoy.
+
+LOL at all of this. just saw the moobie. what i think happened: the screenwriters were on strike, and uwe boll was offering BBJs (in addition to the script).
+
+(7:43:44 PM) Sarah: http://www.carlsagan.com/
+(7:43:52 PM) Me: hahahah
+(7:43:57 PM) Me: i dont even have to click
+(7:44:02 PM) Sarah: :]
+(7:47:39 PM) Sarah: http://media.funlol.com/content/img/pirates-before-and-after-cgi.jpg
+(7:48:00 PM) Me: wow
+(7:48:06 PM) Me: not so cool before
+(7:48:35 PM) Sarah: lol
+(7:48:46 PM) Sarah: http://www.dezeen.com/2009/11/10/sleepbox-by-arch-group/ whyyy can't htese be everywhere
+(7:51:02 PM) Me: neato
+(7:54:57 PM) Me: http://www.youtube.com/watch?v=p86BPM1GV8M
+(7:55:29 PM) Sarah: ffhaha omg
+(7:55:36 PM) Sarah: "having him read to you is something else."
+(7:56:48 PM) Me: haahah..carl must have been the morgan freeman of science
+(7:57:05 PM) Sarah: fuck yessss
+(7:57:07 PM) Sarah: is he dead!?
+(7:57:23 PM) Me: yea, it's suggested he is at the end
+(7:57:40 PM) Me: [end of the video]
+(7:57:46 PM) Sarah: awwwww
+(8:06:09 PM) Sarah: http://acharya.iitm.ac.in/sanskrit/tutor.html ha yeah right
+(8:06:12 PM) Sarah: would be nice
+(8:16:52 PM) Me: hah yeah..it's like learning latin =/
+(8:17:29 PM) Sarah: is ya family hindu?
+(8:17:30 PM) Sarah: hindi?
+(8:17:41 PM) Me: yeah
+(8:18:07 PM) Sarah: bah I don't know enough about hinduism, it makes a lot of sense
+(8:18:25 PM) Me: really? it doesn't make any sense!
+(8:18:35 PM) Sarah: whaaaat I think it does!
+(8:18:43 PM) Sarah: or maybe that's because I've only gotten overviews of it
+(8:19:41 PM) Me: hahah, meh it's too large to learn, and im not religious..but it seems to have as much philosophical meaning as bhuddism does, except with 20934 gods thrown in
+(8:19:54 PM) Sarah: lol
+(8:20:21 PM) Sarah: I like the idea of an inner self
+(8:20:26 PM) Sarah: and the divine being in all things
+(8:21:01 PM) Me: I, on the other hand, haven't put enough thought into any religion =P
+(8:21:02 PM) Sarah: subconscious definitely intrigues me... I don't think we would feel the things we do unless there was a bigger, more sensible reason for all of this
+(8:21:16 PM) Me: ah icic
+(8:21:16 PM) Sarah: hhhaha aww
+(8:21:38 PM) Sarah: but I don't know
+(8:24:13 PM) Me: yeah, there are parts of religions's philiosophy, that can be helpful or interesting. espescially those about moral, judgement, and the way of thinking (at least in bhuddism/hinduism)....but that's where my interest stops
+(8:24:50 PM) Me: a few wikipedia glances is enough for me
+(8:24:54 PM) Sarah: mhm
+(8:24:55 PM) Sarah: ahahaha
+(8:24:59 PM) Sarah: I wonder omre than anything
+(8:25:05 PM) Sarah: I don't like looking to people to explain things
+(8:25:11 PM) Sarah: and I don't trust texts from so long ago
+(8:25:19 PM) Me: hahah goood
+(8:25:27 PM) Sarah: that may have/probably have been rewritten who knows how many times
+(8:25:39 PM) Me: true
+(8:26:34 PM) Me: i rly think all religions can be broken down to love, which was probably thesis of the damned books from the beginning, before the rewrites
+(8:26:50 PM) Sarah: exactlyyy
+(8:26:52 PM) Me: the thesis*
+(8:26:55 PM) Sarah: giving/doing for others
+(8:27:09 PM) Me: yep yep
+(8:27:18 PM) Sarah: wanting to be there for others... not wanting others to do things/be there for youuu
+(8:27:49 PM) Sarah: sdlfkh
+(8:28:19 PM) Me: yeah, which rly is good teach in a community setting...lol wut?
+(8:28:39 PM) Sarah: wha?
+(8:28:43 PM) Sarah: your sentence confuses me
+(8:28:57 PM) Me: your sdfghf stopped the sentence xD
+(8:31:03 PM) Me: just was saying, going over positives things in some religious building/community, is probably a good thing, to keep people on track.....guh this is getting to be really generalized
+(8:31:24 PM) Sarah: hahahahahahhaa
+(8:31:25 PM) Sarah: :)
+(8:31:34 PM) Me: the end.
+(8:31:40 PM) Sarah: organized religion just sucks mostly
+(8:31:43 PM) Sarah: hahahaha 'the end'
+(8:32:03 PM) Me: yeahp, that's pretttty much each for my view on religions =P
+(8:32:15 PM) Me: good intents, bad execution
+(8:32:59 PM) Sarah: ,mhmmhmhmmmmm
+(8:33:00 PM) Sarah: definitely
+
+
+Even if we don't have any current openings that are right for you right now, if you are interested in working at Double Fine, send in your stuff anyway! We are always interested in making contact with talented and experienced programmers, artists, animators, designers, and production people. Even if you're not looking for work right now, it's good to stay in touch because YOU NEVER KNOW. 
+
+I can't guarantee that we will be especially good about responding to each and every email we get. Sometimes we get busy and ignore that mail box for months on end. But don't give up hope. Eventually, the mail server will get full, and we'll need to delete some of the applications, so we'll all get together and read through the resumes in there and make fun of people's spelling errors or read their "Job Objective" statements in sarcastic voices and stuff like that. 
+
+But maybe we'll see your samples or your web page and all at once the laughter will stop, and our jaws will drop, and then somebody will say, "Whoa." And then I'll look at them and I'll say, "Are you thinking what I'm thinking?" And then someone will yell, "I'm way ahead of you buddy!" as they pull up in the company bus/monster truck and as we all pile in, somebody shouts out, "LOCK AND LOAD!" And we drive full speed to your house and you come out and say "D-D-D-Double Fine? But--" and we put a finger to your lips and say, "You had us at hello!" And then your parents try to stop us because they don't understand, so we duct tape them to a streetlight and peel out, popping a wheelie all the way down the street while "Sweet Home Alabama" blares out of the radio and then you and I try to say something at the same time because we're both so excited, so then we both shut up so that the other can talk, and then we both say, "No, you go!", but then we both start talking again at the same time, and we have to just laugh until we're crying tears of joy, and we sense in our hearts that we will all be best friends forever and ever, and never think about what or who we were before. We will just enjoy the ever-unfolding kaleidoscope of happiness and discovery and adventure and laughter that lie before us.
+
+And then we pull up to the office and I yell, "Alright, back to work suckers. And no talking!" And weld the door shut with everyone inside as I laugh and laugh and laugh. Oh, the fun.
+
+
+Andrew Prosser: Not sure how changing a profile picture actually supports anything, other than what Ivar stated last, a Guilt Free conscience. No money gets donated, no one actually learns anything about how to stop it (Ivar was the only person I saw actually list the number), defines warning signs to lookout for, etc. All it does is it allows others to call people who haven't changed their pic. 
+Changing a picture doesn't do anything, nor does it stop anyone from doing what they are doing. It's like praying. A shallow, self-indulgent behavior that ultimately does nothing. I'm willing to bet most people pulling up pictures aren't even parents, let alone aware what kind of discipline defines abuse.
+
+a panko-breaded jumbo lump crab cake on top of mashed fresno potatoes with a couple french fries on top of what had to be a cousin of the Perfectly Frank sauce omfg
+
+"I eat because I'm happy. And I'm happy because I eat." - Raymond Chow
+
+what's beast in pig latin?
+(east bay)
+
+"I feel sorry for people who don't drink.  When they wake up in the morning, that's as good as they're going to feel all day."  ~Frank Sinatra
+
+reasons not to drink:
+1.  A severe allergic reaction
+2.  A distaste for the state of being drunkx
+3.  Dislike for the taste.
+4.  Recovering from alcoholism.
+5.  Expensive
+6.  Headache/Hangover
+
+Also, Inb4 Paul starts talking about how he jacks off to batman surfing on superman.
+
+"Most people choose movies that provide exactly what they expect, and tell them things they already know. Others are more curious. We are put on this planet only once, and to limit ourselves to the familiar is a crime against our minds." 
+- Film Critic Roger Ebert
+
+
+
+
+
+
+As unorthodox as it may sound you do not need that much prior knowledge. Such requirements are mostly written by pedants, people specializing in something narrow who know everything around it and expect the same of others.
+
+Web programming is however such a large field encompassing knowledge in such a large variety of areas that you can't possibly get to learn each one at the expert level.
+
+Focus on the task at hand. Learn as you go and only as much as you need. You learn some more with the next project. And even more with the next one. After a while you get a picture of what is important to know and what is rather auxiliary, especially in the context of what you like and what you will focus on.
+
+"I'll make a GUI in Visual Basic to track the killer's ip address" -CSI
+
+If Fe=Iron then does Female=Iron Man? - Sean DeCosta

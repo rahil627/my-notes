@@ -1,0 +1,31 @@
+motorcycle trip:
+  - Chiang Mai
+  - Pai
+  - Ban Rak Thai
+  - Ban Ruam Thai
+  - Mae Hong Son
+  - Mae Sariang
+  - Mae Chaem
+  - Doi Inthanon
+  - Chiang Mai
+
+Laos trip:
+  - Chiang Mai
+  - Hauy Xai
+  - Luang Namtha
+  - Udomxai
+  - Phongsali
+  - Muang Khua
+  - Muang Ngoi
+  - Nong Khiaw
+  - Luang Prabang
+  x/- Vang Vieng
+  x/- Vientaine
+
+
+Muang Ngoi
+  - sleep at a village
+  - see all nearby villages
+  - hunt
+  - fish
+  - see cave

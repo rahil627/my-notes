@@ -1,0 +1,25 @@
+buy iPhone
+  - Dad's account, $200 + $240 (or $60 for 6 months)+ $30
+    - should be able to activate / deactivate and retain the $30 plan
+    - or when I add a line
+    - this also uses up the contract
+  - My account, $200 + ~$40 (first month) + two year contract
+
+resources:
+http://slickdeals.net/f/5189422-Upgrade-to-Verizon-Wireless-iPhone-5-for-199-Retain-Unlimited-Data-Plan?page=33
+
+
+iPhone 5 vs 4S vs 4
+
+$650
+$550
+$450
+
++ shipping to India
+
+iPhone 5 CDMA model has GSM and LTE (bands 1, 2, 5, 13, 25)
+  - buy this from verizon without a contract?
+  - check if anyone has a free upgrade, and use an upgrade!*****
+  - $200, + $10/month (basic phone to smartphone increase in price, $240 / two years) = $440 + shipping to India
+    - the person likely has to use a smartphone
+iPhone 4S CDMA has GSM (and a sim card slot), but must have finished contract or become unlocked

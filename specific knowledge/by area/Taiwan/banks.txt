@@ -1,0 +1,94 @@
+[todo: need to get notes written somewhere else]
+
+# banks:
+1. post office (中華郵政股份有限公司)
+  - only savings account
+  - with a visa card with many features
+
+2. 玉山
+  - with Paypal, but requires online banking, which itself requires an ARC
+  - branches in Taidong, Hualien, Luodong
+
+3. Taiwan Cooperative Bank (合作金庫銀行)
+  - most branches?
+    - 2 in Taidong, 2 in Hualian, 5 in Yilan county. Not much different
+  - acquired Farmers Bank of China 
+
+First Commercial Bank
+  - branches in Taidong, Hualien, Luodong
+  - good reviews
+
+E. Sun
+  - only bank with Paypal
+    - “Yes, there is an English interface. I have the Paypal transfer thing open in my account as well (I didn't get the E.Sun account just for Paypal, had it way before). The only thing you need to make sure is that your account name on Paypal and account name for your bank match EXACTLY. Mine were just slightly different due to different pinyin types and all that, and I had some issues (but they were easily fixed).
+The Paypal transfer out interface is easy enough to use as well, and takes just a few days for the money to show up in your bank account.”
+  - “friendly”
+  - “Online banking with E.Sun is pretty nice, I think. Superb compared to many other Taiwanese bank websites.”
+    - https://www.reddit.com/r/taiwan/comments/3dxhzk/opening_up_esun_bank_account_to_access_paypal/
+  - to read: http://forumosa.com/taiwan/viewtopic.php?f=88&t=124643&start=130
+  - http://tw.forumosa.com/t/pay-pal-in-taiwan/50968/5
+    - “If you sign up for a Paypal account, you can have your students pay you in US dollars. Ask your bank if you can open a US dollar account with them. I have one through Fubon Bank. You should be able to link your Paypal account to your US dollar account in Taiwan and should also be able to withdrawn Paypal funds in US dollars into your local US dollar account (they do not convert to NT and you cannot link your Paypal acct to your NT dollar acct).
+
+Clear as mud?
+
+I haven't withdrawn Paypal funds but at least one poster here at Forumosa has. Do a search for all the Paypal discussions and you'll see how s/he did it.”
+
+http://forumosa.com/taiwan/viewtopic.php?t=18505
+  - You sure can , I am doing exactly that. You just need to set up a taiwanese paypal account. register a taiwan bank account into that paypal account. When u get paid, retrieve money from your taiwan bank account into your taiwan paypal account. Then you can pay whoever you want in the US. Or, you can register your American bank account into your taiwan paypal if you want to move the funds. You don't even need a US paypal acount if I'm not mistaken.
+
+Cathay
+  - maybe second most branches?
+
+Taishin Bank
+  - most ATMs because of Family Mart connection
+  - no debit card
+
+[place name]鄉農會
+  - farmer credit union
+
+Sinopac (永豐)
+
+Shin Kong (新光銀行)
+  - not on east side
+
+Yuanta
+
+Fubon
+
+Cosmos?
+
+HuaNan (華南)
+
+x/Taiwan Business Bank
+Land Bank of Taiwan
+  - only gov. operated
+
+big banks all with bad rep, except Mega:
+CTBC Bank (China Trust)
+  - most ATMs because of 7/11 connection
+Bank of Taiwan
+Mega International Commercial Bank
+
+
+## sources:
+Just Google Map banks in the place you live.
+
+https://en.wikipedia.org/wiki/List_of_banks_in_Taiwan
+https://www.tealit.com/article_categories.php?section=money&article=taiwan-banks
+https://www.forumosa.com/taiwan/viewtopic.php?f=88&t=95280
+http://tw.forumosa.com/t/what-bank-are-most-foreigners-using/75343/18
+https://www.forumosa.com/taiwan/viewtopic.php?f=88&p=1487520
+https://forumosa.com/taiwan/viewtopic.php?f=88&t=109246
+http://forumosa.com/taiwan/viewtopic.php?t=117148&p=1519051
+
+# opening a bank account with just a passport:
+“You need to go to the NIA and get a "Record of ID No. in the Republic of China". They give you an ID number, which would eventually become your ARC number should you ever go that route, on a simple A4 piece of paper that you would take to the bank with your passport. You tell them what you need it for, to open a bank account, and they know what to give you. There is no fee.”[1]
+
+“Just curious: what visa were you on at the time you did that?
+“Tourist visa, but I don't think it matters. Nowhere on the document is there any reference to the visa, only the passport number.”[1]
+
+“And that’s it – it’s that simple. It doesn’t cost anything, it lasts forever, and it’s extremely useful for everything from banks to cell phone operators. I’d recommend this to anyone staying in Taiwan for more than a month at a time; you can save money by doing on money transfer from your native account to a Taiwanese account, potentially saving you hundreds of dollars in ATM fees. You’ll be able to get a Carrefour discount card (more valuable for those who plan to stay in Taiwan long-term or who return often). There will be more options to buy SIM cards, as well."
+
+## sources:
+[1]http://forumosa.com/taiwan/viewtopic.php?t=82838
+[2]https://www.forumosa.com/taiwan/viewtopic.php?f=88&p=1487520

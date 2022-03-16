@@ -1,0 +1,52 @@
+http://www.lavatein.com/forum/index.php?topic=50.msg251#msg251
+
+just some personal notes...the tab delimiter didn't work out well =/
+
+skills		rating	uses	scale
+
+sorceror
+magic javelin	***	2	?
+entangle	***	2	+time/dmg
+chain break	**	3	+dmg
+magical book	*****	1	+time
+
+magician
+mana ball	****	3	+2 balls/lvl
+octagon		**	?	?
+arcane mass	***	1	larger AOE/more hits?
+magic missle	**	?	+1 missle/lvl?
+
+wizard
+lightning	*	3	?
+tornado		*****	3	?
+blizzard	****	3	more mass = more hits
+meteor		***	2	+1 meteor/lvl
+
+passive
+w/w - firework		***
+w/s - lore		*
+w/m - focus		*****	switched with lore since March beta
+s/s - orbs		*****
+s/m - skill mastery	****
+m/m - barrier		***
+
+final
+magical book	5
+blizzard	5
+mana ball	5
+tornado		2
+sorc skill	5	for orbs, extra boss nuke
+
+s-s
+| |	orbs, focus, skill mastery, lore
+m-w
+
+
+8JP x 30lvls = 240/12JP = 20 skill lvls
+
+other
+arcane mass - okay vs bosses, unless you hit with the charge-up
+entangle/arcane mass - enemies can attack while entangled, so you need a swordsman
+if you target 5 enemies, this counts as 5 hits for orbs proc
+bosses can be targeted 5 times
+sooo...none of the passives stack?

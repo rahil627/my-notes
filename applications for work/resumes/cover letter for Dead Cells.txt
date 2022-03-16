@@ -1,0 +1,50 @@
+Heyo.
+
+I’m unsure if you allow remote work, but since I really like this job and don’t mind talking I’ll continue anyway: 
+
+I stumbled upon this job through Haxe.io as I was just catching up on game engine designs on GitHub. Naturally my mind tends to go back to my first love: FlashPunk. Unfortunately during that brief moment of pursuing games (2012-2014) Haxe libs were young ‘n distracted, and so I was forced to take other paths. Now it seems the Haxe world is in equilibrium again, and it still contains all of my favorite tools, libraries, and even people! It’s really heartening to see those same punk kids now all grown up DIYing engines in C. :)
+
+I was hoping to spend this “winter” making stuff again, and I guess I know no better way than to make 2D games with the tools ‘n work-flows that I love working with the most. Working on Dead Cells is a dream-like solution.
+
+Though this is an indie’s dream job, I must warn: I’m not a systems engineer; I’m just a supportive generalist: a person that constantly sees the big picture, figures out what’s most important, gathers ‘low-hanging fruit’, does what’s necessary, keeping things clean and sheparding things along their own natural ways. In this case, that could mean: ensuring the core game works, ensuring designs are intuitive, perfecting the gameplay (esp. controls), and chiseling around. I hope there’ll be a bit of freedom to do this / be myself, while doing the main tasks. I am by nature a community supporter first.
+
+Don’t get me wrong, the prototyping process—trying out new concepts asap—is absolutely my favorite part of making... well, anything!; I’m a conceptual artist. When I was making games, all I cared about was exploring the medium by experimenting with physical gameplay elements and DIY input devices. “Programmer (Design)” is possibly the only specialized job I could love; Otherwise, I’m normally happy doing a bit of everything.
+
+During my free time I plan to begin tackling years of tech ideas; For this, I plan to solely use Haxe with C/C++, slowly grasping the cross-platform world: Haxe ui ‘n servers, transpilers, compilers, 2D graphics, and SDL (+ Kha / Heaps). Those skills might overlap.
+
+One value that the team and I may share is a love for Smash. Since I was 5, I play-tested, curated, ‘n hosted street games with my ‘hood friends. Since 11, “custom maps” (games) in StarCraft with my cousins. Since 14, Half-Life “mods” with my best friend. Since 18, Melee with my local friends. When 23, I made Crystal Brawl with my game-making friends. I believe the hard work of Dead Cells could be re-used to make a great sand-box game-maker with potential for simple fighting games, like FP oldies TowerFall ‘n Samurai Gunn. Making that would complete the cycle: of making the tools that I used to make my first video games! :) 
+
+Welp, just another dream...
+
+My resume balances this letter, detailing my life without games.
+
+(note: the experiences below aren’t “professional” because I’m not one)
+—
+
+(!)—game engine, language, IDE, media frameworks—and even my favorite people! 
+
+Some of those people are now making their own stb-style C/C++ engines and programming languages too!! It’s really heartening to see those indies now grown and doing things the right way: making their own tools: our own tools.
+
+Some of those people are now making stb-style C engines and their own programming languages! 
+
+Also, I hope I can do some more sociable tasks—support, qa, web forums, web content, devops—to provide breaks and prevent burn out.
+
+making accessible yet precise ‘n deep multi-player games
+
+particularly play-ground game installations with silly-fun input devices / sensors.
+
+on my favorite aspects: multi-player physical gameplay and DIY input devices.
+
+slowly grasping the vast cross-platform software world
+
+Since I was 14, I repeated that for Half-Life “mods” with my best friend.
+
+just enable players to “make a stage” (set area boundaries), spawn some Prisoners (and enemies?), alter game settings in-game, create their own game rules (text), and share their games with the public (a text config file). And there you go(!), something with infinitely more potential than all those old N64 party game influenced FlashPunk games (TowerFall, Samurai Gunn). 
+
+(as in SC, GMod, Smash, ‘n GoldenEye)
+
+but it would be a shame to not re-use so much hard work!!
+
+Hmm, the job post mentions other interests... Well, if at age 23-24 my expressive medium were film, I would have made film essays a la Chris Marker. If at age 22-23 it were writing, it would have been close to the writings of Situationist International. If I were to document cultures, it would have appeared similar to Vincent Moon’s films. If I had stuck to writing at age 25, I’d be close to Foucault. Instead of doing all that, I gave up on mediums to do real things: build communities ...But, perhaps there’s a little French in me?
+
+Now, to somehow balance this out... At age 23-25 my mind once operated akin to: Situationist International, Chris Marker, Vincent Moon, Foucault, and Marcel Mauss. So, I might be a little French?—Or just a Falcon-main. Anyway, the resume fills in the missing years.

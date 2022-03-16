@@ -1,0 +1,34 @@
+-a request to for all developers (front end and back end) - Please quickly test your change in code (new feature or bugfix). If it is front end, simply look at the page to check for obvious errors (missing navigation bar, missing images, untranslated text, etc.) before sending to QA. If it is back end, do a single test to see if you get the right results at least once.
+it's a waste of time communicated errors back and forth several times
+
+-access to code/svn/database
+would be able to see what code to check, what other pages are affected, if the revision was actually merged/updated properly
+would be able to check back end of certain tasks
+
+no releasing if the project is not ready for QA by 2pm, the day of releasing
+
+just an idea: people should be seperated by teams, not their position. Example team: designer, programmer, content manager.
+
+
+-Need to get developers and operations to check email/workspace more often. The task asignee must enter the current status of the outstanding task by the end of the day.
+-Need to reduce extra email/workspace subscriptions
+
+
+
+
+QA problems:
+release takes too long, need to make the tool faster
+too many errors with elongate the release process
+  -svn errors - did not merge correctly, wrong number given, etc.
+  -post-release errrors - there's some code that cannot be tested on staging. I have to catch these after release, log the bug in a bug database, and make sure it is fixed ASAP
+  
+  
+other thoughts:
+I understand that people are working hard and are not blame.
+
+Larges changes must be made.
+
+I agree with EU and Fabien with how things should work. Quality over quantity.
+
+The following things must be done:
+-A more professional and strict envinroment must be made. All deadlines must be met. If they cannot be met, then it should have been communited early on.

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-03-15</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-03-15 08:00:47"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmmm, maybe i chose the wrong intial d soundtrack compliation.....this is just j-pop so far</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 10:35:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o my, it gets rly bad half way through :( like a buncha renditions of that speed boy song from ytmnd</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 10:43:18"><span class="buddy">fantastic2xs</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 10:43:33"><span class="buddy">fantastic2xs</span> <span class="msgcontent">figured you woulda given up by now</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 10:43:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i rly think i dl'd the wrong one :/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 10:43:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">the j-pop was fine...but it took a wrong turn</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 10:43:58"><span class="buddy">fantastic2xs</span> <span class="msgcontent">probably not</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 10:44:02"><span class="buddy">fantastic2xs</span> <span class="msgcontent">we don;t like any of the same music</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 10:44:24"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">doh, the same snyth sounds + structure though?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 10:45:33"><span class="buddy">fantastic2xs</span> <span class="msgcontent">dunno</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 23:09:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">LOL....running in the 90's came from intial d? this is entirely ytmnd material</span></span></div>

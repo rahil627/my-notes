@@ -1,0 +1,76 @@
+see iOS devices.txt as that was written during the same time
+
+
+aim:
+build quality - Macbook Pro / Air quality
+storage - SSD
+screen - IPS, 1080p (FHD)
+processor - Intel core i3/i5 8th/10th gens, AMD Ryzen 3/5
+memory - 4gb min
+
+# pc
+
+## ultra-book (MBP)
+$500
+1. **Acer Aspire 5** A515-55-378V, 15”, 2kg, easily-upgradable, great screen
+2. **Dell Inspiron 14 5000**, 14”, 1.5kg, easily-upgradable, MBP copy build,  screen not as good as Acer’s
+  - 15 5000, 15”, also available, same specs
+x/Asus VivoBook F512JA-AS34, harsh TN screen, though slightly better build than Aspire 3
+x/Acer Aspire 3, older model?, low quality TN screen?, cheaper keyboard
+
+$1000+
+Dell XPS 13, WireCutter’s pick for best ultrabook
+
+## ultra-thin (MBA)
+1. **Acer Swift 3**, SF314-42-R0HP / SF314-42-R7LH, Ryzen 5 4500U, “cheaper” build quality
+
+## pc tablet
+**Microsoft Surface Pro**
+
+## 2-in-1
+$500
+**Lenovo IdeaPad Flex 5**, AMD 4th Generation Ryzen 3, WireCutter says to buy if you can find it
+
+$770
+**Lenovo Yoga C740**, **WireCutter‘s pick as general budget laptop**, surprisingly just has a touch screen!!
+
+$1000+
+**HP Spectre**, Wirecutter’s pick for 2-in-1
+
+
+Asus Zen-book?
+
+
+ref:
+https://www.notebookcheck.net/Mobile-Graphics-Cards-Benchmark-List.844.0.html
+  - check graphics here, in case notebookcheck doesn’t have a specific laptop
+
+
+research:
+https://www.nytimes.com/wirecutter/reviews/can-pro-tablets-replace-your-laptop/
+  - **Windows apps aren’t designed to be made for touch, whereas the iPadOS is**
+  - **Windows has much higher device compatibility**
+  - **Surface Pro beats out all of it’s competitors** [for Windows tablets]
+  - Surface Go has a useless processer
+
+https://www.nytimes.com/wirecutter/reviews/best-laptop-under-500/
+
+chromebook? no.
+> “If you don’t need Windows, if you prefer Apple’s platforms, or if you mostly watch videos and play games, consider an iPad with a keyboard. Compared with a cheap Windows laptop, this combo is snappier when you’re banging out emails, watching movies, or taking notes, and whereas **a Chromebook forces you to rely on web apps and Android apps designed for phones, you can find thousands of iPad-optimized apps and games.** But an iPad-and-keyboard combo is not a complete replacement for a laptop.”
+  - but maybe not anymore, with the ability to install any Linux app now?... And then with Linux, can install Windows or Mac OS X, at least through VirtualBox, though booting into the OS (BootCamp) is way better...
+
+https://discussions.apple.com/docs/DOC-3321
+  - **with VM software (VirtualBox, VM Fusion, etc.), you can go in and out of OSes rather easily, having all worlds. The only problem is 3D games, which requires direct access. Thus, it’s better to use Boot Camp and install Windows separately for games. But an even better solution may be to use a Windows laptop that has compatible Mac OS X hardware, so that you can have a cheap and good GPU, and just use VM for Mac OS X software.** Though you could have a VM of Linux, there’s really no need as Mac is Linux-like enough.  **The problem with this setup is that Windows sucks. It deteriotes over time... If you had ever needed to re-install Windows, or maybe even update it, all of your OSs would be screwed.**
+
+what you need is a ‘hackintosh’!
+
+https://www.tonymacx86.com/forums/laptop-compatibility.114/
+  - check here for laptop specific compatibility, and an installation guide
+
+celeron processors? no.
+> “Intel Pentium N5030 processor, which is barely fast enough on a Chromebook and too slow on Windows. We tested a Zoom call alongside a couple of open browser tabs, and we encountered connection dropouts and audio delays of more than 30 seconds, which made conversation impossible.”
+  - lolol, avoid those cheap processors!
+
+https://en.m.wikipedia.org/wiki/Radeon_RX_Vega_series#Mobile_APUs
+  - APU is a CPU + GPU, together
+  - Vega 3 seems sub-par, Vega 6 seems decent, but Vega 8/9/10/11/+ are incredible

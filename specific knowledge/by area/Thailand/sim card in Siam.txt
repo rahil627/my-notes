@@ -1,0 +1,20 @@
+sim card in Siam
+
+3 big providers:
+AIS
+  - complete coverage, much better reviewed than Dtac, solid product
+TrueMove
+  - cheaper, plentiful options
+Dtac
+  - complete coverage, older, conservative
+
+
+pre-paid sim card “plans”:
+TrueMove
+  - **something net: $120 for internet for a month!**
+  - **teen: $50 for some talk time, some data, and wifi**
+    - also $0.25/minute for this sim card (and a few others), otherwise, it’s usually $1/min for out-of-network
+
+AIS
+  - tourist sim: $50 for some talk time, some data, and wifi
+  - $1/min out-of-network

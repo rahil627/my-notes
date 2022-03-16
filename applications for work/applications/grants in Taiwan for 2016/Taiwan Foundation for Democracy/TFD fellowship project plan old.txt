@@ -1,0 +1,102 @@
+1.
+Title of project:
+Center for Civic Tools and Urban Interventions
+
+Proposed dates of project:
+The year of 2016. For now, I will likely be traveling around Taiwan via scooter, stopping by quick impact possibilities and organizations on the way.
+
+todo: limit to 5 double spaced pages (2.5 single?)
+
+2. Describe your project plan in no more than five double-spaced pages. Please include the following information:
+
+Description of issues and problems to be addressed, significance of these issues and objectives of the project
+Methodology of the project
+Relevance of your work to the work of other professionals and organizations
+Progress to date of the proposed project, a timetable for the project and potential collaborators (institutions or individuals)
+
+3. Explain how you will take advantage of the different opportunities the TFD Democracy and Human Rights Service Fellowship offers in no more than one double-spaced page.
+[end of todo]
+
+[todo: inform my travels and ask to use e-mail then phone as primary contact]
+The TFD will mail two copies of your official acceptance letter to the address provided on your application. Sign both copies and mail one copy back to the TFD, keeping the other copy for your records
+
+[todo: Contact your two referees as early as possible]
+
+[todo: first mention absence of snail mail requirement]
+
+A Primer:
+I am applying to this because it fits my desires in generality not specifically, and so, this application will reflect that, subsequently reorganizing the outline of application.
+
+Motive:
+In 2013, I volunteered, travelled and lived (any maybe protested) in Taiwan for periods of time. I had good experiences within the society of Taiwan, felt a strong sense of community and civil service, and decided that I will return, with intent to be a part of that positive force.
+
+Date:
+The date is negotiable. I am currently, physically, writing this from the town of Luodong. I plan to stay in or around Taiwan from this time point on. I stopped my master’s program (Person’s Design and Technology) in order to pursue toward civic interests in Taiwan. I may apply to two civic-oriented programs: research at MIT Media Lab (Civic Media Group) and NTU master’s in urban planning, which will likely start around September. I prefer this grant above NTU, and even if I am accepted to MIT, I would like to bring that knowledge back to Taiwan. If I am accepted to NTU, then I will begin Chinese classes in Taiwan, perhaps in March.
+
+Past Thoughts:
+The following Ideal Objectives and the Development towards them, were written in the past, but are fitting to see my mind:
+
+Ideal Objectives:
+I want to continue living in Taiwan, manage a public space in a city, collaborate with organizations here, be a part of my neighborhood, city, and country; I want to be a part of the civic decisions that goes on it, make it better by giving people methods to make civic decisions and methods to take action beyond the recent social media leveraged protests, organize reality to help decision-making; help communities maintain themselves by being aware of local problems, encourage people to socialize and collaborate with neighbors, encourage sharing; further autonomy with self-service housing, workspaces, and work; etc. all those ideals.
+
+Development of tools as the method toward ideal objectives,:
+To complete these objectives: there should be tools to help organize people physically and stay up to date with those people digitally, to allow people make civic decisions and take action, to allow people to educate themselves under the circumstances of the current lifestyle, tools to teach community leaders how to organize, to enable community leaders to organize urban data, to match the right solver to the problem; There should be a better designed city to calm people from moving and find people nearby to work with. Simple ideas should exist to facilitate sharing. There should be tools to have local discussion, to corrode corruption; Thanks to Taiwan's solidarity, the autonomy of the country can be furthered with successful examples of the uses of spaces -- housing, education, work, play, and mixes; etc. all those ideal, tools.
+
+On Human Rights and Development:
+From the few travels around Taiwan I am aware of social problems: rampant urban development projects, lack of policy, lack of care of policies, lack of enforcement (what do they do?), prostitution, lack of healthcare on the east coast, land conflicts with indigenous peoples, underpaid migrant workers, etc. I am also aware of current social processes: the accumulation of capital, consumerism, urbanization, globalization (migrant workers, language teachers), etc.
+
+I am willing to make efforts toward many of these problems, but my focus is on organizing knowledge (awareness) and people (action), which reflects my experience in programming, design and technology, and knowledge in urban planning.
+
+Outward Radiation of Work:
+I have a very materialistic, urban-planning, anarchistic (direct democracy is okay!) philosophy that promotes autonomous societies, and so my Rough Outline of Actions radiates spatially outward, from a place to neighborhood to city to country.
+
+Rough Outline of Actions:
+0. See current organizations for experience and determine if any can be used as a public place.
+
+Place:
+1. Create a physical (and digital) public place. It may be possible to take over a current public space, such as TFD, FabLab or some kind of town hall. It must be accessible to a dense urban area, preferably in a working-class neighborhood.
+
+2. Gather organizational information. Leveraging TFD contacts and my friends from the public realm (Hackerspaces, NTU landscape students, social spaces in Gongguan) quickly gather information about Taiwan’s hierarchy of organizations.
+
+*. Hold workshops. There’s no time for teaching, but I think civic-oriented workshops may come to mind, as I have a need for creativity :) . Teach map-making, Wikipedia editing event, problem-solution design jams, protest tactics against government interventions, etc.
+
+Neighborhood:
+*. I will personally be able to detect local problems, social and material, have an experience (as opposed to relying purely on data, including news) and take action against them. For example, prevent automobile traffic from entering market streets, inform lack of walking and biking lanes for the working class, displace people in poor quality rooftop housing. The action could be from policy-making to direct intervention.
+
+4. The public space also serves as a community hall for the neighborhood. It is a place for people to direct social problems to, and a physical (and digital) forum for discussion.
+
+?. Neighborhood media. Social problems must disperse back to the neighborhood. I haven’t decided how (paper, digital, radio, etc.) yet.
+
+City:
+5. Mapping of existing data. The first tool I believe that’s necessary are maps with data. Whatever the problem may be, the physical areas must be identified. In case the data is stuck in ugly government databases and websites, I can leverage friends from Hackerspaces to help here, or do it myself, putting it into a more modern mapping system, available for public use. There are several good existing technologies for this. Other organizations may benefit from learning how to do this. Maybe Taiwan has this, but I personally know of friends who are scraping data from poorly designed or outdated government websites because they are so bad.
+
+6. Creation and mapping of new data. Next there must be a tool for people to create geopoints of interest to begin a forum of discussion, to centralize conversations.
+
+Taiwanese citizens are often very civic-minded people. They talk about problems, but it is often through personal networks (LINE, Facebook, and BBS), private and unorganizable.
+
+I realize that the stipulation of having a digital device will restrict access to residents, but I also believe it just has to be up to the younger generation to pass information to the non-digital users. (Maybe create a radio station for the non-digital?).
+
+I am actually not sure if there is an existing technology for the first point. MIT’s Action Path is close to the idea, but still quite far in execution. But at the least, something can be done about the BBS.
+
+7. Further tools to enable people to take civil actions where it is beyond their own control. Enable people to be able to directly give real and current information to the right organization i.e. sending a picture.
+
+?. City media. Thanks to the political problems, I’m guessing there’s a non-corporate online media source already in place, but I wonder how that information can get to the non-digital audience, and furthermore, non-Chinese language audience.
+
+Country:
+*. Follow civic crowdsourcing. Can even try to pass the idea of campaigning for bike and motorcycle helmets, for public bike systems in dense urban areas, for laptops, for public libraries, etc.
+
+8. What successful actions I take locally has a chance to propagate to other localities, and other cities. If they do not naturally propagate, then communication to organizations in other towns may be needed, but not forced.
+
+Feasibility of tools:
+All tools will use existing web and mobile applications. I highly doubt the need of designing anything new.
+
+Direct interventions may not require tools at all, perhaps just a physical sign, or talking.
+
+On Human Rights and Development again:
+I notice that my outline is lacking in human rights. In a country where law enforcement is minimal, therefore rendering many laws useless, I believe working toward better self-governance, education, civil (and ecological) conduct, is better, especially in the case of Taiwan, where the ideology, form my experience, is quite well-natured. For example, if a migrant worker were to come to a clinic without health insurance, I believe it is up to the clinician to do the right thing, and from my experience, this is often positive. More likely the problem, I think, is the lack of resources in less developed areas, in this example, a professionally trained clinician with medicine in the area.
+
+On Chinese Research:
+From the showing of publications, I’m a little afraid that it is overly-academic and less practical. I’m aware that Chinese (and Taiwanese) education tend to be this way. I hope that I am not forced to write long papers for “research” or a journal, except for personal exercise. Otherwise, I hope that progress reports are enough, and I hope that Taiwan’s education sees use of technology in civics, and perhaps innovates in the future.
+
+On Taiwan’s Kindness:
+From what it seems, this fellowship may be aimed toward less developed countries seeking political and human rights experience. It is extremely kind of Taiwan to help nearby less developed countries, but simultaneously, it must help itself.

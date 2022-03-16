@@ -1,0 +1,566 @@
+from SF second time:
+Coloring book application. More about choosing colors and using paint bucket then simply drawing. Easy color chooser, drag touch on color picker to choose color. Highlight areas and change color in real time. 
+
+Cool effect, the paint bucket fills the area outward in a blobby paint way.
+
+Bus window that pixelated everything?
+
+a sports game in which a random point in space is chosen. For example, in a large warehouse, a point is chosen a little above a table in the back. The player must run to that point and move around.
+
+Fastest time / distance wins.
+
+Implementation:
+Kinect sensor in the corner of the room. Input general dimensions of the room. Can the Kinect sensor detect depth?
+
+Steal animations?
+
+Terrifying graphic game on iPad in which the player is afraid of touching the iPad. Have to rub a clitoris, etc.
+Series of increasingly terrifying event that require interaction.
+
+4 player minimalist rts, like hokra, but positioning units is even more important. 3 kinds of units? Equal on both sides.
+
+Background should be a picture
+
+High heels remove floor. Glass pillar, with sign a little above eye level.
+
+Self installation titled Robot.
+  - Live robot exhibition, moves depending on interaction (touch, possibly other senses) according to a set if rules. There is a pattern to find. The winner gets a candy.
+
+Ironing in Hong Kong
+
+I was thinking about asking if I can film a bum, then record our conversations, then our interactions.
+
+Should it be shot first person? Or should there be a third person?
+
+I spy for iPhone
+
+Can place an instrument in a favorite temple of mine, such as the seashell one, one that befits the instrument. Public art, to beautify Taiwan.
+
+Taiko game. Touch screen. Japanese arcade. New input interfaces.
+
+I thought about making films about games. The first short film had the theme that games leads to actions more so than books. It had two classmates from New York, one Chinese, one Hispanic. The Chinese one more book'ish, the Hispanic less. It shows the life of each. Then, there is an incedent they both pass individually. The Hispanic kid acts upon it quite intelligently, using the nearby city to his advantage. The Chinese ignores it.
+
+I presented it to Babycastles. I told them that perhaps I created them, and not games, because I grew up in the suburbs on film. That was my primary education. And somehow, I was stuck.
+
+I showed them another film, the draft of one, to test. The film was about games. It showed how ideas were tramsitted through experience of playing games. In the end of the film, the film reached the limits of it's medium in trasmitting ideas. The end had a press start to continue playing.
+
+really old, possible older than 2-9-12:
+News ordered by importance. One page. Make this happen.
+
+News timeline. Gather information from wikipedia.
+
+Music video. Video first.
+--
+
+A short film about a day in life of an artist and of a buergiose. Half each. Cut back an forth between both. Can use Ivar for the artist part.
+
+Artist film > borgiose film > artist end > borgiose end.
+
+At the end of the artist film, show the artist failing. At the end of the borgiose film, show the borgiose neither failing or winning. At the artist end, the artist succeeds. At the borgiose end, the borgiose neither succeeds or fails, but feels unfulfilled, dreams of becoming an artist.
+--
+
+Baby Mario. Super bar, not possible to achieve. Yoshi becomes fatigues before he can save baby mario. Intro with yoshi getting hit by a goomba and losing Mario. Make the art myself, like braid.
+--
+
+A typing game in which the words are said aloud. When you mess up, the narrator gets angry.
+--
+
+A game or film about the relationship of very different people. Boring hard working introvert vs carefree extrovert. Me and Ivar. The feelings that go through after not finding an apartment, compromising, feeling like waste after not working.
+
+Add a timer when you are within range. The pretty ones timer is infinite.
+--
+
+Platformer in which the player controls the stage to guide the character across.
+--
+
+A game about capitalism. Perhaps sim cruise? Organize events, place rooms, hire staff. The goal of the game would be to maximize profit yet keep people happy. Charge people for DVDs for event showings, charge for soda, or even water. Place suites next to a casino and charge more.
+--
+
+A film that follows the average life in various countries of differing governments. Capitalism, socialism, mixed, communism?. Just an average work day. Are they the same? Corruption pervades in all of them? Consumerism and opposing parties exist in the background.
+--
+
+
+old, from Taiwan thoughts:
+Game jam with a theme of a Chinese character or two.
+
+A photo series on store fronts. Part of humans? Should include only one person, the owner. Or only the owner should be looking at the camera. It's a little different than Asia. People work outside.
+
+Babycastles:
+Organize public arcades all over Taiwan. Create public games in public areas.
+
+Play and contact last game jam organizer. Organize a game jam at a public place. A park with a canopy. Daan? Can find nearby cafe later. Create Facebook event. Create organization myself. Babycastles in Chinese. Ask someone to create a poster. Invite and send event to all Facebook organizations. Create your own volunteer organization. Fuck the system. Meet people. Find a home for Babycastles Taiwan. Rent a space.
+
+Power generator, food cart, projector.
+--
+Game jam:
+Fuxk button game
+Motion sensor games
+
+A comparison of travel and JRPGs:
+Specifically travel Taiwan, use a gopro and record it all. Edit the video by speeding it up and adding final fantasy VII music. A proof that those JRPGs did have something valuable.
+
+A space in which light travels slowly by the trigger of humans. The light reflects off walls and objects
+
+learning:
+angles are somehow displayed
+missions are created
+games are created
+
+a performance projector game (old idea)
+  - players wield projectors that project a man running, they have to use the buildings around to run and interact
+
+Google spreadsheet game
+
+an art installation dealing with memory cards
+
+a poem for each city or area
+
+gmail thread game
+- inspired by the structure of hundreds of collapsed replies
+
+word game idea:
+- top-down 2d, each tile corresponds to a letter, must type to move
+- need to think more about it
+
+arcade idea:
+- setup two cabinets with Journey in two different locations and set them up locally, after playing, tell both players to meet at a certain location
+
+write a wiki article for Babycastles which depicts an alternate history.
+
+boycott EA?
+
+a game about SOPA and PIPA
+  - a program that blocks your browser from pages which can possibly have illegal content with a propgandist icon.
+  - a program a user installs. Once a player browses a web page that can possibly have content that the companies don't like, it emails the senator and representative of their location. "Hi. I love Coding Horror. I was on the website for Until you stop supporting SOPA/PIPA, I will not support you. Rahil Patel." Searches current web page for any sharing content (youtube, vimeo, last.fm, etc).
+
+3d video game installation, requires glasses, anaglyph?
+
+a real website or Babycastles, neon sign going off
+
+3d game prototype for Zack
+- limbo with depth use
+- use real film images as the background like final fantasy 7
+
+iScored
+- film that carnival bottle ring game for one day.
+- speed through sunrise
+- watch people miss
+- then someone wins
+- capture expression on faces
+
+film mom cooking dinner.
+can film people doing anything. Can use a film camera to make a mundane task filmic.
+
+A game in which the player's input is counter-intuitive. Must press escape to do something.
+
+nintendo 3ds game! See how that Argentenian made his game. Try prototyping 3d games!
+
+old, from clipboard:
+A game in which players control blobs, like cells. Uses physics engine. The player is told to collect a certain shape. The player with the most of their designated shape wins.
+
+Tetris with letters to form words.
+
+A mod of Yoshi's  Island in which you cannot get mario back.
+
+*A nightmare flash game based on getting Mario back. The player controls Yoshi and can go in either direction, but is impossible to get Mario. Repeat the background endlessly. Invert the colors over time. Start to reverse the music or play the oc remix ~"turtles...".
+? - show "how to play" in the beginning
+
+? - a game with all things addictive, guaranteed to be awesome.
+
+A game in which the player must place barricades to block off growth, similar to jezz ball. One solution per level. Must be done in real time. As time increases, the barricade quantity increases.
+
+end clipboard ideas--
+
+use "Express Yourself" hook for a poem about getting people to express themselves, be an individual, make their own decision, stop following society, do what you want
+
+handmade christmas sweater
+knit a christmas sweater. purposefully sloppy, initials in the corner, black santa, white reindeers, purple elves
+
+a parody film about a dystopia created by women
+
+a film about the differences in society/culture/people shown by the different neighborhoods in new york - hispanics of bushwick, hipsters in williamsburg, burgeoise of west village, brooklyn chinatown
+
+a peom/rap, starts out poetic, becomes rap over time, then poetic again
+
+loft ideas:
+tilted checkered pattern shelves
+\  \/ /
+ \/ \/
+/ \ / \
+
+string milk crate
+	pulley?-tie it to something
+	use a hangman's knot on the crate
+	put clothes in these crates and topple them over to get them out
+second floor with a fireman pole
+ladder or rope through the window to the second floor
+an attic to store everything in
+a multiple bunk bed
+
+joke:
+black people do this--*plays drums*. Brown people do this--*plays drums with an indian melody*. Do only tablas make that unique sound?
+
+a video of using a macbook's touchpad, focusing on how the gestures are similar to female masturbation
+
+a game about being afraid of communicating, being lonel, possibly insecure about physical appearance, living in a city in which you know no one. Even if you have a job, you barely know your coworkers or roommates.
+
+platform game mechanic
+after the player stands still awhile, platforms appear. Showing that thinking things through allows new paths to appear. 
+
+this thought came after watching the Borrower Arietty
+should try to make a live film that mimics the beauty of life in humans, animals, and nature, similar to the Borrower Arietty. Is it possible to show that real life is beautiful, without the cuteness of animation? A catfish is quite ugly in real life. Maybe through the view of a child it is possible.
+
+should intertwine with human nature. Use my personality. How I'd love to go out, explore the neighborhood, come home late to a worried mother, dad not caring. How I played with roly polys, jumped over ditches filled with tadpoles, how a friend would be interested in more troublesome things, such as using my Dad's bb gun to shoot bottles. How I wouldn't want to go to any family events (marriages, religious events), and rather be at home, either outside or later on the computer discovering and learning new things everyday. Why I would get angry over not getting the few things that I wanted. How I was (am) so generous, helpful, quiet, appreciative.
+
+This idea is already too large, like Tree of Life, it is a giant task.
+
+
+and as the world stares at natural disaster in stupor,
+i continue working.
+nothing affects me. nothing external.
+
+a documentary about wasted time. Time should be used to further human beings. I want to document the things people waste time and money about. Obsessively cleaning their house or computer, overeating, commute, media, time after work (often too tired). Whereas, people should be focusing their time on figuring what they like to do, and doing that.
+
+a film clip. Takes place at a temple. A ceremony is going on. A godfather-esque scene pans over the entire scene, beautifully, over a long shot. Some people get a little to drunk, a  gritty fight begins. The public act realistically. Uncles jump in, Aunties cover children, other drunk burgeoise second generation kids get riled up, ramble way past the event, not sleeping until late night. Similar to that night Jigar fought Jigar.
+
+a clip in film, in which a long circling shot covers a large area (i.e. a wedding), in the end, the sound of a record being scratch is heard and the video moves back and forth according to the sound, ending with the record being spun backwards and the video being played backwards (accelerating/decellerating the video speed too)
+
+a film about the american past. Interview elderly people, ask them how it was in the past. Was it great as they say it was? How you could leave your front door open, how people respected the elderly, and how you didn't have to worry about pedophiles. The mainstream should answer it with a positive fabled past. The more intelligent real people would answer: it was the same. Just because the mass media didn't expose pedophiles doesn't mean they didn't' exist. They had slaves.
+
+Mix in videos of the 19XX's depicted in current movies. Then mix in real videos of the 19XX's, showing the just-as-cruel or even worse crimes being committed.
+
+
+a film about a person becoming an artist. All the things that goes through that person's mind. A person who works 9-5, realizes life isn't great, unfulfilling. Show just how difficult it is to become an artist. You can't just start arting or at least I'm having trouble starting. Show how difficult it is to just start. To begin using time on something that most people would think useless.
+
+a film about the struggling ethnic enclaves in New York. Their middle class life. Ask why they moved here. For their kids to go to a nice college? For freedom? Compare the idealized America in the view from a developing country and the reality of it. In doing so, I would feel better about my parent's struggle. [old thought] Actually, I should just make a documentary about brown parents. Knit together the stories cousins heard in a non-sequential narrative, having ridiculous feats (i.e. my dad worked on the transcontinental railroad!).
+
+a film/game about the affects of mass media. Use mass media to gain the support of/appeal to a large audience, showing current pop culture, the mainstream perspective of ideal(?) life. 
+
+idea one
+Show icons they can relate to. Show them until they hate them. Until they hate themselves.
+
+idea two*****
+Show the typical life. Nothing out of the ordinary. Just the mainstream life. The dialogue, thoughts, characters, everything as is. Modern bergiouse society. Wake up, go to work, complain about life, go to a club on the weekend. I want to know what the reaction of someone who lives this kind of life is. Will they think it's a boring movie, or reflect on their own life as being this simple? Add in some real thoughts of these kinds of people.
+
+
+a film/game about thoughts. Incorporate my own thoughts into it. Possibly about being different. There doesn't have to be much video, just some images is enough.
+after watching Waking Life, I'd like to make a drama partly based on my family too. A film that shows flaws and pros of each personality/character. How characters react to each other. How alike children are to their parents or even siblings. All of it.
+
+
+cinema veritae - film everything
+film a road trip, the conversations that go on
+this automatically documents modern life
+
+game about road rage
+simulate real car AI
+approximate player's road rage
+analyze how long a player can handle annoyances (slow drivers, old people who stop, lost people who stop or slow every few streets then turn, females who crash, people walking, etc.)
+like playing GTA3, except you have to obey the law
+
+film about my childhood
+being different, the reactions of others, my disregards for their opinions
+
+rap song using onamonapia
+"boom", "kick"
+
+legend of zelda parody
+thought after toasty obtained the 200pc chicken nuggets bag
+ivar could do the costume design
+could mimic the first stage of windwaker in the parking lot. There are cops in front of it, with a flashlight swinging around
+
+time puzzle game?
+<, >, space
+
+customer service psychology game
+have the player play as a person in a customer service position such as airport baggage clerk, or a restaurant. Make the player choose actions, in which customers react realistically. Sometimes bad, sometimes good. Affecting the player's emotions.
+
+Can record the voices at a real customer service place, such as a McDonalds. Then let the player choose options in various scenarios.
+
+female AI game
+simulation of female AI
+have a random variable named mood
+release on april fool's
+or release on the iphone and name it "Got Game?"
+
+choose lines of dialogue in a series
+the further you get, the higher your score
+the random variable gets higher as you progress further
+save statistics to display at the end
+win: you got game! lose: i think you're playing the wrong game
+
+or a more serious, emotional game that uses female AI...
+
+threadless travel theme
+signature food from each country with the country's name beneath
+japan - sashami
+china - dim sum
+vietnam - pho
+etc.
+
+mobile game
+scavenger hunt
+users can upload photos including with it the city and and clues
+public users can guess the location, the uploader can see a list of submitted answers ordered by date and choose a winner. The user that wins gets points.
+
+Would need restrictions on amount of uploads based on points/time. Restrict answering for the same person to counter cheating.
+
+New York may have to be divided into boroughs.
+
+Can add some sort of achievement system, or be cool and not do it! Can add an achievement system. Should be able to message other users.
+
+Mark as inappropriate, remove if too obscure or allow user to change the picture, remove pictures from users that have not logged in for a long time. Remove picture if the user uninstalls the application.
+
+can have a food specific scavenger hunt
+unloaders can specify to use the exact name of the restaurant, so that the public can freely guess and the system will match submitted answers. Ignore punctuation
+
+problems: scvngr, to start there needs to be a community in place already, or else it would be empty!
+
+
+rap with symbolism of watchmen. cardigan. interlace story with wordplay. 
+
+Indie game like Rohrer's passage between. History game
+
+Watchmen photo comic. Start with watchman frame. Describing SF. Journal entry. Zoom in and out. Dialog matching each frame
+
+sex advice iphone/android game - by Raymond
+could be a website too
+a Facebook app too
+users on the vote best sex advice
+user generated
+pick up lines, sex positions, etc.
+save favorites
+send message
+similar to "the art of manliness" or "the way of the superior man: a spiritual guide to mastering the challenges of women, work, and sexual desire"
+
+
+short film, intense mystery
+me with a hand camera, filming around golden gate park as an unknown event goes on.
+start with the pretty scenery, head closer to the event, hiding myself and the camera from anyone/anything, slowly peeking over hills to see what is going on
+at the end, run away as fast as I can, and look back at the pretty scenery, panning up the the mystery chasing me
+can even allow humans in the video, they're just bystanders to the plot
+slow dolly shots (beginning, beginning of end, to show scenery) mixed with fast action shots
+would be cool if there were a cooking demo going on or maybe i can make gun shot noises and screams
+
+shoot as if the camera is the eyes of the protagonist, look at a sign, zoom in, wait, think, zoom out, quickly glance at what makes noises, move hastily
+
+
+"I'm a sexist" stand-up routine
+
+Girls are ugly. Yup, I said it. I'm not even gay. The other comics just say girls are beautiful to get laid afterwards. I don't want *gesture* THAT filth near me. Guys, have you ever been in their room or bathroom? It's effing disgusting isn't it? Tampons and tissue paper fill the trash can. Why can't you flush the toilet paper? What are you trying to cover up, we know you're nasty. Disposable shaving razors with tufts of hair still inside. A clogged shower, that you call a GUY to fix. A thousand different opened body washes, shampoos, conditioners. How does that work? Do you rotate between 10 brands or do you buy another because you're searching for that perfect product that'll match your botoxed face? And that's just the bathroom, I don't want to describe the chaos that surrounds the dresser. Girls must be disgusting. Why else would they cake their body and face with a million products? They're ugly on the inside.
+
+[hmm need more jokes, I just sound mean there]
+
+Girls are also feeble-minded, Yup, I said it. I'm not even a sexist. They get advice from terrible TV pundits or Opera. How does Opera even work? She donates some money to a charitable organization, then she buys lavish gifts of a higher amount to her pre-selected high class crowd? If you're getting knowledge from these sources, you'll never reach the height of a man.
+
+That would be like if a guy got their advice from...
+
+[needs more material and jokes]
+
+If some weak girls start haggling or leaving
+Look at those weak-willed girls, can't even take a joke from a small asian kid at his first stand-up routine.
+
+I have some advice for the strong girls here. Even though the strong ones probably don't need advice. My routine probably hasn't even affected you. It's the same advice I can give to any person of any profession. That is to: just do it. Nike's slogan is correct. Don't let any external factors affect your decision. Ohhh the economy is bad or ohhh it costs so much to live in San Francisco, you'll never find a job or even an apartment *girly voice* the men of the world won't get you surpass them! If you've got your mind set on something that you're passionate about, then get out there and just do it. You've done the research, now is the time.
+
+Sexism, Racism, they're also just external factors that only exist in the weak-minded. Sexual Orientation well that actually exists, y'all need to go to the government and separate the church to fix that.
+
+
+psychological script (thought during shower):
+character suffers an awful event in the past that he couldn't cope with
+character is hospitalized
+character gets memory altered by a psychologist to cope with his past
+throughout the script:
+	past is revealed through various media/gossip, possibly under another name, the character never even thinks it's him
+	the character takes medicine that keeps his memory suppressed [dopamine blocking receptors?]
+the character is told he has schizophrenia, and that the memories from the awful past are just illusions caused by schizophrenia, making it seem like the real memory is an illusion, altered is real
+
+need a present story to mix with character's story
+
+meh, too easy. Too similar to bourn series, and others.
+this isn't even a script, it's just a silly plot device
+
+daydreaming/aspirations:
+my daydream:
+	me being successful at various occupations
+	or even small feats
+	just me being better, more sociable
+	
+	s1:
+	ending - real life job at office, steady camera homes in to me working in a cubicle, wipse forehead with shirt
+	s2:
+	zoomed out camera, me sleeping, sniffle, cut to zoomed in camera, me frowning, watery eyes
+
+not sure if this was a though or some lyrics:
+a criterion collection of songs
+[space]
+tell me if you like it
+i don't believe you
+it takes certain key characteristics to enjoy this fine dine mix
+you must seek originality, not categorize it into "weird"
+
+news sequence - list events chronologically on the left side, in the middle have public opinion, on the right have expert opinion. ex: korea/north korea relations, or any fueding countries
+
+blog like coding horror on research that i already do
+
+silly indie game, with all sound effects by me, "pew pew"
+
+video montage of fear mongering fox news comparison to nazi germany...eh too cliche...compare to something ridiculous, like a monster movie
+
+revolutionize fake wrestling with better cinematography to show gritty screenplay and use of post production
+
+short film: oldboy pt. 2
+camera enters room
+sounds of a girl having sex
+the camera pans down slowly the entire time
+she's on a plain floor
+you see this hot chick's face,
+...her tits,
+...now she's near orgasm
+x/camera turns 90 degrees
+cumshot on the ass/back of another body
+show the real girl's face
+fade out
+scary/confusing music (like oldboy)
+
+[the girl was a transvestite]
+
+(3:56:35 AM) Me: hard to explain the camera turning, but it should look like she's on the floor being fucked, but is in fact on the wall doing the action
+(3:58:05 AM) Me: also the sounds should be coming from the real girl, just juxtapositioned on the tranny
+
+(4:07:24 AM) Me: hm, dont even need to turn camera, would realize the orientation once the other person is revealed....yep, that'll be my first short
+
+hair would need to be in a bun, tits would need to be small to hide gravity
+
+
+variable grid slicer
+
+4p smash bros adventure retro game
+retro games with smash characters (retaining melee movement), 4 players, start with falcon character, go through games like mario/contra/double dragon/etc.
+combo counter like mvc2
+fun physics - enemies can be juggled, bounce off sides of screen, get faster with more damage taken, do more damage if hit by
+friendly fire option
+
+carbonated lemonade (like mike's hard)
+
+website like Digg
+-different sub-cultures based on occupation: medical, engineering, comp science, etc.
+-more educational/professional, less jokes
+-better yet, a template for a social bookmarking site
+
+intelligent TV channel
+-half hour of updates
+-half hour of news in the morning and evening - mostly world, some US, no local, quick, no opinion/pundit
+-cartoons after school, good old cartoons, batman: animated series, x-men, looney toons, animaniacs, etc.
+-some classic TV shows during primetime, the wire, planet earth, it's always sunny, etc.
+-music overnight, video or no video, very few commercials, indie rock/classical/jazz/world
+-real/indie feel, cutting to real life production team, talking about how to improve the channel
+
+a japan [or any other country] documentary
+-i bring a camcorder to record my solo vacation in japan, in which i backpack, live in japanese family homes, and travel.
+-the vacation starts out like any trip, in which i eat, learn  about their history, see historic buildings, learn about their culture, gestures, etc.
+-i could play around with the camcorder, trying to make professional film shots. zoom in/out, blur/unblur transition, pan around, etc.
+-after seeing some parts of the rural areas, the trip becomes personal, due to certain events and the lifestyles of the people.
+-i start to write my thoughts in a diary
+
+post production
+-pre-intro, disclaimer that says, everything taking place in japan was live fiction, only the obvious portions were done post production (diary, titles)
+-intro could contain me wikipedia'ing and building the travel itinerary
+-have shots for the title of each part of the country i go to?
+-as i edit the film, my editing would become better. edit until perfection.
+-i could narrate my thoughts throughout the film
+-the climax has to be some significan event that actually occurs
+-the end should be my thoughts, possibly narrated by me, about whatever i actaully am thinking at the end of the trip
+
+crecendoing developments(?) throughout the movie
+me embracing japan's lifestyle, losing developed country mentality
+my thoughts becoming deeper
+a normal vacation turning into a serious documentary
+me losing hope for the world?
+
+flavored envelopes
+
+hindi radio station in hampton roads
+
+non-propietary open source movie/music rating system like netflix
+	gather from IMDB, netflix, rotten tomatoes, meteoritic
+	query by most popular, highest rated, links to all of the websites
+
+pb&j cereal
+cinnabon cereal - edit: exists! =O
+
+important facebook feed
+-or a serious social networking site to keep relations in tact. having a baby, marriage, in town, etc.
+-or create a facebook application
+-or send idea to facebook
+
+a live-action realistic comedy show - scrub-like moments/robot chicken
+
+t-shirts
+-iron element, man - Fe in the center, copper red outside
+-fuck fcuk - centered "fuck", below it "I'm doing it right." or "Am I doing it right?"
+
+real life comic book - take pictures, edit them to add chat bubbles or comic-style graphics. no captions. just a picturebook style comic.
+
+website for hampton roads events - a wiki? where people can post events, also picks up data from sevenvenues and other venues
+
+rap album - that jokes other rappers, in the way that they waste money, are not cool. joke the post-2000 rap industry, explain why they suck, heavily criticize them, building my fame at the same time.
+
+a cooking recipe database, where you can search for recipes based on the ingredients you currently have
+
+PC repair shop in my garage, half business/half technical!
+
+all black and white website, with one colored image, different on each page
+a text editor with insert widget function***, doesn't show design of page, just toolbox + code
+multiple paste application, keyboard shortcuts
+
+from 410 - not creative
+wiimote like device for pc
+metashop - crawl user reviews (like google), store reviews (all have this), *expert reviews
+pc->TV - digital media receiver
+digg/reddit based on profession/different sub-cultures
+alarm clock that attaches to light switch
+job search website - users list skills/degrees/certifications, companies filter through user requirements
+universal cell phone charger - igo
+music program - real life guitar hero/keyboard, scrolls through sheet music...displays 'perfect' when your on time
+
+small ideas
+a revealing animated gif - 1st bottom third (something disturbing), then middle third, then top third (me!)
+face book pic = current mood. example: job hunting, pic with me holding a spear, facial expressions
+video of the differences between a rich neighborhood (mine) and a normal one (dolly's). picture comparisons that show pampering of rich kids. helmetted adults, no helmet kids. parents watching/yelling at kids, parents not in sight. kids being bored, kids having fun. in memory of college park.
+a video of my job search? documenting my work and rejections
+halloween - terrorist, pedophile, pedobear, domo. take 2 candy sign, if a kid takes more than 2, chase that kid down and inject fear into it's little heart, a moral lesson.
+buy a white van, and stick faux company logos on it
+movie about nightmares - most of the movie is just awesome nightmares, which is played first, the end consists of clips of a person's real life, showing psychological reason for the nightmares.
+	ex. images of a child getting hit by a car, end: watching child walk to bus stop, show the main character's facial expression [don't remember this idea at the time of copying this to notepad]
+comic made of pictures i took with good camera
+comic made of pictures found on the internet
+slideshow of pictures i take outside with a good camera, with '14 years' playing
+troll personalities [just troll forums?]
+edited dance video [don't remember the lucid dream], im guessing it was just items making sounds and editing that to make music...
+tropic thunder gif [?, shot of me with large coniferous trees in the back? remember vaguely...i was performing some gesture though...)
+a modern "around the world" like video, can use post production to make it seem up to date, otherwise it's just a dance routine with silly costumes
+	could gradually become crazier, having human sized bunnies chopping other dancers to the beat and repeating it via editing
+hat party!
+a gif, m2k gets mad, bitches. m2k gets mad bitches.
+color blind famous pictures
+"teach me bollywood music emmy building"?
+
+creative game ideas
+	?
+
+non-creative, profitable game ideas
+	a typing teaching game
+		each time you make a mistake something awful happens [rly violent?]
+		make many mistakes over a short period of time, and you lose
+		a DDR-like game?
+
+	a rhythm games that uses the entire keyboard (or 10 keys)
+		words come down (asdfjkl;)
+		or just hook up a musical keyboard and play real songs...***
+
+	marble madness clone
+	silly platformer with many references
+		have a ton of the same enemies, to make it fun to slaughter (like paper mario amounts)
+
+	[4player?] top down shooter with multiple types of attacks like valkryie sky
+	2 player platformer that requires cooperation and timing
+	4 player zombie game, like smash tv, with guns/power ups and hordes of zombies

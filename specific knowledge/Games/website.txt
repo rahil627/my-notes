@@ -1,0 +1,10 @@
+# how to set up web host:
+buy domain
+  - Namecheap
+buy web hosting server
+  - Namecheap
+set domain name-server to web host server
+  - note: this takes time (a day at most?)
+log in to cPanel
+set all emails sent to *@website.com to forward to main e-mail address
+install using whatever automatic installer for Wordpress

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with neilmonday@gmail.com on 2009-04-14</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:18:37"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">/yawn</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:18:49"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea, i didnt expect waking up ;)</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:18:58"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">you guys still there?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:19:48"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">yeah. theres nothing to really do though.</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:20:02"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">you will be in charge of setting up rubee</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:20:31"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">but we will all be up at the front together so its not like you gotta do it by yourself.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:20:38"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmk</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:20:59"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">how r u gonna show the GUIs or program?<br></span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:21:22"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">plug my laptop up</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:21:36"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ah k</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:21:44"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">jeremey's stuff is on here and joel is gonna put his stuff on here too</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:21:56"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmk</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:22:14"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat'd u guys do in the meeting?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:22:47"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">basically just worked on our own parts of the prototype</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:23:01"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">joel is workin on db, jeremey did his algo. and im doin guis</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:24:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmmk....lol and i?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:24:50"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">ummm. i guess you could get good at using rubee</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:24:55"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:24:58"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">the finder software etc</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:25:04"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">how to tune the antenna etc.</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:25:33"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">that way we all have something that is our own.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:29:36"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ughh...u think the progs will go together? =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:29:55"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">kina odd doing it separately</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:30:28"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">they don't have to go together.</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:30:51"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">we just gotta show that they work individually, then the different components are simulated</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:31:10"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">none of my stuff has to work with anyone elses stuff</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:31:33"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i mean...when we actually start putting the project together</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:32:07"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">there is no putting the project together.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:32:15"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:32:42"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">the demo will just be all of our separate things</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:32:48"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wah?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:32:55"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im not talking about tomorrow</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:33:10"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">afterwards</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:33:51"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">the final prototpye demo in front of the big wigs will be completely un-integrated.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:34:00"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">???</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:34:10"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">i will show my guis. then shut them down and never show them again.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:34:22"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lolwut</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:34:33"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">did she say this is okay?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:34:47"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">jeremy will show his algo, and we will assume that his outputs can trigger a gui event</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:34:57"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">but it will just be a text file</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:35:10"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that doesn't even qaulify to be called a prototype...</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:35:52"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">ask brunelle.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:36:03"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ugh, we'll see tomorrow anyhow</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:36:09"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">once you show something works once it can be simulated.</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:36:31"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">and by simulated we mean output to a text file or something. Instead of integrating into my gui app</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:37:00"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">weird..</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:39:02"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">we will talk with brunelle tomorrow. remember we are presenting first, so we gotta get there early</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:41:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yep</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:41:52"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:42:01"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">did u guys make a new lab2s3?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:42:17"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">nah we havent touched labs</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:42:23"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrm</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:42:32"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">r u still in school or at home</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:43:38"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">school. got class at 7</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:43:45"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ah hmm</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:44:30"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh wth...the pdf is out of order and upside down</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:46:04"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">k...well i guess i can do the corrections now and just sent it to all in e-mail?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:46:56"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">haha thats crazy. how the hell did he get that upside down</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:47:12"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">shouldn't do it 4x seperately...since it has to be the same for everyone</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:47:18"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">lab2 rewrite isnt due for a while it seems like</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:47:23"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oooo ok</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:47:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">sweet</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:47:33"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ii thought it was tomorrow</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:47:39"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">like 1 week i think.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:48:15"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well sweet...i should sleep in more often......now only have ECE to do</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-14 20:48:37"><span class="buddy">neilmonday@gmail.com</span> <span class="msgcontent">haha sleeping in solves all of your problems</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 20:48:43"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:D </span></span></div>

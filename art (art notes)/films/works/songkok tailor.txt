@@ -1,0 +1,15 @@
+todo:
+like Facebook page
+
+editing:
+order:
+- trash clips using camera
+c/- import
+- copy to two external drives
+- rename clips
+- analyze and transcode media / import to FCP
+- edit
+- add effects (titles, color, special effects)
+
+publish:
+post to Facebook page

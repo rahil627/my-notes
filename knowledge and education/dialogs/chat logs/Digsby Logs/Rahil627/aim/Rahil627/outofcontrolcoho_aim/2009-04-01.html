@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with outofcontrolcoho on 2009-04-01</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-01 21:49:01"><span class="buddy">outofcontrolcoho</span> <span class="msgcontent"><font size="3"><font color="#371475"><font face="Arial">If you respond with an away message containing a phone number, I will laugh... then rickroll you by phone.</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 21:51:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">soptout</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 21:51:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">Soptout</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 21:52:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">$optout</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 21:52:15"><span class="buddy">outofcontrolcoho</span> <span class="msgcontent"><font color="#FF0000"><b>OPERATOR:</b></font> Are you sure you want to opt-out? If you do, you will *never* be contacted again on the account "Rahil627". There is *no way* to opt back in and undo this.<br><br>If you are sure, type "$optout 842C". Remember, this is permanent and irreversible!</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 21:52:21"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">$optout 842C</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 21:52:22"><span class="buddy">outofcontrolcoho</span> <span class="msgcontent"><font size="3"><font color="#371475"><font face="Arial">???</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 21:52:25"><span class="buddy">outofcontrolcoho</span> <span class="msgcontent"><font color="#FF0000"><b>OPERATOR:</b></font> You have opted out. The accout "Rahil627" will *never* be contacted again. Good bye!<br><br>Feel free to email <a href="mailto:projectupstream@gmail.com">projectupstream@gmail.com</a> with feedback, comments, complaints, etc.</span></div>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-03-07</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-07 18:15:26"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i saw watchmen</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:15:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:15:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">read boook?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-07 18:15:47"><span class="buddy">fantastic2xs</span> <span class="msgcontent">there is a lot of blue penis in that movie</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:15:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">er comic</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:15:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-07 18:16:02"><span class="buddy">fantastic2xs</span> <span class="msgcontent">: |</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:16:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so, how much did u like the blue penis</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-07 18:16:43"><span class="buddy">fantastic2xs</span> <span class="msgcontent">not at all?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-07 18:17:10"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it seemed like they were trying to put it in the center of the shot though</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-07 18:17:23"><span class="buddy">fantastic2xs</span> <span class="msgcontent">they had 4 on screen at once</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:18:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">loll</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:19:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">how'd ya like the movie</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-07 18:21:29"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it was good</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-07 18:21:33"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but 3 hours long</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:21:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">nice</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:22:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i dont see how it's even possible to convert that book into a film</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-07 18:23:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">there are soo many comic book only effects throughout it</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-07 18:24:25"><span class="buddy">fantastic2xs</span> <span class="msgcontent">they did a good job</span></div>

@@ -1,0 +1,135 @@
+description:
+I was travelling through Malaysia, and stopped upon the picturesque Georgetown. I wanted to create a film that was about human struggle, in which the subject is constantly in motion so I could showcase the beautiful town in the background. Unfortunately, nothing was planned, and the route I filmed went through a more developed part of town. Ah well, the cars make a good contrast to the bicycle.
+
+todo:
+fix sound, re-export, re-upload
+  - check the differences between 24p and roti baker projects. Is auto audio correction enabled?
+c/remove color correction, balance sound, re-export, re-upload
+
+wait for response from Vimeo
+  - my video contains multiple video tracks? Need to video mixdown.
+  - Export > Quicktime Movie w/ Current Settings and Make Self Contained (or ref) and then import the clip, then export again
+    - does not exist in FCP X, trying export web hosting (quicktime movie)
+      - it worked!
+
+test export changing playback between proxy and optimized
+
+download DaVinci Resolve
+
+see video difference of Magic Bullet
+ x/- try a preset warm color grading in FCP X for the entire film
+    c/- export and watch both
+      - tried setting a warm color grading and matching all of the clips to it, but it requires more work than that. Each clip differs. Exposure could be lowered for most of the shots outside, but it also required a bit of work.
+
+after editing:
+c/make sure audio is okay
+c/try adding transitions
+
+really like u-turn, but have no place for it
+also like shophouse b-shot, but no place
+
+x/intro with beggar is too long?
+
+x/make title shot fit perfectly?
+  - good enough!
+
+x/keep editing to minimal. Don't worry about small things. Just finish it and move on to the next project. Can fix mistakes on the next project.
+  - ended up editing until I was satisfied
+
+focus on delivery man
+
+1.
+
+remove western country question?
+remove the store owner's dialogue, keeping only delivery man related dialogue
+
+intro to store
+interview
+  - store, sells roti baker
+  - very short, 1/5th of film
+    - my name is…
+    x/- family
+      - unsure if needed, focus on delivery man?
+    ?/- sell to hawkers
+    - enough to survive
+    - delivery
+
+when the interview gets to the delivery man, begin video of delivery man
+  - about delivery man
+    - delivery man
+    - immigrating to Malaysia
+    - he's alone, working in Malaysia, because the currency is higher
+
+audio of interview ends, but delivery man continues
+  - add music?
+    - if I do, it should be subtle, nothing that breaks realism
+
+2.
+don't keep everything, just one or two deliveries, long shots, slow pace
+
+aim to have very few cuts
+
+keep one very long scene (climax like)
+
+prepare bicycle
+  - montage
+cut to scenes with facial expressions of the delivery man
+pass by baby
+deliver goods
+  - montage prepare bread
+  - deliver
+  - happy customer
+side scroller
+  - climax
+  - no cut
+  - end here?
+u-turn
+goes off into distance
+end
+
+technical:
+c/remove all audio enhancements
+  - remove background noise option creates a funky noise when a vehicle passes by
+    - could manually remove vehicle noise, but that would be unreal, and a waste of time for such a small project
+
+my voice is in the interview:
+  - can manually cut out
+    - leave it in for now
+    - conversation does not make sense without it for the clips I used
+
+microphone still picks up wind noise, even when on a tripod
+  - anything in FCP?
+    - auto-enhance audio runs during "fix audio"
+  - use Audacity
+    - http://www.youtube.com/watch?v=_mHtFqVRBvQ
+  - should fix by getting a better microphone
+    - does iPad pick up wind noise?
+  - need h4n with windscreen for sure!
+
+todo:
+download and install Magic Bullet
+download After Effects
+
+
+editing:
+order:
+- scan through and trash clips using camera
+c/- import
+x/- copy to two external drives
+  - cannot write to second external drive
+c/- transcode to optimized media
+c/- analyze and fix audio
+- if iPhone, convert to 24p?
+  - hopefully can do after editing
+- edit
+- add effects (titles, color, special effects)
+  - try Magic Bullet this time!
+    - google difference
+
+publish:
+- vimeo:
+  - http://vimeo.com/help/compression
+  - can try FCP publish to Vimeo, then salvage the movie and manually upload if it fails to auto-upload
+  - or export to h264, then upload to vimeo
+  - publish in blog, under works
+    - should be in order by date, no matter the size of it, no categories

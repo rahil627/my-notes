@@ -1,0 +1,25 @@
+Heyo.
+
+I was just pondering about how to organize communities digitally, with Discord, and some sort of knowledge-base... but better than wiki. Enter Gitbook.
+
+Also, I’m always on the lookout remote work, which I don’t believe exist until I get one. :) The company seems to have good comon sense and a very pragmatic do what you gotta do / get shit done ethic, which seems to be rare... It only makes sense that this culture doesn’t exist in Silicon Valley though. Surely there are groups of hackers around the world working together remotely. It seems like a culture I’d vibe with.
+
+I’ve been out of the computer world for a good decade, but after a very long court case in Taiwan (minor case..but anyway all good now) and quarantine in the absolutely corrupt Thailand, and now with winter coming, I’ve finally been forced to use this little screen of mine.
+
+Upon doing so, I’ve just been pondering upon digital making tools: game engines ‘n creative frameworks, providing alternate, more inclusive ways to the use internet (an international search engine?), how to organize community-driven software projects, how to organize comumunities digitally, community-owned sites (Mastadon), ways for grassroots communities and specific-interest communites interact, etc. All coming from a person who barely used computers in recent times... Anyway, I think a core part of all of this is some sort of community-driven knowledge-base. Maybe that comes from me being more written / wiki oriented, growing up with Wikipedia as perhaps my main source of knowledge (not good)...
+
+I am a community support person by nature. I’ve lived in communities all my adult life, hopping from commmune to commune. I’ve volunteered for most of that life too, helping ‘n supporting others is some primal trait of mine. Yet, I happened to be born in the suburbs of America, so I have this technical background too. My first job was full-time programming. There, I learned, I’m no systems engineer, thankfully the other person was! My second job was “qa / release engineer”. That satisfied a bit of my generalist and social desires, of seeing the big picture, but there was something terrible wrong with it: it was extremely dependent. I think I do best with a combo of community support and autonomous DIY work, lone wolf style.. which makes this job an incredibly rare fit.
+
+Heck, this being a remote job, probably makes it unique! I’ve spent many life-times in Taiwan, and hope to spend some more there. After this quarantine, I’d probably want to spend half of my life taking care of my parents, and the other half taking care of nature and indegenous people in Taiwan. Thus remote is the only way to go. The time difference (12 hours to US) works really well for me, as I like to work after sunset. But given this is a support job, I wouldn’t mind talking any time of day. I just prefer to look at a screens after the sun is set.
+
+Technically, the support stuff shouldn’t be a problem. I have no idea of the softwares being used, ZenDesk or whatever. What’s cool about the job [to me] is the DIY aspect of it: finding the best software or making my own to make this job easier. As I said before, I’ve been out of computer stuff for a decade. I don’t know if the support management software (ZenDesk, etc.) is connected to the bug tracking software (Jira, etc.), itself connected to software dev tracking software (versioning control) and all of that to project-management software (Gitbook?)... But I have a tendency for minimalism: simple text for everything, communication and tools, and against bloated software So, perhaps there’s some space to figure out some simpler solutions here...
+
+There wouldn’t be any way for me to write code for GitBook as I’m not a web person and loathe all things web (php, giant javascript libs, the whole history of web programmming and software?) but at least I’d know how it all sort of works. I had to write a server in school... I have no clue about the stack being used (React, etc.), but I’d at-least be able to link support ticket problems to parts of the code, or just generally have an idea of what’s going on~. So, there’s that too. (extra note: my tech preferences: my favorite game engine was ported to Haxe, so I’m quite a fan of that stuff: ecmascript syntax, static-typed, transpiles to C and javascript, good for game scripting! It looks like Google’s Dart eventually figured that out many years later though... :/)
+
+So...what’s more is there to say?...
+
+Ah right! If I work for GitBook, then I’d definitely select it as my knowledge-base site software choice for a few digital communities. ;) Part of the job.
+
+This month is going to be a bit rough with the Thai government trying to kick people out (visa amnesty ended), but I’m probably just going to chill here and learn some Thai (for an education visa). I’ve been here for so long anyway, it’s become another home.
+
+Hope this reaches someone. Maybe the length of this letter gauges my joy for talking / writing. :)

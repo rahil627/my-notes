@@ -1,0 +1,215 @@
+resources:
+  - http://maniacdev.com/2012/04/tutorial-how-to-make-jagged-drawn-lines-smooth-in-cocos2d
+    - color picker library, flood fill library, draw smooth lines
+
+TODO:
+  - find app with live video filter and recording, especially with variables to adjust
+  - try GPUImage filters
+    - anything to adjust?
+  - see code for best filter
+  - create and expose variables to adjust
+  - take picture and edit with face paint app
+    - pencil / paint bucket
+  - tracing application?
+    - not creative, should be about photography and color
+  - test in Photoshop and Illustrator to find best filters, and find a way to thicken lines*
+
+  1. find best filter combination
+    - is there a thicken line filter that works with multiple passes?
+    - is there a filter that removes the smallest lines?
+    - try to do as much possible to reduce the amount of work the user has to do manually
+  2. re-create using GPUImage
+
+  - read wiki articles about edge detection
+    - http://en.wikipedia.org/wiki/Canny_edge_detector
+  - try all of the related filters from GPUImage
+  - photoshop edge detection plugins
+  - learn how to use custom filter
+  - can always write the edge detection filter in Flash for an image easily
+
+  - should think about what can be done with videos recorded with a video filter. The idea has to be creative, not just an effect.
+
+  - THE FILTER IS KEY. MUST BE REALLY GOOD. THICK EDGES. LESS DETAIL?
+    - play with Photoshop and Illustrator filters more. Try several passes of certain filters. Try everything. Create a chart of what I tried, and the combination of what I tried.
+  - where did I put my old images I created in Photoshop?
+
+
+  - the filter should first remove color (reduce alpha is better). Then detect edges. The edge detection filter should be adjustable in realtime. Try to add a variable for line thickness too.
+
+  - play with filters in GPUImage to save a picture and …
+  - all work should be completed with quality. Should come with an amazing trailer, visual design, logo, etc.
+  - just dreamed of the trailer. Jon and I go outside the house in Kareli Baug, down the neighborhood street. He's holding the camera, pointing down the street as we walk. After a moment, I put the iPad in front of the camera with ColorPad displaying video with a filter. Then we haphazardly continue walking. He steps in poop. I laugh and take a picture of it. Camera pans down. He laughs. Camera pans to Jon. Kids in the distance laugh. Camera pans to kids. Another picture is taken. I take the camera from Jon and go to the side of the street. I start painting the pictures with ColorPad. I pan the camera up to see Jon, laugh at him. Then pan back down and continue painting. I pan the camera to kids, ask them to check this out. They come. They all begin painting. The video ends with a mass of kids hands.
+  - in order for this to work, the filter needs to work. Work really really well. Better than any other video filter application. Thorough testing. It should be simple.
+  - i feel like the idea is not creative enough. Just another shitty photography app. It would take extreme motivation to create something of quality such as Instagram.
+  - buy an app with many video filters
+    - http://www.creativebloq.com/digital-art/art-on-the-ipad-1232669
+      - sketchbook pro / ink is a large editing program, but has a very good idea of finger painting outlines
+      - paintrala (Android only) focuses on sketch painting
+  - edge detection video
+    - use sample project from GPUImage to test
+    - GPUImage sketch, canny, sober, threshold
+  - update GPUImage library
+  - create sliders for all variables to tune while running application
+  - save image
+  - user then can use favorite paint application
+  - or provide a simple paint application limited to pencil tool, eraser, and paint bucket
+
+design:
+  - this application should be on mobile devices because people don't run around with laptops to take pictures
+
+  - real time video post processing
+  - sin city effect
+    - http://stackoverflow.com/questions/10153283/sin-city-effect
+      - detect if pixel is of a certain color, like green screen
+
+- GPUImage
+  - 
+
+
+thoughts:
+  - all of the game could be done in any game engine, or even without a game engine, but the real-time effects require OpenGL
+  - GPUImage is written in Objective-C and uses many Objective-C (and possibly C or C++) libraries
+  - try this framework out
+  - then place it inside Cocos2d and make the rest of the application with it
+  - if not using Cocos2d, try without it
+    - http://www.effectiveui.com/blog/2011/12/02/how-to-build-a-simple-painting-app-for-ios/
+
+x/start making the game - NOT YET! JUST CHECK IF IT IS POSSIBLE
+  - camera code
+    - save picture
+  - read picture
+    - or can skip camera and read from file
+  - alter image
+    - provide interface and sliders for variable
+  - paint
+    - do this last
+
+references:
+  - http://forum.unity3d.com/threads/62924-Edge-detection-as-image-effect
+  - http://forum.unity3d.com/threads/82105-Desaturation-grayscale-shader-for-iOS?p=525360&viewfull=1#post525360
+  - http://en.wikipedia.org/wiki/Shader
+
+later
+  - can add random colors to each cell*
+  
+GPUImage and Cocos2d
+  - http://www.cocos2d-iphone.org/forum/topic/37806
+    - Well, I couldn't get GPUImage to work without making Cocos2D a transparent view above it. Like mentioned above, this reduces the framerate of Cocos2D to about 30-40 fps but after all I have no other choice.
+  - http://stackoverflow.com/questions/10160995/cocos2d-opengl-error-0x0502-in-eaglview-swapbuffers
+  - https://github.com/BradLarson/GPUImage/issues/729
+
+GPUImage tutorials and info:
+  - http://mobile.tutsplus.com/tutorials/iphone/applying-image-filters-with-gpuimage/
+  
+  
+real-time image processing, or post-processing
+  - http://stackoverflow.com/questions/7132333/ios-adding-real-time-filter-effects-to-photos
+  - Photo Booth does this!
+  - http://stackoverflow.com/questions/6625888/are-the-core-image-filters-in-ios-5-0-fast-enough-for-realtime-video-processing/6628208#6628208
+  - http://stackoverflow.com/questions/8767980/photo-booth-in-ios-using-opencv-or-opengl-es
+  - https://github.com/BradLarson/GPUImage
+  - https://github.com/BradLarson/GPUImage/pull/609
+    - set up GPUImage with a sharegroup
+  - http://stackoverflow.com/questions/14918212/gpuimage-cannyedgedetectionfilter-with-white-edges
+  
+figure out how to alter an image*
+  - http://theambitiousprocrastinator.blogspot.com/2011/09/diy-paint-by-numbers.html
+    - shows how to manipulate an image to highlight the borders then paint the center
+  - posterization
+  - outline
+  - play with photoshop
+    - poster edges filter
+      - max edge intensity, 1-10 edge thickness, 1-6 posterization
+      - adjust to black and white only
+        - image -> adjustments -> threshold, level 1
+    - find edges
+      - looks like a contour map
+      - can allow user to manually remove smaller inner contours
+    - posterize / noise -> median / stylize -> find edges / threshold
+    - accented edges to make edges thicker
+    - accent edge / threshold, level 1
+    - find edge / accent edge / threshold / repeat complete lines
+  - illustrator
+    - live trace
+      - grayscale, max colors: 3, blur: 0/1 px, resample: none, path fitting: 2 px, minimum area: 10p px, corner angle: 20, vector: outline
+  - try http://howto.cnet.com/8301-11310_39-57335348-285/how-to-turn-any-picture-into-a-coloring-page/
+    - is this or the punjabi image detailed enough? Try more images.
+
+  - early conclusion: it seems difficult to create a good outline that can be filled. Thick edges looks better, but does not guarantee a closed area. The user would have to trace a black outline themselves, then color. Or color a layer beneath.
+
+  - try finishing the outline of accented edges
+  - only works for solid objects
+  - blur background away? Allow user to erase background?
+
+  - next conclusion: I've got it down to three pictures:
+1. Poster edges / threshold levels / manual touch up (outline and erase)
+2. find edges / threshold levels / manual touch up (outline and erase)
+3. accented edges / find edges / threshold levels / manual touch up (outline and erase)
+b. comic - poster edge? / threshold levels? / trace (Ai) / desaturate
+b. color on grayscale - desautrate / color blend
+
+  - even better:
+    - find edges / desaturate / fill tool with half opacity
+    - find edges / desaturate / color blend colored layer
+
+  - questions to keep in mind:
+    - would the application still have enough creative power?
+    - is it still cool?
+    - does it differ far from my original idea?
+
+  - references:
+    - http://www.jkwchui.com/2012/06/image-trace-comparison-illustrator-cs5-cs6-and-vectormagic/
+    - http://www.geeks3d.com/20091027/shader-library-posterization-post-processing-effect-glsl/
+
+find and use a simple paint application
+  - https://github.com/RandolphBurt/MonoGame-iOS-SimplePaint
+
+get a simple application to run
+  - Paint Replay runs in iOS simulator, but fails after pressing a button. Perhaps it will work on a real device.
+  - the default MonoGame template works on simulator!
+
+install game engine
+  - to both Windows and Mac?
+    - try running a sample application on my iPad
+      - need to purchase MonoTouch for iOS
+      - running on an iOS device requires using MonoDevelop IDE on a Mac
+
+  - install on Windows and use MonoDevelop for now, can use Visual Studio later
+  - when I reach to a publishing state, save to version control, upload to Mac, test on iOS device
+  - need to purchase MonoTouch for iOS to write code for using camera?
+  
+  
+  - install for Windows
+    - see MonoGame tutorial page on GitHub
+    - add MonoGame from add-in manager in MonoDevelop
+    - or download latest version from GitHub, build it (set to Release), and reference the .dll file
+    - create a blank iOS MonoGame application
+    - add references to the .dll files for MonoGame, Lindgren.Network, and Tao.Sdl
+    
+    - it seems that MonoGame.iOS does not work on windows, MonoDevelop does not recognize the solution files, try on Mac
+    
+  - install for Mac
+    - see MonoGame tutorial page on GitHub
+    - add MonoGame from add-in manager in MonoDevelop
+    - download latest version from GitHub, build the solution for the desired operating system (set to Release, release/simulator, release/iPhone), and reference the .dll file
+      - a MonoGame framework for each platform?
+    - create a blank iOS MonoGame application
+    - set reference (using .dll) or add projects for MonoGame
+    - create a new project template with all of this done, so I never
+
+choose game engine:
+see "game engines.txt"
+
+idea, from email sent to Jon:
+
+AY YO. I demand your opinion on this idea! It may be my first game / application.
+
+The idea came up from a game jam for teaching many many countries ago. It transforms an iPad into a coloring book. ColorPad.
+
+It's simple. The user takes a picture. The picture is altered to either a coloring book style outlined image or paint by numbers style image (dunno yet). The user then uses a paint bucket to fill the image with colors. That's it.
+
+I want the application to focus on photography and color, as opposed to using a paintbrush tool to draw or color like most paint applications. Imagine taking a photo of a landscape, then quickly coloring it with a paint bucket. A photo of the interior of a house and choosing colors like a pro interior designer. Or taking photos of indiscernible subjects, coloring it, resulting in something unique. It's kinda a new medium? A very specific subset of existing mediums. Limiting possibilities to increase creativity. It also requires very little work from the user.
+
+I played with Photoshop a little today. Some photos are attached. It seems I'll have to play some more. Lots of sliding sliders.
+
+

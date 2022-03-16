@@ -1,0 +1,300 @@
+Netflix Movie Ratings Extractor (Includes IMDB Movie Data Lookup)
+
+Title	Rating	
+4 Months, 3 Weeks and 2 Days	5	
+The 40-Year-Old Virgin	5	
+300	5	
+Akira	5	
+Aladdin: Platinum Edition	5	
+Amelie	5	
+American History X	5	
+Amores Perros	5	
+Annie Hall	5	
+Batman Begins	5	
+Battle Royale	5	
+A Beautiful Mind	5	
+Before the Devil Knows You're Dead	5	
+Big Fish	5	
+Big Trouble in Little China	5	
+Blade Runner: The Final Cut	5	
+The Boondock Saints	5	
+The Boondocks: Season 1	5	
+Borat	5	
+The Bourne Identity	5	
+The Bourne Supremacy	5	
+Braveheart	5	
+Brazil	5	
+Brick	5	
+C.R.A.Z.Y.	5	
+Casino	5	
+Casino Royale	5	
+Cast Away	5	
+Chappelle's Show: Season 1	5	
+Chop Shop	5	
+Chungking Express	5	
+Citizen Kane	5	
+City of God	5	
+The City of Lost Children	5	
+Cowboy Bebop Remix	5	
+Crash	5	
+The Dark Knight	5	
+Dave Chappelle: For What It's Worth	5	
+Dave Chappelle: Killin' Them Softly	5	
+The Deer Hunter	5	
+The Departed	5	
+District 9	5	
+The Diving Bell and the Butterfly	5	
+Donnie Darko	5	
+Donnie Darko: Director's Cut	5	
+Eddie Murphy: Delirious	5	
+The Edge of Heaven	5	
+Eternal Sunshine of the Spotless Mind	5	
+Fargo	5	
+Fight Club	5	
+Finding Nemo (Widescreen)	5	
+Forrest Gump	5	
+Frost/Nixon	5	
+Gladiator	5	
+Gladiator: Extended Edition	5	
+The Godfather	5	
+The Godfather: Part II	5	
+Good Will Hunting	5	
+Goodbye Solo	5	
+GoodFellas: Special Edition	5	
+Grave of the Fireflies	5	
+Grindhouse: Planet Terror	5	
+Harakiri	5	
+Harry Potter and the Prisoner of Azkaban	5	
+Hot Fuzz	5	
+Hotel Rwanda	5	
+Howl's Moving Castle	5	
+In the Mood for Love	5	
+The Incredibles	5	
+Indiana Jones and the Last Crusade	5	
+Infernal Affairs	5	
+Inglourious Basterds	5	
+It's Always...in Philadelphia: Ssn 1 & 2	5	
+Kill Bill: Vol. 1	5	
+Knocked Up	5	
+Let the Right One In	5	
+Letters from Iwo Jima	5	
+Life Is Beautiful	5	
+The Lion King: Special Edition	5	
+Little Miss Sunshine	5	
+The Lives of Others	5	
+Lock, Stock and Two Smoking Barrels	5	
+LOTR: Fellowship of the Ring: Extended Ed.	5	
+LOTR: Return of the King: Extended Ed.	5	
+LOTR: The Two Towers: Extended Ed.	5	
+Man on Wire	5	
+The Matrix	5	
+Memento	5	
+Memories of Murder	5	
+Minority Report	5	
+Monty Python and the Holy Grail	5	
+The Motorcycle Diaries	5	
+The Nightmare Before Christmas	5	
+No Country for Old Men	5	
+Nobody Knows	5	
+North by Northwest	5	
+Ocean's Eleven	5	
+Office Space	5	
+Oldboy	5	
+One Flew Over the Cuckoo's Nest	5	
+Pan's Labyrinth	5	
+Paprika	5	
+Persepolis	5	
+The Pianist	5	
+The Prestige	5	
+Princess Mononoke	5	
+Pulp Fiction	5	
+Raiders of the Lost Ark	5	
+Ratatouille	5	
+Raw	5	
+Requiem for a Dream	5	
+Reservoir Dogs	5	
+Rounders	5	
+Sanjuro	5	
+Saving Private Ryan	5	
+Scarface	5	
+Schindler's List	5	
+Seven	5	
+Shaun of the Dead	5	
+The Shawshank Redemption: Special Edition	5	
+Shrek (Full-screen)	5	
+Shrek (Widescreen)	5	
+The Silence of the Lambs	5	
+Snatch	5	
+Spirited Away	5	
+Star Wars: Episode IV: A New Hope	5	
+Star Wars: Episode V: Empire Strikes Back	5	
+Super Troopers	5	
+Superbad	5	
+Sympathy for Mr. Vengeance	5	
+There Will Be Blood	5	
+This Is England	5	
+Trainspotting: Collector's Edition	5	
+Tropic Thunder	5	
+The Twilight Samurai	5	
+Up	5	
+The Usual Suspects	5	
+V for Vendetta	5	
+The Visitor	5	
+WALL-E	5	
+Waltz with Bashir	5	
+The Wrestler	5	
+Yi Yi	5	
+Yojimbo	5	
+3:10 to Yuma	4	
+12 Monkeys	4	
+American Pie	4	
+The Aviator	4	
+Big Daddy	4	
+Billy Madison	4	
+Blood Diamond	4	
+Blow	4	
+The Bourne Ultimatum	4	
+Boy A	4	
+Children of Men	4	
+City Lights	4	
+Clerks	4	
+Clerks: Tenth Anniversary Edition	4	
+The Counterfeiters	4	
+Days of Being Wild	4	
+Delicatessen	4	
+Deliverance	4	
+Dodgeball: A True Underdog Story	4	
+Dumb and Dumber: Unrated	4	
+Eastern Promises	4	
+Fallen Angels	4	
+Final Fantasy VII: Advent Children	4	
+Forgetting Sarah Marshall	4	
+Gone Baby Gone	4	
+The Good, the Bad and the Ugly	4	
+Grandma's Boy	4	
+Happy Gilmore	4	
+Harold and Kumar Go to White Castle	4	
+Harold and Maude	4	
+Harry Potter and the Chamber of Secrets	4	
+Harry Potter and the Goblet of Fire	4	
+Harry Potter and the Order of the Phoenix	4	
+Harry Potter and the Sorcerer's Stone	4	
+Hidden Fortress	4	
+The Host	4	
+The Illusionist	4	
+Independence Day	4	
+Indiana Jones and the Temple of Doom	4	
+Innocent Voices	4	
+Inside Man	4	
+Iron Man	4	
+The Italian Job	4	
+Jackass: Number Two	4	
+Jackass: The Movie	4	
+Kill Bill: Vol. 2	4	
+The King of Kong	4	
+Kung Fu Hustle	4	
+La Haine	4	
+Layer Cake	4	
+Le Samourai	4	
+The Legend of Drunken Master	4	
+Liar Liar	4	
+Léon: The Professional	4	
+The Machine Girl	4	
+Milk	4	
+Millennium Actress	4	
+Mongol	4	
+Monty Python's Life of Brian	4	
+The Mummy	4	
+National Treasure	4	
+Nausicaa of the Valley of the Wind	4	
+No Man's Land	4	
+Old School	4	
+Once	4	
+Ong-Bak: The Thai Warrior	4	
+Pirates of the Caribbean: Dead Man's Chest	4	
+Primer	4	
+The Protector	4	
+The Pursuit of Happyness	4	
+The Recruit	4	
+Run Lola Run	4	
+Rush Hour	4	
+Shaolin Soccer	4	
+The Shining	4	
+Shrek 2	4	
+The Simpsons Movie	4	
+Slumdog Millionaire	4	
+Snakes on a Plane	4	
+Star Wars: Episode III	4	
+Star Wars: Episode VI: Return of the Jedi	4	
+The Station Agent	4	
+Tae Guk Gi: The Brotherhood of War	4	
+Taxi Driver	4	
+Tekkon Kinkreet	4	
+Thank You for Smoking	4	
+Training Day	4	
+Volver	4	
+Wedding Crashers	4	
+X-Men	4	
+Zodiac	4	
+13 Tzameti	3	
+28 Weeks Later	3	
+American Gangster	3	
+Anchorman: The Legend of Ron Burgundy	3	
+Armageddon	3	
+Atonement	3	
+Batman: Gotham Knight	3	
+Big Momma's House	3	
+Bruce Almighty	3	
+Coach Carter	3	
+The Da Vinci Code	3	
+The Day After Tomorrow	3	
+Déjà Vu	3	
+The Fast and the Furious	3	
+Fireworks	3	
+A Fistful of Dollars	3	
+For a Few Dollars More	3	
+Futurama the Movie: Bender's Big Score	3	
+Gone in 60 Seconds	3	
+Grindhouse: Death Proof	3	
+Hard Boiled	3	
+I Am Legend	3	
+I, Robot	3	
+The Incredible Hulk	3	
+Indiana Jones/Kingdom of the Crystal Skull	3	
+Italian for Beginners	3	
+Jet Li's Fearless	3	
+Kiss Kiss Bang Bang	3	
+Last Life in the Universe	3	
+The League of Extraordinary Gentlemen	3	
+Live Free or Die Hard	3	
+Meet the Fockers	3	
+Miss Congeniality	3	
+Mr. Deeds	3	
+The Mummy Returns	3	
+Napoleon Dynamite	3	
+S.W.A.T.	3	
+Smokin' Aces	3	
+Star Wars: Episode II	3	
+Sunshine	3	
+Tell No One	3	
+U.S. Marshals	3	
+Wanted	3	
+X-Men 3: The Last Stand	3	
+Zoolander	3	
+21	2	
+Aqua Teen Hunger Force Colon Movie	2	
+Blades of Glory	2	
+Fantastic Four	2	
+The Longest Yard	2	
+Matchstick Men	2	
+Mr. and Mrs. Smith	2	
+RocknRolla	2	
+Sideways	2	
+Star Wars: Episode I: The Phantom Menace	2	
+Talladega Nights	2	
+Guess Who	1	
+Turistas	1	
+You Don't Mess with the Zohan	1	
+Done.
+Processed 15 pages.  Added 294 ratings.
+Script took 24 seconds.

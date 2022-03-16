@@ -1,0 +1,161 @@
+tools:
+  - crank brothers 17 vs 19
+    - difference is fatter version of flathead and phillips
+
+pedals:
+  - platform
+    - can add straps if wanted?
+
+final:
+- windsor cyclo 54cm black
+  - can add a rack an pannier
+  - can paint it to remove decals
+- call stores, ask for initial assembly and tune-up for a bike bought from online
+  - if not, do it myself, could be fun, and a good learning experience
+  
+  - http://nycbikecommuter.info/?p=1041
+    - a great article which describes the kinds of bikes and how they fare in commuting
+  
+  - I think the problem while testing the bikes is that I am used to my first bike, which is similar to a commuter bike. Easy turning due to the frame geometry (I'm currently afraid of turning sharply with a road bike), more comfortable seating position, etc. I think I just have to ride a road bike more to get comfortable with it, and turn better
+  
+  - cyclocross vs touring vs commuter
+    - cyclocross is similar to road with a fatter wheel
+    - touring usually has steel, more braze-ons, mountain bike components
+    - commuter (fitness bike) usually has a flat bar, mountain bike components
+    - all 700cc wheels
+  
+  http://www.bikesdirect.com/products/road_bikes.htm#touring
+  http://www.bikesdirect.com/products/cross_bikes.htm
+  http://www.bikeforums.net/archive/index.php/t-417169-p-2.html - list of touring bikes
+  http://www.biketoledo.net/pages/commutingbikes.html
+  http://www.biketoledo.net/pages/touringbikes.html
+
+resources:
+http://www.bikeforums.net/archive/index.php/t-777139.html
+http://www.adventurecycling.org/forums/index.php?topic=9712.0
+http://livininthebikelane.blogspot.com/p/picking-right-bike.html
+http://www.bikeforums.net/archive/index.php/t-773094.html
+http://www.bikeforums.net/archive/index.php/t-480052.html
+
+bike rack:
+Mazda3 4 door
+can buy aftermarket - Thule, Yamika
+types: hitch, roof
+forget it, just use Dad's car
+
+what does free adjustments for life include?
+  - http://www.legendbicycle.com/service/FreeAdjustments
+
+online retailer list
+  - http://www.bikeforums.net/archive/index.php/t-706011.html
+
+fitting/sizing
+53cm
+
+http://www.competitivecyclist.com/za/CCY?PAGE=FIT_CALCULATOR&ANSWER=8&SITE.CODE=RDB&STEP=9&FC_ANSWER_8=65
+
+top tube length matters most
+can always raise seat to adjust legs
+can always raise bars for an upright postion
+
+
+Gender	M
+Inseam	82.55 cm
+Trunk	58.42 cm
+Forearm	36.83 cm
+Arm	63.5 cm
+Thigh	53.34 cm
+Lower Leg	52.07 cm
+Sternal Notch	139.7 cm
+Total Body Height	165.1 cm
+
+Torso = Sternal Notch - Inseam
+
+
+57.5
+
+
+
+just buy a recent bike, mid-range
+  - road bike feels great
+    - begins as $700
+    - can replace tires with knobby tires
+    - 10 speed is the standard, if you wanted to upgrade (Tiagra, 105, Ultegra)
+    - if i buy from store, free tune-ups for life (depends on how long that store lasts!)
+      - i may enjoy tuning up my own bike
+  - cyclocross bike vs tourist bike
+  - upright?
+  - little brakes on the front
+  - should be able to hold groceries
+  
+- brand doesn't matter much, most are made from the same place and have the same parts
+- can order any bike seen online and buy from local bike store
+  - saves assembly cost and likely offers free adjustments
+  - might be marked up
+
+www.bikepedia.com - every bike model/year
+mtbr.com - mountain bike reviews
+buzillions - all bike reviews
+
+http://www.circlecitybicycles.com/bikecomp.htm - bike component comparison
+
+http://en.wikipedia.org/wiki/Shimano - see the component groupsets ordered by quality
+
+road groupsets and prices:
+(New) Dura-Ace Electronic (10 speed)
+Dura-Ace (10 speed) $1700
+Ultegra SL (10 speed)
+Ultegra (10 speed) $1200
+105 (10 speed) $800
+Tiagra (9 speed) $500
+Sora (8 speed) $300
+2200 (8 speed)
+
+51.181cm road bike size (20.15 inch)
+16.2129921" mountain bike
+
+31" inseam
+5'6"
+
+bike AND fish!
+	dismal swamp state park
+	false cape state park
+	first landing state park
+
+virginia bike routes
+	http://www.virginia.org/site/features.asp?featureID=352
+	http://www.vabike.org/riding/virginia-bike-trails/
+	http://www.vabike.org/riding/virginia-bike-routes/
+	http://www.dcr.virginia.gov/state_parks/state_park.shtml - state parks***
+	http://contesbikestores.com/articles/where-can-i-ride-pg516.htm
+	just google map state parks
+
+http://www.rei.com - shopping and advice!
+
+1) get fitted
+2) buy used
+
+flat bar? can't just use the top of a drop bar?
+comfortable low seat, like driving a car
+disc brakes
+
+types:
+single speed (fixed gear bicycle)?
+  - wouldn't be able to stop pedaling
+  - but i do like how the brakes works
+mountain bike
+  - lower starting price
+  - heavier
+  - more durable
+29er
+  - feels like a monster truck, made to hop over large objects
+hybrid bike
+utility bike?
+cyclocross
+  - a road bike with the capability of having knobby tires?
+
+http://askville.amazon.com/road-bike-price/AnswerViewer.do?requestId=108747
+get professionally sized
+
+helmet, water bottle cage, and tool kit
+accessories at Nashbar.com, Performancebike.com (one in Virginia Beach), or Sportsbasement.com. 

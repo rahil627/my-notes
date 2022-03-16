@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with cpuracr8 on 2009-03-08</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:41:51"><span class="buddy">cpuracr8</span> <span class="msgcontent">?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:41:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:42:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">how do u write efficient code in assembly? XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:43:16"><span class="buddy">cpuracr8</span> <span class="msgcontent">less memory</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:43:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:43:40"><span class="buddy">cpuracr8</span> <span class="msgcontent">the less memory it takes up generally more efficient</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:43:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well yea...thats wat i mean</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:43:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">howwwwww hah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:44:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">like how do you do if elses and not use much space</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:44:16"><span class="buddy">cpuracr8</span> <span class="msgcontent">bit masking?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:45:23"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:45:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wats that XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:45:50"><span class="buddy">cpuracr8</span> <span class="msgcontent">...</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:45:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:-D </span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:46:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im almost done with hex</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:46:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but im already outta memory heh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:46:50"><span class="buddy">cpuracr8</span> <span class="msgcontent">well think of other ways you can do jsr</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:47:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah...i've been doing that</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:47:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">letting code continue to the next ruotine, loading 1 var for many uses...but wat else =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:48:09"><span class="buddy">cpuracr8</span> <span class="msgcontent">so you switched all jsr statements?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:49:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its all branches</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:49:40"><span class="buddy">cpuracr8</span> <span class="msgcontent">hmmmm</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:49:57"><span class="buddy">cpuracr8</span> <span class="msgcontent">well compile and look at the lst file and see where there are gaps in memory where you can stick shit</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:50:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">=O gaps in memory?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:50:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ohhh whats the inital optiions for wookie</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:50:34"><span class="buddy">cpuracr8</span> <span class="msgcontent">like memory that you haven't used</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:50:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i thought it builds it in order by itself</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:51:00"><span class="buddy">cpuracr8</span> <span class="msgcontent">look at the lst file</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:51:09"><span class="buddy">cpuracr8</span> <span class="msgcontent">you can see where your data and program start</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:51:13"><span class="buddy">cpuracr8</span> <span class="msgcontent">there has to be free memory somewhere</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:51:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:54:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aw damn, each FCB takes a byte?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:54:24"><span class="buddy">cpuracr8</span> <span class="msgcontent">yes</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:54:31"><span class="buddy">cpuracr8</span> <span class="msgcontent">hence it's called fill constant byte</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:54:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:54:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so did u use one variable and compare to that a lot?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:55:18"><span class="buddy">cpuracr8</span> <span class="msgcontent">well i didn't but you can</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:55:33"><span class="buddy">cpuracr8</span> <span class="msgcontent">it will free memory up in the data section but i don't know about down in the program</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:55:39"><span class="buddy">cpuracr8</span> <span class="msgcontent">might take more to compare</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:55:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:56:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ooooo right...i can start the program right after data right</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:56:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">instead of 100</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:56:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that would save tons =O</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:57:58"><span class="buddy">cpuracr8</span> <span class="msgcontent">well no you can't do that</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:58:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aw</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:58:16"><span class="buddy">cpuracr8</span> <span class="msgcontent">buffalo takes up memory locations 42-FF</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:58:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:05:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">is there way to do if(this&amp;&amp;that) do stuff ?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:06:08"><span class="buddy">cpuracr8</span> <span class="msgcontent">not in one statement</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:06:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea..but some way better then 2 if elses</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:06:24"><span class="buddy">cpuracr8</span> <span class="msgcontent">no</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:06:27"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aw</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:06:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">how does AND work in assembly? its not even in the list</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:07:02"><span class="buddy">cpuracr8</span> <span class="msgcontent">and what?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:07:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">logical and</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:07:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">like 1 and 1 -&gt; store somewhere</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:08:04"><span class="buddy">cpuracr8</span> <span class="msgcontent">you have to load 1 into an accumulator or memory</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:08:09"><span class="buddy">cpuracr8</span> <span class="msgcontent">then and it with something</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:08:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oo how</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:08:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">LDAA #1<br />AND A, VAR<br /><br />??</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:09:05"><span class="buddy">cpuracr8</span> <span class="msgcontent">no</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:09:09"><span class="buddy">cpuracr8</span> <span class="msgcontent">look up the and commands</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:09:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its not in the list =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:09:22"><span class="buddy">cpuracr8</span> <span class="msgcontent">yea it is</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:09:47"><span class="buddy">cpuracr8</span> <span class="msgcontent">any command that has an and in it </span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:15:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm i see ANDA opr ....but i  dont think it'll save me space :/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:15:30"><span class="buddy">cpuracr8</span> <span class="msgcontent">well try it and see</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:15:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i just have a buncha if elses i need to condense somehow</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:18:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">if(foo){goto 1}else{goto 2}<br />1 if(bar){goto3}else{goto4}<br />2 if(bar){goto5}else{goto6}<br /><br />it looks like that =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:19:13"><span class="buddy">cpuracr8</span> <span class="msgcontent">where are you using that</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:19:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its my awful assembly skills =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:19:46"><span class="buddy">cpuracr8</span> <span class="msgcontent">send me the real code</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:19:52"><span class="buddy">cpuracr8</span> <span class="msgcontent">just a snippet</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:20:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">DISPLAY			LDAB	#0		;if(state==0){branch to state0} else branch to state1<br />			CMPB	STATE<br />			BEQ	STATE0<br />			BNE	STATE1<br /><br />STATE0			LDAB	#1		;if(down==1){branch to check_reset_down} else branch to check_reset_up<br />			CMPB	DOWN<br />			BEQ	CHECK_RESET_DOWN<br />			BNE	CHECK_RESET_UP<br /><br />STATE1			LDAB	#1		;if(down==1){branch to check_reset_down2} else branch to check_reset_up2<br />			CMPB	DOWN<br />			BEQ	CHECK_RESET_DOWN2<br />			BNE	CHECK_RESET_UP2<br />	<br /><br /><br /><br />CHECK_RESET_DOWN	DEC	COUNT<br />CHECK_RESET_DOWN2	LDAA 	0, Y	;portb=y (y=dat)<br />			STAA	PORTB<br /><br />		 	LDAB	#0 	;if(count==0) reset_down<br />			CMPB	COUNT<br />			BEQ	RESET_DOWN<br />			BNE	OC3END<br /><br />CHECK_RESET_UP		INC	COUNT<br />CHECK_RESET_UP2		LDAA 	0, Y<br />			STAA	PORTB	;portb=y (y=dat)<br />			LDAB	#16	;if(count==16) reset_up<br />			CMPB	COUNT		;<br />			BEQ	RESET_UP<br />			BNE	OC3END<br /><br />RESET_UP		LDAB	#0	;count=0<br />			STAB	COUNT<br />			;stride=1<br />			INC	COUNT2	;count2++<br />			BRA	OC3END<br />			;JSR	INPUT	;go back to input loop<br /><br />RESET_DOWN		LDAB	#15	;count=F<br />			STAB	COUNT<br />			;stride=1<br />			DEC	COUNT2	;count2++<br />			BRA	OC3END<br />			;JSR	INPUT	;go back to input loop</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:20:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o wait.got cut off</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:21:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o nvm thats everythign</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:21:51"><span class="buddy">cpuracr8</span> <span class="msgcontent">what's this check reset up and check reset down</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:23:21"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">if(state==0 &amp;&amp; down==true &amp;&amp; count==0) would sum it up</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:23:39"><span class="buddy">cpuracr8</span> <span class="msgcontent">what</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:24:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">'down' is for counting up or down</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:24:17"><span class="buddy">cpuracr8</span> <span class="msgcontent">ok</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:24:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ummm...just part of the code =/.....is there a way to compare without branching?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:25:17"><span class="buddy">cpuracr8</span> <span class="msgcontent">well you can check the condition code</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:25:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:30:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">you dont see a better way of doing that? =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:32:07"><span class="buddy">cpuracr8</span> <span class="msgcontent">well i don't know why exactly you are doing all that in state 1</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:32:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">state1 the subroutine?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:32:51"><span class="buddy">cpuracr8</span> <span class="msgcontent">well whatever</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:34:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">state1 just compares 'down' then beq, bne</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:34:33"><span class="buddy">cpuracr8</span> <span class="msgcontent">so what does state 2 do</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:35:07"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">state0 does same thing...just sends to different subroutines</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:35:26"><span class="buddy">cpuracr8</span> <span class="msgcontent">why do you need to see if it's counting up or down in state 0</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:36:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so i can reset when the counter hits 15 or 0</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:37:06"><span class="buddy">cpuracr8</span> <span class="msgcontent">why do you need a counter to see if it hits 15</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:37:49"><span class="buddy">cpuracr8</span> <span class="msgcontent">you are just going about everything the hard way</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:37:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that's for the up counter</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:37:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea prolly</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:38:09"><span class="buddy">cpuracr8</span> <span class="msgcontent">why can't you just use 1 variable for a counter and increment it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:38:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">if(count==16) set count=0 sort of thing?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:38:29"><span class="buddy">cpuracr8</span> <span class="msgcontent">why do you need to even do that</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:38:40"><span class="buddy">cpuracr8</span> <span class="msgcontent">if you use 1 variable and just keep incrementing it what's the problem</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:38:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">then it'll get to 16...17..18</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:38:59"><span class="buddy">cpuracr8</span> <span class="msgcontent">so what</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:39:08"><span class="buddy">cpuracr8</span> <span class="msgcontent">then it will just be equal to 16 then 17 then 18</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:39:19"><span class="buddy">cpuracr8</span> <span class="msgcontent">but it's in hex so it will be  10, 11, 12</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:39:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh hrmmm</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:39:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i actually had 2 counters</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:40:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">one for each digit</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:40:26"><span class="buddy">cpuracr8</span> <span class="msgcontent">uh why</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:40:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">cause it seemed simple....counter 2 only has 2 lines</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:41:07"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i didnt think of it the other way XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:42:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ohhhh right....your counter must be different</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:42:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im still using the same data you saw</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:42:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">NUM $00, $01 ...<br />HEX  $C0, $CF </span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:43:03"><span class="buddy">cpuracr8</span> <span class="msgcontent">waste of memory</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:43:23"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well we tried a simpler way, but never got it to work</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:43:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">then got this crap to work</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:43:37"><span class="buddy">cpuracr8</span> <span class="msgcontent">well you are going to need to do the other way</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:44:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">we spend 2 days getting just this counter to work.......the old way was just to use one variable</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:44:11"><span class="buddy">cpuracr8</span> <span class="msgcontent">yea</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:44:16"><span class="buddy">cpuracr8</span> <span class="msgcontent">which is the better way</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:44:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea, and that never worked</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:44:24"><span class="buddy">cpuracr8</span> <span class="msgcontent">and is what you need to do or else you won't have memoy</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:44:30"><span class="buddy">cpuracr8</span> <span class="msgcontent">well you have to try harder</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:44:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">we did man</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:44:35"><span class="buddy">cpuracr8</span> <span class="msgcontent">it's doable</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:45:10"><span class="buddy">cpuracr8</span> <span class="msgcontent">all you do is keep a counter then increment it</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:45:17"><span class="buddy">cpuracr8</span> <span class="msgcontent">then show the first nibble then the second nibble</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:46:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so u dont have either HEX or NUM data?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:46:52"><span class="buddy">cpuracr8</span> <span class="msgcontent">well you need the data to display on the led</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:46:58"><span class="buddy">cpuracr8</span> <span class="msgcontent">but why have the other data</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:47:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its the counter u guys gave us.............. :(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:47:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so basically we went in with the way you're talking about...and came out with this crap</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:47:45"><span class="buddy">cpuracr8</span> <span class="msgcontent">uh no</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:47:47"><span class="buddy">cpuracr8</span> <span class="msgcontent">don't blame me</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:47:50"><span class="buddy">cpuracr8</span> <span class="msgcontent">i didn't do mine that way</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:47:57"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yes. blame u</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:48:06"><span class="buddy">cpuracr8</span> <span class="msgcontent">well then your program fails</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:48:09"><span class="buddy">cpuracr8</span> <span class="msgcontent">give up</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:48:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:48:37"><span class="buddy">cpuracr8</span> <span class="msgcontent">:)</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:48:57"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">blame you for being so douchey about code for the counterr...just the counter! spent hourrrrrrs</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:49:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">almost killed ourselves</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:49:11"><span class="buddy">cpuracr8</span> <span class="msgcontent">well so what so did we</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:49:15"><span class="buddy">cpuracr8</span> <span class="msgcontent">giving code is cheating</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:49:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh and you're so righteous?...</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:49:39"><span class="buddy">cpuracr8</span> <span class="msgcontent">do it yourself then</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:49:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:50:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im just sayin....it was dirty to not give us small bit of code when we clearly worked our asses off</span></span></div>

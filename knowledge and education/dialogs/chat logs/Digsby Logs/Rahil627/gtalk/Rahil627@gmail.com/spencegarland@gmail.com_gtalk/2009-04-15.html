@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with spencegarland@gmail.com on 2009-04-15</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-15 05:04:42"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you still workin on it?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-15 05:30:52"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">umm sorta</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-15 05:31:05"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just trying to make the lab report elaborate</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 05:32:12"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">word</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 05:32:19"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">im still trying</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-15 05:32:26"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">damn =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-15 05:34:17"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat do u use to make your flow chart</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 05:34:23"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">visio</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-15 05:34:29"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hmmm k, same</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 07:15:47"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">im done</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 07:15:55"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i mean not finished</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 07:15:57"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">but giving up</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 07:16:27"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i got pause to work and probably could of finished, but im to tired and cant think anymore</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-15 07:16:33"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">cya tomorrow</span></div>

@@ -1,0 +1,50 @@
+terms/wiki pages
+http://en.wikipedia.org/wiki/Chess_problem
+random fischer chess - setup with random positions for non-pawns - http://en.wikipedia.org/wiki/Chess960
+blitz chess - 5min per move
+Encyclopaedia of Chess Openings (ECO)
+chess problem - http://en.wikipedia.org/wiki/Chess_problem
+windmill - rotating regular checks and discovered checks, usually with rook and bishop
+
+http://en.wikipedia.org/wiki/The_Game_of_the_Century_(chess)
+http://www.youtube.com/watch?v=wsaD8GLw0qw - game of the century
+http://www.youtube.com/user/ChessNetwork - chess commentator
+
+
+players
+http://en.wikipedia.org/wiki/Methods_for_comparing_top_chess_players_throughout_history
+
+Kasparov - best
+Fischer - second to third best if he played. game of the century at 13, 8 US championships starting at 14, grandmaster at 15, most dominant player/undefeatable many tournaments, arrest warant for playing chess in embargoed Yugoslavia, fled to many countries, denounced bush (H.W.) as a criminal and japan as a puppet
+Waitzkin - protagonist in the movie, stopped playing after becoming an international master at 16, went to martial arts - brazilian jiu-jitsu
+Jeffrey Sarwer - "Jeff at nine is stronger than Bobby was at 11."
+Karpov - second best. "boa constrictor" style of play, influenced by idol capablanca. taking no risk, but reacting mercilessly to any tiny errors made by his opponents.
+Capablanca - Capablanca excelled in simple positions and endgames, and his positional judgment was outstanding, so much so that most attempts to attack him came to grief without any apparent defensive efforts on his part. wrote the book, Chess Fundamentals. denied reports that he thought chess had already currently reached it was easy for top players to obtain a draw. his concern led to the creation of larger boards with more peices. he thought this would prevent technical knowledge from becoming such a dominant factor, at least for a few centuries.
+Lasker
+Botvinnik
+
+2800+
+Kasparov
+Kramnik
+Topalov
+Anand
+Carlsen - now cooperating with Karparov, born 1990, currently #1 at age 19
+
+playchess - servers to play chess
+
+chess openings have a main line and variations
+
+general thinking
+In general, don't waste time by moving the same piece twice in an opening; get your other pieces developed first.
+Material sacrifices are likely to be effective if your opponent's king is still in the middle and a central file is open.
+
+principles
+you should not move the same peice more than once in the openings
+
+my thoughts
+more about development and advancement - moving peices forward. getting all pieces into the game
+king safety - castling
+try to protect every peice
+checking their king forces them to move, sometimes in unwanted places
+focus on learning in an random environment rather than chess openings
+black is defence, white is offence. 1 mistake changes the tempo

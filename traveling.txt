@@ -1,0 +1,357 @@
+to try:
+https://en.wikipedia.org/wiki/Hospitality_Club
+https://www.warmshowers.org/user/register
+
+notes from Williamsburg Clinic:
+insect precautions:
+mosquitos are attracted to heat, c02, sweat, and some scented products (because they heat up on the skin).
+spray clothes (both sides) with 25-35% deet, especially around cuffs and collars, then exposed skin (except face). Rub some on hand, then rub around neck and back of ears.
+
+Dengue for daytime. Malaria, Yellow Fever, and Japanese Encephalitus from dusk to dawn.
+
+for Malaria see anti-malarials.txt
+
+So, reapply before dusk.
+
+Can treat clothes with Permethrin, especially things you don’t often wash, like hats and jackets.
+
+Food:
+avoid eating salads. It is really difficult to wash fruits and vegetables of poop. And even if it’s washed, it is washed with tap water. Can eat those fruits and vegetables that can be peeled.
+
+in general just eat hot, steamy foods.
+
+avoid ice (including frozen desserts).
+
+brush with bottled water
+
+carbonated water is more difficult to fake with tap water. Double wrapped packaged of bottled water, like in 6-packs also are more difficult to fake.
+
+Traveler’s Diarrhea:
+For mild diarrhea:
+Start with Pepto-bismal tablets, then use antibiotic (every 6-8 hours or whatever directions are)
+
+For severe diarrhea:
+Considered 2-3 poops in a 2 hour period, especially with a fever described as clammy
+Azithromycin is recommended for India and Thailand. Cipro for all other countries.
+
+
+
+Take Immodium AD two hours after Azithromycin.
+—
+
+
+
+http://hitchwiki.org/
+
+Write contact information on everything.
+
+phone services in India:
+http://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_India
+
+conclusion:
+- work exchanges (and likely all low level work) are not satisfying as they lack responsibility and don't require much intelligence
+  - or I am unable to extract value in such social situations. I need space and time to think. I can only work in a highly social environment for a few hours a day.
+
+
+visas:
+Thailand - 15 days by land, 30 days by air, 60 days with $40 tourist visa, cheapest go by air then do a visa run
+Vietnam - $150 for 30 days, $230 for 90 days
+Myanmar - $20 for 90 days*, not on arrival
+Laos - 30 days on arrival, 60 days with $50 visa
+Cambodia - 30 days on arrival, $30 with 90 day visa
+
+health:
+
+travel info:
+  - http://wwwnc.cdc.gov/travel/page/traveler-information-center
+    - an amazing link*****
+
+  - http://www.iwillteachyoutoberich.com/blog/cheap-travel/
+    - a lot of tips, could be first on my blog post
+
+check CDC notices for countries
+  - http://wwwnc.cdc.gov/travel/notices
+
+traveler's diarrhea:
+http://www.cdc.gov/ncidod/dbmd/diseaseinfo/travelersdiarrhea_g.htm
+  - great tips to handle traveler's diarrhea, see the treatment section
+  - suggests antibiotics for 3-5 days, currently, fluoroquinolones. Commonly 500mg of ciprofloxacin twice a day or 400mg of norfloxacin twice a day. Bismuth subsalicylate also may be used as treatment, 1 fluid ounce or 2 262mg tablets every 30 minutes for pup to eight doses in a 24 hour period.
+  - Bismuth subsalicylate can be used for preventative measures, 4 times daily, but should not exceed 3 weeks.
+  - conclusion: Take bismuth subsalicylate if you're going to eat something bad. Take bismuth subsalicylate during the first few days of sickness. Take antibiotics when you are really sick, on the third day or later, and check current effective antibiotics in case of resistant areas. Don't take anti motility agents (loperamide) if you have have a fever or bloody stools.
+
+food and water precautions:
+http://wwwnc.cdc.gov/travel/page/food-water-safety
+http://wwwnc.cdc.gov/travel/yellowbook/2012/chapter-2-the-pre-travel-consultation/food-and-water-precautions
+
+bug bites:
+http://wwwnc.cdc.gov/travel/page/avoid-bug-bites
+- permethrin things you rarely wash (shoes, backpack, etc.)
+- cover yourself as much as possible
+- use a mosquito net
+- keep clothes in suitcase and keep it closed
+- inspect bed for bed bugs
+- use mosquito sprays or DEET for mosquito and ticks when needed
+
+finance:
+  - Wells Fargo
+    - good until April 2014 for India, Nepal, Taiwan, Hong Kong, and Japan.
+  - Capital One
+    - good for two months using online travel notification.
+  - http://wikitravel.org/en/Money
+
+
+where to store files? (subjective, unnecessary)
+  - turn old PC into web server
+http://lifehacker.com/5797582/how-to-turn-your-computer-into-the-ultimate-remote-access-media-server
+  - use web host such as HostGator
+  - take an external drive
+  - dropbox
+
+gear: (too subjective to fit in the blog)
+  - http://www.tropicalmba.com/digital-nomad-packing-lis/
+  - http://www.thrillingheroics.com/resources/
+  - https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8#hl=en&output=search&sclient=psy-ab&q=digital%20nomad%20luggage&oq=&gs_l=&pbx=1&fp=2733a454e9585cf4&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&biw=1029&bih=768
+  - http://howsthewifi.com/2009/02/interview-how-to-be-a-digital-nomad/
+  - http://www.theprofessionalhobo.com/2010/06/what-to-pack-for-full-time-travel/
+    - very much like me
+  - http://voices.yahoo.com/10-backpacking-hostel-travel-essentials-5570543.html?cat=16
+    - good list of things to pack for hostels
+
+bags:
+
+laptop backpack
+- must have laptop compartment
+- should fit camera during flights
+- small profile
+- comfortable, stable
+- ~20L
+
+carry-on bag that will be checked-in
+- durable
+- within minimum carry on size bag dimension limits
+- wheels and telescopic handle
+- good standard handles
+
+north face surge or Kelty Redwing Backpack
+  - too large for a personal item. It's carry-on size.
+quality carry on
+http://www.backcountry.com/the-north-face-backtrack-70-backpack-4250cu-in
+
+http://foxnomad.com/2010/08/05/what-type-of-luggage-do-you-travel-with-responses/
+Osprey Farpoint 55
+
+Deuter Futura 28 Liter Backpack
+
+http://www.amazon.com/gp/product/B003036CTC/ref=cm_rdp_product
+http://www.amazon.com/Kata-Digital-Rucksack-Laptop-Compartment/dp/B004C50VTE
+http://products.lowepro.com/product/CompuDaypack,1922,16.htm
+
+Venturesafe 25L Anti Theft Bag
+
+Pacsafe Metrosafe 350
+  - personal item size
+  
+The North Face Recon, smaller than Surge
+
+http://reviews.travelsmith.com/9008/9516/pacsafe-small-secure-daypack/reviews.htm
+
+
+after going to local stores:
+Osprey Escapist 20 and The North Face Recon looked like a good size, so Surge should be perfect. Can choose size for Surge II. TNF Black/Triumph Green/Blue.
+20 x 13.5 x 9.5
+triumph green, http://www.6pm.com/the-north-face-surge-tnf-black-asphalt-grey
+special edition, http://www.thenorthface.com/catalog/sc-gear/surge-se.html
+
+go to Walmart!
+
+
+bag limitations:
+22" x 14" x 9", lowest maximum dimensions for a carry-on
+16kg/35lb?, lowest maximum weight
+20kg/44lb, average maximum weight
+17" x 12" x 8.5" lowest maximum dimensions for a personal item
+7kg/15 lb or 15-25L average maximum weight
+combined weight 16+7kg/35+15lb or 20+7kg/44+15lb
+
+
+jacket:
+Marmot Catalyst
+
+***:  
+http://www.amazon.com/High-Sierra-Carry-On-Wheeled-Backpack/dp/B000072YV5
+
+
+otc and prescriptions:
+pepto-bismal
+probiotic
+cipro - prescription antibiotic
+permethrin - anti-insect, can apply to clothes for several weeks, toxic, considered a carcinogen
+
+flight booking:
+http://www.whichbudget.com/
+kayak
+skyscanner
+wego?
+
+cost estimation:
+$1000 x 2, to and from US
+$300 x 5, flights within Asia
+$3500 + local transporation, food (sometimes), events (if city)
+conclusion, much cheaper than living in any American city!
+
+
+
+
+
+
+
+
+
+the ultimate choice is this:
+work independently, creating my own projects, entering contests, and later grants, funding, etc.
+or, seek a media organization or company to work with
+
+how to find?
+  - try couchsurfing
+    - Hong Kong
+    - http://www.couchsurfing.org/profile.html?id=7DSNA2K&from_search&search_ranking_hosts=1
+      - general art
+    - http://www.couchsurfing.org/profile.html?id=6G6Q0AA&from_search&search_ranking_hosts=2
+      - apple device developer, also hacks other things!
+    - http://www.couchsurfing.org/profile.html?id=T1QFEKF&from_search&search_ranking_hosts=10
+      - artsy, interesting
+    - ask if possible without language in other countries
+    - Tokyo
+      - http://www.couchsurfing.org/profile.html?id=HA5NMY5&from_search&search_ranking_locals=1
+  - advance google search keywords
+    - independent film
+    - openframeworks
+    
+    
+    
+   
+  
+todo:
+  - 1. figure out places to live in
+    - 1 year East Asia travel
+    - Japan (Tokyo, Osaka, Kobe, Fukuoka)
+    - China (Hong Kong, Taipei)
+    - Korea (Seoul)
+    - one south east
+    - one WWOOF
+      - would be rural, so choose a geographically unique area such as a mountain or island
+      - make sure there's wifi
+    - one sustainable development
+      - Indonesia, limited to 4 weeks
+    - end in India
+    - can continue later for Western Europe travel
+  - 2. figure out how to stay there (house sitting, workaway, couchsurf, WWOOF, etc.)
+    - may determine the city
+    
+  - 3. what kind of work if workaway?
+    - teaching
+    - farming
+    - other primitive skills
+  
+  - *. could figure out how stay in Japan first, buy a ticket, then figure out the rest
+    - or is it better to buy all of the tickets at once?
+    
+  - end in India
+  
+  - ultimately NY
+    - be as prolific as possible
+    - network
+    - reconnect with Babycastles and Zack
+
+  
+Work exchange search:
+  Tokyo
+    - it seems part-time jobs rarely sponsor work visas, the best bet is to workaway for accomodation, food, and perhaps a little money
+    - c/http://www.workaway.info/163691198216-en.html
+      - web design and film in Tokyo
+    - c/http://www.workaway.info/18875754434d-en.html
+      - backpacker's lodge in Tokyo
+    - c/https://www.helpx.net/host.asp?hostid=9963&network=9
+      - backpacker's hostel in Tokyo
+      
+  Taiwan
+    - 30 days, 60 days with visa and $140
+    - visa application
+      - http://www.taiwanembassy.org/US/NYC/ct.asp?xItem=53275&ctNode=2963&mp=62
+    - teaching certificate or experience not needed, just a BA
+    - need to work more than 14 hours (6 teaching) to get a work permit and alien resident card
+    - http://forumosa.com/taiwan/viewtopic.php?f=35&t=103343
+      - visa, work permit, and ARC explained
+      - also a good forum for expats living in taiwan
+    - http://www.esljobproject.com/esl_info/visa_taiwan.html
+    - http://laws.cla.gov.tw/Eng/FLAW/FLAWDOC01.asp?lsid=FL028069&lno=42
+    - pays ~$24,000 for ESL ($NT 60,000-75,000/month or 600-750/hour).
+    
+    
+    - https://www.helpx.net/hostlist.asp?host_region=974&network=9
+      - suburban home in taipei city, close to metro, 30 min by metro to center of city
+    - http://www.workaway.info/863166284947-en.html
+      - Kaohsiung city hostel
+    - http://www.workaway.info/759753781722-en.html
+      - family in taipei, cultural exchange
+      
+  Hong Kong
+    - https://www.helpx.net/hostlist.asp?host_region=961&network=9
+      - village/farm 30 minutes away from downtown
+  
+  Malaysia
+    - 90 days, visa not required
+    - may have infection problems (malaria and chikinguya)
+    - c/http://www.mindmyhouse.com/sitters/assignment/1997#contact-form
+      - Kuala Lampur
+      - wants more than 3 months
+    
+  South Korea:
+    - 90 days, visa not required
+    - job search engines
+      - http://www.worknplay.co.kr
+      - http://koreajobfinder.com/
+    - c/https://www.helpx.net/host.asp?hostID=14944&network=9
+      - Busan hostel
+    - https://www.helpx.net/host.asp?hostID=14982&network=9
+      - 30-40min by bus to Seoul for $1
+      - homestay, teach English to sister
+    - http://www.worknplay.co.kr/korea-jobs/198227/-urgent-pt-ft-afterschool-native-teacher
+      - part time teaching, monthly, requires F visa
+    
+  Mumbai:
+    - https://www.helpx.net/hostlist.asp?search=film&host_region=&host_category=&radio=and&network=9&order=&pic=&vid=&rev=&new=
+      - artist needs help
+      
+  China:
+    - http://www.helpx.net/hostlist.asp?host_region=973&network=9
+      - ancient town, looks amazing (Zhang Yimou filmed here!)
+      - cool activities like bread-making, coffee-roasting, beer-making, cheese-making
+      - too expensive to fly there? Kayak failing me.
+    
+  Thailand:
+    - http://www.interexchange.org/working-abroad/teach-english-thailand
+      - meh, rather just pick up jobs, don't need a certificate
+    - http://www.helpx.net/host.asp?hostid=16444&network=9
+      - orphanage with building projects
+      - mosquitos
+    - http://www.helpx.net/host.asp?hostID=12694&network=9
+      - house building, cool community
+    - http://www.helpx.net/host.asp?hostid=11526&network=9
+      - big family, make charcoal, fish, garden, clean house
+    
+  Indonesia:
+    - need to buy visa and have a return ticket
+    - http://www.workaway.info/694897864333-en.html
+      - sustainable projects, many things to do
+      - no meals provided, very little comfort
+    - http://www.workaway.info/15665266154a-en.html
+      - single mother, urban farm, sustainable life
+    - https://www.helpx.net/host.asp?hostID=1344&network=9
+      - teaching, great reviews
+      
+  multiple countries/special:
+    - http://www.helpx.net/host.asp?hostID=13712&network=9
+      - July to August only
+    
+    

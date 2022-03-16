@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with neilmonday on 2009-04-08</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-08 02:11:09"><span class="buddy">neilmonday</span> <span class="msgcontent"><font face="Helvetica" size="3" absz="12">sorry, i was watching xmen origins</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-08 02:11:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol..i was eating</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-08 02:11:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just got back</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-08 02:11:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">haven't seen any1 else...and posted on t-dome to get on gtalk</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-08 02:11:41"><span class="buddy">neilmonday</span> <span class="msgcontent"><font face="Helvetica" size="3" absz="12">whats ashley's gtalk name?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-08 02:11:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">iunno...im just hoping i have her e-mail address</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-08 02:12:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oooo unless she doesn't use gmail ? :(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-08 02:13:14"><span class="buddy">neilmonday</span> <span class="msgcontent"><font face="Helvetica" size="3" absz="12">i think she has a gmail just doesnt use it</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-08 02:13:23"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">crap yea...i trashed her other e-mail addresses....only kept speedtwizzler@yahoo</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-08 02:13:39"><span class="buddy">neilmonday</span> <span class="msgcontent"><font face="Lucida Grande" size="3" absz="13" color="#333333" back="#E1EBF2">youarethestoneghost</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-08 02:14:03"><span class="buddy">neilmonday</span> <span class="msgcontent"><font face="Helvetica" size="3" absz="12">create a gtalk channel</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-08 02:15:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no idea how to create a chatroom in gtalk</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-08 02:15:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im using digsby too..soo hrmm..maybe i'll use the browser</span></span></div>

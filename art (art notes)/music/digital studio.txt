@@ -1,0 +1,46 @@
+for later:
+https://www.musicrepo.com/home-recording-studio-setup/
+
+# portable studio
+## midi controllers
+portable (mini) 25-key
+  - 1-2lb
+standard or pro 25-key
+  - 4lb+
+61-key keyboard-only
+  - 4-6lb
+
+## PCs
+iPhone?
+  - which DAWs are iPhone compatible?
+
+iPad
+lightning to USB cable (camera adapter)
+  - which DAWs are iPad compatible?
+
+Macbook
+  - would probably have to use mouse and keyboard to adjust things, as opposed to touching things with an iOS device.
+
+## speakers
+?
+
+# home studio
+Nectar 61/88-key
+Macbook
+iPad
+  - for extra controls
+
+
+
+
+# research
+https://www.reddit.com/r/ipadmusic/comments/388p9l/any_cheaper_alternatives_to_the_apple_camera/
+
+[–]stoogemcduck 1 point 2 years ago 
+I've wondered if a Female-female usb adapter would work. It's like a £5 gamble on monoprice/amazon.
+permalinkembed
+[–]me-tan 1 point 2 years ago 
+Nope. Tried it.
+permalinkembedparent
+[–]kabloo258[S] 1 point 2 years ago 
+Damn, that was going to be my next attempt. Cheers for the heads up.

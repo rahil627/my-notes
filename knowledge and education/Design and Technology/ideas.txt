@@ -1,0 +1,57 @@
+Goal: make people aware of reality
+
+New York is the heart of capitalism. Make the people feel shame, as Banksy does.
+
+Show the garbage.
+  - have some circuit to detect trash being thrown in a garbage can, then via speaker, say a message
+
+Show the results.
+
+Show rats.
+  - add sensors to rats, display paths in subway stops
+
+Show feces.
+
+—
+
+wrong way.
+
+Think about design for this century lectures, then design.*e
+
+Data:
+
+old inputs:
+
+inputs:
+people
+animals - paths
+transportation
+
+sound
+smell
+vision - light sensor or camera
+taste?
+feel - pressure sensor
+
+
+outputs:
+screen
+3d printer
+machine with material
+
+ideas:
+input: track bums, output: ?. Further thinking: can track the heartbeat of bums, once they die, it is displayed in 
+public somehow, and a rat is killed?
+
+track rats, output: MTA maps with rat paths overlayed, post in subways over original maps.
+
+input: sound from street musician, output: sound to speaker above ground. Further thinking: can have a mic in a concert and a speaker outside of it, enclose a public area, then charge people to get in it.
+
+input: object, output: object of lower price. Barter vending machine. Need three fingerprints to have witnesses of pricing. Can test in real life, no machine.
+
+provoke people to disturb a politician
+
+
+
+random:
+food trucks and street carts should have indie games! Cart Life!

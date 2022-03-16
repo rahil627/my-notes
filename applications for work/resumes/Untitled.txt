@@ -1,0 +1,17 @@
+Yooooh!,
+
+I caught this job on the stack overflow boards. It seems legit.
+
+Important stuff first: I’m not from the UK, nor do I have the right to work there. Furthermore, I live in Asia, normally Taiwan, but at the moment I’m in Thailand until the pandemic settles. My body and mind prefers to do computer work at night, so, hopefully it works out.
+
+It’s honestly been quite some time since I’ve been doing programming. I was deeply into making games mostly between 2010-2012, mostly focused on local multi-player games for iPad or console. My happiest moment during that period was prototyping ideas. I found Flash (with FlashDevelop and FlashPunk) to be the sweet-spot; It was bliss. Unity didn’t have 2D until much later, and I wasn’t a fan of the idea of hacking at a 3D engine to do 2D. I personally digged the the simpler frameworks that provided all of the low-level functionality, especially those that provided the core graphics drawing functions: openFrameworks. 
+
+Later in life, I did some contracts with a friend (Catlard.com). He’s my best non-native friend in Taiwan, so I haven’t completely forgotten about making games. He’s always making games: making games for children is his day job and making games about his family is his night art. I’ve jammed with him, dabbled. He uses Unity for his own games, and Corona for his work games. I’ve dabbled in Unity many times before they had 2D too, but I just never got that same lovely Flash or oF feel, so, unfortunately, my past fate didn’t bring me to Unity. C# is by far my favorite language, so don’t get me wrong; Heck, I even tried XNA simply because of it used C#(!), but MonoDevelop still being...developed. I’ll def want to use it now. I’m sure Unity is not the Unity it used to be a decade ago. I swear I don’t hate Unity, I want the world to have it.
+
+Otherwise, I really dig this job... uh, technically. Let’s be real the, the content seems shit yeah? But, the ability to make a very solid game quickly I think can be something I can come to truly enjoy, and I will surely enjoy doing it on Wedenesdays: problems of an artist. And there actually is a part that I do like about this niche: I think it was best manifested by the Wario-ware mini-games, where the whacky interactive inputs met strange output: gems. And possibly some of my favorite games were Mario Party style mini-games, but perhaps getting to the couch with a friend is too difficult in this mobile device world...
+
+Anyway, surely that’s enough. My resume is basically my bio, and it’s just as long, so, I suggest you start from the bottom for relevant experience. As I said, it’s been a long time since, but, maybe I can get my mojo back.
+
+All the love from Taiwan and Thailand. The people of Hong Kong need and loved UK. Shit, the people of Taiwan need America, or else I’ll be doomed to.
+
+<3

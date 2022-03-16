@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with seungtrl on 2009-04-29</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-04-29 05:02:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yo0</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-29 05:02:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">phone!?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-29 05:02:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">if i remember correct</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-29 05:02:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">was in lab sry</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-29 05:02:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">way to get a phone at the END of the semester</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-29 05:03:39"><span class="buddy">seungtrl</span> <span class="msgcontent">lol yea</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-29 05:03:50"><span class="buddy">seungtrl</span> <span class="msgcontent">dad works as project manager down in hampton for now</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-29 05:03:57"><span class="buddy">seungtrl</span> <span class="msgcontent">came tyesterday to drop it off</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-29 05:04:08"><span class="buddy">seungtrl</span> <span class="msgcontent">571 268 1890</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-29 05:22:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah sweet</span></span></div>

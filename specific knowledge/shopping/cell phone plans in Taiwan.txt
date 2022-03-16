@@ -1,0 +1,15 @@
+台灣大哥大
+  - first company I used
+台灣之星
+  - second company I used, smaller, able to use old, cheaper 3G plans
+  - https://www.tstartel.com/static/prepaid/rule.htm
+  - 180 days expiration, buy any amount to recharge phone (minimum 150) to get another 180 days. Or get unlimited internet for one month to extend another 3 months. Or get GB of internet to extend for 6 months.
+  - can check online auction shops for cheap recharge cards, especially the unlimited internet one.
+
+# notes
+a 4G SIM card is backwards compatible for 3G/2G
+  - (so, one can use/buy a newer 4G card, but still use an older 3G plan)
+
+# references
+http://prepaid-data-sim-card.wikia.com/wiki/Taiwan
+  - contains much info on plans, costs, etc.

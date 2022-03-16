@@ -1,0 +1,73 @@
+tips:
+watch film in full screen to see what to do next
+
+http://www.personal-view.com/faqs/gh2-usage/gh2-usage
+
+
+iPhone:
+- records in mono
+  - [FCP bug] when export h.264, the mono sound goes to right speaker
+    - Press Cmd-J for project properties. Click the wrench in the lower right. Change the audio output from surround to stereo. Check the meters again. [https://discussions.apple.com/thread/4004714?start=0&tstart=0]
+   
+
+shooting:
+- keep shooting, can cut later
+
+- light actors
+- keep mic steady, or have lapel mic
+- test audio with headphones
+- shoot from chest
+- follow subject, follow the action
+
+
+- can't run
+- can't walk down stairs
+- can't walk?
+  - need image stabilization or a camcorder
+
+
+editing:
+order:
+- trash clips using camera
+- import to two external drives
+- rename clips
+- create 24p project
+- analyze and transcode media / import to FCP
+- edit
+- add effects (titles, color, special effects)
+
+publish:
+- export web hosting (quicktime movie) and then import the clip, then share to vimeo
+
+FAIL
+- export web hosting (quicktime movie) and then upload to vimeo via web browser
+
+FAIL:
+- compressor:
+  - http://www.youtube.com/watch?annotation_id=annotation_634703&feature=iv&src_vid=vl09EX8871E&v=9vQM1rjY_ng
+- vimeo:
+  - http://vimeo.com/help/compression
+  - export to h264 following the above link's settings
+  - can try FCP publish to Vimeo option, then salvage the movie and manually upload if it fails to auto-upload
+  - use share -> apple device vs computer vs web hosting?
+  - 500mb/week limit
+
+FCP settings:
+  - checkbox under settings -> playback -> use proxy media
+
+how to:
+cut audio
+  - open in timeline, blade offending section, use trim tool to drag
+disable audio
+  - Window - Show Timeline Index - Roles - Uncheck the audio (dialogue) box
+
+todo:
+- final cut playback is eating CPU and sometimes choppy
+  - transcode to prores 442 ("optimized")
+    - 10x larger file size
+  - test editing and image quality difference between "optimized" and "proxy"
+    - http://www.larryjordan.biz/media-in-fcp-x/
+    - before exporting, remember to change to optimized playback
+- test FCP analysis and stabilization difference
+  - note processing time / video time for 24p for core 2 duo
+

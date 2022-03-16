@@ -1,0 +1,21 @@
+hotkeys
+
+press spacebar when you hear a transmission
+
+selecting
+select box
+double click or control+click
+
+in the group status screen
+control+select portrait		select a single unit from group?
+shift+select portrait		remove from group
+alt select portrait		select a unit type from froup
+
+control groups 0-9, building or unit
+assign groups of barracks, town centers, comsat stations, spellcasters, armies
+
+shift f2-f4 - screen positions
+bases and entrance
+
+way points/queuing - hold shift and set the commands, could be move, attack, repair, build, anything!
+build and go back to mining

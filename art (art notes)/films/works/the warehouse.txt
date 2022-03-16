@@ -1,0 +1,104 @@
+todo:
+
+lessons learned:
+iPhone is amazing
+don't need to buy a stabilizer yet, but I haven't tried walking either
+plan shooting because the more you shoot the more you have to edit. Also, don't take b-shots, just keep shooting the entire time. Can edit out images later.
+
+todo after:
+try walking shot
+
+
+problem while changing songs
+  - how to make transition smooth?
+    - try to find good time to transition audio
+    - use another video on top?
+    - find way to crossfade audio
+      - need motion 5 for audio transition (crossfade)?
+        - no! Can do it in FCP X
+     
+
+
+middle:
+- the middle scenes still feels funny
+- long pan?
+- add band playing?
+- add band playing in slow mo?
+
+
+
+
+cut a little from the first set of clips, cut to singer when she begins singing
+  - add transition?
+  - add title
+play with later clips to see length, to determine how much music to use
+  - retime end clips, only use nice shots, like the light one
+  - retime be alright… to be really long and go over the end of the song
+
+
+what should the video be about?
+
+One song.
+add more to begin and end?
+what order?
+do other clips intersect throughout the song?
+i think it should be about the warehouse, not just the song
+  - in this case, it's okay to mix other times
+  - just show that the warehouse is about having a good time
+    - dancing, the employees, the venue, etc.
+
+goal:
+  - capture the sounds and atmosphere of The Warehouse
+
+
+edit:
+begin with entrance
+start the audio of the performance, before the song begins
+b-shots of venue (goes to beginning or end?)
+  - employees
+  - people chatting, chillin'
+mostly consists of the performance
+first very long take, including pan?
+in the middle show b-shots of dancing, dreamy, fun
+  - drown sound
+guitar solo
+more b-shots of people being happy, hugs, more dancing and playing instruments to reggae, fading away, memory-like, slow (use retime) like wong-kar-wai
+  - starts out at normal speed, once people start dancing, use the same clip to transition to slow down, then retime
+  - images of people dancing, having fun, find those moments, slow it down
+  - don't forget images of the performance!
+
+color grade, blues purples during dancing
+
+performance is too long, must cut
+- find a beginning and end
+- looks like 2 songs and an ending
+- separate songs, compare, choose one, or mix?
+
+
+
+
+
+order:
+- trash clips using camera
+- trash clips before import, using laptop
+- import
+- transcode? or transcode and analyze and fix
+- edit clips
+- analyze and fix?
+- arrange
+- add effects
+  - color grading
+    - grainy, super 8, blacks, shadow feeling
+  - fades, blends
+  - should be dreamy, dark, noir, contrasting colors
+  - dreamy, blend b-shots, keep focus on performance
+- add titles
+  - Fatimah at The Warehouse in Kuala Lumpur
+  - show "Kuala Lumpur" while showing The Warehouse sign clip
+  - show "Fatimah and the house band" (get name from Ebrahim) when she appears
+
+- large effects, all black for a moment, etc.
+  - watch more Vincent Moon tonight
+- export
+
+

@@ -1,0 +1,31 @@
+	male			female
+
+	vga/dvi/hdmi	usb	1080p		requires driver installation
+
+most popular
+	?				vga				requires conversion
+	hdmi			dvi-d
+	hdmi			hdmi
+	yellow			s-video
+	
+	red/white		headphone
+
+unpopular
+	hdmi			mini-hdmi (type c)
+	hdmi			mini-dvi
+	hdmi			displayPort
+	?				mini-vga
+
+adapters
+	dvi-i			vga				but this is just an adapter, it doesn't actually convert from analog to digital
+
+notes
+	dvi-d may not have sound
+	dvi-a analog
+	dvi-d digital
+	dvi-i both
+	
+	
+	
+projector -> receiver --hdmi/rca/vga/s-video?--> wall plate --any adapter--> laptop
+    |----------------------------| vga

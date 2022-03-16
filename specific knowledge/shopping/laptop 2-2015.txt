@@ -1,0 +1,119 @@
+Conclusion:
+  - bought one from eBay for $1050 using Paypal to decrease price. Late 2013, 256GB, 2 years of apple care left.
+
+should search “macbook pro 13 retina”, then 256gb or more on the side bar
+also “macbook pro retina applecare 13”
+
+mid 2014 with retina
+1500 new, 256gb ssd
+1300 new, 128gb ssd
+1175, 256gb, auction
+1075, 128gb?, auction
+
+1050 buy it now
+900+ auction*
+
+late 2013 retina* - $800-$900 GOAL with 256GB, a little more with apple care
++haswell chipset
+  + graphics card, 1.25x better than intel HD 4000 (the GPU that comes with Ivy Bridge i5)*
+  + 1 hour battery life / more efficient / runs at lower clock speed
+  + price to increase max ssd speed past 550mb/s, ~750mb/s for stock sad
++thunderbolt 2 ports, to stream 4K video (useless)
++PCIe 2.0 x2 > mini-SATA
++4k HDMI
++ac networking
+
+$770 auction**, $1100 buy it now, 256gb
+$800 auction**, $1100 buy it now, 256b
+$900, $920, $950, buy it now, 128gb*, 6/2014
+$1050 buy it now, 256gb, no applecare left?
+
+$1000 new non-retina
+
+early 2013
+$1100, 512gb, i7, auctioned price - $1100 maximum price
+
+late 2012 - $650 STILL GOOD, try to get 256GB hard disk
+:( proprietary flash drive
+:( integrated memory
+:( integrated battery
++ second thunderbolt
++ hdmi
+- ethernet
+- firewire
+- optical drive
+x/$760 auction, 256gb! - too good
+$960, 256gb, buy it now
+$850 buy it now
+$165 256gb ssd
+
+mid 2012* - might as well get the retina (late 2012+) or higher for $750+
+$610-650 auction
+$630 buy it now
+
+older
+$485 - early 2011
+
+
+128gb +$150
+256gb +$350
+4gb/8gb $100
+i7 $150
+
+aftermarket (from OWC, Transcend JetDrive, Apple Samsung)
+240gb - $148, $170*, $165*-$200, $100 in auction for mid 2010
+480gb - $288, $300
+  - transcend performs better and has perfect reviews.
+  - should look for Samsung, maybe can get on eBay
+  - may be tough to sell 128gb
+  - late 2013 aftermarket not available until second quarter 2015
+
+128gb - $73*
+Can buy 128gb memory SD card for more space. Can use it for bootcamp! Or just downloads. Or Time Machine.
+  - http://www.amazon.com/Transcend-JetDrive-Storage-Expansion
+    - If you're using bootcamp windows, format to exFAT (won't be able to read/write if other format)
+  - 42 MB/s and 36 MB/s, 60, is like a 5400rpm disk which is around 55
+  - http://www.amazon.com/review/R2FO4EE2P5ZC5G/ref=cm_srch_res_rtr_alt_2
+
+need to buy:
+thunderbolt to ethernet - $24
+hdmi - might have one? Need a small one.
+  - if not, thunderbolt to hdmi
+case to prevent screen flexing in backpack
+  - either hard case, or that snap on case with some kind of bag
+  - soft: http://www.amazon.com/Inateck-Ultrabook-Envelope-Protector-Compatible/dp/B00JO6UGFU/ref=sr_1_5?ie=UTF8&qid=1423474251&sr=8-5&keywords=macbook+pro+case+13%22+retina
+  - https://www.etsy.com/listing/174922747/ombre-glitter-macbook-pro-and-ipad-hard?ref=sr_gallery_6&ga_search_query=macbook+pro+hard+case+retina&ga_order=most_relevant&ga_page=1&ga_search_type=handmade&ga_view_type=gallery
+
+notes:
+screen problem on new macbook pros:
+I am in need of a new MBP. I do development (Ruby/Rails) on my mid 2009 13" MPB running Mavericks, and I find it is getting old enough that I'm getting some lag when I'm running DB and web server, Rubymine, browsers, etc. all at once. I would buy the latest 13" MBP today, as I don't need more than the 8GB/256GB setup. My issue is the screen itself. I LOVE the glossy screens, but I went to the Apple Store and touched the screen on a new RMPB. The LCD distorted as it flexed. Apparently these are plastic screens? A while back I was looking at a friend's Macbook Air. I didn't realize the screens were plastic, no glass like my older MPB. I get why they are using plastic, but it seemed like he had to use a screen protector on his MBA because oil from the tips of his fingers would collect on the keys, and the keys would touch the screen when it was closed. This happened on my old Pismo Powerbook and my 12" powerbook. The oil actually attacks the plastic and mars it permanently.
+
+Samsung doesn’t have burn-in problem, slightly worse colors
+old LG has burn-in problem
+new LP154WT1-SJA2 doesn’t have burn-in problem
+all have dead pixel problems
+https://discussions.apple.com/thread/4034848
+  - huge thread on burn-in problem
+
+https://discussions.apple.com/thread/6068947
+  - finger oil destroyed screen?
+  - another person said he carried it in a neoprene case, not a hard case, and did not use a screen protector, Apple said it was excessive pressure. I will really need a hard case to use this laptop, or, a glass laptop.
+  - so, don’t use alcohol, and get a screen protector
+
+it’s glossy, but less glare than old macbook retinas, and non-retinas
+non-retinas are anti-glare
+can buy an anti-glare screen protector
+
+Yes, it is a problem of all retina macbook pros before 2012 upgrade
+
+Macbook 13” never had matte option, only 15” and 17” did.
+http://www.anandtech.com/show/6023/the-nextgen-macbook-pro-with-retina-display-review/4
+  - picture of non-retina, retina, matte
+  - matte is far less pretty, an anti-glare screen protector may look the same
+
+should buy Anker screen protectors for all devices:
+http://www.ianker.com/product/77APIPH5-3CM
+http://www.ianker.com/product/77APIPH5-3MM
+
+tom bihn - brain cell
+booq

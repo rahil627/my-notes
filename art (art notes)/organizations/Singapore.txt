@@ -1,0 +1,16 @@
+film:
+https://www.facebook.com/objectifs.photography.filmmaking
+
+game:
+ratloop
+http://archive.globalgamejam.org/og/games/16997/list
+
+media:
+openframeworks:
+iris digital
+
+organizations/institutions:
+http://www.artinasia.com/institutions.php?catID=7
+
+universities:
+National University of Singapore

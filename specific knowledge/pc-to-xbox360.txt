@@ -1,0 +1,8 @@
+UPnP server
+windows media connect	built in wmp11
+tversity	does a lot of transcoding on the fly
+playon		Netflix, Hulu, CBS, YouTube, CNN, ESPN
+
+add-ons to MCE
+transcode 360
+vlc 360

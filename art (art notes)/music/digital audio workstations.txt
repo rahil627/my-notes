@@ -1,0 +1,75 @@
+the list:
+
+for iOS:
+super-simple:
+x/Audacity
+  - free
+
+begin:
+1. GarageBand
+x/Pro Tools
+  - free
+?. Ableton Live
+  - not really for iOS?
+  - for live performances
+  - geared toward electronic music
+
+middle:
+BeatMaker2
+  - geared toward hip-hop / electronic
+Meteor
+Harmonicdog MultiTrack
+FL Studio
+  - geared toward hip-hop / electronic
+[Bremmers] MultitrackStudio
+n-track (n-Track 8 Music Recorder Studio)
+
+pro:
+Auria
+Cubasis
+
+?:
+Figure
+
+other:
+TouchOSC
+
+
+
+for desktop:
+Logic
+Reason
+  - for the virtual instruments and analog display
+Cubase
+Studio One [Presonus]
+Pro Tools [12]
+  - most popular, love/hate relationship
+Cakewalk Sonar
+  - Windows only
+Cuckoo Reaper
+Bitwig Studio
+MOTU Digital Performer
+  - oldest
+Mixcraft Pro Studio
+  - small fanbase
+
+https://en.wikipedia.org/wiki/Software_synthesizer
+  - “ GarageBand, Logic Pro (geared toward professionals), the open source project Audacity, and Ableton Live which is geared towards live performances. Also of note is software like Csound and Nyquist, which can be used to program software instruments.”
+
+Just from that I feel that GarageBand is the simplest start. Logic Pro as an upgrade that I’ll probably never get to. And Ableton Live is one worth checking as I am busking, which *is* a live performance.
+
+Another popular one is Reason…
+
+# to-read
+https://forum.audiob.us/discussion/551/meteor-the-best-middle-ground-daw
+
+
+# sources:
+https://www.musicianonamission.com/best-daw-2016/
+http://www.thedawstudio.com/resources/daw-comparison-chart/
+https://ehomerecordingstudio.com/best-daw-software/
+https://en.wikipedia.org/wiki/Comparison_of_digital_audio_editors
+https://makebeats101.com/reason-essentials-review-the-69-dollar-studio-in-a-box/
+
+https://www.youtube.com/watch?v=Q3PDqpCXhL4
+  - setting up Akai MPK with synths

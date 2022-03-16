@@ -1,0 +1,39 @@
+design:
+
+implementation:
+  - requirements:
+  - handle multi-touch
+  - camera
+  - collide with bezier curves
+    - or a certain color pixel
+    - or edge physics collision detection
+
+use MS Paint to create levels
+the large image is then cut into tiles
+  - the tiles don't have to be too small, but it does help performance
+  - the amount of different tiles may be a problem for memory
+    - could use a fluid tile set and build with that
+the tiles on screen (camera) are active and checked for collision
+
+
+things needed:
+camera
+pixel perfect collision detection (simple, between player and map)
+  - players only need to check collision for 4 or 9 tiles around them
+  - could even check the current (last?) screen's pixels around the player*
+path finding (for the camera)
+
+todo:
+setup on current iOS
+playtest
+add sounds
+add animation
+make compatible for iPad series
+release
+update
+can re-implement in HaxePunk later
+
+ask to use music, free game, or edit
+see notebook for other implementation
+find notes on newest design
+ 

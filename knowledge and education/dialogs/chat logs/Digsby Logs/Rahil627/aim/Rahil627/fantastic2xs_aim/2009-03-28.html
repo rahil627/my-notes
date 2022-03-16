@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-03-29</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:38:20"><span class="buddy">fantastic2xs</span> <span class="msgcontent">1 week dude</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:38:22"><span class="buddy">fantastic2xs</span> <span class="msgcontent">1 week</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 02:38:24"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:38:30"><span class="buddy">fantastic2xs</span> <span class="msgcontent">FAST AND FURIOUS</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 02:38:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol, you're not kidding r u</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:39:11"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i am dead serious</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:39:26"><span class="buddy">fantastic2xs</span> <span class="msgcontent">pual walker is a sexy man</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:39:27"><span class="buddy">fantastic2xs</span> <span class="msgcontent">LOL</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 02:39:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 02:39:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i can't do it....no bad films</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:39:45"><span class="buddy">fantastic2xs</span> <span class="msgcontent">WANTED</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:39:50"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but that was my fault lol</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 02:40:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ugh, im sure fast and furious is worse</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:40:08"><span class="buddy">fantastic2xs</span> <span class="msgcontent">shoot this muther fucker</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:40:21"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it had a lot of forced lines</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:40:23"><span class="buddy">fantastic2xs</span> <span class="msgcontent">you could tell</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 02:40:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">caboose weeps every night thinking about that moobie</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:43:06"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i will never apologize</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 02:44:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well he watched about 30 films (including shorts) over the past 4 days during the onfilmfest</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 02:44:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">maybe he'll forget about it</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 02:46:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">http://www.eset.eu/encyclopaedia/virut_nbk_virus_virut_ce__virut_cf_virut_n?lng=en this is the devil</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:59:47"><span class="buddy">fantastic2xs</span> <span class="msgcontent">why</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 02:59:50"><span class="buddy">fantastic2xs</span> <span class="msgcontent">please explain!</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:00:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i ended up using windows repair, then backing up the files, then reformatting enver's comp cause of it :(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:01:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i just scanned some of the files i backed up...and found that on many .exe's that used to be legit</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:01:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and repairing windows is awful....makes windows completely unusable</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 03:02:18"><span class="buddy">fantastic2xs</span> <span class="msgcontent">yeah cause there is no fix to these kinds of virus</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 03:02:21"><span class="buddy">fantastic2xs</span> <span class="msgcontent">just reformat</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:02:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">even the antiviruses he dl'd had it :/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:04:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah, how could you fix that virus without running an exe....</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 03:04:44"><span class="buddy">fantastic2xs</span> <span class="msgcontent">POW right in the kisser</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:04:47"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">run scripts?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 03:04:49"><span class="buddy">fantastic2xs</span> <span class="msgcontent">the 1-2 punch</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 03:04:57"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i block all scripts by default</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 03:05:04"><span class="buddy">fantastic2xs</span> <span class="msgcontent">only turn em on to sites i trust</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:05:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ugh i tried no scripts...it was blocking too much</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:05:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">adblock+ is enough for me</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 03:05:54"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it blocks everything</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 03:05:57"><span class="buddy">fantastic2xs</span> <span class="msgcontent">if too much is everything</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 03:06:08"><span class="buddy">fantastic2xs</span> <span class="msgcontent">then you better be able to accept defeat in the event of a virus.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:06:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah, im fine with that</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:07:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it just takes a bit of work - adding sites to a whitelist</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 03:08:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i'd rather surf the webs with ease and pray by nod32</span></span></div>

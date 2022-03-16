@@ -1,0 +1,353 @@
+# todo:
+check power consumption
+start with tested and true Akai mini
+check iOS compatibility:
+  - https://www.seosocially.com/ipad-apple-connection-kit-compatible-midi-keyboard-controllers/
+    - lists Apple cables and controllers compatible to which iPad
+
+
+https://ehomerecordingstudio.com/midi-controllers/
+  - mentions getting separate devices
+
+
+https://9to5mac.com/2017/06/14/best-wireless-portable-bluetooth-midi-keyboards-mac-ios/
+  - “puc” device to add wireless capability to any MIDI controller!?
+
+
+https://9to5mac.com/2017/06/14/best-wireless-portable-bluetooth-midi-keyboards-mac-ios/
+  - good list of keyboard controllers
+
+https://9to5mac.com/2017/05/24/best-midi-keyboard-mac/
+  - very good list general midi controllers
+
+
+
+https://www.gearslutz.com/board/low-end-theory/744561-all-new-midi-controllers-garbage.html
+“Got my old Roland MIDI controller (circa 96 I think) for 50 bucks. 76 keys, semi-weighted, full-sized; feels great. Once I scraped like 10 years worth of tobacco resin off of it, couldn't be happier. 
+
+Keep checking craigslist, pawn shops, eBay. Why buy new if you don't need to?”
+  - should check for old goodies!
+  - Roland D-10, Kawai K5000, a cheap Casio, Yamaha, Roland A series (33, 49), Roland P series
+    - these aren’t very costly, just $100! Get a usb to MIDI adapter, and boom! $110 for the perfect keyboard (probably without aftertouch)
+
+“My feeling is that if you want piano action, use an actual piano; the piano's sound is going to be more genuine of course also as long as it's recorded properly.”
+  - great advice, no compromise
+
+“Pads, really attracted me to the Axiom at first, but in actual practice of composing, I tend to get more results from assigning percussion samples to various keys, which can be flexibly assigned and triggered simultaneously in different combos. Pads feel comforting like a hardware drum machine, but are similarly just as limited. If I realy wanted drum pads, I'd probably opt for something full-scale such as Roland V-drums or a drumkat or equivalent.”
+  - also my thought, after seeing the midiplus video
+
+“
+I swear ableton makes their program useless if you're not using ableton gear. You have to click the little button every time you want to enable the keyboard, unless you're using an Ableton controller! Or try launching clips without a launchpad or similar device. I'm lucky I had an iPod laying around I can just use that and TouchOSC instead of paying $130 for a motherboard with buttons and lights. Might as well plug in a 2nd keyboard and just use that, instead of the launchpad. Nah, I'm not getting a novation controller they can't even give the software away fast enough, just because they know you will buy a launchpad ($130) and novation controller SLII and overpay.” 
+  - hahahaha, so true
+
+https://www.gearslutz.com/board/low-end-theory/166361-midi-keyboard-user-49-keys-enough.html
+  - 76 keys are optimal, 88 is “full”, 49 is not enough for two-handed playing
+
+# go through guide:
+Key count: 25
+Keyboard Action Type: An important choice! Synth, semi-weighted, or weighted hammer action?
+Aftertouch – No
+Faders, Automapping preferred, MPC-like pads preferred, side layout as opposed to top
+I/O: MIDI via USB, iOS; conventional 5-pin MIDI jacks bonus); pedal input (bonus)
+Performance pads: How many, feel, aftertouch-sensing?
+
+aftertouch:
+Closely watch your favorite pro keyboardist lay down a synth lead line that ends in a bit of tasty vibrato, and you may witness a finger leaning deeper into the key, providing the extra key pressure that triggers an aftertouch event. Aftertouch is a convenient, ergonomic way to add expressiveness to your playing. The alternative, of course, is commandeering your left hand to rock your controller’s pitch wheel or joystick (not possible if you’re using it to comp under your lead). Typically found on higher-end controllers, aftertouch is one of those features you don’t know you need until you’ve used it.
+…
+Because it’s expensive to design and manufacture, generates a lot of MIDI information…
+  - eh, just use a pitch wheel!
+    - but maybe it’s used for multiple keys and multiple pitches. A pitch wheel probably limits it to one key.
+
+# shops?:
+**AMAZON JAPAN!?**
+Google for local shops
+
+http://www.soundsketch.com.tw/site/ (http://www.pcstore.com.tw/musicwarehouse/)
+http://www.soundsketch.com.tw/site/office/
+  - very detailed distribution list of shops in Taiwan
+  - 楓城樂器 in Hualian
+    - sells MIDIPLUS BK492
+  - http://www.soundsketch.com.tw/site/novation/new-novation-launchkey-mini-mkii-midi%E6%8E%A7%E5%88%B6%E9%8D%B5%E7%9B%A4/
+    - a list of places that sell Novation Launchkey mini mkII
+  - 硬地樂器 台南
+    - http://class.ruten.com.tw/user/index00.php?s=indierock&d=4422266&o=0&m=1
+    - https://www.facebook.com/indierockfans/
+  - 又昇樂器社
+    - https://www.facebook.com/RISEMUSICSTUDIO/
+    - http://class.ruten.com.tw/user/index00.php?s=gio_ritenour&p=0
+
+凱傑樂器 KJ 
+https://www.facebook.com/%E5%87%B1%E5%82%91%E6%A8%82%E5%99%A8-KJ-Custom-392191224301443/
+https://m.tw.mall.yahoo.com/store/kjmusic
+  - https://tw.mall.yahoo.com/search?m=search&sid=kjmusic&q=midi&search_type=product_name&min=&max=
+
+http://www.live4school.com/
+  - seems to have most, but at a higher cost
+
+can just search rutian, PChome, and Yahoo. Then will know which stores have it.
+
+# future:
+grids:
+nanoKEY, K-board, QuNexus
+launchpad
+Teenage Engineering’s OP-1
+
+more-censored touch surfaces:
+LinnStruments
+**Roli Blocks**
+
+# midi controllers:
+
+## set-ups
+the two setup: one (1) 25-key all-in-one for travel and one (2) for the piano keyboard
+
+
+
+## portable (mini) 25-key
+  - compare to macbook 13” size of 12” x 8.4” x 0.6”
+
+0. Akai mini MKii
+  - classic, most reviews
+  - 8 pads, 8 knobs, octave up/down, pitch/mod joystick, note repeat, full level, tap tempo, arpeggiator
+  - Weight: 1.65 lbs (from company site)
+  - Dimensions: 12.5" x 7.13" x 1.75"
+  - must use MPC Essentials? (other software is garbage)
+  - needs a (un-powered) usb hub
+  - really good info: https://forum.audiob.us/discussion/5228/akai-mpk-mini-mk2-anyone
+
+Akai MPK mini
+  - should look more into this one
+
+1. Nanokey Studio
+  - better iOS connectivity, especially via bluetooth
+  - alternative style to the standard piano style
+  - surprisingly “responsive”
+  - kaos pad
+  - keys double as good buttons for drums
+  - people still like how connectible it is, with bluetooth. No wires. Just play. Still, feels like a toy.
+
+https://reviewfinder.com/top-midi-controllers/akai-professional-mpk-mini-mkii-vs-korg-studio-bluetooth/
+  - good website!
+
+  - an alternative is to just get separate devices for everything: Korg NanoKey2, Korg NanoPad2, Roli Blocks, Akai model for the pads
+
+x/Novation Launchkey mini
+  - **designed for Ableton Live**, though it works with any DAW
+  - **missing pitch and mod wheel**
+  - 16 pads
+  - otherwise, similar to Akai
+
+x/Arturia MiniLab MkII 25
+  - 1.8lb
+  - 9 x 14 x 1.5 in
+  - generally people feel it’s has some cheap hardware (keys, pads, etc.)
+  - missing some useful buttons that the Akai has
+
+Alesis V mini
+  - 1.1lb
+  - 4 pad, 4 knob
+  - pitch and mod buttons, sustain button, octave buttons
+  - bad pads (according to several reviews)
+  - “well-wighted” keys
+  - “Pros: key size feels natural. knob controls are spot on. cost is worth it if you don't need the drum pads too often.”
+  - 12.24 x 0.12 x 5.52 in?
+
+M-Audio Axiom AIR Mini 32 […?]
+Samson Graphite M25 Mini […?]
+
+
+
+IK Multimedia iRig Keys
+
+
+## 25 key
+1. Nektar
+  - adjustable velocity curves
+  - endlessly rotating knobs
+  - transport controls
+  - compatible with all DAWs, with really really good integration / auto-mapping
+  - pad mapping change button
+  - transpose buttons for changing scales
+  - works with iOS (iPad)
+  - shops with Bitwig 8-tracks software
+  - newer, better, high quality
+  - 10.5 x 18.34 x 2.34 in
+  - 4lb
+  - Dimensions: 18.75”(L) x 10.5”(D) x 2.75”(H)
+
+Alesis V25
+  - perfect layout for this size
+  - full-sized, semi-weighted keys, with software to adjust velocity curves
+  - actual pitch and mod wheels
+  - 4 knobs
+  - 9.6 x 24.6 x 4.5 inches (that’s like two MacBooks wide! And really thick! Maybe for keys?)
+  - 5.4lb!? No reason for it to be that heavy! Maybe the semi-weighted keys?
+  - perhaps a good second option for the better keyboard
+
+Alesis VI25
+  - perfect layout
+  - a little larger
+
+x/M-Audio Oxygen 25 MK4
+  - larger width and height
+  - “literally a bigger sized version of the MPK Mini. Unlike the other models however, the Oxygen line of keyboards feature transport buttons which would allow you to press play, stop, and record without the need to reach for your mouse — having transport buttons makes it easier to operate your DAW and compose music, which makes the Oxygen 25 a much more versatile keyboard than the others.”
+Korg
+
+
+
+## portable keyboards:
+1. Korg microKey2 (5.6lb) / Korg microKey air 61 (5.04lb/3.77lb, bluetooth) / microKey2 61 (3.75lb/3.77lb, “iOS-powerable”)
+    - breaks easily :(
+    - Korg microKEY AIR-61
+    - USB or 2xAA batteries bluetooth
+    - “The microKEY 2, and microKEY Air 25 key versions sport a built-in arpeggiator, and sustain button…But, I did enjoy the assignable switch jack, that only comes in the 37, 49 and 61 key versions, and is intended to be used as a damper pedal.”
+    - “Korg bundles a pretty serious collection of classic instruments…”
+
+2. midiplus x6 [mini] (also comes in x3, x4)
+  - not enough reviews, but the reviews thus far are quite good, even compared to the Korg
+  - mini is half the weight and half the price (6.4lb vs 10+lb)
+  - pitch and mod touch strips
+  - 4 knobs
+  - “Visual feedback is excellent.”
+
+  - midi plus i61 (6lb, full-size, wheels)
+
+  x/- vs Nektar GX61
+    - 6lb
+    - one reviewer says the synth action is really good, while the other says its plastic
+    - Korg probably trumps this for now, for the feel and weight (of the mini)
+
+  x/- Acorn Instruments MasterKey 61
+    - 5lb
+
+  s/- Alesis Q88 (Q49, Q25)
+    - 88 keys, semi-weighted with pitch and mod wheels
+
+  x/- vs M-Audio Keystation 61 II
+    - semi-weighted with pitch and mod wheels
+    - 10.7lb
+
+  x/- CME Xkey 25/37
+    - only comes in 25 and 37-key
+    - “draws 25mA of USB power via the CCK - no external power is ever needed.”
+
+Icon iKeyboard 4
+
+research:
+https://forum.audiob.us/discussion/7079/best-feel-small-keyboard-with-37-keys/p1
+  - mini keyboards
+
+
+# oldies
+1. Roland A-series
+  - luxurious, less than $200
+
+
+
+# extra
+Teenage Engineering TE010AS012 PO-12 Rhythm Drum Machine & Sequencer
+  - a tiny drum machine
+
+Teenage Engineer OP-1
+
+https://www.teenageengineering.com/products/op-z
+  - **holy shit**
+
+Novation Launchpad mini
+  - 64 pads, portable! forget the keys (use pads as keys)?
+
+
+
+## 25-key professional (semi-portable? Throw on scooter and go!):
+Akai MPK225 is the professional version, with semi-weighted, full-size, keys in a good key-bed
+    - very similar layout to the Nektar 25
+
+
+
+## main 61 key competition (stay in car)
+  - https://www.gearank.com/guides/61-key-midi-controller
+1. Nektar Impact LX61+
+  - best budget all around?
+  - works with iOS
+  - works with all DAWs, good integration, etc.
+  - great reviews
+  - maybe only Novation as best all around competitor
+
+Novation 61 key
+
+Akai
+
+x/Arturia?
+
+Alesis VI61
+  - has MPC-like 16 pads, really nice design
+    - or could just have a separate pad device, which packs better
+
+
+
+## 61 key professional (stay at home):
+Akai MPK249
+Novation Impulse
+
+x/Nektar Panorama P6
+
+
+
+# ?
+
+https://www.amazon.com/s/ref=sr_nr_n_1?fst=as%3Aoff&rh=n%3A11973721%2Ck%3Apiano+controller&keywords=piano+controller&ie=UTF8&qid=1503492908&rnid=2941120011
+  - Akai (25, 49, 61 key), Arturia
+—
+
+sources:
+https://en.wikipedia.org/wiki/MIDI_controller
+https://en.wikipedia.org/wiki/Electronic_drum#Table-top_electronic_drum
+https://en.wikipedia.org/wiki/Wind_controller
+
+https://en.wikipedia.org/wiki/Synthesizer
+https://en.wikipedia.org/wiki/Sampler_(musical_instrument)
+
+https://www.google.com.tw/search?q=Buchla+Thunder&oq=Buchla+Thunder&aqs=chrome..69i57j69i60j0l3.581j0j7&sourceid=chrome&ie=UTF-8
+
+https://makebeats101.com/best-25-key-midi-keyboard-controllers-on-a-budget/
+
+https://makebeats101.com/akai-mpk-mini-mk2-review/
+  - “That doesn’t mean the keys on the Akai MPK Mini are bad, though. They’re velocity-sensitive, meaning the velocity will change depending on how hard you hit the keys.
+
+It’s worth noting that this tends to be a problem for some people because you cannot adjust the velocity curves on the keys themselves. It’s another reason why you’d only want to get this keyboard if you’re using it to record basic melodies and chords for electronic music, not for playing full-blown compositions and such.”
+
+https://makebeats101.com/nektar-impact-lx25-review/
+https://www.gearank.com/guides/best-25-key-midi-controller-keyboards
+https://www.audiomentor.com/audioproduction/16-best-midi-controllers-in-2017
+http://makemusicnow.biz/choosing-a-midi-keyboard/
+http://www.wirerealm.com/guides/best-midi-keyboard-controller-for-reason
+
+https://www.reddit.com/r/DJs/comments/2nbto9/which_midi_keyboard_controller_to_buy/
+  - “So, one controller with a lot of buttons + transport controls and another controller functioning as a keyboard with pitch/modulation controls is the way to go, as a starting point?
+permalinkembedparent
+[–]space_toaster 1 point 2 years ago 
+That's a way to cover the bases, yes. Or buy a single more expensive keyboard with all of that integrated.”
+
+http://blog.landr.com/50-best-midi-controllers/
+  - **very good variation of MIDI devices**
+
+guides:
+https://www.sweetwater.com/insync/midi-controller-buying-guide/
+  - …The real advantages of a keyboard controller are versatility and portability. They give you control over virtually the entire range of modern music hardware and software while sometimes even being compact enough to fit in your laptop computer bag.
+  - …This provides a much more “authentic analog” feel over using a mouse. Some controllers now include automapping technology that sets up the knobs and faders to correspond to your specific software applications.
+  - Popular with hip-hop producers and remixers, pad devices allow MIDI samples to be triggered at the tap of a pad. They’re great for programming drumbeats.
+  - Another device that abandons the “keyboard” concept entirely is the wind controller, which gives wind players access to MIDI sound modules and software.
+  - While all modern controller keyboards transmit MIDI via USB, for more complex setups, there are two other types of jacks that can make your life easier. Having conventional 5-pin MIDI DIN jacks on your controller lets you connect and control external MIDI instruments such as hardware synths, while CV and Gate outputs will even let you play and modulate vintage (non-MIDI) synth gear.
+  - Almost all keyboard controllers are equipped with a sustain (switch-type) pedal jack, but basic models usually don’t offer one for a continuous controller pedal. Having an expression pedal in your rig can make your performances significantly more, well, expressive, letting you modulate any controllable parameter in real time – all without taking your hands off the keys! 
+
+http://makemusicnow.biz/choosing-a-midi-keyboard/
+https://www.gearank.com/guides/61-key-midi-controller
+
+https://forum.audiob.us/discussion/14088/whats-your-favorite-midi-keyboard-for-ios-synth-apps
+  - found Roland 49 here
+
+https://www.gearslutz.com/board/electronic-music-instruments-electronic-music-production/1107223-arturia-minilab-vs-akai-mpk-mini-mk-2-a.html
+
+http://community.akaipro.com/akai_professional/topics/mpk_mini_mk2_with_ipad
+
+https://ask.audio/articles/review-korg-microkey-air-microkey2-

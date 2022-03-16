@@ -1,0 +1,55 @@
+# iPad music making applications
+
+
+workstations:
+1. Garage Band
+  - can move on to mac version for more features
+
+MPC apps:
+iMPC Pro
+  - or Imaschine 2
+
+technologies:
+Audio-Bus and Inter-App pass digital music between applications
+
+tech:
+Samplr
+  - “For truly revolutionary sampling and audio manipulation”[2]
+Borderlands
+  - granular synthesis experimental app
+
+SoundPrism and Thumbjam
+  - “For traditional songwriters looking to explore new arrangements and rhythms, SoundPrism and ThumbJam offer intuitive playable interfaces that break habits without diving into aural experimentation.”[2]
+
+fun to try:
+Madly Music Maker
+Figure, free
+iMPC, cheap
+Ninja Jamm, free + iap
+
+Sing! Karaoke, fee + iap
+  - to practice singing
+
+Magic Piano
+  - ?
+
+Simply Piano
+  - for piano lessons, learning
+
+
+sources:
+https://www.theguardian.com/technology/2015/oct/17/ten-of-the-best-music-making-apps-for-beginners
+
+[2]https://reverb.com/news/the-best-music-making-apps-for-ipad
+“Some might say that it’s not about the computers themselves, but rather the applications and programs we use with the computers to create music. After all, the app is what determines how inputs are turned into outputs in the same way that instruments determine how our breath, finger and arm movements translate into sound.”
+  - [todo: stopped]
+
+saved tabs:
+https://imusic.aimersoft.com/play-music/top-ipad-music-apps.html
+http://www.factmag.com/2016/09/15/make-music-on-your-ipad/
+http://www.musicradar.com/news/tech/the-best-ipad-iphone-music-making-apps-in-the-world-today-267699
+  
+
+
+
+

@@ -1,0 +1,127 @@
+mimo - the use of two or more antennas on the transmitter and two or more antennas on the receiver
+antenna diversity - using two antennas to reduce multipath issues and provide a more reliable connection
+multipath - the propagation phenomenon that results in radio signals reaching the receiving antenna by two or more paths
+
+http://meraki.com/ - enterprise class
+
+
+antenna
+just buy trendnet. They're sold on many retailers including newegg and amazon. Check impedance rating and connector type
+trendnet - http://www.trendnet.com/products/products.asp?cat=68
+hawking - http://www.gohawking.com/store/index.php?cPath=36_56&osCsid=5d30b77745a5f2f15af2741cca41b777
+connectors - http://wireless.gumph.org/content/3/7/011-cable-connectors.html
+
+
+
+
+
+
+conclusion: a bunch of negatively reviewed acccess points. Even netgear's prosafe line has terrible reviews. No brand can be trusted as usual.
+
+apple airport extreme - 20dbm, not PoE
+
+wireless access point, PoE, g, 20dBm transmit power, 2x5dbi antennas
+http://www.newegg.com/Product/Product.aspx?Item=N82E16833127164&cm_re=access_point-_-33-127-164-_-Product
+
+trendnet wireless access point, PoE, g/n, 15/12dBm transmit power, 2x2dbi antennas
+http://www.newegg.com/Product/Product.aspx?Item=N82E16833156291&cm_re=poe_access_point-_-33-156-291-_-Product
+
+d-link wireless access point, 17/18dbm, g/n, selectable dual band, 3x?dbi
+	http://www.newegg.com/Product/Product.aspx?Item=N82E16833127268&cm_re=poe_access_point-_-33-127-268-_-Product
+
+TRENDnet TPE-S44 - switch with 8 ports, 4 poe, 15.4w max each, 30w max total?
+	http://www.newegg.com/Product/Product.aspx?Item=N82E16833156229&cm_re=poe_switch-_-33-156-229-_-Product
+	cheaper on amazon
+
+TRENDnet TEW-638PAP - WAP,  2x2dbi, 12/15dbm
+http://www.newegg.com/Product/Product.aspx?Item=N82E16833156291&cm_re=trendnet_poe_access-_-33-156-291-_-Product
+
+TRENDnet Power over Ethernet (PoE) Injector TPE-101
+http://www.amazon.com/TRENDnet-Power-Ethernet-Injector-TPE-101I/dp/B000A4AWEU/ref=sr_1_2?s=gateway&ie=UTF8&qid=1285555842&sr=8-2
+
+switch with 4 PoE ports, ~53W max
+http://www.amazon.com/TPL-SWT-TL-SF1008P-8Pt-100M/dp/B003CFATT2/ref=pd_sxp_grid_pt_0_0
+
+2.4ghz (11 channel) vs 5ghz - 5ghz can handle more speed but reduces range, 5ghz will be less interfered
+
+cable
+modem
+router
+wireless access point with removable antenna - omni direction antenna, 2.4ghz (802.11b/g)
+power sourcing equipment (switch or hub) or Power over Ethernet injector (midspan), 802.3af?
+
+factors of range - transmit power of WAP (mW or db), antenna gain,  obstructions, material of obstructions, dbi gain of antenna, length of coax cable connected to antenna, client device receive sensitivity/transmit power
+
+ EIRP = Tx Output Power (dBW/dBm) + Antenna Gain (dBi) - Line Loss (dB) 
+ 
+ 
+http://www.netkrom.com/fcc_power_regulations.html# - very clean, has calculators and info
+
+2.4ghz point to multi point, For all antenna gains: Max EIRP = 36 dbM
+
+Power Input - dBm	Antenna Gain - dBi	Total EIRP - dBm	Power in Watts
+36	 0	 36	 4
+35	 1	 36	 4
+34	 2	 36	 4
+33	 3	 36	 4
+32	 4	 36	 4
+31	 5	 36	 4
+30	 6	 36	 4
+29	 7	36	 4
+28	 8	 36	 4
+27	 9	 36	 4
+26	 10	 36	 4
+25	 11	 36	 4
+24	 12	 36	 4
+23	 13	 36	 4
+22	 14	 36	 4
+21	 15	 36	 4
+20	 16	 36	 4
+19	 17	 36	 4
+18	 18	 36	 4
+17	 19	 36	 4
+16	 20	 36	 4
+15	 21	 36	 4
+
+distance info
+http://www.isa.org/InTechTemplate.cfm?Section=article_index1&template=/ContentManagement/ContentDisplay.cfm&ContentID=21286
+
+path loss in dB = 40 dB + 20 log x  (where x is distance in meters)
+path loss for .5km is 94.4db
+
+transmit power - receiver sensitivity + antenna gain - path loss
+
+http://www.cisco.com/en/US/tech/tk722/tk809/technologies_tech_note09186a00800e90fe.shtml
+
+6 degrees vertical, so keep it ~6 feet from floor
+
+house routers usually have 30mw, ddwrt sets to 70mw by default
+
+http://www.xiertekusa.com/product.php?pid=426 - xiertek XTK30AP - poe, 500mw, comes with poe injector
+
+backfire antenna?
+http://www.wi-fiplanet.com/tutorials/article.php/1144391/Antennas-The-Key-to-Maximizing-RF-Coverage.htm
+
+
+http://www.wirelessforums.org/alt-internet-wireless/need-external-antenna-wrt54gl-39665.html - read
+
+http://www.radiolabs.com/products/wireless/wireless-networking.php
+
+dB = 10*log(output power)/input power
+~2x power for every 3dB
+
+dBi - dB to an isotropic (equally in all directions) source, more accurate?
+
+http://www.radiolabs.com/stations/wifi_calc.html
+http://www.zytrax.com/tech/wireless/calc.htm
+
+survey using netstumbler
+	and speedtest.net?
+ny cheap access point is fine?
+
+http://www.wirelessforums.org/alt-internet-wireless/help-needed-regarding-wireless-network-motel-34270.html
+
+http://www.linuxplanet.com/linuxplanet/reports/7087/1/ - open source hotspot
+
+http://www.gnswireless.com/extend_wifi.htm - great info/products
+

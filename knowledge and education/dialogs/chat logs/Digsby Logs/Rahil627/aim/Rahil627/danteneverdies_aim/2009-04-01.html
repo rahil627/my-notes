@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with danteneverdies on 2009-04-01</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:29:32"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Haha. How's the virus hunt going?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:29:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh i repaired windows, backed up and reformatted</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:30:08"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Hehe.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:30:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">did u see the link  i sent that described the virus?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:30:47"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its known to wreck pcs</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:31:20"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Indeed.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:32:01"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">It's also cool as crap.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:32:09"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I wish I could write cool viruses.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:32:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">you're evil</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:32:27"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I know.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:32:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that virus looked simple</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:32:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just had a little registry change and attached to .exe's</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:33:06"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Unfortunately, we don't get to peek at it's program code.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:33:11"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">It could be massive.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:33:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mebbe</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:33:33"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">That's not how you spell maybe!</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:33:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mebbe not</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:33:54"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well i've been missing all classes + meetings recently :/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:34:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh godamnit wat happened to my smileys</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:34:15"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Hah!</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:34:37"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I wrote a virus that disables smileys.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:34:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:35:14"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Starting small.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:37:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its a good start =P</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:38:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so, wat i miss in the meeting....r we using C++ now?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:38:27"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I don't know. I forget when I'm outside of the meeting room.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:38:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">cause i had 0 lines of java and would be very angry</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:38:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">doh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:38:43"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">0 lines, huh?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:38:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeahp</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:38:49"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Nice.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:39:12"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Well, we're working out the details still.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:39:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">mmk</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:39:41"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Certain modules that produce output may be in C++.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:40:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">mmk..? kinda vague</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:40:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">i rly shouldnt have missed this meeting, cause i have a doc appointment thursday, and no1 will beleive me now XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:40:16"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Very vague.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:40:26"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">If I knew more, you'd be the first to know.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:40:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">hah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:40:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">thanx</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:40:54"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I'll believe you, but I'll still act like I don't.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:41:02"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Plant the seed of doubt.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:41:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">i still can't believe you turned my paper in and FORGOT' to call me !!!</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:42:05"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Yeah, it's funnier that way.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:42:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">:(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:42:13"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">HAH.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:42:18"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I'm sorry, big guy.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:42:23"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">My bad, yo.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:42:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">playing with my tender feelings</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:42:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">OH and that exit exam doesn't look like a joke </span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:42:45"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">It seemed pretty easy.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:42:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">LIES</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:42:54"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">OO!</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:43:08"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">How bad could it be?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:43:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">explain #12</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:43:21"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Link the document.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:43:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">ummm...i rly just have to refresh a lot of CS material...but still! it could be on anything!</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:43:56"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Yes it could be.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:44:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">http://www.ets.org/Media/Tests/MFT/pdf/mft_samp_questions_compsci.pdf</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:46:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">also #9</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:51:10"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Do number 9 using just 4 elements.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:51:18"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">And tell me the answer.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:54:44"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">o sry 1 sec</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:55:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">umm i remember doin this and thinking it was n or n-1</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:56:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">cause the list is in acending order and needs to be changed into descending order...so it swaps n times except ......oh wait hrmmm</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:58:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">k i see how n*n comes...</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 04:58:38"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Goooooood.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:58:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">but the /2?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 04:59:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">y would it be halved...</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:00:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">ohhhhhhh godamnit...see that was a tough problem</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:00:33"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Neat. Now I don't have to explain?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:00:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">maybe im thinking too conceptual and just go through the algorithm using an example like n=4</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:00:52"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">There you go.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:01:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">that was still rough mang :/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:01:04"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Write down j and k as you go.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:01:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">yea, i had a little table going</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:01:33"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">You get three hours, so don't worry about it.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:01:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">how many Qs?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:01:49"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Haha. 75.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:01:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">:(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:02:03"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Deal with it, Rahil!</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:02:07"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">im still going to have to study for it</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:02:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">if i could only find the material!</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:02:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">need to remember some common big O's</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:03:14"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Hm.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:18:33"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">You, you're going to fail the CS exit exam.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:18:38"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Everyone else is going to pass.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:21:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">WOWWWww</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:21:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">thanks joel</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:21:35"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">If you don't believe in yourself, then I'm not going to!</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:21:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">i prolly will be in the bottom 10%</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:21:54"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">haha</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:22:06"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">God damn it, Rahil!</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:22:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">i beleived in myself prior to the sample</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:22:13"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">You're a champion!</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:24:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">before the sample...i thought to myself, "yea, i can follow logic well, i've written 3x nested for loops in 417...i did great in 381/390 and even liked 471"w</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:25:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">after reading the sample questions, my thoughts changed to, "holyfuck, what have i got myself into"</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:25:59"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">You'll be fine.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:26:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">i just need to find material to prep...just a refresher</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:27:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">golden delicious apples are delicious...but not so much golden</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:27:56"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I have no idea what that means.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:28:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">never had a 'delicious apple'?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:28:19"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">You'll do fine. These are the Ph.D. qualifiers.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:28:27"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">dih</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:28:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">needed for masters?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:28:34"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I have, but mine where.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:28:36"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">*were</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:28:49"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Needed for a doctorate.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:28:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">=O</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:30:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">http://www.google.com/url?sa=U&amp;start=1&amp;q=http://ftp.ets.org/pub/gre/CompSci.pdf&amp;ei=ofvSScOEMJ2dlQf4_pj7Cw&amp;sig2=LnUOFFPkaarPTnQBwG13og&amp;usg=AFQjCNESTr78rW7vA-PWpheKjZI7nRmFhA i'll print this at school and skim through that</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:30:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">OH...is the midterm due monday, and lab wednesday?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:31:10"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I think so.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:31:17"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">The midterm is supposed to be stupid easy.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:31:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">yea i kno =D</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:31:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">its still writing that takes time</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:33:08"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Yep.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:35:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">1 day i'll break your pinky in hopes of stopping you from capitilizing letters</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:35:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">OR make a virus!</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:35:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">YES</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:35:36"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">And I'll learn to type more letters with my ring finger.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:35:56"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">The only way to stop me is with anthrax.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:36:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">hopefully the increased difficulty will make you change? =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:36:07"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">ha</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:38:01"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Laughable. I can't be stopped, Rahil. </font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:41:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">oh it'll happen....after i graduate, i'll learn sf4 and wreck you!</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:42:53"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">:Sigh:</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:43:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">that sounds like the sigh of defeat</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:43:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">;)</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:43:38"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I beat my experienced roommate today 8 times before he quit.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:43:50"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">I couldn't use half of my buttons.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:43:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">LOL</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:44:14"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">You can't beat me. Don't try.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:44:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">well, im not an average gamer..i learn easily and can play compete on a high level, just not pro level :/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:45:12"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Well, I'll teach you Street Fighter right now.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:45:48"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">D = Down, F = Forward, A = any button.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:45:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">just be downright fierce?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:45:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">heh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:45:59"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Ok. D+F+A.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:46:07"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">You win!</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:47:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">nah man, i've heard good things of sf4...even from those who have come from third strike which is a game that never died...sounds fun</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:47:21"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">hrmmm maybe i'll do the midterm now</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:47:46"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">That's not to say it isn't good.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:47:51"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">It's just easy as all get out.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:48:03"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">To learn the special attacks, at least.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:48:09"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">To play well is different.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:48:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">oh yea, special attacks is never the problem heh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:48:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">but i will have to get used to the controller or sticks =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:57:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">you should flex your skill and go to some sf4 tournaments! get some $</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:57:33"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">If I only had the time.</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:57:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">ah tru</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:57:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">reason i stopped smashing :(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:58:41"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">You know, I'm going through my iTunes library. Did you know Ludachrist decided he'd add a new genre type for his music.</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:58:49"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Apparently it's "Crunk as Fuck."</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 05:59:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">hahaha....enver just told me about him....sorta like girl talk on crak</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 05:59:49"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Brown bear is there, huh?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-01 06:00:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">nah....we talked a bit when i dropped his laptop off</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-01 06:00:21"><span class="buddy">danteneverdies</span> <span class="msgcontent"><font face="Zrnic" lang="11" absz="12" size="3">Oh, gotcha.</font></span></div>

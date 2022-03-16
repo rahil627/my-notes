@@ -1,0 +1,295 @@
+# temp:
+seed: account fish cave motion conduct walk remove wealth pulp vague dismiss trip
+[standard password for encryption]
+
+## opened tabs
+https://en.wikipedia.org/wiki/Cryptocurrency
+https://www.buybitcoinworldwide.com/kb/buy-bitcoin-without-verification-id/
+https://www.buybitcoinworldwide.com/wallets/
+
+# todo:
+https://incorporatingbitcoin.com/tutorial-1-choose-a-wallet/
+  - go through this tutorial!
+
+# example process
+from Taiwan bank to US bank:
+put/have cash in Taiwan bank
+buy bitcoins from CoinMama via Taiwan bank’s debit card
+sell bitcoins to Coinbase / GDAX / CEX.io / Gemini via bank transfer to US bank
+
+from US bank to Taiwan bank:
+put/have cash in US bank
+buy bitcoins from Coinbase / GDAX / CEX.io / Gemini via bank transfer to US bank
+sell bitcoins to Taiwan exchange (BitoEx, MaiCoin) or a local LocalBitcoins user via bank transfer to Taiwan bank
+
+
+# process
+from bank to bank
+put/have cash in a bank A
+  - not sure if Post Office bank will work, though, it should
+buy bitcoins from market-place (via outgoing bank transfer [or visa debit card] from bank A)
+  - ~0% “maker” fee?
+(now have bitcoins in wallet)
+sell bitcoins to market-place (via incoming bank transfer to bank B [or Paypal])
+  - ~0.25% “taker” fee?
+(now have money in bank B)
+
+# digital currency exchanges
+(listed by volume)
+BitFinex
+  - Hong Kong based
+  - dollar, euro
+Bitstamp
+  - post Mt. Gox
+  - hacked, but came back
+okcoin
+1. GDAX
+  - US based
+  - most popular exchange market-place?
+  - regulated (NY Bitlicense)
+  - need VPN to sign up?
+0.coinbase
+  - largest, most popular wallet and exchange market-place (GDAX)
+  - terrible fees
+Kraken
+  - US based
+  - use, euro, pound, yen, all sorts of options
+2. gemini
+  - US based
+  - regulated
+  - usd
+  - made by the Vinklevoss twins
+  - good fees, even refunds
+  - Google Voice not supported, neither is Taiwan’s phone number. Need US phone number
+    - from my e-mail / contact: “Unfortunately, Gemini does not allow Google Voice numbers to be used on our platform. If you would like to move forward with account verification, please provide us with a US-based cell phone number that is not a Google Voice number.”
+3. CEX.io
+  - UK based
+  - regulated
+  - European, usd, euro, cards
+3. CoinMama
+  - very popular credit/debit card / cash
+    - useful in case one is in a country without good local exchanges
+btcChina
+btce
+bitflyer
+  - Japan’s largest
+Itbit
+  - NY regulated
+HitBTC
+  - hacked
+  - https://www.reddit.com/r/Bitcoin/comments/6cl0lb/got_scammed_out_of_over_10000_usd_beware_hitbtccom/
+    - “HitBTC is the exchange that shut down BTC withdrawals a while back and was railroading their customers into supporting BU by holding their bitcoin hostage. So it's not exactly news that they are a scam.”
+      - “remind me again why anyone would leave coins on an 'exchange’?”
+        - lol
+Bit-x
+  - became CoinsBank
+    - https://www.reddit.com/r/Bitcoin/comments/4h17js/coinsbank/
+      - just awful, lol
+
+Circle
+  - NY Bitlicense
+  - holy shit, some magical fee-less, instant Paypal
+  - UK, US, or European issued Visa debit and credit cards
+UK, US, or European issued MasterCard debit and credit cards
+European bank accounts with an IBAN (for cashing out only)
+    - from https://support.circle.com/hc/en-ie/articles/212058926--Which-cards-and-banks-can-I-use-
+
+Uphold
+  - similar to Circle, but different supported currencies?
+  - from https://www.reddit.com/r/BitcoinBeginners/comments/40am9m/how_to_buy_bitcoin_through_my_bank_account_or/
+  - supports banks from: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, the United States and the United Kingdom.
+    - https://support.uphold.com/hc/en-us/articles/205845376-In-which-countries-does-Uphold-offer-bank-account-funding-and-withdrawals-
+
+Ripple
+  - NY Bitlicense
+
+special:
+*. shapeshift
+  - The platform gives you the power to quickly swap between assets – no account required.
+    - but not banks
+  - no fee (except miner fee), instant
+Poloniex
+  - exchange digital currency, not fiat currency
+
+
+bitoex
+  - partnered with all four convenient stores
+  - has a VISA debit card!? lol How does that work!?
+    - https://www.bitoex.com/services/debitcard?locale=en
+maicoin
+  - partnered with Taiwan’s Hi-Life convenient store
+  - “Maicoin has also partnered with Philippines exchange and remittance service Coins.ph to serve the large number of Filipino expat workers in Taiwan.”
+  - “2. What fees are charged by MaiCoin?
+Fees associated with buying and selling digital assets are factored into the price on Maicon's platform. Sending and receiving digital assets are also free. (Note: your bank may charge you a transfer fee ranging from $15 to $17 NTD when you pay for your purchases using ATM transfer)”
+  - “Does BitoEX charge any fees on bitcoin transfer?
+
+https://en.wikipedia.org/wiki/Digital_currency_exchange
+https://www.bitcoinnews.ch/buy-bitcoin/
+https://www.reddit.com/r/btc/comments/6fsy3e/which_are_your_best_bitcoin_exchanges_in_2017_and/
+  - https://www.bestbitcoinexchange.io/
+    - well-written descriptions of the popular exchanges
+    - good chart with “Trust Score”, rating, buying options, user-rating, location, currency, user-friendly
+https://www.reddit.com/r/BitcoinMarkets/comments/5mjgao/kraken_vs_gdax_vs_gemini_which_is_better_for/
+https://exchangewar.info/
+  - list sites by volume
+http://data.bitcoinity.org/markets/exchanges/USD/30d
+  - better list
+
+Effective from Feb. 27, 2016, BTC transfer from BitoEX‘s wallet to other’s is free of charge.
+
+How much does BitoEX charge on withdrawal?
+
+If the cumulative amount per day is less than 1,000,000 NTD, we do not charge any fees. Otherwise, we charge 5% fees of withdrawal.
+
+Does BitoEX charge any fees on selling bitcoin?
+
+No matter what type, reserved price or current price, you sell bitcoin, we do not charge any fees on you.”
+
+bitpoint (Taiwan)
+  - from Japan, spreader to Hong Kong, and soon Taiwan
+localbitcoins
+coinsetter
+
+http://www.bitcoin-net.com/How-to-buy-Bitcoin-in-Taiwan.php#.Wboq3NMjGqA
+
+actual price:
+Google
+http://preev.com/btc/twd (real-time)
+
+
+https://zh.wikipedia.org/wiki/%E6%AF%94%E7%89%B9%E5%B8%81
+
+
+# market prices example:
+buy/sell 1btc: 13/9/2017
+? https://winkdex.com/
+119,604.23 worth (Google)
+127,364/112,635 bitoex (FamilyMart [Japan])
+  +1% fee?
+127,659/111,136.54 maicoin (Hi-Life [Taiwan])
+  +1% fee?
+121,xxx/116,xxxx https://localbitcoins.com/ cash, online
+?/+3% online (bank, Paypal, gift card, etc.)
+
+conclusion:
++3% sell btc to random person in US via Paypal
+-3% sell btc to random person in TW via bank transfer
+-6% buy btc to convenient store (giant corporations) via machine at store
+-6% sell btc to convenient store (giant corporations) via bank transfer
+
+https://localbitcoins.com/instant-bitcoins/?action=sell&country_code=US&amount=&currency=USD&place_country=US&online_provider=ALL_ONLINE&find-offers=Search
+
+from my e-mail to Jon:
+“So, trust changes from financial institutions (banks) to anyone -- more corporations (convenient stores), bitcoin exchange places (coinbase), or individuals.
+
+Hmmmmm.....I think I need to read a chapter from that Sapiens book again.”
+
+
+
+
+
+# wallets
+
+https://www.cryptocompare.com/wallets/#/overview
+
+https://www.reddit.com/r/BitcoinWallet/comments/1yzkoh/coinbase_vs_blockchain/
+  - “In terms of security, I'd suggest:
+Online wallets that hold all the private keys (Coinbase) < Online wallets where only the client (theoretically) has the private keys < Desktop wallet on an online Windows PC < Desktop wallet on a Mac or Linux PC < Desktop wallet on a LiveCD on an otherwise online PC < (Desktop wallet on a permanently offline PC OR Paper wallets)”
+
+https://bitcoin.org/en/wallets
+  - good list by OS
+  - **Breadwallet seems like a winner for iOS**
+
+https://www.reddit.com/r/Bitcoin/comments/2xgtqp/best_overall_wallet_for_mac_osx/
+  - mobile wallets more secure by default
+    - “Agreed. Mobile wallets like Breadwallet and Mycelium are the best fit for 90% of people”
+  - paper wallets!
+  - Electrum, Hive, Ninki
+  - Multibit
+
+https://bitcointalk.org/index.php?topic=1118123.0;all
+  - Mycelium , Circle, wallet32
+
+conclusion:
+1. Breadwallet (or other iOS/mobile wallet)
+2. multiple “paper wallets”
+
+temp for OS X:
+Electrum
+  - 2FA via TrustedCoin has a $1.50 fee
+    - https://api.trustedcoin.com/#/electrum-help
+  - https://www.reddit.com/r/Bitcoin/comments/31rf0v/is_an_electrum_standard_wallet_enough_protection/
+    - “Is the system you run Electrum on secure? It alls depends if that system is clean or it might have malware.”
+    - “Enough for what? You haven't given enough info. The amount of effort you put into securing your coins should be proportional to the amount of coins you have (in that wallet). You don't have bank grade security on your wallet in your pocket do you?”
+
+
+
+
+
+# sources
+
+
+https://www.maicoin.com/en/hilife
+https://www.bitoex.com/fami?locale=en
+  - “What is the minimum quantity of transfer bitcoin via BitoEX?
+
+The fees of transfering bitcoin in BitoEX is 0.0001 bitcoin ($0.40). The minimum quantity of transfering is 0.001 bitcoin.”
+  - “First, you need to sign in BitoEX. You can set up withdraw amount and bank account from the My Wallet menu under the Withdrawal tab. If your cash balance is less than minimum withdrawal amount, you can use the Sell Bitcoin functionality, which is from the Sell Bitcoin menu under the Sell Bitcoin tab, to sell your bitcoin. After you selling your bitcoin, the cash amount will add to your account cash balance.”
+  - “How long does it take to withdraw money from BitoEX?
+
+If the cumulative amount per day is less than 100,000, it takes 2-5 work days to transfer money to your bank account. Otherwise, it takes about 10 work days.”
+
+
+
+sources:
+https://en.wikipedia.org/wiki/Digital_currency
+  - https://en.wikipedia.org/wiki/Cryptocurrency
+
+
+https://medium.com/@yurenju/bitcoin-%E6%9C%8D%E5%8B%99%E7%B0%A1%E4%BB%8B-coinbase-maicoin-bitoex-c07ad5cdf07a
+
+http://billtoberich.pixnet.net/blog/post/170155637-%28%E6%AF%94%E7%89%B9%E5%B9%A3%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%29%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E9%81%B8%E6%93%87%E4%BD%BF%E7%94%A8bitoex%EF%BC%9F%E8%80%8C
+
+https://www.ptt.cc/bbs/DigiCurrency/M.1488873473.A.4BF.html
+  - todo: haven’t read yet
+
+https://www.reddit.com/r/Bitcoin/comments/1i5mvo/how_is_bitcoin_that_anonymous_if_i_have_to_verify/
+  - “Bitcoin is anonymous. The exchanges are not. That's the government rub.
+Now if you walk up to me and say, "Hey, I'd like to buy some bitcons from you", create your own address and I send them to you for cash then you can't get much more anonymous than that.”
+  - “This annoying verification crap is what the government forces the exchanges to do, otherwise they get screwed for not complying with anti-money-laundering regulation. You're correct to be angry about it, because it's bullshit. But it is as it is. If you want more anonymous coins, you have 3 alternatives:
+buy them from someone you meet in person (localbitcoins), or via something like bitcoin-otc - always be careful and apply common sense though. There are scammers everywhere.
+use a mixing service like blockchain.info's shared send to launder your coins after you buy them at an exchange
+mine them yourselves. It doesn't get more anonymous than that, but it's hardly an option if you just want to buy some coins.”
+  - read again?
+
+https://www.buybitcoinworldwide.com/exchanges/coinbase/
+  - 1.5% fee bank transfer, 3% fee credit/debit card
+
+https://www.buybitcoinworldwide.com/price/
+  - this site in general just is really good to read
+
+
+https://en.wikipedia.org/wiki/Digital_currency_exchange
+
+https://99bitcoins.com/best-bitcoin-exchanges-comparison-review/
+
+https://www.reddit.com/r/Bitcoin/comments/694nxm/trading_on_gdax_vs_buyingselling_on_coinbase/
+  - “I suggest picking a wallet from https://bitcoin.org/en/choose-your-wallet considering only those wallets without mouse-over warning.”
+
+https://www.reddit.com/r/Bitcoin/comments/6cgo8i/wtf_coinbase_new_higher_fees/
+  - “Coinbase is a service that is heavily legitimizing Bitcoin. They will have high fees and they will have strict security and identity checks.
+They are absolutely the EASIEST way to get new people in to crypto. They are doing a ton for this community and I think it's kind of entitled to complain considering the risk they are taking.
+If you are an advanced Bitcoin user there are many many exchanges you can use with low fees or, like many people mentioned, you can even use Coinbase's own exchange GDAX for low fees.
+Coinbase's main frontend has easy to use apps, easy to purchase methods, great security, insurance, etc etc. There's a ton of reasons these fees exist especially right now during extremely high bandwidth and turmoil in the technology. They are completely shielding average users from this and make it so simple nearly anyone can get in to it.
+Before Coinbase I had basically zero way to get my non-tech friends in to Bitcoin. For my tech friends, I tell them to use one of DOZENS of exchanges where fees are lower if they are trading with any frequency.”
+    - “Coinbase is no so simpler for beginners than Gemini. And Gemini has lower fees than Coinbase.
+Thanks coinbase, for what you've done for Bitcoin. You still have to compete for my business.”
+    - try Gemini?
+  - “I just sent 2.40 cents from my Coinbase account to a new Blockchain wallet as a test and received 0.24 cents in the wallet. Coinbase fee appears to be 90% of the transaction. Actual data, I sent .000979 bitcoin and received .0001 bitcoin!
+I have been a Coinbase supporter for years but this seems a bit outrageous. I guess we will never be able to buy a cup of coffee with bitcoin.”
+    - lol
+
+https://support.coinbase.com/customer/portal/articles/2109597-buy-sell-bank-transfer-fees
+
+https://coincheck.com/en/blog/1515
+  - blog by a self-proclaimed tech nomad living in Taiwan and Japan

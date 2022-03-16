@@ -1,0 +1,52 @@
+to my motorcycle:
+
+Kawasaki GTO:
+
+model:
+gto m8xxx
+
+perhaps a kh110 (not kh125)
+  - carburetor same between kh110 and ar125 (the ar125 has the power ranger front cover)
+
+carburetor:
+  - need parts, Mikuni vmXX, not sure of model
+  - not the same as gto m4
+
+to fix / maintain:
+- carb’ adjusted to rev’ too much on idle, ‘causing the motorcycle to move on neutral (whether it’s in neutral gear or the clutch is simply being held in)
+  - that doesn’t make sense. when the clutch is being held in, it should’nt move the motorcycle!
+
+- all cable lines suck during the rain, getting stuck and squeaking
+
+- **the clutch cable can surely be more smooth with a better cable**
+
+- **battery may be the reason why the horn doesn’t work, turning lights don’t work, *and* why the lights are so weak!**
+
+- crap in the fuel tank can “plug” the carb’?
+  - added a fuel filter
+  - should just clean the fuel tank one night
+
+- there’s something floating in-side the oil tank. Is that the oil level sensor?
+—
+
+
+gears and optimal speeds:
+  - should be followed on a cold engine
+1 - 0-5
+2 - 5-15
+3 - 20-30
+4 - 30-40
+5 - 40+
+
+gears and speeds to avoid stalling / clicking:
+  - can do once the engine is warmed up
+1 - 0-5
+2 - 5-20
+3 - 20+
+4 - 20+
+5 - 20+
+
+other notes on gears:
+- use the last gear to cruise, not accelerate
+- can use 3rd or 4th gear to go from 20-40, depending on how fast you want to accelerate
+—

@@ -1,0 +1,63 @@
+Kawasaki GTO
+
+https://www.motorcyclespecs.co.za/model/kawasaki/kawasaki_gto125.htm
+  - todo: **says can adjust rear shock absorbers!**
+
+how to add the correct fuel to oil ratio:
+
+**my GTO came with an oil pump!**
+
+20-50ml per liter, depending on motorcycle, **see motorcycle manual**
+30-40ml usually, with 40 as normal running and 30 for really really revving it, as in extreme dirt bike racing
+
+**25ml - 40:1 ratio**
+31ml - 32:1 ratio
+
+1 table-spoon: 10-15ml
+1 soup-spoon: 15ml
+standard bottle cap: 2.5 ml
+oil bottle cap: 25ml? / 2 table-spoons
+... **hopefully the oil bottle comes with measurement readings**
+
+13.5L petrol tank
+337ml max / empty tank
+325ml for 13L
+**250ml for 10L**
+  - good for oil cans, as they come in .5L and 1L sizes
+
+just do the math at the gas station
+
+refs:
+https://www.dirtbikeplanet.com/2-stroke-fuel-ratios/
+—
+
+classic motorcycle info:
+https://www.reddit.com/r/motorcycles/comments/1j3jtv/could_you_always_run_bike_on_reserve/
+  - various good answers about running the motorcycle on fuel reserve or not
+
+maintenance:
+brakes check (n’ replace if needed)
+  - https://m.youtube.com/watch?v=kPm5g9nd3pI
+    - very good video on rear drum brakes, includes checking, cleaning, and adjusting
+carburetor “tuning”
+  - cleaning?
+    - https://m.youtube.com/watch?v=dxVnX64FonY
+      - this is much more simple than i thought! just some normal tools to get it out, then some “carb cleaner”
+oil pump check
+  - https://m.youtube.com/watch?v=78UlId2ksfI
+electrics check
+
+emergency kit:
+tire repair kit
+extra spark plug
+tools to take out the spark plug
+tools to change a tire?
+  - quite cheap in Asia...
+
+refs:
+https://m.youtube.com/user/mrmaxstorey/featured
+  - this guy’s videos are very practical, straight-forward, common sense
+
+
+https://m.youtube.com/watch?v=mrtIqOwTvYc
+  - beautiful video of dis-assembling a GTO engine! it’s so simple, like taking lego pieces off. Makes motorcycle maintenance all feel very simple and normal to do.

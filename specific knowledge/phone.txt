@@ -1,0 +1,19 @@
+phones
+
+the standard VoIPs:
+Skype
+Google Voice
+  - i moved my US carrier phone number here before leaving the States
+
+“secondary phone” apps:
+Burner
+  - originally used to make temporary numbers
+  - now the most popular app (3/2020), so they now support permanent numbers
+  - i tried on iOS, and to begin using it, it requires a carrier phone number
+Telos
+  - currently unavailable on the iOS app store?
+
+
+
+
+https://medium.com/@janetcpatterson/12-best-second-phone-number-apps-for-android-and-iphone-ee0583683745

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with spencegarland@gmail.com on 2009-03-27</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-27 18:15:52"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you dirty slut</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 18:15:55"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">where are you</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 19:22:57"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yea... i see what you did, i got charset working</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 19:43:21"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">neil said to meet at lab on saturday at 12</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 20:56:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">r u working on it now?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 20:56:50"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yeah</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 20:56:52"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmk</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 20:56:58"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i'll prolly work on it late night</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 20:57:13"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">did you get all my previous messages?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 20:57:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">Spencer: you dirty slut<br />Spencer: where are you<br />Spencer: yea... i see what you did, i got charset working<br />Spencer: neil said to meet at lab on saturday at 12</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 20:57:25"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 20:57:27"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i think i figured out how to check directory for files</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 20:57:47"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yeah, we are meeting up tomorrow at 12 in lab</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 20:57:48"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">cool</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 20:58:00"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">kk</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 21:02:39"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i've been going through a lot of nujabes's crew/people under his record label....they're all pretty awesome</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:02:58"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">name some others</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 21:03:01"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i still need those nomak cd's...cause i listened to calm about 3x and am lovin it =P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:03:24"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">maybe i can put it up on the web server</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 21:05:16"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">uyama hiroto, jemapur and nomak so far....haven't listened but dl'd substantial and CYNE</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:05:44"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">dl'd = download?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 21:05:47"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:05:55"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">lol k</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 21:07:20"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">if u downloaded nujabes hydeout productions cds, its the people in there</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:08:01"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">oh i see</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 21:56:48"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i may hav ran into a dream of yours http://www.youtube.com/watch?v=eodFU4b237s</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:57:56"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i hate you</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:58:01"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">but tasty</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:59:53"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">some many asians</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 21:59:54"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">dont lie, you know u luv it ;)</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:59:55"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">ummmmmm</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 22:00:03"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yeah i just had to mute it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 22:00:09"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aw</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 22:13:22"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">are you messing with webserver</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 22:13:37"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">nope</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 22:32:11"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">something is wrong with the for loops in the accept function, i cant figure it out, you try</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 22:32:13"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i give up for now</span></div>

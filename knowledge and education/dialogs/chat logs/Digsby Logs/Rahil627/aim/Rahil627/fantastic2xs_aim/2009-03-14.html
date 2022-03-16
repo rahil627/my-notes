@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-03-14</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:13:37"><span class="buddy">fantastic2xs</span> <span class="msgcontent">btw</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:13:41"><span class="buddy">fantastic2xs</span> <span class="msgcontent">boggie town makes my head hurt</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:18:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahahahahha</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:18:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ooo god, that trailer was great</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:18:38"><span class="buddy">fantastic2xs</span> <span class="msgcontent">movie night time?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:18:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">right up your alley, right? =P</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:18:44"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ooo</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:18:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">talking to boose now</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:18:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">he's coming sunday</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:18:52"><span class="buddy">fantastic2xs</span> <span class="msgcontent">id have to dress up for it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:19:02"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and we're gonna watch short films at the naro on sunday 8:15</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:19:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">Don't miss this rare opportunity to see the nominees for this year's Academy Award in the category of Best Animated Short! Second-guess the Academy voters! The animated program includes all five nominees: Lavatory - Lovestory (Russia), Oktapodi (France), Le Maison en Petits Cubes (Pieces of Love, Vol. 1) (Japan), Smith &amp; Foulkes’ This Way Up (UK) and Pixar’s Presto (USA), plus a bonus selection of highly acclaimed recent shorts: Varmints (UK) featuring music by Jóhann Jóhannsson, John and Karen (UK), Gopher Broke (USA), Skhizein (France) and Hot Dog (USA), from the ever-popular Bill Plympton.</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:28:52"><span class="buddy">fantastic2xs</span> <span class="msgcontent">eh</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:28:56"><span class="buddy">fantastic2xs</span> <span class="msgcontent">not interested</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:41:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wowwww</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:41:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">gawd, what DO YOU LIKE?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:42:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">street fighter + boogie town?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:42:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">=P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:42:14"><span class="buddy">fantastic2xs</span> <span class="msgcontent">well yeah</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:42:22"><span class="buddy">fantastic2xs</span> <span class="msgcontent">whats not to like</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:42:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:'( </span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:42:51"><span class="buddy">fantastic2xs</span> <span class="msgcontent">battle dancing is illegal</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:43:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hehehe</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:43:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i didnt' believe it was real at first</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:44:25"><span class="buddy">fantastic2xs</span> <span class="msgcontent">nor did I</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:44:28"><span class="buddy">fantastic2xs</span> <span class="msgcontent">until the SUMMER 2009</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:44:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ughh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:46:34"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it's like dragon ball with dancing</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:46:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat's it gotta do with dragon ball</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:47:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it seemed like a vampire movie to me</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:47:14"><span class="buddy">fantastic2xs</span> <span class="msgcontent">incomprehensible plot</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:47:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahah</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:47:27"><span class="buddy">fantastic2xs</span> <span class="msgcontent">or, everything</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:48:12"><span class="buddy">fantastic2xs</span> <span class="msgcontent">look dude</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:48:17"><span class="buddy">fantastic2xs</span> <span class="msgcontent">im listening to eurobeat</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:48:24"><span class="buddy">fantastic2xs</span> <span class="msgcontent">everything is awsome with eurobeat</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:49:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea, im stuck on indie rock. which is a general term that encompasses a lot of genres</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:50:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">been stuck for a year...before that i jumped thorugh so many genres, but it all got old quick =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:50:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat's some good eurobeat aritst</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:50:34"><span class="buddy">fantastic2xs</span> <span class="msgcontent">indie = stuck up bastards</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:50:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:50:45"><span class="buddy">fantastic2xs</span> <span class="msgcontent">prove me wrong</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:50:54"><span class="buddy">fantastic2xs</span> <span class="msgcontent">YOU CAN'T.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:51:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">indie is so general......anything can be it...form electronic to folk</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:51:19"><span class="buddy">fantastic2xs</span> <span class="msgcontent">its just unsigned bands though as far as i can work out</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:51:35"><span class="buddy">fantastic2xs</span> <span class="msgcontent">if you get signed you sold out.</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:53:07"><span class="buddy">fantastic2xs</span> <span class="msgcontent">also i don't know eurobeat artisits</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:53:14"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i just download huge collections and listen to it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:53:47"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah, pretty much.....but indie is so sexy XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:53:57"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just torrent eurobeat?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:54:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">all i can imagine it big eurodouches dancing =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:54:45"><span class="buddy">fantastic2xs</span> <span class="msgcontent">just download the initial D soundtracks :P</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:54:54"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">out of techno/trance/wateva i would only go into some variant of house</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:55:03"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i prefer trance</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:55:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">doesn't the sounds get old? :( don't u want more instruments...mebbe some lyrics!? lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:56:32"><span class="buddy">fantastic2xs</span> <span class="msgcontent">because all trance has no lyrics?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:56:37"><span class="buddy">fantastic2xs</span> <span class="msgcontent">you dumb</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:57:07"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol, from wat i know, trance samples other songs XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:58:29"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i wish sending things worked better</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:58:44"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">trillian?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:58:50"><span class="buddy">fantastic2xs</span> <span class="msgcontent">miranda</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:58:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 05:59:08"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it shouldn't matter as long as they use the same aim protocol</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 05:59:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">those things always have probs</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:00:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ugh too many initial d soundtracks</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:00:57"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">4gb</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:01:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o damn .flac's</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:01:20"><span class="buddy">fantastic2xs</span> <span class="msgcontent">yeah</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:01:25"><span class="buddy">fantastic2xs</span> <span class="msgcontent">sadly it has some of the best songs</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:01:29"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i HATE flac</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:01:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">best collection sounds good</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:01:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o nvm thats the 3 disc flac</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:02:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol theres a movie?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:02:17"><span class="buddy">fantastic2xs</span> <span class="msgcontent">yeah i never seen it</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:02:22"><span class="buddy">fantastic2xs</span> <span class="msgcontent">nor any of the anime</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:02:34"><span class="buddy">fantastic2xs</span> <span class="msgcontent">or manga</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:02:36"><span class="buddy">fantastic2xs</span> <span class="msgcontent">whatever it is</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:04:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so...trance has lyrics?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:04:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">heh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:09:18"><span class="buddy">fantastic2xs</span> <span class="msgcontent">professional trance does</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:09:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol pro trance?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:09:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">meaning, not fan-made trance?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:10:23"><span class="buddy">fantastic2xs</span> <span class="msgcontent">theres actual trance artists</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:10:27"><span class="buddy">fantastic2xs</span> <span class="msgcontent">like BT</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-14 06:10:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh god, i hope so</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-14 06:10:34"><span class="buddy">fantastic2xs</span> <span class="msgcontent">they usually get real singers</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 03:41:54"><span class="buddy">fantastic2xs</span> <span class="msgcontent">listenin to some disno</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 03:42:11"><span class="buddy">fantastic2xs</span> <span class="msgcontent">discno*</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 03:42:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">disco?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 03:42:26"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it's like disco with techno</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 03:42:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o hah</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 03:42:39"><span class="buddy">fantastic2xs</span> <span class="msgcontent">the sounds are from the disco age</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 03:42:49"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but youd have a hard time dancing to it like then</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 03:43:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">issit a real term or did u make it up ? =P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 03:43:28"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i made it up</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-15 03:43:32"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but boy does it fit</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-15 03:43:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>

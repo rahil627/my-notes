@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with shutupyohface on 2009-04-05</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:00:06"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">something else?</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:00:12"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">meaning u dont remember?</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:00:15"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">or he dint tell u?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:00:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">dont remember</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:02:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well i think it was just psych...but said majoring in science blows because you either teach or come up with a rape idea</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:03:47"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">anyhow...i wasn't sure what he should do :/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:04:40"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">haha</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:04:46"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">wait, when do u graduate?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:04:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">may</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:06:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im thinkin about not going to the ceremony.......cause im not very proud of odu and hate ceremonies. oh and i'd rather sleep</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:07:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah, so i'll be going through some future life thoughts too.... =/<br>i went through a lot during my vacation in india</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:07:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">they all end up with me being awesome + rich</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:08:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and turning into philanthropist<br>and saving babies...</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:09:00"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">lmao</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:09:06"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">nigga u are killin me</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:10:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:) this is the truth. i daydream...a lot...about asperations, i've played just about every occupation (most being ludicrous) in my mind...and i'm always successful at it<br><br>otherwise, i daydream about elaborate, clever near-future actions/conversations that are either amazing or comical to me ('cause I made 'em up!)<br></span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:11:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i still have the mind of a care-free child...it's prolly why i'm always happy</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:12:11"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">haha that's admirable</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:12:18"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">you really are Butters</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:12:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">LOL</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:12:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">butters's dreams of being a tap dancer XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:14:57"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ah well...college just blows. i was very close to taking a time-out between HS and college, because i was skeptical of it. how come no1 told me this wen i was younger.</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:16:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">programmers can get a job by merely having the skills + knowledge of programming. now im down 4 years</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:16:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">k's back to homework :(:(:(:(:(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:17:05"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">haha</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:17:20"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">we'll hang during summer</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:17:31"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">when classes let go of our testicles</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:18:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">heheh yeah. i'll finally be able to hang out, without worrying about school....and wtf smells like balogne</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:19:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i think it's coming from the window</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:21:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">balogne is the nastiest lunch meat ever, ugh. <br>god displays his hate to me by sending wafts of balogne</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:21:31"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">lol</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:21:41"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">god does hate heathens</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 04:21:46"><span class="buddy">shutupyohface</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">go do some work nigga</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 04:22:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahaha k...it's the caffiene talking :(</span></span></div>

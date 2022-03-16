@@ -1,0 +1,66 @@
+todo:
+Contact your two referees as early as possible
+
+The TFD will mail two copies of your official acceptance letter to the address provided on your application. Sign both copies and mail one copy back to the TFD, keeping the other copy for your records
+—
+
+
+outline:
+1.
+Title of project:  							Proposed dates of project: 		                 		                         
+				         
+
+2. Describe your project plan in no more than five double-spaced pages. Please include the following information:
+
+Description of issues and problems to be addressed, significance of these issues and objectives of the project
+Methodology of the project
+Relevance of your work to the work of other professionals and organizations
+Progress to date of the proposed project, a timetable for the project and potential collaborators (institutions or individuals)
+
+3. Explain how you will take advantage of the different opportunities the TFD Democracy and Human Rights Service Fellowship offers in no more than one double-spaced page.
+—
+
+2. Description of Project Plan
+
+2.1 Description of issues and problems to be addressed, significance of these issues and objectives of the project
+
+2.2 Methodology of the project
+
+2.3 Relevance of your work to the work of other professionals and organizations
+
+2.4 Progress to date of the proposed project, a timetable for the project and potential collaborators (institutions or individuals)
+
+3. Explain how you will take advantage of the different opportunities the TFD Democracy and Human Rights Service Fellowship offers:
+—
+
+
+cut:
+
+Date:
+The date is negotiable. I am currently, physically, writing this from the town of Luodong. I plan to stay in or around Taiwan from this time point on. I stopped my master’s program (Person’s Design and Technology) in order to pursue toward civic interests in Taiwan. I may apply to two civic-oriented programs: research at MIT Media Lab (Civic Media Group) and NTU master’s in urban planning, which will likely start around September. I prefer this grant above NTU, and even if I am accepted to MIT, I would like to bring that knowledge back to Taiwan. If I am accepted to NTU, then I will begin Chinese classes in Taiwan, perhaps in March.
+
+A Primer:
+I am applying to this because it fits my desires in generality not specifically, and so, this application will reflect that, subsequently reorganizing the outline of application.
+
+Motive:
+In 2013, I volunteered, travelled and lived (any maybe protested) in Taiwan for periods of time. I had good experiences within the society of Taiwan, felt a strong sense of community and civil service, and decided that I will return, with intent to be a part of that positive force.
+
+Past Thoughts:
+The following Ideal Objectives and the Development towards them, were written in the past, but are fitting to see my mind:
+
+On Human Rights and Development:
+From the few travels around Taiwan I am aware of social problems: rampant urban development projects, lack of policy, lack of care of policies, lack of enforcement (what do they do?), prostitution, lack of healthcare on the east coast, land conflicts with indigenous peoples, underpaid migrant workers, etc. I am also aware of current social processes: the accumulation of capital, consumerism, urbanization, globalization (migrant workers, language teachers), etc.
+
+I am willing to make efforts toward many of these problems, but my focus is on organizing knowledge (awareness) and people (action), which reflects my experience in programming, design and technology, and knowledge in urban planning.
+
+On Human Rights and Development again:
+I notice that my outline is lacking in human rights. In a country where law enforcement is minimal, therefore rendering many laws useless, I believe working toward better self-governance, education, civil (and ecological) conduct, is better, especially in the case of Taiwan, where the ideology, form my experience, is quite well-natured. For example, if a migrant worker were to come to a clinic without health insurance, I believe it is up to the clinician to do the right thing, and from my experience, this is often positive. More likely the problem, I think, is the lack of resources in less developed areas, in this example, a professionally trained clinician with medicine in the area.
+
+Ideal Objectives:
+I want to continue living in Taiwan, manage a public space in a city, collaborate with organizations here, be a part of my neighborhood, city, and country; I want to be a part of the civic decisions that goes on it, make it better by giving people methods to make civic decisions and methods to take action beyond the recent social media leveraged protests, organize reality to help decision-making; help communities maintain themselves by being aware of local problems, encourage people to socialize and collaborate with neighbors, encourage sharing; further autonomy with self-service housing, workspaces, and work; etc. all those ideals.
+
+Development of tools as the method toward ideal objectives,:
+To complete these objectives: there should be tools to help organize people physically and stay up to date with those people digitally, to allow people make civic decisions and take action, to allow people to educate themselves under the circumstances of the current lifestyle, tools to teach community leaders how to organize, to enable community leaders to organize urban data, to match the right solver to the problem; There should be a better designed city to calm people from moving and find people nearby to work with. Simple ideas should exist to facilitate sharing. There should be tools to have local discussion, to corrode corruption; Thanks to Taiwan's solidarity, the autonomy of the country can be furthered with successful examples of the uses of spaces -- housing, education, work, play, and mixes; etc. all those ideal, tools.
+
+Feasibility of the Development of Digital Tools:
+All tools will use existing web and mobile applications. I highly doubt the need of designing anything new.

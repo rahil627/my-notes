@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with cpuracr8 on 2009-04-20</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:08:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yoyo</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:12:49"><span class="buddy">cpuracr8</span> <span class="msgcontent">hey</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:12:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">heya, r rewrites due tomorrow?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:13:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">AND when the hell is HW5 gonna be posted :(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:16:39"><span class="buddy">cpuracr8</span> <span class="msgcontent">wednesday</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:16:45"><span class="buddy">cpuracr8</span> <span class="msgcontent">hw5 was supposed to be tonight</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:17:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wah...was supposed to be due friday</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:17:13"><span class="buddy">cpuracr8</span> <span class="msgcontent">yea i know</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:17:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ohh be released</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:17:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:17:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">he said it'll be up by the weekend..still nothing =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:17:34"><span class="buddy">cpuracr8</span> <span class="msgcontent">well :-\</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:18:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well, this puts me in a bad situation where every assignment is stacked up on the same days...arghh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:18:41"><span class="buddy">cpuracr8</span> <span class="msgcontent">raggh</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:18:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i dont even know when lab4 is due</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:19:04"><span class="buddy">cpuracr8</span> <span class="msgcontent">wednesday i think</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:19:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">this wed?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:19:11"><span class="buddy">cpuracr8</span> <span class="msgcontent">yea</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:19:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">doh, hope not</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:19:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no1 knows :/ ....orange group e-mailed her about the date, but she hasn't reopsonded</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:20:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ah well...i'll just do both tonight</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:20:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">since i don't have shit to do until hw5 is released</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:21:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">gooodamnn u...i can't believe u still got a free XPS</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:21:12"><span class="buddy">cpuracr8</span> <span class="msgcontent">haha</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:21:14"><span class="buddy">cpuracr8</span> <span class="msgcontent">OWN</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:21:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">is it the studio xps or gaming</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:22:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">or liek..wat card did it come with</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:22:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:22:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">graphics card*</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:24:38"><span class="buddy">cpuracr8</span> <span class="msgcontent">whatever the studio xps 16 is</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-20 03:24:55"><span class="buddy">cpuracr8</span> <span class="msgcontent"><font face="arial"><font size="1">ATI Mobility RADEON® HD 3670 - 512MB</font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:25:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">damn sweet</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-20 03:26:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">gawd...that's still a $1000+ laptop</span></span></div>

@@ -1,0 +1,47 @@
+this is pretty much everything i do and this'll all change after the expansion =D
+
+pretty much everything can be found at [URL=http://www.wowwiki.com/]WOWwiki[/URL]....but for items/quests use [URL=http://www.thottbot.com]thottbot[/URL]
+
+[u]Talent Builds[/u]
+i use Badger's Hunter PvE talent build from [URL=http://www.wowwiki.com/Hunter_builds]http://www.wowwiki.com/Hunter_builds[/URL]
+i took out 2 points from surivalist and placed them into savage strikes and i might change from 5 imp wing clip to entrapment for the sake of pvp
+if you have enough agility (450+?) can use Badger's PvP talent build which will yield more agility thus more crit/dodge
+i think one of the marks/beastmaster builds would be best for raiding, if your pet actually gets a rejuv every now and then....right now with marksman build my pet still does 1/4 of my dmg on the damage meters
+
+[u]Mods[/u]
+i havn't really made a nice UI yet, for all those skill buttons =/ just have blizzard default, added right side + bottom right skill bars....
+i use some crap from cosmos like trackertoggle, AllInOneInventory, Stupid Mount, Durability Status, Notepad but had to disable a lot of other ones
+i also added a couple independent ones such as: AVbars, Atlas + AtlasLoot Enhanced, Damage Meters, Auctioneer (has many addons too), Gatherer, and KLHThreatMeters
+
+[u]Damage Cycle[/u]
+if you have a slow weapon with over 3 attack speed, you can use aimed shot in between your attacks without taking any/much time from auto-shot....
+in raids i just shoot->aimed->free shot->multi-shot->shoot...this is high DPS, so watch the threat meters =/
+
+[u]PvP[/u]
+i should have knight-captain tomorrow....pvp does get boring at times because the horde owns WSG/AB and don't even start it now that expansion will change the system heh
+you can join all 3 BG queues at the same time, and you can join another BG while you are in the middle of another one...
+i use so many flares (detect rogues), feign death (FD)/freeze traps, concussion and scatter shots! i don't get to used many aimed shot, just 1 after freeze and sometimes scatter...so i just conc->shoot->multi->shoot->arcane (it's been critting a lot lately)
+i use frost traps more in AV, use viper sting vs hunters/shamens, use serpant sting on a runner with low hp
+in closer range, i use scatter->feign death->freeze, run + aim/send pet...i'm not very happy about my improved wing clip
+Oh yea, i use ice barbed spear (IBS) cause i love the damage of a 2 handed weapon from a raptor strike with savage strikes talent....it's also nice to have a fast attack speed pet (broken tooth/bloodseeker bat)
+
+[u]Item Stats & Mechanics[/u]
+1 Agility = 2 Ranged Attack Power + 1 Melee Attack Power + 2 Armor
+7 Agility/14 Ranged Attack Power = 1 dps
+53 Agility = +1% Critical<---this sucks, so get some + crit % items
+26.50 Agility = +1% Dodge
+55 Intellect = +1% Spell Critical
+1 Strength = 1 melee attack power
+1 Stamina = 10 Health
+1 Intellect = 1.5 Mana
+10 Spirit = 2 Mana per Tick
+
+you have a 96% chance to hit
+enemies ame level as you: 4% to miss
++1 level compared to you: 5% to miss
++2 levels compared to you: 6% miss
++3 levels compare to you: 17% miss on mobs, 13% on players (late raid bosses)
+It continues with 11% on mobs and 7% on players until you can't hit them anymore. 
+so as for hit %, atleast have that 4%
+
+well that's just some of the stuff, hopefully you figure out the rest

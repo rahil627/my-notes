@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with spencegarland@gmail.com on 2009-04-11</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:46:54"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yo</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:47:08"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">where's the instructions to create the circuit?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:47:14"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you just get up?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:47:17"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yes</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:47:22"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">zomg</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:47:29"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it's like this every weeeknd</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:47:37"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i got drunk last night and im up before yu</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:47:40"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:47:55"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">create circut, you mean solder?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:48:04"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">naha...the switch + LEDs?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:48:19"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">eh</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:48:59"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">oh, those, i dont think we have any instructions for them</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:49:05"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">idk</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:49:16"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aw k</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:49:34"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">in the homework details it tells what ports to set them on</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:52:34"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">so, you got web server working after intializing fil?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:52:40"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">with A3 tests</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:53:06"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i only used one test..but taht was the problem</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:53:21"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">did the error log tellyou that?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:53:21"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">did u change that while editing code?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:53:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:53:49"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it retunes none right after it gets out the functions if fil=''</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:54:03"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yeah, i didnt change that</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:54:10"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i dont know why it suddenly started</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:55:08"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i fixed everything else though, except for structured etags</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:55:20"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmk</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:56:02"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">did you get digest working ?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:56:13"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">nope, not yet =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:56:46"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">was doing the recursive function to check for 'WeMustProtectThisHouse' file in the folders above..</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-11 20:56:55"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">there's so much godamn code</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-11 20:57:05"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">lol, yep</span></div>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-03-27</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-27 04:11:16"><span class="buddy">fantastic2xs</span> <span class="msgcontent">anyways it was a good movie i think</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 04:11:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm yea, i bet it is....reaped every award</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 04:11:49"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but is the classic rags to riches story</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 04:12:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm yea, thas wat i expect</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 04:14:23"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i shall watch it again one day im sure</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:44:50"><span class="buddy">fantastic2xs</span> <span class="msgcontent">http://www.youtube.com/watch?v=KFt_NILe-TM</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 21:44:53"><span class="buddy">fantastic2xs</span> <span class="msgcontent">here ya go</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 21:52:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well, that was fun :P</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-28 00:36:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">uuuuuuuugh, enver's comp was in terrible condition wen i got it</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-28 00:37:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">stop errors galore</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-28 00:37:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no fun :(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-28 00:37:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but i did find out you can simply press cntrl+alt+delete to skip the windows activation screen! lawl</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-28 00:38:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">silly windows</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-28 00:39:11"><span class="buddy">fantastic2xs</span> <span class="msgcontent">VISTA CORPORATE</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-28 00:39:16"><span class="buddy">fantastic2xs</span> <span class="msgcontent">NEVER ASKS TO BE ACTIVATED</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-28 00:39:17"><span class="buddy">fantastic2xs</span> <span class="msgcontent">EVER</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-28 00:39:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">niice</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-28 00:39:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">is that wat u have on both pcs?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-28 00:54:15"><span class="buddy">fantastic2xs</span> <span class="msgcontent">3</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-28 01:02:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">3? parents?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-28 01:03:00"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i have 3 computers that use</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-28 01:03:07"><span class="buddy">fantastic2xs</span> <span class="msgcontent">my parent's laptop can't</span></div>

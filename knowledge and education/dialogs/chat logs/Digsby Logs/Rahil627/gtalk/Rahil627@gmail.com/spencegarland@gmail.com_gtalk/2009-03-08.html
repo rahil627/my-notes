@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with spencegarland@gmail.com on 2009-03-08</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:36:13"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yo</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:36:16"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yo</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:36:19"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i ran outta space lawl</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:36:34"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">getting better at this shiz though</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:36:56"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im sure i can do everything...but haven't thought much about stride =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:37:23"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i made everything i did work with stride</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:37:30"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">doh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:37:35"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat do u mean</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:38:19"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">compared everything to one variable?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:38:40"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">hey, i have this poster shit due tomorrow and need to work on it right now with my partner and tomorrow too, maybe i can help you tomorrow, ill send you my code, but if you can try to find another way to do it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:38:43"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh and what's the proper initial setttings for wookie</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:39:05"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:39:11"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well i haven't evne looked into yet</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:39:34"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i used a stride variable just like the counter and had it added to counter</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:39:46"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">everytime in the state loops</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:39:48"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ah k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:39:59"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah...thought the same</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:40:12"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">but when the user inputs something for stride it is in ASCII not hex</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:40:16"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you have to convert</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:40:28"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you do this by simple SUBA #$30</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:40:36"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o snap nice</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:40:40"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">ill explain tomorrow</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:40:44"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:40:48"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">tanx</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:41:15"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">do you still want the code or try to do it without it and ill give it to you tomorrow if still needed?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:41:22"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">tomorrow is fine</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:41:30"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im almost done with hex</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:41:45"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just need to save space :(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:42:02"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">dont worry about space right now</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:42:18"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">just make it work, you'll see the ways to save space afterwards</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:42:32"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">look at his last 2 powerpoints in ways to save space</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:42:47"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hmm k, will do</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:42:50"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">alright im out for now</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:42:52"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ltr</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:43:09"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">ltr? i dont know this internet talk</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:43:23"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">iterator</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:44:19"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">later</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:44:28"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">you CS nerd ;)</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:44:36"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:44:42"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">so true</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:45:11"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">omg phpmyadmin 5.3486 on a mac os x !</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:45:28"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">alright ryan</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:45:48"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm wats masking XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:46:11"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">tomorrow man, i cant think of that right now</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:46:27"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i used it for the hex though</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:46:35"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah k</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:46:44"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">deals with ANDA and LSRA</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:46:59"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">think in binary of 8 digits</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:47:00"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">k</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:47:42"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">and try to move everything from high to low and vice versa for example $1D, isolate the first hex character and then the 2nd</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:48:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">doh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:49:02"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm dont understand</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:50:13"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">ill send my secret to life notepad i wrote it on in a sec but thats it, i need to work on this shit now</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:51:27"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:51:47"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i a folder full of .txt files</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:51:53"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i have*</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:52:23"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">many secrets =P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 06:52:47"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">no this is on a piece of paper im scanning it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:53:01"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o hah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 06:59:20"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">heeh girl talk...go listen!</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:53:16"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i used one counter for everything</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:53:29"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that same one?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:53:34"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yeah</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:53:37"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o damn k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:53:44"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i was thinkin about going back and trying the old one</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:53:55"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">the counter is the thing your breaking apart like 1D</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:53:57"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">this 1 is silly =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:54:04"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:54:15"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">the counter is the thing your masking</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:54:19"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">???</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:54:29"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">and then converting to hex and displaying</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:54:34"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:54:43"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">iunno wat masking is XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:54:49"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">if you keep inc counter it will go to FF and reset by itself</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:55:00"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:55:17"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i'll try deleting that code then..</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:55:18"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">what i wrote on that piece of paper is what i did</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:55:24"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">to the counter</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:55:26"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that thing made no sense to me lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:55:39"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you have to understand the binary logic</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:55:51"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">of doing the ANDA and LSRA to understand</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:56:30"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea i know those 2 commands</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:56:47"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">iunno how we got into binary in the first place =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:57:00"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">the whole point of masking is to take the inc counter and display the first character and then second, masking moves everything away and keeps the first digit and then used to keep the second digit</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:57:12"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you think of it in binary</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:57:18"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">to understand whats happening</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:58:14"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i sorta understand..</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:58:23"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">is this just for displaying both?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:58:45"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">cause i did that already......totally different way XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:59:02"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">this for displaying 0 then 1 in hex all the way up to FF by just using the incrementing counter</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:59:07"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ah k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:59:09"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:59:19"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">oh</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:59:24"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">then use your code</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 07:59:28"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">if you got hex working</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 07:59:50"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i was just wondering if u changed the counter.....like do u still have NUM &amp; DAT?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:00:09"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and that COMP subroutine</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:00:45"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">your way is much more efficient though XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:01:04"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yes i use all those to convert to hex</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:01:08"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">and then display</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:01:11"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">but thats it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:01:12"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:02:49"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">where do u get ID from</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:03:17"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">ID is just and example in hex for me to understand</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:03:22"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:07:53"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hmm i'll see if i can just get rid of some code....i dont see how though =/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:34:47"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">Spencer: if you keep inc counter it will go to FF and reset by itself ... this sisnt work for me :(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:36:00"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but does make sense</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:39:04"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">huh, it worked for me</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:39:17"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that would save sooo much space though</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:39:48"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">once i get that, i thnk i should be fine</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:40:50"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ima sleeep</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:41:06"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">it doesnt take up space, i declare it in the counter FCB $00</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:41:17"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">declare wat</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:41:20"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">under ORG DATA</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:41:22"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">the counter</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:41:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:41:28"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">and then i increment it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:41:32"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 08:41:38"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">it doesnt take up space in main</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:41:50"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea i know..it makes sense..prolly jsut coding wrong</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 08:41:59"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">too sleepy now =P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 17:59:35"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">do you need my code?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:00:05"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmmm not yet</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:19:38"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmmm yea....i went to the very first code...and it does get stuck after F....doesn't reset by itself =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:20:03"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">stuck after FF or F</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:20:09"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">F</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:20:09"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">cause it only does it after FF</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:20:17"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oo k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:20:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrm</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:21:19"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">my friend here named andrew that lives below me says IT majors rule</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:21:31"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:22:01"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">in their competency of microsoft word?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:22:06"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">oh its not the andrews you know, its the black andrew that lives below me</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:22:14"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">LOL</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:22:17"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">awesome</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:23:15"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">argh, yea give me yo code :/ my way definitely wont work now.</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 18:24:16"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">done</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:24:26"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah tanx</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:24:58"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol...yea did all the inputs the same way</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 18:25:09"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just a buncha booleans</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 21:51:12"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">what do you mean it doesnt run correctly</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 21:51:29"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i found just found out it was missing a INC count</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 21:51:58"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">took foreverr though XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 21:52:12"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">no, did you look at what the default settings are suppose to be for the project, you have to enter stride to get it going or enable counting</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 21:52:39"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">dont make me test my shit out again right now just to make sure it worked</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 21:52:48"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oooooooooo yea...crap..that it then</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 21:52:51"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 21:52:59"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">thank god</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-08 21:53:02"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i hate you</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-08 21:53:07"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:-D</span></span></div>

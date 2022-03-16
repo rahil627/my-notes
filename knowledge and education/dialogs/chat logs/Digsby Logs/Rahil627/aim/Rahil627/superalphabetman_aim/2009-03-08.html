@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with superalphabetman on 2009-03-09</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-09 03:21:54"><span class="buddy">superalphabetman</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=1 COLOR=#000080>hey, rahil.</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-09 03:21:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">waddup</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-09 03:22:05"><span class="buddy">superalphabetman</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=1 COLOR=#000080>I got a link for ya</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-09 03:22:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">uh hos</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-09 03:22:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">shoot</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-09 03:22:25"><span class="buddy">superalphabetman</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=1 COLOR=#000080>s2b.experience.com</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-09 03:22:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-09 03:22:51"><span class="buddy">superalphabetman</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=1 COLOR=#000080>what?</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-09 03:22:55"><span class="buddy">superalphabetman</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=1 COLOR=#000080>it's free.</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-09 03:23:01"><span class="buddy">superalphabetman</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=1 COLOR=#000080>you should register for it.</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-09 03:23:24"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i'll bookmark it for wen i go over job searching =P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-09 03:24:19"><span class="buddy">superalphabetman</span> <span class="msgcontent"><BODY><FONT FACE="Arial" SIZE=1 COLOR=#000080>:|</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-09 03:27:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">too much to...i've been in fuck my life mode since i got back from india</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-09 03:27:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">to do*</span></span></div>

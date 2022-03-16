@@ -1,0 +1,33 @@
+1859: Preface to Contribution to critique of political economy
+
+intro:
+My inquiry led me to the conclusion that neither legal relations nor political forms could be comprehended whether by themselves or on the basis of a so-called general development of the human mind, but that on the contrary they originate in the material conditions of life, the totality of which Hegel, following the example of English and French thinkers of the eighteenth century, embraces within the term "civil society"; that the anatomy of this civil society, however, has to be sought in political economy...
+
+content:
+**In the social production of their life, men enter into definite relations that are indispensable and independent of their will, relations of production** which correspond to a definite stage of development of their material productive forces. The sum total of these relations of production constitutes the economic structure of society, the real foundation, on which rises a legal and political superstructure and to which correspond definite forms of social consciousness.
+  - good lord yes
+  - relations of production - The objective material relations that exist in any society independently of human consciousness, formed between all people in the process of social production, exchange, and distribution of material wealth.
+  - why divide into stages?
+
+The mode of production of material life conditions the social, political and intellectual life process in general. **It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness.**
+  - fuck yes, great line for materialism (the ontology)
+  - mode of production - The method of producing the necessities of life (whether for health, food, housing or needs such as education, science, nurturing, etc.).
+
+At a certain stage of their development, the material productive forces of society come in conflict with the existing relations of production, or — what is but a legal expression for the same thing — with the property relations within which they have been at work hitherto. From forms of development of the productive forces these relations turn into their fetters.
+  - is it okay to condense this to: the material wealth conflicts with labor? This shit is already getting dense.
+  - productive forces - The productive forces are the unity of means of production and labour: 1. All labour (individual, union), 2. Instruments of production (buildings, machines), 3. Subjects of production (raw materials, labor)
+  - Property, or ‘property relations’ are fundamental social relations in which the relations between people are expressed in the relation between people and things.
+
+Then begins an epoch of social revolution. With the change of the economic foundation the entire immense superstructure is more or less rapidly transformed. In considering such transformations a distinction should always be made between the material transformation of the economic conditions of production, which can be determined with the precision of natural science, and the legal, political, religious, aesthetic or philosophic — in short, ideological forms in which men become conscious of this conflict and fight it out. Just as our opinion of an individual is not based on what he thinks of himself, so can we not judge of such a period of transformation by its own consciousness; on the contrary, this consciousness must be explained rather from the contradictions of material life, from the existing conflict between the social productive forces and the relations of production.
+  - base / superstructure thingy, change base to change superstructure, etc.
+  - "this consciousness must be explained rather from the contradictions of material life", this bit is quite good
+
+No social order ever perishes before all the productive forces for which there is room in it have developed; and new, higher relations of production never appear before the material conditions of their existence have matured in the womb of the old society itself. Therefore mankind always sets itself only such tasks as it can solve; since, looking at the matter more closely, it will always be found that the tasks itself arises only when the material conditions of its solution already exist or are at least in the process of formation.
+  - don't quite get it, but it's kinda beautiful
+
+In broad outlines Asiatic[A], ancient, feudal, and modern bourgeois modes of production can be designated as progressive epochs in the economic formation of society. The bourgeois relations of production are the last antagonistic form of the social process of production — antagonistic not in the sense of individual antagonisms, but of one arising from the social conditions of life of the individuals; at the same time the productive forces developing in the womb of bourgeois society create the material conditions for the solution of that antagonism. This social formation brings, therefore, the prehistory of society to a close.
+  - so, society develops until modern bourgeois mode of production, all of which have antagonisms, but this is the last one since prehistory, because it coincidentally creates the material conditions for the solution (revolution)?
+  - jesus this is dense, maybe I do need Harvey to help me
+
+my conclusion:
+So this whole stage-based revolution / communist manifesto thing can go, but what's great are these ideas in the form of words or phrases: mode of production, relations to production, social production of their life (a great fucking line), productive forces; because these are useful in describing social reality. Like the words use in critical theory (ideology, hagemony, etc.), the words used by Marx are really useful.

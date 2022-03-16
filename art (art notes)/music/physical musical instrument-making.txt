@@ -1,0 +1,22 @@
+Just like the lute I saw at 海home, it is very simple to make stringed instruments. Simply have a string, tighten it, and have some sort of hallow container.
+
+One can make lutes, harps, whatever. I prefer horizontal harps to be plucked with 10 fingers.
+
+Or, rather, 5 fingers to hold the strings down and 5 fingers to pluck, but still, horizontally. Thus, a horizontal guitar.
+
+Or, a horizontal guitar with more strings. Allowing one to pluck several strings at a time, to create the harp or sitar-like successions and declensions.
+
+See 古琴 guqin and guzheng 古箏:
+
+
+https://en.wikipedia.org/wiki/Guqin
+  - listen to "Flowing Water"
+    - meh.
+  - good for travel!
+  - 5-10 strings, 7 standard
+  - “Written qin music did not directly tell what notes were played; instead, it was written in a tablature detailing tuning, finger positions, and stroke technique, thus comprising a step by step method and description of how to play a piece. Some tablatures do indicate notes using the gongche system, or indicate rhythm using dots. The earliest example of the modern shorthand tablature survives from around the twelfth century CE. An earlier form of music notation from the Tang era survives in just one manuscript, dated to the seventh century CE, called Jieshi Diao Youlan[24] (Solitary Orchid in Stone Tablet Mode).”
+    - no written notation!
+
+
+https://en.wikipedia.org/wiki/Guzheng
+  - this seems to be my ideal instrument. But it’s not possible to travel with. So, a MIDI controller is better.

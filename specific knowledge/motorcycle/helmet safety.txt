@@ -1,0 +1,22 @@
+motorcycle helmets:
+
+certifications
+1. DOT
+  - used in USA
+1. ECE
+  - used in Europe
+SHARP
+  - must pass ECE, then an impact rating by SHARP is added
+SNELL
+  - race oriented
+
+taiwan:
+seems to simply be a holographic certification sticker on the back :/
+
+helmets:
+something like the Daytona skullcap (“half helmet”) seems perfect
+  - can order and ship to Tainan or Gaoxiong.
+
+sources:
+https://ultimatemotorcycling.com/2013/04/08/motorcycle-helmet-standards-explained-dot-ece-22-05-snell/
+  - [i think it was this one]

@@ -1,0 +1,140 @@
+Philosophy of Mind;
+Great topic, kinda boring lecturer, though prominent.
+
+1. Meh
+
+2. Alternatives to Dualism
+Dualism is nearly universally rejected by cognitive scientists.
+
+Though Descartes vocabulary goes on.
+
+Mind and body.
+
+Substance dualism - Descartes, two entities
+
+Property dualism - two properties, mental and physical
+
+Monism - one substance
+
+Idealism - no physical or mental reality, Hegel, died once physical sciences came
+
+Materialism - physics and chemistry
+
+Behaviorism - mind is behavior, huge influence on psychology, how stimulus provided response
+
+Psychology - science of the mind
+
+Logical (/analytic) behaviorism - nothing other than behaviorism, if john believes it will rain, it means if a window is open John will close the window and if he goes to walk, he will wear an umbrella; just statements of behavior; conditional statements. Paved way to mind is a computer program.
+
+Methodological behaviorism - 
+
+[...?]
+
+# 10. How the mind works; intentionality
+[quite good and clear lecture!]
+
+Before this lecture mostly talked about consciousness, inner feelings.
+
+Function of mind is to relate us to the environment and other people.
+
+Inner feelings relate people to the world, including perceptions, intentions, beliefs, desires: intentionality.
+
+...
+
+John's (the professor's) view is that mental process can become conscious. This claim goes against Chomsky's, whom believes the mind has something not just unconscious, but computational, with grammar, so that if one says "go to x" to a child, the child's brain automatically registers the input. To John, the conscious is just a series of mental processes. Driving on the right side of the road is usually unconscious, until one drives in another country, and then becomes unconscious again once the brain rehabilitates.
+
+Intentions are often unconscious but can be conscious.
+
+Intentions are state of affairs in the world separate from the mind.
+
+What is directness? [...?]
+
+**You can get to the mind by language.**
+
+**Don't think intentionality is linguistic, can have intentions without language. The mind is prior to language. We just use analogy between intentionally and language / speech acts.**
+
+*Speech acts*. Two components: the *propositional content* and kind of statement (question, command, prediction, etc.).
+
+**We use language to express intentionality.**
+
+**Intentionality relates us to the world.**
+
+Three directions: null, world-to-mind, mind-to-world. A grocery list (usually obeyed / disobeyed) vs a verification list of groceries (usually true / false).
+
+*Sincerity condition*
+
+**Every speech act is an expression of intentionality.**
+
+[Stopped at 27:30, getting to language oriented. Although he mentions language is not needed, he uses languages constantly as examples]
+
+# 11. The Structure of Action and Perception
+**intention->action, like a todo list**
+
+unintended actions
+intended action unintendedly satisfied
+
+Prior intentions
+intention-in-action / spontaneous action
+
+intentions have causal conditions
+
+Mental intention and body movement
+
+[stopped at 16:30 very similar to last lecture, clear, breaking down ideas structurally and creating more and more specific ideas / words]
+
+# 12. **The construction of social reality**
+**Human minds acting collectively can create an objective reality only because we think it exists**; a kind of reality of it's own. Example: money. **Money exists only because people believe in it.** Other examples: marriage, **property**, government, **university degrees**, wars, elections, parties; language; **institutions**: institutional reality.
+
+Self-referential.
+
+People must have certain thoughts and feelings about it. If many people die at a cocktail party, it doesn't make it a war, it's just a wild cocktail party.
+
+Throughout history (and/or societies) people think differently of institutions. Example, war for the Aztecs was sacrificing people. Whereas for the invading Spaniards, it is to kill (and rape and pillage).
+
+How to epistemically explain this?
+Building blocks to construct a social / institutional reality. 
+
+Only by human belief.
+
+Theory:
+3 terms:
+1. collective intentionality - (individual) intentionality is defined in the last lecture.
+
+Each individual says "we're doing something", we're playing a game, we're playing music, etc. Each individual's intention is derived after / from the collective intention.
+
+2. Function assignment - **Functions are relative to the observer.** Toilets vs nature. A primitive person in a modern society.
+
+3. Constitutive rule - not just a regulatory rule such as driving on the right. Example: rules in games, possible chess moves, etc. It enables one to do something from the beginning.
+
+All of institutional reality are explainable by these three terms.
+
+**For example, a wall around an alien community. The physical structure has a function: it's difficult to climb over. Everyone in the community knows about it. Later, the wall decays. People continue to respect the boundary, even feel obligated to keep it, include / exclude.**
+  - **this is a huge example of creating rules in society**
+  - [todo: worth thinking more about]...property
+
+Status function - requires collective recognition, [todo: missed this definition]
+
+John likes medieval times because it's easy to see institutions in an early stage.
+
+The stages of money: Commodity-money (barter, gold, silver), contract-money (bank, promissory notes), fiat / authorized-money (paper money).
+
+What's true of money is true of institutional reality in general.
+
+**Driver's license, professional licenses, occupations, etc.**
+  - **This is what I hate. This is what I've called bureaucracy.** Why do I need a license, the verification from an institution, when I have the ability to do something? It's a pain to get, wasting time and money, like a college degree. Language certificate for schools and work, residential permit for scooter, passport, etc.
+
+Imposed / derived [?]
+
+All of institutional-reality has the feature that we impose a status and a function that continues as long we continue to believe it (collective intentionality).
+
+Institutions stack up, into a complex social reality. Think of the capabilities that come with a passport or state license. [todo: re-listen]
+
+[todo: ~42:00 resisten from here again]
+
+**Accepting that paper is money isn't the point. The point is that it can be used. It enables one to do something. It empowers one.**
+
+Institutions are the organization and ? of power.
+
+**Institutions empower people. It's the control of power.**
+
+**Language is constitutive of the reality. It's then language, the sign / writing on a dollar, license, passport, etc.**

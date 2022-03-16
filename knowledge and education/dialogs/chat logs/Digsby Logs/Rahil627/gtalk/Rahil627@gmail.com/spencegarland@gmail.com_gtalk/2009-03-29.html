@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with spencegarland@gmail.com on 2009-03-29</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-03-29 21:04:54"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yo</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 21:05:05"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">you call?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 21:05:16"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yeah, i was gonna tell you what we have done</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 21:05:20"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 21:05:22"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">im working on it right now</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 21:05:37"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea i saw it</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 21:05:52"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">do we have to do anything about user agent/referer?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 21:06:01"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">havent checked yet</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 21:06:17"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm...the notes don't say much about it =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-29 21:06:30"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">he said in class that he cant verify that we have those done</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-29 21:06:45"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ah k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 01:56:06"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yo</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:19:53"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you there?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:20:09"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you wanna take over, im burnin out</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:20:28"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">these test cases are retarded</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:43:17"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">godDAMN this shit is ridicilous</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:43:20"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you there bitch</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 02:44:50"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">if you do work on it tonight cause im about to stop soon, try to the structered etags, i talked to jared and he gave advice for it, the advice is in the notes.txt file at the bottom<br />if you feel you can do test accept-encoding then feel free but ive made this shit pretty confusing</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:08:43"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">alright, accept encoding might work, you can try it if you want</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:08:49"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">im done for tonight</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:46:25"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wor</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:46:25"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">d</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:46:40"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you workin on it tonight?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:46:50"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">im exited out of it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:46:59"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:47:04"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">is the test up?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:47:14"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i dont think so</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:47:20"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aw</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:47:42"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well i'll be up...i hope he sends it soon....hopefully can debug the tests</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:48:00"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">i did everything based off week 10</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:48:19"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">the connection close i think is in the wrong place, but no matter</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:48:39"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmk</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:48:44"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea week 10 has everything</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:48:56"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">dont delete anything</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:49:02"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">unless you optimize it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:49:06"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">arite</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:49:12"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">there is ALOT of repeated code</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:49:15"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol k</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:49:20"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">but i was to tired to think of another way</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:49:50"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">alright i gonna skeet and pass out</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:51:58"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahh k</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:52:30"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">save it for tomorrow, i gotchu a hooker</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:53:01"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">bitch i dont need to save anything...just skeet again and again</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:53:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-30 03:53:32"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">you did read everything i wrote before this right, cause i explain whats done</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-30 03:53:37"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>

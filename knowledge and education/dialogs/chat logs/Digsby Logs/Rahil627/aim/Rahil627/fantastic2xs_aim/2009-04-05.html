@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with fantastic2xs on 2009-04-05</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:41:32"><span class="buddy">fantastic2xs</span> <span class="msgcontent">im watching religulous</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:41:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">we had a good time watching that =P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:42:24"><span class="buddy">fantastic2xs</span> <span class="msgcontent">im not</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:42:26"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it baffles me</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:42:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:42:44"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i enjoy religions that teach ideals but don't believe in anything :P</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:42:49"><span class="buddy">fantastic2xs</span> <span class="msgcontent">sadly i don't think one exists</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:43:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i thought buddhism was something like that</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:43:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just teaches principles</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:43:55"><span class="buddy">fantastic2xs</span> <span class="msgcontent">yeah im pretty sure it is</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:44:04"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but they believe in bhudda</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:44:13"><span class="buddy">fantastic2xs</span> <span class="msgcontent">so it does kinda exclude em</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:45:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well u don't have to be a hardcore buddhist...can still just get the insights, just don't go further =P</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:45:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">other than that..iunno any =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:45:58"><span class="buddy">fantastic2xs</span> <span class="msgcontent">already done that :P</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:46:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:46:06"><span class="buddy">fantastic2xs</span> <span class="msgcontent">be nice be good</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:46:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ha</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:46:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">the core of all religiions</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:46:25"><span class="buddy">fantastic2xs</span> <span class="msgcontent">not true</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:46:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:46:35"><span class="buddy">fantastic2xs</span> <span class="msgcontent">extremist muslims are like the opposite man</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:46:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:46:43"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but so are extremist christians</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:46:53"><span class="buddy">fantastic2xs</span> <span class="msgcontent">extremist anything seems to like killing :\</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:46:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">all non-extreme religions then...</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:47:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im not even interested, so u have me beat</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:47:23"><span class="buddy">fantastic2xs</span> <span class="msgcontent">:P</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:47:29"><span class="buddy">fantastic2xs</span> <span class="msgcontent">im not sure thats really beating you</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:47:35"><span class="buddy">fantastic2xs</span> <span class="msgcontent">you may be superior to me WHO KNOWS</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:47:46"><span class="buddy">fantastic2xs</span> <span class="msgcontent">watchs Kings</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:47:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">????</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:48:18"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it's a good show</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:48:21"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:48:23"><span class="buddy">fantastic2xs</span> <span class="msgcontent">and it will be canceled</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:48:28"><span class="buddy">fantastic2xs</span> <span class="msgcontent">so watch it while you can</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:48:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">doh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:50:34"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it costs like $5m per episode</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:50:44"><span class="buddy">fantastic2xs</span> <span class="msgcontent">and it is pulling the lowest rating of any network channel</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:50:51"><span class="buddy">fantastic2xs</span> <span class="msgcontent">(its on NBC)</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:52:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o my</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:52:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so y r u telling me to watch it</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:52:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">or does rating based on how many people watch not quality</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:53:28"><span class="buddy">fantastic2xs</span> <span class="msgcontent">yes i am telling you to watch it</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:53:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i would mniss all the biblical references</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:53:40"><span class="buddy">fantastic2xs</span> <span class="msgcontent">or have your receiver tuned to NBC during its block :P</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:53:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im rly bad with anything bible-related</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:53:55"><span class="buddy">fantastic2xs</span> <span class="msgcontent">as you should be</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:54:39"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it's the story of King David</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 19:54:46"><span class="buddy">fantastic2xs</span> <span class="msgcontent">set in a modern time</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 19:57:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt Arial;">hrmmm interesting</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 02:57:47"><span class="buddy">fantastic2xs</span> <span class="msgcontent">http://cgi.4chan.org/s/src/1238981594175.jpg
+it's a real life text-book vagina!</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 02:57:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">whoa..that sounded like spam</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 02:58:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i almost closed the window</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 02:58:15"><span class="buddy">fantastic2xs</span> <span class="msgcontent">haha</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 02:58:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">jayjus</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:00:02"><span class="buddy">fantastic2xs</span> <span class="msgcontent">?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:03:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">godamnit..i came back to look at it again</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:03:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">O_O can't stop staring</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:21:05"><span class="buddy">fantastic2xs</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:21:18"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i would not be surprised to find that in a health textbook</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:21:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ohh thas wat u meant...yea i was thinkin the same thing</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:21:45"><span class="buddy">fantastic2xs</span> <span class="msgcontent">***disclaimer: do not expect to ever find a vagina like this in your life.</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:21:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:22:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">----------&gt; clitoris</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:22:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ahhhhhhhhhhh gonna kill myself...all of my classes blow this semester</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:22:59"><span class="buddy">fantastic2xs</span> <span class="msgcontent">what?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:23:11"><span class="buddy">fantastic2xs</span> <span class="msgcontent">the clitoris thing whataya mean</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:24:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">like a diagram in a text book =P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:24:37"><span class="buddy">fantastic2xs</span> <span class="msgcontent">http://cgi.4chan.org/s/src/1238984736724.png</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:25:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o man...playing that game with a polar bear =O</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:25:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">bear goes right, you go left.....</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:25:30"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i think we would win</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:25:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">as long as the car works</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:26:21"><span class="buddy">fantastic2xs</span> <span class="msgcontent">you know what</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:26:29"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i rarely save pictures from /s/</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:26:32"><span class="buddy">fantastic2xs</span> <span class="msgcontent">but im savin that vagina</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:26:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">LOL</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:26:51"><span class="buddy">fantastic2xs</span> <span class="msgcontent">i might need to show someone else some day</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:26:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i can see myself coming back to this chat to see that pic again</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:27:07"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it wont last long</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:27:13"><span class="buddy">fantastic2xs</span> <span class="msgcontent">the images get pushed off eventually</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:27:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aw</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:42:31"><span class="buddy">fantastic2xs</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:42:35"><span class="buddy">fantastic2xs</span> <span class="msgcontent">just save it somewhere</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:42:39"><span class="buddy">fantastic2xs</span> <span class="msgcontent">it is mezmerizing though</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:43:01"><span class="buddy">fantastic2xs</span> <span class="msgcontent">having trouble locating the clitoris, heres an easy to understand version</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:44:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">=P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 03:47:45"><span class="buddy">fantastic2xs</span> <span class="msgcontent">diet coke with lime is like diet coke + random flavor</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:50:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ha...i haven't had</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 03:50:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but sounds true already</span></span></div>

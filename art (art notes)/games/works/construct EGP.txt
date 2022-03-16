@@ -1,0 +1,21 @@
+theme:
+construct
+
+assembling, building, constructing
+to form by assembling or combining parts
+to create by systematically arranging ideas
+
+ideas:
+building via augmented reality***
+can take pictures to share
+can be multiplayer somehow*****
+  - place blocks, both players must avoid touching the blocks
+     - would be a really weird buy playful game
+     - extensible amount of players
+
+multi-player game, 1v1
+  - stack building blocks as fast as you can versus each other
+  - Unity, 2D Toolkit
+
+
+

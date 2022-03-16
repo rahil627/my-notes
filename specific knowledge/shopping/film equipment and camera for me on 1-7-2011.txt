@@ -1,0 +1,738 @@
+FUCK FILM EQUIPMENT. ALL YOU NEED IS YOUR IPHONE...and audio.
+
+no need with awesome camcorder:
+nee war? spider rig (3.3lb) vs gorilla pod (13.8 ounces, + stick) vs monopod (0.64 lbs*) vs neewar steadicam* - try the steadicam at home
+
+sound:
+  - some directional microphone
+    - videomic pro - 3.5mm cable (can go directly into camcorder), 3oz!!!!, small size, can still attach to a boom pole (monopod)
+    - ntg-2 (would need h4n connected? maybe could get xlr to 3.55mm adapter), $200 form eBay
+    - me66
+    - size vs quality + XLR input (xlr cords transmit audio better, but perhaps could just convert using adapter?), 
+    - mke600
+    - Takstar - $40, almost videomic pro! 1 pound!?, possibly smallest form factor
+  - other sound gear?
+    - stereo + shotgun is easier to set up on the go than wireless lavaliere! Think about documentary filmmaking man!
+    - having a shogun on the camera is stupid because it means you would have to keep the audio source in the center of the camera view. You would need an audio guy holding the mic out of the view of the camera and pointing it at the desired audio source
+    - just use the h4n for better stereo, mount it on camera, take it off and put it on a boom mic (gorilla pod or any kind of pole i find along the way, maybe get pnc pipe to screw adapter), or attach a mic
+    - yep video mic pro and a long 3.5mm cable :)
+
+conclusion:
+  - Rode video mic pro
+
+monopod:
+Manfrotto monopod compact new series advanced (MMCOMPACTADV-BK)* - .75lb, 6lb load, aluminum with parts, has a ‘quick wheel’ for the tripod screw, which kinda replaces the need for a quick release
+Manfrotto monopod compact new series - .64lb, 3lb load, same as old with a new grip, all black
+manfrotto monopod compact - .64lb, 3lb load, all black
+Dolica WT-1003 67-Inch Lightweight Monopod (.8lb) 6lb load
+
+conclusion: bought the compact new series advanced, but really don’t need it with the camcorder
+
+video heads:
+Manfrotto MKC3-H01 Compact Photo-Movie Kit! — has a head I may want
+
+fluid head (maybe can screw off the handle?):
+Velbon PH-368 Vel-Flo 9 Mini-Pro - 1.7 pound, cheap 501, large, <$30
+
+128rc - 2lb, basic
+701* - standard small, 1.8lb*
+Manfrotto 700RC2 - 1.14lb*, about same size at 701, just less bulk and features
+501 - standard large
+? - grip head
+327RC2 - 1.3lb
+
+391RC2 - 3 way, 1.5lb, short handle, only pan, tilting is manually adjustable
+
+Manfrotto 234RC - tilt head
+
+conclusion: decided not to buy it when I found out how awesome the stabilization of camcorder is
+
+
+knowledge:
+http://en.wikipedia.org/wiki/Photographic_filter#Clear_and_ultraviolet
+http://www.bhphotovideo.com/explora/photography/buying-guides/filters-lenses
+  - B&H has really good guides
+http://www.indietalk.com/showthread.php?t=55038
+
+
+
+camera:
+$300 - 720?
+x/$550 - 850
+x/$570 - TM900
+$600 - V750, 12.45 oz
+x/$750 - X900M (used, b&h?, v750 may be a little better)
+$700 - g10 used (local)
+$750 - g20 used* ($900 new), 1.36 lb
+$800 - x920M, x920-K ($1000, $840 new (no internal memory)*), .92 lb
+$1300 - old 3CCD full camcorders, AC90
+$1400 - g30
+
+x920:
++features (zebra stripes, more manual stuff), + lower light, + focal length +manual ring, +viewfinder pops out but no tilting, +PQ (?, but don't care much), -bad cold shoe placement
+
+G20:
+about same as x920, +24p (does this make it easier on the computer? or just mbps?), +more features to play with, + custom wheel + custom button!, + built-in memory, + 2 SD cards (dual recording and relay recording), + better built, +hotshoe (mini-advanced), -maybe little less stable, -little bulkier, heavier
+
+v750:
++no power brick necessary / can charge on USB cable and even use USB battery packs!, +zoom, +50mbps (but would destroy my computer), +$240 saved
+
+http://www.amazon.com/Panasonic-Digital-High-Vision-Camcorder-HC-X920-K/dp/B00AZD3YE6
+
+comparison site:
+http://camcorder-test.slashcam.com/compare.html
+
+need to buy:
+microphone
+lens cover (and filter)?
+http://www.bhphotovideo.com/c/product/23726-REG/Hoya_A46UV_46mm_Ultraviolet_UV_0_Haze.html
+cheap steadicam
+
+setup:
+http://www.avsforum.com/forum/161-camcorders/1464196-panasonic-x-920-a-4.html
+  - handle with mic and h4n
+http://www.rtwblog.com/2010/08/the-ultimate-mobile-hd-video-rig-for-traveling-around-the-world/
+  - x-grip with h4n
+
+
+xa10/xa20/xa25 - are professional versions of g10/g20
+
+b&h
+adorama
+amazon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/8/14
+—————————————————————————————
+Vincent Moon's equipment:
+Panasonic 171.
+Shotgun mic.
+Zoom H2N and Zoom H4N.
+Sennheiser wireless transmitters.
+Tram lavelier mic.
+Final cut pro.
+Compressor.
+Vimeo.
+Creative Commons licence by-nc-sa.
+
+http://camcorders.reviewed.com/
+
+
+sell GH-2?
+  - because the OIS is still nowhere near as good as camcorders
+  - there are no good OIS lens with low f/stop
+  - OM-D would have been a much better purchase because it has in body image stabilization, even if it only works with electrical lens
+  - i would have to spend money on equipment, and lug it around with me
+  + equally as bad as a cannon, except the fact that canon has a 17-55mm/2.8 lens, but it costs $1000
+  - try selling it
+  - watch my videos again
+
+currently own:
+Manfrotto monopod compact new series advanced (MMCOMPACTADV-BK)
+Rode VideoMic Pro
+Tiffen 55mm UV Protector Filter
+X-Grip - could sell
+32GB SDHC (class 4+, 24Mb/s or 3 MB/s), http://www.newegg.com/Product/Product.aspx?Item=N82E16820171359
+knock off gorilla pod - could donate to Goodwill
+Zoom h4n
+ATR3350 lavalier mic x2
+x/glif* - lost
+
+
+need to buy:
+video head
+wireless microphone system
+  - or could use iPhones or H1s and lavalieres
+    - may not be fun to sync
+a bag - might come with camera, if not, can get a dry bag for accessories
+x/quick release? - QR - Manfrotto 323 RC2 System Quick Release Adapter with 200PL-14 Plate - don’t need, I only have a monopod that has an easy ring
+
+other junk:
+collapsible lens hood - http://www.amazon.com/Collapsible-Rubber-MagicFiber-Microfiber-Cleaning/dp/B0094KJTWM/ref=sr_1_1?s=electronics&ie=UTF8&qid=1412506389&sr=1-1&keywords=55mm+lens+hood
+
+rig:
+x-grip, camcorder, directional microphone, h4n attached to microphone
+  - http://www.bhphotovideo.com/c/product/332813-REG/WindTech_CM_21_Hot_Shoe_Shotgun_Microphone_Clip.html ?
+
+see b&h wish list
+SanDisk - 16GB SDHC Memory Card Extreme Class 10 
+x/Joby - Gorillapod SLR-Zoom Flexible Mini-Tripod or Joby - GorillaPod Video
+Rode - VideoMic Pro Compact Shotgun Microphone
+Belkin - Speaker and Headphone Splitter (6")
+x/Matthews - Hot Shoe Adapter 3/8" to 1/4"
+Panasonic - 32GB HC-X900M 3D Ready Full HD Camcorder (Black)
+
+create amazon wish list
+x/LR44 battery
+3.5mm male to male 1-3' cable
+
+
+
+want to buy:
+camcorder, tm900, good enough for now
+
+film:
+NEX-VG900, $3300 + lens, full frame camorder
+*AC90, $2000 - great package, xlr input, better stabilization, many buttons, 3 rings, etc., x900MK body
+Sony HXR-NX30U, $2000
+Canon XA10 - $1800, g10 body
+NEX-VG20 - $1100 + lens, $1900 with default sensor, APS-C size sensor
+
+consumer:
+Sony HDR cx760v/pj760v, $1300
+Canon hf g10, $1079
+*Panasonic hc x900m, $675 - start with this, buy film camera after this
+Panasonic v700m, $400
+Canon m500, $300
+
+camcorder accessories:
+Lens Hood-10
+Filters-10
+Step Up ring-10
+
+useful purchases:
+clamp, http://www.amazon.com/PEDCO-P-UCA-Pedco-UltraClamp-Assembly/dp/B000ABB4HC/ref=sr_1_9?s=electronics&ie=UTF8&qid=1302442661&sr=1-9
+more mounts, http://www.bhphotovideo.com/c/product/126229-REG/Cool_Lux_MD3000_MD_3000_Light_and_Sound.html
+
+remember: ETC mode covers 2.6x of each lens, so 25 -> 25 * 2 * 2.6 = 130
+
+
+what i want to do:
+shoot a music video Vincent Moon style
+  - external audio recorder
+  - omnidirectional mic for bands
+    - place somewhere if not moving
+    - place on camera if moving
+  - wired lapel mic for a single moving actor
+  - wireless lapel mics  for multiple moving actors (in a non-staged environment)
+  - lapel or shotgun for interviews (lapel requires setup)
+  - omnidirectional mic for ambient
+shoot experimental film
+  - omnidirectional mic for most
+staged film
+  - shotgun mic with a boom stick
+
+how is Department of Eagles recorded as they walk through Chinatown?
+  - i believe each performer has a wireless lapel mic. Both of the mics connect to a portable digital audio recorder. There is also a stereo mic on the camera, also connected to the recorder. All 3 play in sync. How come the lapel mics don't generate wind noise?
+
+do I need a camcorder?
+  - zoom
+  - tilt screen
+  - manual focus and exposure (as opposed to tap)
+  - microphone mount
+
+  also over GH-2:
+  - better stabilization
+
+conclusion:
+Only need audio for now (ship to Malaysia). Order camcorder later (ship home, black friday sales). Learn to record audio well, and shoot well first. Can try iPhone filming apps again to control exposure and focus.
+
+
+chinese LED lights? lol
+
+accessories needed:
+iPhone 4 rig:
+1. p/portable audio recorder
+  - can use iPad with an adapter
+    - 3.5mm in http://www.kvconnection.com/product-p/km-iphone-mic.htm
+      - http://www.danmccomb.com/posts/588/iphone-4-as-audio-recorder-with-external-mic-a-comparison/
+    - XLR in + 3.5mm out http://www.bhphotovideo.com/c/product/728186-REG/Comprehensive_MPS4RA_MJS_XLRJ_6IN_4_pole_TRRS_3_5mm_Mini.html
+  p/- h4n*
+    x/- windscreen
+      - comes with one! Can upgrade later
+    */- does it come with an adapter to fit on a camera?
+      - hot shoe adapter
+        - http://www.bhphotovideo.com/c/product/686779-REG/Matthews_350614_Hot_Shoe_Adapter_3_8.html
+        - http://www.bhphotovideo.com/c/product/616257-REG/Pearstone_9041690_Male_Accessory_Shoe_Adapter.html
+        - http://www.amazon.com/Adorama-HotShoeC-Shoe-To-Tripod-Screw-Adapter/dp/B005BI5WMW/ref=pd_sim_e_4
+    p/- RC4 control
+      - later?
+    - how to mount to iPhone?
+      - need an iPhone mount with a microphone mount
+      - buy a cheap/small wind screened mic?
+        - mitymic
+      - DIY fig rig*
+      - x-grip!
+      - can just strap the h4n on my body somewhere*
+    */- 3.5" cable to connect to HDSLRs, with headphone output
+      - "speaker and headphone splitter"
+      - Line to Microphone Attenuation Cable for HDSLR?
+        - needed?
+    */- 2.5" to 3.5" cable for GH-2
+    c/- cable from iPhone?
+      - 3.5mm male to male
+    p/- rechargeable AA batteries
+    */- SDHC card
+
+    - comes with 1GB SD card
+    - features 90 degrees and 120 degrees stereo mic
+    - built in stereo mic is disabled when you plug in the 3.5mm external mic jack*
+
+2. p/wired lavalier mic x 2
+  p/- http://www.amazon.com/Audio-Technica-ATR-3350-Omnidirectional-Condenser-Microphone/dp/B002HJ9PTO
+  x/- need mono to stereo adapter
+    - h4n has an option "mono mix" to input mono and output stereo
+  x/- need to choose 3.5" or XLR
+    - cheapest XLR is $170
+  - connect to portable audio recorder or directly to camera, let actor/musician pocket it
+  - use for interviews or single musicians
+  */- spare batteries
+
+2.5 x/wireless microphone system
+  - later
+  - for multiple actors in a non-staged production
+    - for now, use a stereo mic
+  - use directional for staged productions
+
+3. tripod
+  - gorillapod
+    - video GorillaPod* http://www.bhphotovideo.com/c/product/735493-REG/Joby_GP10_01AM_Gorillapod_Video.html
+  - mini-tripod / boom / monopod?
+    - something to hold h4n
+    */- get the real gorilla pod for $30 and a cheap video head
+    */- Sunpak 620-020 Tripod for $15
+
+4. c/stabilizer
+  - x-grip for now
+  - iPhone stabilizer?
+    - it has really good stabilization, only bad if walking
+    - DIY fig rig
+    - cheap one on ebay
+
+5. shotgun condensor mic?
+  */- Rode VideoMic Pro
+    - check if it's possible to use h4n and Rode VideoMic Pro together. I read that if a 3.5mm jack is being used, the h4n cannot record stereo, but it does work if the XLR ports are being used.
+  - wind blocking thing
+    - comes with one
+    - should buy a better one and check if it's interchangeable with h4n and directional mics
+  - suspension mount
+
+camcorder?
+boom pole? Buy a monopod. Try hold out cheap tripod first.
+
+order anyway due to amazing price/usefulness ratio:
+  - cable for iPhone and iPad to record audio
+  - windscreen for iPhone and iPad
+    - http://www.youtube.com/watch?v=zAZSckWorA0
+  - wired lapel mics
+
+https://vimeo.com/21472727
+  - gh2 setup, $30 shoulder rig (not good because fixed height), joby guerilla pod
+  
+http://www.youtube.com/watch?v=N9H2cOBSWVg
+  - DSLR filmmaker gear, I agree with the guy
+
+http://www.rtwblog.com/2010/08/the-ultimate-mobile-hd-video-rig-for-traveling-around-the-world/
+  - looks good to me
+
+portable digital audio recorder - dr100 < zoom h4n ($300, 2x XLR, 2x 3.5mm?) < d50 ($450), http://transom.org/?page_id=7514, http://www.bradlinder.net/2009/03/zoom-h4n-review.html, zoom h2
+wired lavalier microphone - < $50, great quality, cheap, perfect for interviews, attaching to instrument, close sound
+
+monopod - cheap, doubles as a boom stick
+
+external microphone - rode videomic pro vs NTG 2 (can use AA battery) vs AT875
+HDV701 fluid head for tripod
+need cable? - http://www.markertek.com/Cables/Audio-Cables/DSLR-Audio-Cables/Sescom/LN2MIC-ZMH4-GH1.xhtml?LN2MIC-ZMH4-GH1
+http://www.eoshd.com/content/631/superb-affordable-gh2-tactical-shooting-rig
+wireless lavalier microphones - Countryman EMW, Tram, AT899, countryman B6
+
+stores
+b&h
+adorama
+j&r
+
+camera mic level to 1, and have the Videomic Pro set to 0db. videomic pro
+
+http://www.dvxuser.com/V6/archive/index.php/t-253874.html
+
+h4n - can simultaneously record and mix audio, has a mic, can record 4 tracks
+d50 - better mic and audio from external mic, no xlr inputs
+Olympus LS-11
+
+http://www.flickr.com/photos/emboschma/6038471527/in/set-72157625946911686/ - nice setup
+
+http://personal-view.com/talks/discussion/641/zoom-h4n-and-gh12/p1 - gh2 audio setups 
+
+http://socialsounddesign.com/questions/10715/replacing-a-zoom-h4n-with-sony-pcm-d50 - more on audio
+
+http://photography-on-the.net/forum/archive/index.php/t-1030131.html
+
+http://photography-on-the.net/forum/archive/index.php/t-1044588.html ** audio
+
+prime lens - 20mm f1.7, 12mm f2, 14mm f2.4 with better AF, 25mm 1.4
+neutral density filter, or better, fader?
+
+install latest firmware!
+
+
+
+http://www.twin-pixels.com/the-definitive-lens-buyers-guide/
+
+http://m43photo.blogspot.com/2010/12/panasonic-gh2-autofocus-speed.html
+
+
+
+
+
+dslrs vs camcorder
+the average camcorder has quick autofocus, larger zoom range, video-friendly image stabilization, portability, better audio quality
+the average dslr has manual controls for aperture, shallow depth-of-field, suffers from rolling shutter in action shots, limited autofocus
+
+full manual controls in video
+microphone input
+articulating lcd screen
+autofocus
+live view
+live hdmi
+crop marks
+zeba stripes
+XLR inputs
+ND filters
+24p
+
+a lot of these are fixed by magic lantern
+
+http://www.luminous-landscape.com/reviews/camcorders/cam-cam.shtml
+
+"HDSLRs are useless with autofocus"
+
+http://www.dpreview.com/learn/?/Guides/hd_beginners_guide_01.htm
+
+http://nofilmschool.com/2011/07/easy-dslr-audio-setup-crew/
+
+http://kurtlancaster.com/20/10/2011/run-and-gun-dslr-work-at-occupy-wall-street/
+
+
+ccd fix it
+
+http://www.twin-pixels.com/how-to-choose-dslr-buyer-guide/
+
+http://prolost.com/blog/2011/11/21/red-scarlet-canon-c300-and-the-paradox-of-choice.html
+
+http://www.imaging-resource.com/PRODS/AA55/AA55VIDEO.HTM
+
+http://philipbloom.net/
+
+http://www.alexnking.com/ *
+
+http://documentarytech.com/?tag=dslr
+
+http://www.avsforum.com/avs-vb/archive/index.php/t-1376151.html
+
+http://blog.paulmckeever.ca/2011/11/04/choosing-a-video-camera-for-affordable-quality-videography/
+
+http://kurtlancaster.com/equipment/
+
+http://www.documentary.org/content/gear-talk-testing-canon-7d-and-5d-verite-shooting *****
+
+http://www.dvxuser.com/V6/showthread.php?202177-DVX100-VS-Canon-T2i-(for-video) ******
+
+Canon EOS
+rebel t3
+rebel t3i/600D* - missing features (manual Kelvin control, intermediate ISO, etc) compared to 60d , single contrast detection autofocus instead of 9 point, no 'live' aperture control during movie?, 3x crop*, manual audio controls
+60D** - built-in audio controls, headphone jack, more controls to external microphone (meter), bigger/brighter viewfinder, level meter, 5.3 fps vs 3.4 fps, 1/8000 shutter speed vs 1/4000 shutter speed, 3x larger battery, larger body
+7D - 8fps, better viewfinder, 19 point autofocus, better body and shutter
+5D
+
+Panasonic
+Lumix DMC-GH2** (mirrorless) - can be hacked for 24p video and better zoom, has better quality video than 5D due to better aliasing, also less rolling shutter, has automatic gain control on the microphone that cannot be disabled (sucks), lowest mic setting is too high, live HDMI out, stereo mic, better audio than cannon (+10db) similar to HMC150, manual audio with live meters, has autofocus, lesser build quality, lesser design (touch screen vs cannon buttons), has live view while taking video
+Lumix DMC-G3 (mirrorless) - no manual controls
+
+Nikon
+x/D3100
+x/D5100 - has autofocus but lacks manual control(ONLY Aperture and NO ISO, NO shutter control!) in video, better picture quality
+D90
+7000D
+
+Sony
+A55
+Alpha SLT-A65V* - has phase detection AF, lacks manual exposure control, EVF, on par with canon 600D
+x/NEX-5 (mirrorless) - APS-C sensor, no hotshoe, no external microphone attachment, no manual controls?
+NEX-7 (mirrorless)
+
+Pentax K-5 -No 'live' aperture control during movie shooting, no AF, 
+
+
+
+
+conclusion:
+rebel 600D (t3i), $670, with lens kit
+60D, $900, if it's only a few more bucks, invest in canon lens, then buy a better camera for video
+SLT series for the autofocus
+GH-2, $900, buy canon lens adaptor and canon lens kit?
+
+for autofocus, fast panning, documentary style long shooting:
+
+camcorders:
+
+JVC
+GZ-HD7 - $800, 3CCD, manual controls, mic input, focus ring, the issue is the MPEG-2 compression
+GZ-HD6
+
+Panasonic
+TM90* - $500, no fan, wide angle lens, longer zoom
+HDC-TM900* - $600, fan noise, no true 24p
+HDC-HS900 - hard drive
+HDC-SD100
+AG-HMC40 - $1700, cheapest professional camcorder, not great in low light due to 1/4" sensor
+AG-HMC150 - $2800, 1/3" sensor, able to zoom with a fixed F-Stop when using GAIN, larger size camera body with separate physical controls, CCD imager so that everything I shoot will be sharp all the time, prefer the overall look of the images that the HMC-150 produces
+
+Canon Vixia
+HF M41* (M40, M400) - $700, new sensor, like the G10, lacks manual rings for focus and aperture; instead it's all on the touch screen, no true 24p
+HF G10 - new sensor, better lends than M41, manual rings, 24p
+XH A1S - $2700, miniDV
+XL H1A - a lot
+
+http://www.camcorderinfo.com/News/CamcorderInfo-2011-Select-Awards.htm
+http://www.camcorderinfo.com/Buying-Guides/Amateur-Filmmakers.htm
+
+no autofocus, alias problem, rolling shutter problem, makes the canon seem pretty bad for video
+
+
+later conclusion:
+buy a camcorder. It's an all-in-one indepenent filmmaker package. For the low depth of field, b-rolls, and generally more lush shots, I can buy a Canon Rebel later. Looks crappy though. =(
+
+$600 TM900
+$670 Rebel t3i with $20 lens
+$900 60D, without lens
+
+$900 GH-2 with 14-42mm lens, $300 14-140 lens or 20mm lens
+
+HF G10 - $1200
+HMC40 - $1000-1300 used
+
+later later conclusion:
+a pro film camera such as the HMC40 has everything I want, but should I just get a used HMC40 or start with a TM900? Ask Zack, then decide.
+
+later later later conclusion:
+Still will ask Zack, but leaning toward a more expensive film camera. I'm in it for film, not photography.
+
+Film cameras:
+TM900 - a steal at $600
+G10 - how much better is this over the TM900 other than low light? prosumer, full manual controls
+GH-2 - meh
+craigslist a real film camera with accessories*** - $1000-$2000
+DVX100B - $600-800, http://newyork.craigslist.org/search/pho?query=DVX100b&srchType=A&minAsk=&maxAsk=
+
+last conclusion:
+think if an idea for a film first, Tongal? Then buy the camera accordingly.
+
+Since I'm going to SF and don't want too much baggage, I'm going to get a Canon DSLR to get started, and buy a HMC40 or equivalent when I get to SF. This way I can get started in film, and still retain a nice camera if I ever want shallow DOF shots.
+
+http://vimeo.com/forums/topic:38498
+60D - $900 for the body, $300 for the lens, $300 for a microphone
+HMC40 or equivalent
+
+http://eyepatchfilms.com/?p=479
+17-70 sigma
+wide: Tokina 11-16 f/2.8 AT-X 116 Pro DX, $700
+normal: Tamron 17-50 VC f/2.8 XR Di-II VC LD Aspherical (IF) vs without VC, $440 or 17-50 f2.8 OS HSM (more expensive)
+prime: Sigma 30mm 1.4
+telephoto: (can buy this later)
+Sigma 50-150mm f/2.8 II EX DC HSM Lens
+Canon EF 70-200mm f/2.8L IS USM
+
+others often recommended
+Canon 24-70mm f:2.8L lens
+Canon EF 28mm 1.8
+Sigma 24-70 f2.8
+Tamron 28-75 f2.8
+17-55mm f2.8 Tamron
+17-70mm OS Sigma
+17-55 2.8 sigma
+17-50 sigma
+Canon 35mm f/2
+
+remember: need to multiply by 1.6x due to cropping of 60D compared to full frame 5D
+
+prime list:
+Canon 20mm
+Sigma 30mm
+Canon 50mm
+Canon 85mm
+Canon 100mm
+
+need constant aperture to zoom while shooting, more expensive
+
+Tamron > Signma and Tokina for 1/2 to 1/3 price of camera manufacturer
+get EF, not EF-S
+get full frame, not digital compact
+manual focus
+
+Some good advice here but truth is one lens will never do everything you want. If you don't mind used and are willing to work with manual sometimes(video is mainly manual anyway) I would pick up 4 lenses. The Tamron 17-50 used on Amazon $360, a Nikon Nikkor AI 50mm 1.4 used on Adorama $70 or Canon EF 50mm 1.8 $99, used Nikon Nikkor 85mm 1.8 $139 KEH.com and finally a 14mm 2.8 Rokinon from buydig.com $259. Grab some Fotodiox Nikon to EF adapter mounts for $13 on Amazon and you should be shooting like a pro for $800. Enjoy
+
+http://forums.creativecow.net/thread/122/860082
+
+http://forums.creativecow.net/thread/122/860082
+
+60D with prime and 17-50 for $900 + $300 + $350 = $1550
+17-50 is good enough for 90% of shooting needs in good light and 17mm is often wide enough.
+
+craigslist 17-50 canon
+craigslist 30mm canon
+http://www.dvinfo.net/forum/canon-eos-60d-rebel-t2i-eos-550d-hd/473955-if-you-could-only-use-3-lenses-5.html
+
+GH2 with 14-140 lens? $700 used, $300 pancake lens
+
+Canon 60D + EF 24-70mm L + Tonika 11-16 + EF 50mm 1.4
+Panasonic GH2 + 14-140mm kit lens + 20mm 1.7 Pancake + Panasonic 7-14mm 4.0
+HMC-150/151
+JVC HM100?
+
+aps-c vs micro four thirds?
+
+But my GH2 kit with 20mm Pancake & FD Prime(35,50,85)
+cost $1700. I needed compact & high IQ(travel films are my thing anyway).... ;-)
+
+
+http://vimeo.com/groups/gh2/forumthread:237526
+http://forums.dpreview.com/forums/readflat.asp?forum=1041&thread=38949150&page=2
+
+http://www.dv-forums.com/forums/showthread.php?t=6571&page=2
+
+1. TM900
+2. Canon 60d or GH2
+3. Real video camera
+
+http://www.luminous-landscape.com/reviews/camcorders/tm700.shtml
+
+After going to store:
+TM900 felt better than the other camcorders.
+Camcorders are tiny and have extremely limited options. HMC-40 has a handle and barely a few more options than the camcorder. HMC-150 seems perfect.
+GH2 also seems ideal.
+
+GH2 it is. No doubt better than 60D for video. Now is the time. Can upgrade to GH3 body later! Or even a AF100. *Drool*.
+
+Panasonic GH2 + 14-140mm kit lens + 20mm 1.7 Pancake + Panasonic 7-14mm 4.0 ?
+
+So... If you want to go primes my current personal suggestion is:
+14mm F2.5 Panasonic Pancake
+[ 14mm Samyang F2.8 Pentax ($380) moved to reserve to fact that it is very good and very sharp, but generally require video processing due some distortion present. ]
+28mm Vivitar F2.0 28x FD ($100),
+50mm SMC-M 1.7 Pentax ($60) or 50mm Canon F1.4 ($70),
+85mm Samyang F1.4 Pentax ($270).
+
+kit lens
+14-140mm AF IS, but slow
+
+primes
+Voigtlander 25mm F0.95mm.
+14mm f2.5 pancake
+20mm f1.7 pancake - has AF, popular
+
+zooms
+Olympus Zuiko 14-35mm
+Olmypus Zuiko 35-100mm
+Lumix 7-14mm f4
+Tokina 11-14mm f2.8 for Nikon
+Tokina 11-16mm F2.8 in Nikon mount ($600)
+Tamron 17-50mm F2.8 in Pentax or Nikon mounts ($400). Note that you need adapters with ability to control aperture for zooms!
+
+prime
+
+m43 lenses
+Olympus Zuiko
+
+old lenses
+Olympus OM
+Pentax PK
+Nikon F lenses, Nikkor Ai
+Canon FD lens - 85mm, less than that is usually too shallow, get that canon look
+Minolta MD
+Zeiss Contax
+
+http://en.wikipedia.org/wiki/Flange_focal_distance
+
+
+If you don't want to be stuck in micro 4/3 then I would exclude Canon FD and Minolta MD mounts. I would rather look for M42, Olympus OM, Pentax PK, Nikon, Contax Yashica etc. lens mounts.
+
+
+
+http://www.cinema5d.com/viewtopic.php?f=11&t=2710
+
+
+http://www.gh1-hack.info/wiki/ShootingMoviesWithHackOnVeryTightBudget *****
+http://www.personal-view.com/
+
+buy old becuase new features like autofocus won't work, get old lens with manual aperture and focus
+
+
+Olympus OM Zuiko 28mm f3.5 $50-$80 It's not just good for the price, it's good for ANY price. This lens is sick
+Pentax SMC 50mm f1.4 $100-$150 Fast, razor sharp, near as good as a 50mm gets. Period.
+Canon 85mm f1.8 $300-$400 Yep, not an alternate... This thing should be called an L lens. They're incredible, cheap, fast and way-overlooked.
+
+wide: Olympic zuiko 14 - 42 for $120
+normal: kiron 28mm f2.0 for $100
+telephoto: Minolta 50mm f1.7 for $50 
+
+Wideangle (24-28mm range)
+Normal (40-50mm range) -> I think the Panasonic 20mm/F1.7 is the one to get here... small, light sensitive, sharp
+Telephoto (100mm range)
+Extreme tele (200mm range)
+
+12mm (24mm in 35mm terms)
+25mm (50mm in 35mm terms)
+42mm (85mm in 35mm terms)
+50mm (100mm in 35mm terms)
+
+ND filter?
+
+http://www.cinema5d.com/viewtopic.php?f=11&t=2710
+
+bought GH2 with 14-140mm lens! hurray.
+
+
+1. Pro setup: Sennheiser MKH-416 mic, Rycote Windshield (kit 4), K-Tek KEG-100 boom pole, Sound Devices 702, porta-brace.... about $5k.
+2. Not-so-pro setup: Rode NTG-3, Rode Blimp, Rode Boom, Tascam DR680, case... about $2k.
+3. Acceptable setup: Rode NTG-1/2, Rode Blimp, tascam Dr-100... about $1k.
+4. Cheap setup: Rode VideoMic Pro, Sony PCM D50... about $500
+5. Budget setup: Rode VideoMic into camera.
+
+http://www.dvxuser.com/V6/archive/index.php/t-219161.html - gh13 with FD lens
+
+FD 20mm f/2.8
+FD 24mm f/2
+FD 28mm f2.8 (beauty)
+FD 50mm f1.4 (cannot leave my home without it) - fastest
+FD 85mm f1.8 (I think is my favorite) - also great
+FD 135mm f2.5 (same as you LOVET IT)
+FD 200mm f2.8 (what can i say?)
+
+http://www.gh1-hack.info/wiki/ShootingMoviesWithHackOnVeryTightBudget
+
+http://www.dvxuser.com/V6/showthread.php?244241-What-do-5D-Mark-II-users-think-about-the-GH2
+
+<$600 - TM900
+$600-1400 - GH2
+$1400-$3000 - 5D Mark II
+>$3000 - real film cameras
+
+14mm - faster AF (.20), silent AF, f/2.5
+20mm  - f/1.7, normal range, slow AF (.44)
+25mm - f/1.4, normal range, no AF
+
+leaning toward 20mm, always use external mic to avoid the noise, and use AF lock when possible
+
+http://forums.dpreview.com/forums/readflat.asp?forum=1041&thread=40036791&page=1
+
+http://www.dvxuser.com/V6/archive/index.php/t-253874.html - gh2 rig concerns
+
+http://www.personal-view.com/talks/discussion/13/rode-videomic-vs-the-pro-version/p1 - audio for gh2
+
+http://en.wikipedia.org/wiki/Micro_Four_Thirds_system - lens list
+
+http://www.dvxuser.com/V6/showthread.php?240975-Canon-FD-24mm-f2-as-standard-lens-for-GH1-GH13-GH2-AF100/page2 - use of manual lens
+

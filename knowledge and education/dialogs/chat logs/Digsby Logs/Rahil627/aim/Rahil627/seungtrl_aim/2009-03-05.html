@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with seungtrl on 2009-03-05</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:22:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">u goin? midnight</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:24:59"><span class="buddy">seungtrl</span> <span class="msgcontent">no</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:25:02"><span class="buddy">seungtrl</span> <span class="msgcontent">gtta read it first</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:25:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">same ::(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:25:12"><span class="buddy">seungtrl</span> <span class="msgcontent">plus ill be watching with my friends at home</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:25:21"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ahhh word</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:25:27"><span class="buddy">seungtrl</span> <span class="msgcontent">also wasnt aware it was tonight rather than tomorro night</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:25:35"><span class="buddy">seungtrl</span> <span class="msgcontent">midnight releases tend to be confusing like that &gt;_&gt;</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:25:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">haha</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:25:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">movies release either on wednesday or friday so tue/thurs midnight showings</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:26:20"><span class="buddy">seungtrl</span> <span class="msgcontent">but thats so dumb</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:26:28"><span class="buddy">seungtrl</span> <span class="msgcontent">jus fucks up work</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:27:14"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah :(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:40:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hey, is puzzle fighter on xbla?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:41:00"><span class="buddy">seungtrl</span> <span class="msgcontent">YES</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:41:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">sweet</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:41:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">guess i'll be playing that + sf4 all break XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:41:39"><span class="buddy">seungtrl</span> <span class="msgcontent">lmao fuck you</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:41:43"><span class="buddy">seungtrl</span> <span class="msgcontent">that sounds goddamn amazing</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:41:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">(^_^) </span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:41:50"><span class="buddy">seungtrl</span> <span class="msgcontent">you jus using the controller?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:42:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i never got into an arcade fighter</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:42:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">so iunno</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:42:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">not sure how i'll do on teh fat controller</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:44:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">can you play that puzzle fighter online!?!?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:44:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">plz say yes</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:44:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just crossed my mind</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:45:49"><span class="buddy">seungtrl</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:45:54"><span class="buddy">seungtrl</span> <span class="msgcontent">should be able to yes</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:46:03"><span class="buddy">seungtrl</span> <span class="msgcontent">you can on ps3 version so yea</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:46:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">holyfuck</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:46:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o man</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:46:18"><span class="buddy">seungtrl</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:46:28"><span class="buddy">seungtrl</span> <span class="msgcontent">ill say this tho i dont like how the puzzle fighter HD version looks</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:46:38"><span class="buddy">seungtrl</span> <span class="msgcontent">the &quot;updated&quot; graphics jus make it look weird</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:46:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aw</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-05 23:46:48"><span class="buddy">seungtrl</span> <span class="msgcontent">and not nearly as epic when the power gems explode</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-05 23:47:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:-( </span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-06 00:00:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">arghhhhhh 1 more class</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-06 00:00:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">can't take this any longerrr :/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-06 00:01:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">2 weeks of buttsex....the bad type</span></span></div>

@@ -1,0 +1,78 @@
+motorcycle knowledge:
+https://mechanics.stackexchange.com/questions/5129/why-should-the-fuel-petcock-valve-be-turned-to-off-position-when-not-using-the
+  - fuel valve
+  - **just get into the habit of shutting it off!**
+  - The reason is that motorcycles traditionally have the fuel tank higher than the carburetor, and the fuel feeds with gravity alone. What risks does this introduce that necessitates a manual shutoff? Without the shutoff, if the carburetor float failed to close the valve tightly enough to stop the fuel flow, then gas would continue to trickle into the carb, overflowing the bowl and flowing down into the intake tract. If the intake valve were open, it would fill the cylinder. Then, upon attempting to start the motor, the incompressible liquid gasoline would cause a catastrophic hydraulic lock.
+
+motorcycle maintenance:
+
+https://www.2strokeengine.net/2strokeenginetroubleshooting/2strokeenginetroubleshooting.php
+  - trouble-shooting a 2 stroke
+   - written really well, old school text site too!
+
+https://m.youtube.com/watch?v=r3Q0_yYeG3c
+  - basic trouble-shooting a motorcycle (FACS: fuel, air, compression, spark)
+  - great for trouble-shooting, but also for buying, which this video is aimed for
+  - simple, high-quality video
+  - also mentions cleaning the fuel tanks so you don’t plug up the carb
+
+spark plug:
+https://m.youtube.com/watch?v=m_ZsWQ_WXNo
+  - all the knowledge on spark plugs you would need
+  - this guy has a video in which he buys a $300 car!
+    - https://m.youtube.com/watch?v=7VX090Fi63E&list=PLvKbarVtwhUuwmUrTQjb17k3siEkXhZHo&index=2&t=0s
+
+a method to take the plug out with less tools:
+use a socket to loosen the plug, then
+use a rubber hose (ex: fuel line) to grab the ceramic part, turn, and remove
+
+cleaning:
+wire brush for rusted metals, esp. the wheels and engine parts
+natural paint for the cool steel and especially iron parts, to protect and prevent from rust
+
+https://m.youtube.com/watch?v=19JE5UnepC0
+  - what parts to WD-40 (or equivalent dry lubricant):
+  - mainly: hinges, rollers, locks, bolts
+  - not: controls, brakes, rubber
+  - most metals (steel wheels, chrome exhaust, steel cables for brakes and clutch levers, etc.)
+
+ref:
+http://www.beginnerbikers.org/showthread.php?38556-WD-40-for-cleaning-Motorcycle
+  - excellent and good-quality forums and this particular discussion; great “collective wisdom”
+
+https://www.wd40.com/how-to/faqs/
+  - good basic info / uses
+
+
+lube (grease, oil) parts:
+can lube anything with any kind of grease, but spray grease is the simplest (191). I mainly use it on the brakes.
+
+oil chain:
+I added “chain grease”, which is just high-temperature oil (Dino 192? or lithium?), before. But recently, the motorcycle mechanic simply added drops of engine oil (to the chain).
+
+https://m.youtube.com/watch?v=VnPYdcbcAe0
+  - a myth-buster-like video busting the myth of “chain lube”. basically: standard gear oil out-performs most over-priced junk, and, it’s not even really needed. (note: this is different from chain grease, which is lodged and sealed inside the chain)
+
+
+tire change:
+use center stand to lift the tire up
+get tire out
+  - speedometer cable, front brake cable, core of pin on front axel
+take valve stem out to relieve air
+take tire out with spatulas (2-3)
+  - be careful of tube (if tube)
+align with arrow
+align with valve stem
+put tire on
+put tube in
+  - really easy to tear
+completely put tire on - with spatulas
+torque nut correctly
+
+sputtering, stalling at idle:
+https://answers.yahoo.com/question/index?qid=20110517174113AAfJblS
+  - clean the fuel tank and clean the carbs
+
+cleaning a motorcycle tank:
+https://m.youtube.com/watch?v=YP-Fq_gnleQ
+  - was with vinegar and rinse wit(ph distilled water and baking soda

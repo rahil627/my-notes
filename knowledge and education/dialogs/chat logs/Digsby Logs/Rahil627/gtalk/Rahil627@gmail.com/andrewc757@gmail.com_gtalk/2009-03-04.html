@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with andrewc757@gmail.com on 2009-03-04</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-04 13:50:16"><span class="buddy">andrewc757@gmail.com</span> <span class="msgcontent">just lettin you know youve been at walmart for a long time by now</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-04 13:50:31"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:-D </span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-04 13:50:34"><span class="buddy">andrewc757@gmail.com</span> <span class="msgcontent">lol</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-04 13:50:43"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat can i say, i love walmart</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-04 13:51:51"><span class="buddy">andrewc757@gmail.com</span> <span class="msgcontent">yay</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-04 13:51:53"><span class="buddy">andrewc757@gmail.com</span> <span class="msgcontent">.'===='<br />//'<br />‾</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-04 13:55:59"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-04 13:56:05"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">O SNAP</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-04 13:56:22"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">incredible</span></span></div>

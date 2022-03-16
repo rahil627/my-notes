@@ -1,0 +1,14 @@
+Letter to consular:
+
+My visa was short $20.
+
+Here is my information:
+case number: A1255
+name: Rahil Patel
+passport number: 451734525
+
+The reason it was short is because the website shows $140 instead of $160. I've already informed someone at your consul.
+
+website:
+title: General Information for Visa Application (For US Passport Holders)
+link: http://www.taiwanembassy.org/US/NYC/ct.asp?xItem=53275&ctNode=2963&mp=62

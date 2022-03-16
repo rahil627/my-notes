@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with spencegarland@gmail.com on 2009-03-01</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:16:10"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">any luck?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:16:18"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">haven't started ;)</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:16:29"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">his solution for the last hw looks scary enough</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:16:35"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">was talkin to jared</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:16:36"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">hell yeah</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:16:42"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea wtf is with that</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:16:48"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well i guess it's belfore's</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:16:49"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but still</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:17:09"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">it is belfore's but i completely dont understand interrupts</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:17:10"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">jared still has 304/412 left to do, so i may send him some code...since we owe him =P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:17:21"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">please do</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:17:24"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i'll be up until 4 doin this shiz</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:17:26"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">send him everything</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:17:46"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh and we still have to do those combined conditionals for 495</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:17:57"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">oh yeah</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:18:39"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">if( if-match AND if-modified-since)<br />do something sort of thing...</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:18:55"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it doesn't seem complicated...but the people on the e-mail list are spewing crazy stuff</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:19:00"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">recursion functions and nonsense</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:19:17"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">yeah,....but we be python bitchessssssssssssss</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:19:20"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">loll</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:19:27"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:19:48"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">so i still havent gotten anything done for ece</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:19:55"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">im about to play fallout</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:19:59"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah...he said he's doesn't have much time on to do things last minute again...so is trying to get everything to work on the first try</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:20:04"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">=O</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:20:19"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol i haven't played a game at home for 3 months</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:20:32"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its sad times at my house</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:20:37"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">awwwwwwwwwwwwwww</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:20:51"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:20:55"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">what do you do then</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:21:01"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">skeet skeet?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:21:04"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:21:17"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just school + motel + bills</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:21:54"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and family events....like tomorrow's baby shower</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:22:15"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">mmmmmmmmm</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:22:17"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">babies</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:22:18"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">babies</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:22:20"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:22:25"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">saw that coming</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:22:27"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:22:28"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">LOL</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:22:45"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">hey i cant let you down</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:22:49"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hehe tanx</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:24:07"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">alright im gonna try a little more on ece</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:24:11"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">then play fallout</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:28:22"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">Jared: im a lead software engineer at work for a small team of developers on a web platform, so its certainly been helping to understand the backend of it all....</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-01 03:28:45"><span class="buddy">spencegarland@gmail.com</span> <span class="msgcontent">damn</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:40:10"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">Jared: for instance, our app sits behind a PKI enabled scheme, and most browsers default that when its HTTPS and PKI enabled, to not store stuff like JS in the cache<br />Jared: which sucks, cause our app requires like 500K of javascript files, which sucks for load time, because its on a navy network and bandwidth is low<br />Jared: but after learning abotu this content epiration shit and stuff, and how the headers work, i was able to force the header on the JS files, and now it runs much smoother</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:40:26"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lolwut?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-01 03:40:47"><span class="buddy">rahil627@gmail.com</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">he actually used something he learned in web servers to help in his job</span></span></div>

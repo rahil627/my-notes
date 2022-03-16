@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with curiousenver on 2009-03-27</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:09:43"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">yooo</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:09:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">waddup</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:10:00"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">Joel told me he passed over the laptop :)</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:10:05"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">thanks mang</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:10:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah....he also said how bad it was! =P</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:10:18"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">hahahaha</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:10:23"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">worse than you though?</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:10:25"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">thought*</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:10:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">mmm yea....i mean it doesnt even boot now</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:10:48"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">what about with the startup disc</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:11:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">he hasn't tried....but i'll see tonight</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:11:17"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">*crosses fingers*</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:11:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">this laptop is huge</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:11:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">not exactly portable heh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:11:39"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">I asked him if you knew enough to fix it and he was like &quot;he's a CS major...I'm sure he'll figure it out&quot;</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:11:43"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">HAHA yeah it's massive</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:11:46"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">it's a desktop replacement</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:11:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:12:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ah yea</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:12:44"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">[opens laptop] ... uh nice alt key?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:13:23"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">god..its greasy</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:13:27"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">LOL it came off when I was trying to clean something and the metal clasp on the actual keyboard is crooked</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:13:34"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">ugh yeah like</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:13:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hehe</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:13:49"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">it happened when I was using it at my cousins house to work on something but the AC broke</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:13:56"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">and then I got mad sweaty</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:14:04"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">and then the same thing happened at a smash tourney</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:14:08"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">and I never got a chance to clean it</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:14:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahah ic</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:14:44"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">sorryyy for the grease</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:14:53"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">it's mostly the touchpad that's greasy</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:15:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahaha its np</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:15:33"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">you can see where Counter Strike ruined the palm-rest for the left hand XD</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:15:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh yea =P</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:15:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ugh i c...blue screen o death</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:16:06"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">??</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:16:09"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">damn.</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:18:24"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">oh wait that means it turned on right?!</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:18:32"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">or was it doing that but just not booting windows :(</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:19:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">while starting up windows...the blue screen occurs</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:20:08"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">DAMN.</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:22:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">same thing for safe mode...</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:22:12"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">*cries*</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:47:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeahp...this is gonna suck...i hate command line :/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:48:48"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">sorrrrryyyyy :(!!!!</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:52:07"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">I clearly  owe you good foods</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:52:08"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">:-D</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:52:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol...if i get it to work</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:52:36"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">haha</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:54:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">password?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:54:28"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">uhhh</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:54:36"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">probably issues...or just try hitting enter without a password</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:54:43"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">try no password first and just hit enter</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:54:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im in a recovery console..</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:54:47"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">k</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:54:52"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">oh</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:54:56"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">issues</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:54:58"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">or ivegotissues</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 01:54:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that worked hehe, no pass</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:55:03"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">haha</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-27 01:55:03"><span class="buddy">curiousenver</span> <span class="msgcontent"><font size="2"><font color="#000000"><font face="Arial">okay</font></font></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 02:29:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">k...so u you have windows media center edition....but do u remember which year? it's either of the following:<br /><br />Windows XP Media Center Edition<br />Windows XP Media Center Edition 2004<br />Windows XP Media Center Edition 2005</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 02:31:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">this indeed won't be fixed today</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 02:40:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it also might just be best to take the HD out and salvage your files and start from fresh :/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 02:56:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just gotta prey that the repair options comes up when i burn the cd</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-27 02:56:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">pray*</span></span></div>

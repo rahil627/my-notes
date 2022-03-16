@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with neilmonday on 2009-03-25</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:18:39"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>oh fuck word froze</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:18:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:'( </span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:19:02"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">give it time? =/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:19:32"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>nah. if something freezes in os x its usually not coming back.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:19:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">when did u last save</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:19:52"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>too long ago.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:19:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">=(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:20:04"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>I'm gonna pray it did its magic auto saving</font></body></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:20:10"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>im sending an error report.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:20:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">now i know when people send error reports....ugh if the OS is smart, it should be ok</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:21:06"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>yay for magic autosave!</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:21:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">swee</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:21:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">t</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:26:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">awwwwwww, this is RADICAL</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:26:46"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>??</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:27:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">this paper is =P  .. [jim gaffigan quote]</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:27:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">when trying to spread extreme crunchy peanut butter</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:28:11"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>lol hadn't heard that part I don't think</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:28:20"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aw</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:32:10"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>goto section 3.2</font></body></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:32:20"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>what is the very next subsection number</font></body></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:32:29"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>that you see</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:33:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">3.2.1  RUBEE SCANNER AND TAGS<br /></span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:34:18"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>ok got it thanks</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:34:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aiite</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:35:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">alllllllllright, time to watch a short movie</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 04:36:01"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>lol forget sleep</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 04:36:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im gonna try to knock out a lot before i sleep =P ... its jut a short animation :(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 05:18:06"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>ok goin to bed</font></body></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-25 05:18:07"><span class="buddy">neilmonday</span> <span class="msgcontent"><body ichatballooncolor="#EBEBEB" ichattextcolor="#000000"><font face="Helvetica" size=3 ABSZ=12>later</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-25 05:27:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah aiite...just watched a wallace &amp; grommit short =P</span></span></div>

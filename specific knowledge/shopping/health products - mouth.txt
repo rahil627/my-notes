@@ -1,0 +1,247 @@
+
+ingredients:
+
+things to avoid:
+methylparaben
+  - avoid this
+  - [healthline says science and science-health organizations consider it safe as of now](https://www.healthline.com/health/methylparaben#takeaway)
+proplyparaben
+benzophenone-3
+phthalatates (fragrance)
+dyes (colors)
+artificial flavorings
+  - go with natural mint, clove...anything!
+preservatives
+  - this is more difficult to avoid, as you’d have to find fresh tooth-paste!
+
+chemical compounds / molecules, natural and synthetic:
+
+calcium
+  - i understand you get ingest this from food, but what about it’s use in toothpaste?... [todo]
+  - “There is no such thing as a nugget of pure, elemental calcium. In nature, calcium is found bound with other elements, such as carbon, oxygen, or phosphorous. When one of these calcium compounds is digested, it returns to its elemental state, and your body reaps the benefits...*Calcium phosphate* — which you find as tricalcium phosphate in supplements — contains close to 39 percent elemental calcium. This is just a fraction below *calcium carbonate* (40 percent), but well above calcium citrate (21 percent), calcium lactate (13 percent), and calcium gluconate (9 percent).”
+    - (healthline)[https://www.healthline.com/health/food-nutrition/should-you-take-calcium-phosphate#calcium-phosphate]
+
+**flouride** (sodium fluoride)
+  - “this ingredient fights tooth decay and strengthens enamel”
+  - “While **it’s widely acknowledged that fluoride is beneficial for tooth health, some people have concerns about the side effects it may cause.** These include discoloration or white spots on teeth (dental fluorosis) and skeletal fluorosis, a bone disease. **It’s worth noting that side effects from fluoride are caused by swallowing large amounts, or by long-term exposure to high levels, not by standard toothpaste use.**”
+  - “Sodium fluoride is used as an **anti-cavity and desensitizing agent. It enhances the strength of teeth by the formation of fluorapatite, a naturally occurring component of tooth enamel.** Sodium fluoride also aids in relieving dentin sensitivity. Sensitivity is caused when dentin is exposed and the tubules that run from the outer layer of the tooth into the nerve are opened and unprotected. This can cause any stimuli from the outside of the tooth traveling to the inside of the tooth hitting the nerve and causing that instant shock. **This ingredient blocks the opened tubules to provide some relief of sensitivity.**”
+
+stannous fluoride
+  - “An **anti-bacterial, anti-cavity agent. Converts the calcium mineral apatite into fluorapatite to make the tooth enamel more resistant to bacteria-generated acid attacks. More effective than sodium fluoride in reducing cavities and controlling gingivitis.** May cause staining, which can easily be removed.”
+
+triclosan
+  - avoid this
+  - “**Triclosan is an antibacterial ingredient. It was removed from most toothpaste formulations due to concerns about its ability to generate antibiotic resistance, as well as disrupt thyroid hormone function.**
+
+Potassium nitrate
+  - It **helps to prevent cavities and reduces the pain from sensitivity.** Usually in the sensitivity toothpastes as a main ingredient, clinically proven to reduce dentin (tooth layer under the enamel) hypersensitivity. Sensitivity is caused when dentin is exposed and the tubules that run from the outer layer of the tooth into the nerve are opened and unprotected. Potassium nitrate ions depolarizes the nerve which desensitizes them to stimuli.
+
+sodium lauryl sulfate (SLS)
+  - “**Some research indicates that use of this ingredient is safe and the fear of it is overblown.** However, some people find SLS irritating to the skin and gums, and there’s also some scientific evidence to substantiate that claim.”
+  - “Of all the ingredients that make their way into toothpaste, if there’s one you may be familiar with, it’s likely Sodium Lauryl Sulfate. It’s used in toothpaste mainly as a foaming agent, to give you the sense that your brushing is having the effect it should. Some argue it’s an unnecessary ingredient given that it’s prone to irritate the oral tissues of some, and can contribute to the formation of canker sores. **More dubious, however, is the claim that SLS is a carcinogen. And, while The American Cancer Society and the federal government do not consider SLS to be a carcinogen**, there are some scientists who believe more testing is necessary, and that consumers should avoid the ingredient if possible. If you’re at all concerned, the decision to avoid SLS is yours – not all toothpastes contain the ingredient.”
+
+Glycerin
+  - Maintains moisture levels preventing toothpastes from drying out and helps with preservation. **Glycerin contributes to a good mouth feel and improves flavor.** May be derived from animal fat.
+
+humectants
+“Keeping toothpaste moist and in good form requires a humectant. Otherwise, you’d end up with a hard block of toothpaste or a chalky mess. *Glycerin, sorbitol and water* are the most common additives to your toothpaste to get this job done, and wonder-ingredient **Xylitol** has also been making an appearance as of late because it not only provides moisture but helps fight cavities.”
+
+PEG-6, 12, 20, 23 (polyethylene glycol)
+  - Used for humectants and solvents. Prevents water loss and stabilizes the toothpaste. Helps to prevent settling or clumping.
+
+thickeners:
+“*Carrageenan, cellulose gum, guar gum, xanthan gum, and even gluten* help thicken your toothpaste. They’re generally benign ingredients.”
+
+preservatives:
+“The last thing you want to be spreading all over your teeth is moldy toothpaste. *Sodium benzoate, methyl paraben, and ethyl paraben* are the three most common preservative ingredients used to keep your toothpaste from become home to all sorts of nasty bacteria. They’re a bit of a necessary evil. Of the three, sodium benzoate may be your best choice as parabens have come under intense scrutiny – particularly because they mimic estrogen in the body, according to the Breast Cancer Fund.”
+
+butylated hydroxytoluene (BHT)
+  - preservative used in skin cleansers, used to prevent oxidation
+  - CIR (cosmetic something review) and FDA approved
+  - tiny amounts seem perfectly fine, though large amounts ‘caused lung problems to rats!
+  - (health.howstuffworks)[ https://health.howstuffworks.com/skin-care/cleansing/products/bht-in-skin-cleansers.htm]
+
+propylene glycol
+  - https://www.healthline.com/nutrition/propylene-glycol
+  - basically: it has a ton of uses, mainly as caking agent / emulsifier for preserving processing foods, but also as an anti-oxidative (prevent oxidation), which is probably it’s use in mouthwash
+
+sorbital
+  - found naturally in fruit
+  - manufactured from corn syrup
+  - “Sorbitol is a widely used sugar alcohol for several reasons.”
+  - **unlike table sugar, sugar alcohols like sorbitol don’t contribute to the formation of cavities**. This is one reason why they’re often used to sweeten sugar-free chewing gum and liquid medications.
+
+	In fact, the Food and Drug Administration (FDA) has recognized that sugar alcohols like sorbitol may benefit oral health. This is based on a study that found that sorbitol may reduce cavity risk compared with table sugar, although not to the same extent as other sugar alcohols.
+  - “The most similar alternatives are other sugar alcohols like *erythritol* or *xylitol*, which are commonly used in chewing gum and diet drinks””
+
+
+Abrasives
+“*Silica, along with Baking soda, calcium carbonate, calcium phosphates and alumina*, are abrasive agents used to remove stains from teeth. If you’re a frequent coffee, tea, red wine, or soda drinker, you might feel the need to brush with a toothpaste containing these ingredients. Recognize, however, that they are abrasive to your teeth. **Go with toothpaste with a low rating for abrasiveness.** Or, reduce the quantity of your stain-inducing foods and beverages.”
+
+**cetylpyridinium chloride**
+  - eliminates bad breath and kills bacteria.
+
+**chlorhexidine**
+  - reduces plaque and controls gingivitis
+
+Carbamide peroxide or hydrogen peroxide
+  - whitens teeth
+
+
+
+**essential oils**
+  - Some mouthwashes contain compounds found in essential oils, such as menthol (peppermint), eucalyptus, and thymol (thyme), which **have antifungal and antibacterial properties**
+
+peppermint oil
+  - tons of uses, but in the case of mouth, probably just for flavor
+  - “Peppermint oil has a sharp odor that’s cool and refreshing. Its taste is similar. You may be familiar with the coolness in your mouth after you consume something with a peppermint flavor.
+
+	**The main chemical components of peppermint oil are menthol and menthone**. However, there are many more as well.”
+	- (healthline)[https://www.healthline.com/health/benefits-of-peppermint-oil#forms]
+
+eucalyptus oil
+  - tons of uses, but in the case of mouth, probably for flavor and anti-bacteria
+  - “Because of its antibacterial properties, eucalyptus oil can be used to fight the germs that cause unfortunate mouth odor. Some mouthwashes and toothpastes contain the essential oil as an active ingredient.
+
+	**It’s possible that eucalyptus products may also help prevent plaque buildup on the teeth and gums by attacking the bacteria that cause tooth decay.**” [healthline](https://www.healthline.com/health/9-ways-eucalyptus-oil-can-help#breath-freshener)
+	
+**strebulus asper** (toothbrush tree, khoi)
+  - a medium-sized tree native to dry regions in south-east Asia
+  - “An extract of Strebulus asper leaves have demonstrated to **possess a selective bactericidal activity towards Streptococcus, especially to S. mutans which has been shown to be strongly linked with dental caries.**” [wiki](https://en.m.wikipedia.org/wiki/Streblus_asper)
+	
+**clove oil** (syzygium aromaticum)
+  - [healthline](https://www.healthline.com/health/clove-essential-oil#bottom-line)
+  - “Clove oil is an essential oil that’s derived from clove trees. The clove tree, known as Syzygium aromaticum, is native to Southeast Asia,”
+  - “Clove oil has traditionally been used for a variety of purposes, including:
+	as an antimicrobial, to help kill bacteria
+	as a pain reliever for conditions such as toothache and muscle pain
+	for digestive upset
+	to relieve respiratory conditions like cough and asthma”
+  - “A 2017 study looked at the antifungal activity of several essential oils. Of the oils tested, clove oil was the most effective at stopping the growth of a range of fungi with environmental origins”
+    - that article compared it with eucalyptus oil and lavender oil, which performed similarly, but below clove oil
+  - “In 2012, researchers investigated the effect of clove oil on the dental erosion of teeth by acidic beverages, like apple juice. Dental erosion of teeth can lead to cavities.
+    - **that article had clove on top (30), with ginger and garlic paste nearby (25), then tea tree oil (15), then everything else with 1/6th the effect or less (including ginger or garlic separately at 5 each)**, green tea (2), cinnamon oil (2), and turmeric and eucalyptus oil with 0 effect
+      - i’d say it’s just a stronger version of garlic ‘n ginger
+
+	According to the study, **clove oil and its molecules were effective at preventing dental erosion, leading the authors to believe that clove oil may work in a similar way to fluoride in preventing cavities.**
+
+	A 2016 study tested 10 natural plant products to see how effective they were against organisms that cause oral cavities. **Clove oil was found to be the most effective at inhibiting cavity-causing organisms**.”
+
+lime oil (key lime, Citrus aurantifolia)
+  - made from the peel of the skin
+  - “Because it is antibacterial, lime essential oil can help kill the bacteria causing your oral infections and its astringent properties mean that it can also strengthen the gums which gives your teeth a firmer footing.”
+    - (ref)[https://healthyfocus.org/lime-essential-oil-benefits/]
+
+sacred fig tree (ficus religiosa)
+  - (krishnaherbals lists a ton of uses / properties)[https://www.krishnaherbals.com/ficus-religiosa.html], but nothing about teeth
+
+orange jessamine
+  - “Studies have shown antioxidant, anti-amoebic, anti-giardial, antiplatelet aggregation, insecticidal, anti-diabetic, antinociceptive, antifungal, antibacterial, antifertiity, cytotoxic, nematicidal properties.”
+    - (2beingfit)[http://2beingfit.com/orange-jasmine/]
+
+clinacanthus nutans (snake grass)
+  - “Clinacanthus nutans Lindau is known as snake grass belonging to the Acanthaceae family. This plant has diverse and potential medicinal uses in traditional herbal medicine for treating skin rashes, insects and snake bites, lesions caused by herpes simplex virus, diabetes, and gout in Malaysia, Indonesia, Thailand and China...The pharmacological experiment proved that various types of extracts and pure compounds from this species exhibited a broad range of biological properties such as **anti-inflammatory, antiviral, antioxidant, and anti-diabetic activities.**”
+    - https://pubmed.ncbi.nlm.nih.gov/27086161/
+
+mangosteen (garcinia mangostana)
+  - anti-fungal, anti-bacteria
+    - (a neat site!)[https://www.mskcc.org/cancer-care/integrative-medicine/herbs/mangosteen]
+
+ref:
+https://www.healthline.com/health/tooth-powder
+https://www.healthline.com/health/dental-and-oral-health/best-mouthwash
+ https://www.healthline.com/health-news/the-chemicals-to-avoid-in-your-shampoo-and-body-wash#What-chemicals-should-you-avoid?
+ 
+https://www.patientconnect365.com/DentalHealthTopics/Article/Whats_in_your_toothpaste_An_ingredient_checkup
+
+https://dentalaisle.com/ingredients-in-toothpastes/
+  - this is a great simple dictionary-like list
+—
+
+toothbrushes / tooth twigs:
+(wiki)[https://en.m.wikipedia.org/wiki/Teeth-cleaning_twig]
+  - “In Africa, chew sticks are made from the tree Salvadora persica, also known as the “toothbrush tree”.”
+  - “Teeth-cleaning twigs can be obtained from a variety of tree species. Although many trees are used in the production of teeth-cleaning twigs, some trees are better suited to clean and protect the teeth, due to the chemical composition of the plant parts.”
+  - trees: many fruit trees (mango, mangosteen, apple, pear, fig, orange)
+
+(video of person in india demonstrating how to use a twig from a neem tree as a tooth-brush)[https://youtu.be/Gele2qAGkSU]
+
+
+
+toothpaste / powder:
+https://www.healthline.com/health/remineralizing-toothpaste
+  - “You probably already know that **once lost, tooth enamel can’t be replaced.** You may not know, however, that **the mineral content of existing tooth enamel can be increased by using a remineralizing toothpaste.**
+
+	**Remineralization helps strengthen the entire tooth. It also repairs weak spots, and makes teeth less sensitive to hot and cold.** In order to get the best results, it’s important to choose the right product.”
+	
+  - **The most effective remineralizing toothpastes contain ingredients such as: stannous fluoride, sodium fluoride, calcium phosphate (hydroxyapatite).**
+    
+    **These ingredients are able to bond to weakened tooth enamel, forming patches, much like patches sewn into worn-out fabric.**
+
+	**Even though these patches aren’t made from tooth enamel, they have the ability to strengthen and protect teeth.**
+
+	Remineralizing toothpastes also help prevent additional tooth decay from occurring, especially when they’re combined with proactive oral care habits, such as brushing and flossing after meals.
+	
+    - **Calcium is one mineral that helps keep tooth enamel strong. Not enough calcium in teeth can sometimes be connected to a calcium deficiency.**
+
+    - listed are: 3M ClinPro 5000 has calcium phosphate, Sensodyne Pronamel has potassium nitrate, Crest Pro Health has stannous flouride. Sensodyne Rapid Action also has stannous flouride
+
+
+
+tooth powder vs tooth paste:
+(healthline)[https://www.healthline.com/health/tooth-powder]
+
+basically, tooth powder requires water to wash, is messier, but **has less ingredients, as it doesn’t include a foaming agent (sodium lauryl/laureth sulfate)**. The healthline article says **it doesn’t include flouride, which is the only thing scientifically known to prevent cavities.**
+
+“research indicates that powder is more effective at removing stains and plaque than toothpaste”
+
+it’s easier to make from home, enabling people to make their own varieties
+
+
+
+
+
+mouth-washes:
+https://www.healthline.com/health/dental-and-oral-health/best-mouthwash
+https://www.healthline.com/health/dental-and-oral-health/best-mouthwash#benefits
+
+mostly for bad breadth and killing bacteria, but can also contain active ingredients (fluoride, chlorhexidine) for other useful effects (help teeth enamel, remove plaque, etc.)
+
+**Mouthwash is able to reach parts of your mouth that brushing and flossing might miss, making it an effective tool for treating conditions such as:
+bad breath
+gingivitis
+plaque
+dry mouth
+yellow or discolored teeth
+receding gums**
+
+alcohol-based ones burn the mouth (and can dry it?)
+
+list:
+Crest ProHealth Multi-Protection has cetylpyridinium chloride and is alcohol-free
+Crest ProHealth Advanced with Extra Whitening has flouride and hyrogen peroxide, and is alcohol-free
+Colgate Total Pro-Shield has cetylpyridinium chloride
+Peridex (aka Perisol...etc.) is the generic name for cholrohexadine
+
+
+
+shampoo bar vs liquid
+liquids come in wasteful plastic bottles, are a problem for airports, and can leak in a bag. Bars stay put.
+
+research for shampoo bars:
+https://www.amazon.com/Ethique-Eco-Friendly-Shampoo-Damage-Control/dp/B07572KQDY?th=1
+  - a very popular shampoo bar on Amazon
+  - coconut oil, coco butter, peppermint oil
+  - Ingredients: Sodium cocoyl isethionate, sodium coco-sulfate, creamed Cocos nucifera (coconut) butter, decyl glucoside, stearic acid, Theobroma cacao (cocoa) butter, Cocos nucifera (coconut) oil, vegetable glycerine, cetyl alcohol, stearyl alcohol, behentrimonium methosulfate, Mentha piperita (peppermint) oil, mica, limonene, linalool
+  - Directions: Wet your hair and the bar. Slide the bar from root to tip 3-4. Put the bar down and lather shampoo into hair. It will foam! Rinse and follow with conditioner if you need to.
+
+https://www.amazon.com/Lemongrass-Sulfate-Solid-Shampoo-Friendly/dp/B07ZC73J5R
+  - Ingredients: carthamus tinctorius (*safflower) seed oil, water, cocos nucifera (*coconut) oil, ricinus communis (*castor) seed oil, sodium hydroxide, and cymbopogon flexuosus (Lemongrass) Oil*certified organic ingredient.
+
+trader joe’s has a shampoo bar with tea tree oil and peppermint oil
+
+https://organic-looks.com/shampoo-bar/
+  - shea butter
+  - tea tree and hemp oils combo
+  - coconut and argan oils combo
+  - jojoba and peppermint oils combo

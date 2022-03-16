@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with seungtrl on 2009-04-05</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-04-05 05:16:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">make sure u watch the vid in enver's status</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 05:16:48"><span class="buddy">seungtrl</span> <span class="msgcontent">of spoken word?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 05:16:50"><span class="buddy">seungtrl</span> <span class="msgcontent">i will later</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 05:16:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">aiite</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 05:17:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but be warned, it's godly and requires time for thinking</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 05:17:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">;)</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:50:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">http://www.youtube.com/watch?v=NisCkxU544c</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:52:06"><span class="buddy">seungtrl</span> <span class="msgcontent">lawl</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:52:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah..just woke up and opened the youtube page for some more anis...but found that on top because im suscribed</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:53:06"><span class="buddy">seungtrl</span> <span class="msgcontent">lmao bill hader suck my own dick</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:53:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">heh...jorma in there somewhere too ;)</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:54:50"><span class="buddy">seungtrl</span> <span class="msgcontent"><a href="http://www.youtube.com/watch?v=F7rXo1nLgp4&amp;feature=channel">http://www.youtube.com/watch?v=F7rXo1nLgp4&amp;feature=channel</a></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:54:51"><span class="buddy">seungtrl</span> <span class="msgcontent">in related</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:54:53"><span class="buddy">seungtrl</span> <span class="msgcontent">i lawlled</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:54:55"><span class="buddy">seungtrl</span> <span class="msgcontent">so hard</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:56:21"><span class="buddy">seungtrl</span> <span class="msgcontent">oh god man i cant stop laughing</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:56:28"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh yeah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:56:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">=D</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:56:43"><span class="buddy">seungtrl</span> <span class="msgcontent">bill hader shaking his head</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:56:44"><span class="buddy">seungtrl</span> <span class="msgcontent">so good</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:56:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">fleet foxes r so sexy too XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:56:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">a slight shake this time</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:57:27"><span class="buddy">seungtrl</span> <span class="msgcontent">lol didnt realize there were more</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:57:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:57:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i thought u saw em all</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:57:46"><span class="buddy">seungtrl</span> <span class="msgcontent">jus saw three</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:57:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:57:49"><span class="buddy">seungtrl</span> <span class="msgcontent">fleet, arcade, mcr</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:57:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-05 18:58:17"><span class="buddy">seungtrl</span> <span class="msgcontent">and so whoever is shooting this jus decided to film bill hader shaking his head? XD</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:58:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">iunno, it happens everytime</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-05 18:58:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and i love it</span></span></div>

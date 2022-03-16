@@ -1,0 +1,182 @@
+
+
+soaps:
+solid soaps:
+for the body:
+sodium cocoate
+
+for hair:
+though you can use body soaps for hair, it would be a sticky experience, so it’s probably better to get an oil-based soap, or, just a liquid one
+
+liquid soaps:
+?
+
+mouth-wash?:
+
+research:
+https://www.healthline.com/health/how-to-make-soap#about-soapmaking
+  - **“Soap, by definition, is fat or oil mixed with an alkali. The oil is from an animal or plant, while the alkali is a chemical called lye. In bar soapmaking, the lye is sodium hydroxide. Liquid soap requires potassium hydroxide [...When oil and lye are combined and heated, the result is soap.]”**
+
+	“When oil and lye are combined and heated, the result is soap. This chemical reaction is called saponification. Without lye, saponification isn’t possible, so lye is necessary to create soap.“”
+	- “Some people are concerned about **lye. On its own, it’s a highly corrosive substance that can irritate the skin, eyes, and respiratory system. However, when done properly, saponification turns lye into soap. No lye is left in the final product.**”
+
+
+sodium lauryl sulfate (sls)
+ - not natural, but considered safe by *science* for short periods of time—just rinse it off when done using it
+ - “SLS is what’s known as a “surfactant”. This means it lowers the surface tension between ingredients, which is why it’s used as a cleansing and foaming agent.
+   
+   Most concerns about SLS stem from the fact that it can be found in beauty and self-care products as well as in household cleaners.
+   
+   Sodium laureth sulfate (SLES) is a surfactant with a similar chemical formula. However, SLES is milder and less irritating than SLS.”
+   
+CI ######
+  - Cosmetic Ingredient, listed by some organization
+  - Ultramarines (CI 77007), Ultramarine is a synthetic inorganic blue pigment
+  - https://www.cosmeticsinfo.org/ingredient/ultramarines-0
+     - more info here, seems safe, just a very basic chemical compound based on a natural mineral (the blue in lapis lazuli)
+
+titanium dioxide
+  - “One of the most widely used food pigments is titanium dioxide“
+  - “...enhances the white color or opacity...”
+  - also used for sunscreen against UV rays
+  - “...variations differ from the food-grade ones...”
+  - **Titanium dioxide is classified as a Group 2B carcinogen as animal studies have linked its inhalation to lung tumor development.** However, no research shows that titanium dioxide in food harms your health.
+  - **some people say small ones go into skin, but science says it cannot past the first layer**
+  - **some people say it can be absorbed by the intestines, but the food-grade ones are considered safe (by science)**
+  - healthline
+
+Ethylenediaminetetraacetic acid (EDTA)
+  - “*Calcium disodium* EDTA is widely used in beauty and cosmetic products. It allows for better cleaning use, as it **enables cosmetic products to foam**.
+
+	What’s more, **as it binds with metal ions, it prevents metals from accumulating on the skin, scalp or hair**.
+
+	Soaps, shampoos, lotions and contact lens solutions are examples of cosmetic and personal care products that may contain calcium disodium EDTA.”
+  - used as a food additive for preserving food ‘n flavor
+  - “Though research is limited, scientific evidence currently does not suggest that calcium disodium EDTA has cancer-causing effects.”
+  - [healthline](https://www.healthline.com/nutrition/calcium-disodium-edta#applications)
+	
+   
+alpha-tocopheryl acetate (ATA; Vitamin E acetate)
+  - most active form of Vitamin E in the human body
+  - protects from free radicals (caused by UV rays, pollution, etc.)
+  - **“Using AT on the skin, especially with vitamin C, helps to prevent UV damage to the skin...using AT with vitamin C on the skin decreased sunburned cells, DNA damage, and skin pigmentation following UV exposure.** However, AT is less stable in the environment than ATA, which makes it harder to store.
+
+	**While ATA is less sensitive to heat and light than AT is, there’s less conversion of ATA to the active AT form within the skin. This is because the cells in the upper layer of your skin are much less metabolically active. As a result, using cosmetic products containing ATA on your skin may not be very effective.”**
+	
+
+salicylic acid
+  - “It’s well-known for reducing acne by exfoliating the skin and keeping pores clear.”
+  - “**When your hair follicles (pores) get plugged with dead skin cells and oil, blackheads (open plugged pores), whiteheads (closed plugged pores), or pimples (pustules) often appear.**
+
+	**Salicylic acid penetrates into your skin and works to dissolve the dead skin cells clogging your pores.** It can take several weeks of use for you to see its full effect. Check with your dermatologist if you aren’t seeing results after 6 weeks.”
+	- seems very safe, no concerns
+	- [healthline](https://www.healthline.com/health/skin/salicylic-acid-for-acne#how-it-works)
+
+     
+palm oil
+  - “Palm oil comes from the fleshy fruit of oil palms. Unrefined palm oil is sometimes referred to as red palm oil because of its reddish-orange color.
+
+    The main source of palm oil is the Elaeis guineensis tree, which is native to West and Southwest Africa. Its use in this region dates back more than 5,000 years.
+
+    A similar oil palm known as Elaeis oleifera is found in South America, but it’s rarely grown commercially. However, a hybrid of the two plants is sometimes used in palm oil production.”
+    - different from ‘palm kernel oil’, which is derived from the seed [of the same plants]
+    - **“In the 1980s, palm oil was replaced with trans fats in many products due to concerns that consuming tropical oils might jeopardize heart health. However, after studies revealed the health risks of trans fats, food manufacturers resumed using palm oil.”**
+    - palm oil and cholesterol:
+      - “Although some study results have been mixed, this oil generally appears to have beneficial effects on heart disease risk factors, including lowering “bad” LDL cholesterol and increasing “good” HDL cholesterol (11Trusted Source, 12Trusted Source, 13Trusted Source, 14Trusted Source, 15Trusted Source, 16Trusted Source, 17Trusted Source, 18Trusted Source).
+
+A large analysis of 51 studies found that total and LDL cholesterol levels were lower in people who followed palm oil-rich diets than those who consumed diets high in trans fats or myristic and lauric acid (11Trusted Source).
+
+A recent three-month study looked at the cholesterol-lowering effects of palm oil made from a hybrid of Elaeis guineensis and Elaeis oleifera trees.
+
+In this study, people consumed either 25 ml (2 tablespoons) of olive oil or a hybrid palm oil daily. Based on a 15% drop in LDL cholesterol in both groups, researchers suggested this palm oil could be called **“the tropical equivalent of olive oil”** (12Trusted Source).”
+
+  - “**A recent analysis found that 45% of land in Southeast Asia currently used for palm oil production had been forest back in 1990, including more than half of all palm oil plantations in Indonesia and Malaysia.**”
+
+coconut oil
+  - “Coconut is the fruit of the coconut palm (Cocos nucifera).”
+  - “Studies show that **coconut oil can improve the moisture content of dry skin** and reduce the symptoms of eczema.
+
+	**Coconut oil can also protect against hair damage.** One study shows that it may work as a weak sunscreen, blocking about 20% of the sun’s ultraviolet (UV) rays.
+
+	**Oil pulling, which involves swishing coconut oil in your mouth like mouthwash, may kill some of the harmful bacteria in the mouth. This may improve dental health and reduce bad breath, though more research is needed**.
+	
+sodium cocoate
+ -  “Sodium cocoate is an additive derived from coconut oil.”
+ - “Sodium cocoate is a surfactant, or cleanser, that specifically acts as an emulsifier. An emulsifier helps to create a stable balance between oils that cleanse and water that rinses off the day’s dirt, oil, and makeup.”
+  - “Some people prefer products with sodium cocoate because it’s a natural alternative to synthetic chemicals like sodium lauryl sulfate that are usually used in soap-making.
+sodium palmate”
+  - “products that contain sodium cocoate aren’t likely to clog your pores. However, some people who are especially prone to acne may find sodium cocoate-containing cleansers do clog their pores.”
+  - fights acne
+  - “Some people report that products containing sodium cocoate are drying to the skin. This is much like any cleanser that may remove too much oil... However, some manufacturers may incorporate other skin-softening ingredients like glycerin into their soap production.”
+
+
+
+
+
+
+
+ref:
+healthline
+https://www.healthline.com/health/beauty-skin-care/sodium-cocoate
+https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-coconut-oil#TOC_TITLE_HDR_9
+https://www.healthline.com/nutrition/coconut-nutrition#TOC_TITLE_HDR_2
+
+
+
+to essential oils:
+
+for body (skin):
+mangosteen
+  - “Skin damage from sun exposure is a common occurrence worldwide and a major contributor to skin cancer and signs of aging.
+
+	One study in mice treated with supplemental mangosteen extract observed **a protective effect against ultraviolet-B (UVB) radiation in the skin.**
+
+	What’s more, a small, 3-month human study found that people treated with 100 mg of mangosteen extract daily experienced **significantly more elasticity in their skin and less accumulation of a particular compound known to contribute to skin aging.**
+
+	Researchers assert that mangosteen’s antioxidant and anti-inflammatory capacity is the main reason for these skin-protective effects, but more studies in this area are needed.”
+	- [healthline](https://www.healthline.com/nutrition/mangosteen#TOC_TITLE_HDR_9)
+	
+
+
+for hair (scalp and hair):
+https://www.healthline.com/health/essential-oils-for-hair-growth#essential-oils
+  - lavender, peppermint, rosemary, cedarwood, lemongrass, thyme, clary-sage, tea-tree, ylang-ylang
+
+bergamot oil (aurauntium bergamia)
+  - “extracted from the rinds of citrus fruit (Citrus bergamia) that grow on bergamot orange trees. If you’re a fan of Earl Grey tea, you’re already enjoying the distinctive taste of bergamot, which is used to flavor it.
+
+	The earliest roots of the bergamot tree can be traced to Southeast Asia.”
+  - “Bergamot oil enthusiasts (and people who love soft, lightly scented hair), swear by this essential oil’s ability to soften and tame curls. Anecdotal evidence indicates that bergamot oil may also be soothing to an irritated scalp.
+
+	To use, put a few drops in your usual shampoo. You can also mix one to two drops with a tablespoon of carrier oil and massage it into your scalp as an overnight treatment.”
+  - [healthline](https://www.healthline.com/health/bergamot-oil#for-hair)
+
+palm oil
+  - [leaf.tv](https://www.leaf.tv/4479791/what-are-the-benefits-of-palm-oil-on-hair-skin/) says “red palm oil” (unrefined palm oil) it provides protection from the environment (sunlight, ocean salts, chlorine, etc.) *and* makes hair softer
+    - “For a hair dressing, rub a dime-sized dollop between your palms and apply to the ends of your hair and gently work the oil down to the roots. The red palm oil will offer natural protection for your locks when you’re going to be out in the sun or exposed to chlorine, ocean salt or other harsh environmental factors. You’ll also notice it leaves your hair softer and enhances any natural curl when used sparingly. Although your hair absorbs most of the oil, be aware that excess oil can stain anything you lean your head against if you’ve used too much.”
+
+
+shampoo bar vs liquid
+liquids come in wasteful plastic bottles, are a problem for airports, and can leak in a bag. Bars stay put.
+
+research for shampoo bars:
+https://www.amazon.com/Ethique-Eco-Friendly-Shampoo-Damage-Control/dp/B07572KQDY?th=1
+  - a very popular shampoo bar on Amazon
+  - Ingredients: Sodium cocoyl isethionate, sodium coco-sulfate, creamed Cocos nucifera (coconut) butter, decyl glucoside, stearic acid, Theobroma cacao (cocoa) butter, Cocos nucifera (coconut) oil, vegetable glycerine, cetyl alcohol, stearyl alcohol, behentrimonium methosulfate, Mentha piperita (peppermint) oil, mica, limonene, linalool
+  - Directions: Wet your hair and the bar. Slide the bar from root to tip 3-4. Put the bar down and lather shampoo into hair. It will foam! Rinse and follow with conditioner if you need to.
+
+https://www.amazon.com/Lemongrass-Sulfate-Solid-Shampoo-Friendly/dp/B07ZC73J5R
+  - ingredients: carthamus tinctorius (*safflower) seed oil, water, cocos nucifera (*coconut) oil, ricinus communis (*castor) seed oil, sodium hydroxide, and cymbopogon flexuosus (Lemongrass) Oil*certified organic ingredient.
+
+trader joe’s has a shampoo bar
+  - tea tree oil and peppermint oil, using coconut, jojoba, olive oils
+  - ingredients: COCOS NUCIFERA (COCONUT) OIL, GLYCERIN, COCAMIDOPROPYL HYDROXYSULTAINE, DECYL GLUCOSIDE, SUCROSE, OLEA EUROPAEA (OLIVE) FRUIT OIL, RICINUS COMMUNIS (CASTOR) SEED OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, MENTA PIPERITA (PEPPERMINT) OIL, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, EUCALYPTUS DIVES LEAF OIL, MINT LEAVES, TITANIUM DIOXIDE. [ref](https://www.traderjoes.com/digin/post/peppermint-tea-tree-shampoo-bar)
+
+sabu-sabu 4theives body and shampoo bar
+  - Distilled Water, Saponified Oils of Organic Cocos Nucifera (Coconut), Oryza Sativa (Rice) Bran & Ricinus Communis (Castor) Seed, Bamboo Charcoal, Eugenia Caryophyllus (Clove) Flower Oil, Eucalyptus Globulus (Eucalyptus) Leaf Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil & Lavandula Angustifolia (Lavender) Oil.
+
+https://organic-looks.com/shampoo-bar/
+  - shea butter
+  - tea tree and hemp oils combo
+  - coconut and argan oils combo
+  - jojoba and peppermint oils combo

@@ -1,0 +1,59 @@
+The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the frameworks, capabilities and tools needed to welcome a billion customers. Join us and help to amplify productivity, quality and innovation across Spotify.
+Location
+
+Stockholm or Remote EMEA
+Job type
+
+Permanent
+"Think it, build it, ship it, tweak it" is at the core of Spotify's development approach, and in Experimentation, we are providing Spotify teams the platform and the best practices to do exactly this: quickly and safely iterate through ideas, learn from them and make informed decisions for better products.
+
+Our end-users and customers are other teams at Spotify; the infrastructure products and tools we build are used daily by all of Spotify’s teams.
+
+Join a multidisciplinary team of data-, web-, backend engineers and data scientists who share a passion for bringing the scientific methodology to the daily toolbox of every Spotify team. We design and implement user interfaces for conveying elaborate concepts of experiment orchestration and setup. Together with your squad, you'll be challenged to create interactive data visualizations from statistical analysis, bringing creativity and resourcefulness when visualizing metrics.
+You're a Great Fit for This Role If You:
+
+Are passionate about solving sophisticated design challenges.
+Have empathy for your customers and can anticipate user needs.
+Love both strategy and hands-on UX.
+Thrive in a fast-paced organization.
+What You'll Do:
+
+Design and validate concepts with end-users and turn insights into useful and delightful UI and visual designs
+Be the voice of our customers in product development
+Collaborate with other designers to create a coherent user experience over Platform’s product offerings
+Work with sketches, wireframes, and prototypes to connect with stakeholders
+Contribute and work with our Design System
+Who You Are:
+
+2 years of relevant work experience, for example as a Product Designer, UI designer, Visual Designer
+A great storyteller and communicator
+—
+
+
+
+
+
+Heyo.
+
+I just downloaded Spotify today, and I must have thought it was important enough for me to desire to work on, because here I am writing this now(!).. Earlier I was thinkin’: how much influence Spotify has on the lives of all of it’s users around the world is unquantifiable ‘cause music has an ability to directly affect the emotions; Social media gets much of the credit for techno-societal change, even Netflix gets a lot attention, but I was thinkin’ music streaming software affects the world perhaps even more, as it can directly alter the mood of people.., especially now, as even the previously rich must re-learn how to live simple ‘n humble livelihoods.. music is perhaps now needed more, at least in the West, than ever before.
+
+The reason I’ve never used it was because I really liked the communal and grassroots feeling of 8tracks and somehow associated Spotify being very commercial, you know, indie vs record industry, grassroots vs corporations. Also simply because I live abroad for much of my life.., but using it today... my god! I feel like I was living in some dark ages using YouTube mixes. And anyway, my musician friends seem to use it too, so it can’t be too evil, can it?
+
+As usual with this job application stuff, it’s difficult to tell what a job really entails with such generic job postings, but I really hope I chose the one that best fits my passions!
+
+To me, it sounds like this is the most *experimental* position, and I am an experimental person; I quite like thinking, prototyping, and playing with stuff. Given that this is Spotify, a company with the entire world’s data regarding musical tastes and behaviors, I’d guess that much of the tools required is some kind of visualization of that massive amount of data.., and that’s pretty interesting!
+
+I personally haven’t made any data visualization in my past. Small games, sure, but with games, I just told some simple 2d game engine to draw stuff to the screen, mostly some combo of raster images, effects, at times a drawing library, and at worst times using a the underlying graphics library... Despite that, in my past, I was quite fond of visualization through simple “creative apps” such as Processing and OpenFrameworks that many of the hip tech-art kids I was around at the time used to express themselves digitally in whatever new mediums they can think of. Even in games, I was more fond of procedural drawing with graphics libraries. Surely by now there’s some solid data visualization software to be played with(?)... perhaps the roots of this particular passion for this position can be traced back to that time and work.
+
+I’m a big picture person, I tend to do what I feel is needed: optimize the workflow, fetch low-hanging fruit, and along the way wander and talk to all departments slowly getting to understand everything that’s going on so that I personally know exactly what’s most needed or desired.. Furthermore, this position seems to entail generalization (as opposed to specialization), which fits my personality’s natural tendencies (this is why I tried qa ‘n test ‘n release engineer as my second job). I could never do web-programming nor database-programming nor data science, but maybe I could collaborate with those specialized workers to make stuff that turns all of their work into something that a child can make sense of.
+
+I also haven’t made any small tools since my first job. At least not since the .NET days... I just relied on existing game engines ‘n tools because my focus was always expressing myself (as opposed to re-inventing the game engines ‘n other digital art software)... Yet, making well-designed tools, I think, is a deep-seated passion of mine too, as it combines a lot of my own natural desires: helping others so that they can do their work more easily (by making tools), honing the craft of making various digital things, and allowing some freedom and experimentation with contemporary technologies. In my heart I am a tool-making person, the person that helps others express theirselves... Much of my life is simply spent helping others achieve their dreams, even the dreamiest dreams: nature-side communities! I have no idea how people make such digital tools nowadays, but I’ve always been fond of HaXe (though I’m guessing the prevalence and support of Dart via Flutter killed it by now...), the concept of OpenFrameworks, and even this little back-to-making-everything-from-scratch low-level movement (imgui, etc.) is pretty cool. But again, I’d use anything that works.
+
+It seems like a stretch to say that this is anywhere near as fun or satisfying as making game art, but at least conceptually [to me] it seems similar to data visualization and small tool design and making...?? The process is similar: think of a good concept (or problem), design it, prototype it, test it, if it’s good: finish it, and then improve it over time (or: “think it, build it, ship it, tweak it”). Perhaps that’s where the fun is: in making something from nothing. The smaller the project the better, ideal even! Working on a massive project such as Spotify would destroy me. I know it. My first job’s product—some escrow transaction software—was already way too big, and that was very very neatly done in .NET, by one person (...over nearly a decade)! However, designing and making a ton of little tools and maintaining them really does sound like quite the ideal position for me in a software company. I don’t know the name of this position.., some kind of indie tool designer ‘n maker,.. collaborator, helper. 小幫手, a ‘small helping hand’ is the translation of the work position I’ve held most of my life now.
+
+Good, simple, practical design is my taste. Programming was just a means to that end. I’ve never never had the luxury to separate the two but maybe knowing the limits and possibilities of software will give me an edge in the design position. My favorite apps are brutally simple: Notepad2 (rip), WriteBox (rip), DropBox, ByWord (rip), maybe Bear, Voice Dream (Reader and Writer), file-based generated CMSs (a less restrictive Hugo), file-based everything, even GitHub Pages, and Discord (or the old battle.net). You can probably tell I haven’t used a desktop OS recently by now... My favorite frameworks were rather barebones: FlashPunk (and later Haxe incarnations) was a rare exception, otherwise, I would have opted to go down to OpenFrameworks, simple yet unrestricted power... I digress... but maybe I’ve painted a picture of minimal, clutter-free UI with maximum expressive power that I gravitated toward in my past... anyway, it baffles me how bad UI is in general. Why not make use all of the inputs of current devices(?): 10+ touch inputs, gestures, voice recognition, keyboard shortcuts, gyro-meter(??), whatever these devices have in them now.. those inputs haven’t changed for decades... surely there’s some better input devices to be made before Neural Link..
+
+Anyway!.. :) I’m currently stuck in Thailand for the pandemic and I normally live in the rural parts of Taiwan anyway. I prefer working after sun-set, which coincides well with the Americas (perhaps not so much with Sweden...?). If inter-province travel is possible, I’ll soon be riding my motorcycle toward and along the Myanmar border again to help out however I can. Sorry in advance if I miss the e-mail. It’s been a very very long time since I’ve used a computer so heavily (I’m currently writing all this on an iPad Mini 2). I’d probably need some time to practice... literally practice looking at a computer for long periods of time, and practice making digital stuff again.., but I’m certain a few weekend art jams with whatever tools the team uses would cure that problem briskly. Otherwise, I’d happily work on a computer, as long as that computer is near my friends, tradition, and nature, here in Asia.
+
+Just a shot in the dark,
+Ra

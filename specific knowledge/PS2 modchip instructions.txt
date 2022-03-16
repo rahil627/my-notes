@@ -1,0 +1,21 @@
+PS2 games
+
+-Press EJECT button to switch on the machine.
+-Insert PS2 game in tray.
+-Tap RESET button once, the machine would reboot and then load your game.
+
+PSX games
+
+- Press EJECT button to switch on the machine.
+- Insert PSX game in tray, then press and hold RESET button to switch off machine.
+- Now hold the RESET button to start up your machine. Only release the RESET button once the Blue LED light of the Eject button lights up.
+
+DVD movies
+
+- Press EJECT button to switch on the machine.
+- Insert DVD movie in tray, then press and hold RESET button to switch off machine.
+- Now hold the RESET button to start up your machine. Only release the RESET button until the "blue clouds" comes up on the TV.
+
+Disable Mode
+
+- Hold  the RESET button until the "blue clouds" comes up on the TV. 

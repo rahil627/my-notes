@@ -1,0 +1,7 @@
+This strange position mixes a few old interests: the interest in graphics at simple levels (via Processing / openFrameworks) for "new media" art while in New York, the interest of urban planning when living in cities, and the desire to mash them into reality for political change / change in human behavior especially while living in less developed countries.
+
+It's been quite some time since I've thought of these things, but surely if I walk through the streets of the neighborhoods of Boston, the mind will desire change and recall some of these old ideas.
+
+Technically, I've never needed to use a statistical package (MATLAB / R) in my past. Otherwise, things seem quite straight-forward. I hope web programming improved since the last time I used them!
+
+Though not as interesting as the doing things in the field for Poverty Lab, my desired job, perhaps just playing with data, in perhaps the most data-captured area, can reveal some interesting things in human behavior of city-goers and the on-going processes of the city. Maybe? Though, being so quantitative irks me toward skepticism of all of it, even after just experiencing the robotic, obedient-toward-design culture of Japan this past month.

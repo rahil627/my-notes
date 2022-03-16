@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with thetruriku on 2009-04-06</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:30:02"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">u goin to the tourney?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:30:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">toast?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:30:13"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">yeah</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:30:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:30:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">not sure if i'll be in it...but i'll show up </span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:30:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it's crunch time for school :/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:31:05"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">jus sign up 4 teams. i need a partner</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:32:49"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">wut year r u in school</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:33:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">grad in may</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:33:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">im OLD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:33:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:|</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:33:51"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">word. i gt a friend whos grads in may to</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:34:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ughh..u can get better than me man...i blow at teams and don't even play</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:34:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i prolly won't even wake up in time for it XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:35:12"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">shit i dont even play the game unless it's at tourneys</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:35:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hehe yeah...im just there to give some love ;)</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:35:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and see how everyone else is doing</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:36:03"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">i gotta $MM with cyrain in a marf ditto</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:36:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahah oh god XD</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:36:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well it can go either way i guess</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:36:24"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">yeah</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:36:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">such a silly ditto</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:36:50"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">since both our marths r random</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:38:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea....u been playn sf4?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:38:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">with jason/corey</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:39:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">or maybe mashi!!? i havne't even see mashi since the last tourney</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:39:29"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">i haven't played anyone around here really besides mashi/sk</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:39:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ah cool...nice to know they're alive</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:39:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">they mainly play sf?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:40:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i bet he mains sagat :(:(:(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:40:18"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">mashi's gettin back into melee and sk's outta town</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:40:24"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">a cool</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:40:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">tiger tiger tiger tiger</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:40:41"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">last time i played mashi ehe played gief</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:40:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hehe, i've seen vids..but still haven't played</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:40:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ooo damn</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:40:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">monsta</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:41:01"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">i play blanka/sakura/sagat</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:41:07"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">geez, nice</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:41:25"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">maybe c falcon converts to el fuerte! lawl</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:41:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">anyhow...back to hw due at 12 :</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:41:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i'll c u at the tourney</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:42:01"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">cool. i gotta exam 2morrow</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:42:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ughhh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:42:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">gl</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:42:11"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">thanx</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-06 00:42:54"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh and just IM me before the tourney again sometime...to talk about teaming</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-06 00:43:03"><span class="buddy">thetruriku</span> <span class="msgcontent"><font face="Arial" size="2" color="#000000">ok</font></span></div>

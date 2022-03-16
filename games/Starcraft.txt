@@ -1,0 +1,327 @@
+commentators
+tastless and artosis - best english commentators
+moletrap - youtube channel
+
+http://classic.battle.net/scc/GS/
+http://www.teamliquid.net/
+http://www.freewebs.com/iamknickknack/links.htm
+
+http://www.iccup.com/starcraft/sc_start.html - iccup server setup
+http://www.gomtv.net - tasteless commentating recent games
+
+- Replay websites I [somebody] visit occasionally: 
+www.ygclan.com, login:teamliquid pw:net.
+www.yaoyuan.com
+www.reps.ru
+www.playsc.com/replays
+http://sc.replays.net/
+http://www.gosureplays.ru/
+
+news
+http://www.gosugamers.net/starcraft/wiki/index.php/Main_Page
+
+maps
+hannibal, destination, tornado, moonglaive
+python - 2 base, popular online
+guardian of god - monkey map (takes long to kill off?)
+
+general
+
+I believe 2 per mineral patch is saturation... That's the limit you absolutely don't want to excede.
+You start losing efficiency very quickly at 1.5 per mineral patch though, so when you get between 1.5 and 2 it's good to seek out an expansion and maynard.
+You should only force up to 2/mineral patch when you're contained and/or are preparing at least one expand you can maynard to. 
+
+hotkeys
+assign f2/f3/f4 to town centers - for building, saving workers against drops
+control groups
+waypoints
+queuing
+
+4 workers on gas
+probe vs drone - first hit wins, dunno about SUV
+"cut corners" - be minimalistic in spending on defense, use saved money on economy
+
+Jaedong is all economy micro, except mutas
+
+kill tech buildings
+10 scout
+economy game - everything is based on defending/attacking the economy
+
+general tricks
+make a group of probes target one mineral then attack zelot (watch out for manner pylon)
+lure enemy into doing something, then attack. like let a shuttle come in, then attack it. show some weakness, then attack.
+
+Protoss
+12/15 gateways - for goons
+archon forming can tank?
+cannons near base or defense
+always have 1 base more than terran
+in the midst of a late battle, send dark templars to the enemies bases
+
+cannon/tech
+corsair/reaver
+manner pylon - probe builds pylon blocking minerals, and zelot kills a worker
+storm drop
+zelot/archon
+
+reaver defense - build pylons near entrance
+
+vs zerg
+scout zerg early
+always scout - keep probe alive until corsair
++1 weapon (over zerg armor) zelot will kill zerglings in two hits, instead of 3. 4 hits for 0 weapon zelot vs 3 armor zergling
+corsair to kill overlords
+feedback defilers
+bisu build - corsair/dt
+pylon block zerg's natural
+defense - gateway/forge/pylon and 2 cannons behind
+try to tech, with the least amount of defense, but be sure to scout for early attacks
+
+vs terran
+12 nexus
+end game techs - arbiter stasis/high templer
+need storms mid-game
+zelot bomb - shuttle zelots over tanks (probe bomb variation?)
+carriers - any map with ridges (katrina/loki)
+pylons block all mech (including vultures!)
+
+tricks/facts
+if you press stop on a reaver, which has a scarab on the field, the scarab will explode dealing no damage
+storms do not stack
+
+build order
+8 pylon
+10 gate
+12 assimilator
+15 cybernetic core
+17 And there you choose your tech : second gate, robo bay, stargate(if zerg) and
+
+PvP
+8pylon
+10gate 
+12pylon
+13zeal
+16gas
+19core
+-
+8pylon
+10gate
+13gas
+13zeal
+15pylon
+16core
+
+PvT
+8pylon
+10gate
+12gas
+14core
+15pylon
+goons
+-
+8 pylon
+13 nexus
+
+PvZ
+8pylon between ramp and natural
+10forge
+(go early nex if Z goes hatch first or 12 pools. Put 2 cannons down if Z 9pools)
+after cannons up build gate and gas
+corsair/DT
+
+Zerg
+pool at 9/over (overlord then pool)/12
+swarm/lurker
+always have 1 base more than protoss
+mutalisk/zergling
+hydralisk vs large units (goons/goliaths)
+lurker defense > sunkens
+lurker egg wall
+lurker/swarm - nearly invincible
+nydus canals for every base
+buildings should wall in front of sunkens
+2-3 hatch build vs protoss/terran
+
+vs protoss
+have something against corsairs - hydra/spore/scourge
+mutalisks > templar
+snipe observers, then push in with lurkers
+neo-sauron counters bisu build - 3 hatchery, spire, scourge, hatchery, hydras
+spore or hydra vs multiple corsairs
+snipe scouting corsairs with 2 scourge
+lurker contain
+mass zergling (or hydra) before protoss can tech
+kill observers with scourge/hydra, forcing protoss to be contained
+
+goals
+keep protoss contained (zergling, then lurker)
+keep protoss scouted until corsairs
+macro up 4 bases, all economy, matching up only the protoss's army
+do not let protoss get a third base
+
+vs zerg
+pool after opponent
+1 scourge can kill a mutalisk if it hatches
+zergling to mutalisk
+build as many zergling as opponent builds
+mutalisk control
+
+vs terran
+gas + hatchery expansion
+three hatcheries, extra in main base
+2 zerglings to catch scout, put the rest in economy
+keep overlord nearby
+expand and contain terran in their base
+defiler plague > mech
+turrets do 1/2 damage to a mutalisk
+scout with overlord, but don't show it
+sunkens > vultures (for expansions)
+mutalisk harasss -> expansion or lurker
+ling/lurker/defiler > m&m and mech (everything)
+scourge science vessels
+use mutalisks to tank goliaths, and send in zergling and/or hydras to kill
+
+tricks
+larva bug - group overlord and larva, then press S
+morph injured mutalisks
+drone regenerate hp - build extracter and cancel it
+stop lurker trap
+
+Terran
+mines behind bunker
+
+vs protoss
+either block with supply depot or build a bunker until you get tanks
+mech > zelot/dragoon
+EMP > arbiter/high templars/archons/shields
+set mines in base > arbiter recall or shuttle
+fake double (FD) = 1-3 tanks, few marines, vultures
+
+vs zerg
+block expansion wiht supply depot
+barracks > zergling/hydra/mutalisk
+mech can be good versus zerg, if done right
+tank > lurker
+science vessel > defiler/lurker
+kill expansions
+all in: kill first expansino by building a bunker with marines, and sending a few SUVS
+quick wraith/science vessel
+
+vs terran
+
+tricks
+supply depot near command center to force SUV near minerals
+hide turret under lifted buildings
+hide tech buildings under lifted buildings
+
+maps
+destination 1.1 - tough/balanced/fun
+collessium 2
+blue storm - ZvT - mutalist harass, 9 pool, swarm ling/lurker/ultra
+katrina - ZvT - m&m, turrets, 2-3 valks
+loki 2 - ZvT - 
+
+http://en.wikipedia.org/wiki/StarCraft_professional_competition
+Jaedong	z
+Bisu	p
+Fantasy	t
+Flash	t
+Effort	z
+Stork	p
+
+older/creative
+Boxer	t
+Nal-ra	p
+
+terms/main concepts
+build order
+find holes
+all-in
+timing attack
+bulldog
+elevator - use one shuttle many times
+containment - keeping the enemy trapped in their base
+proxy gate?
+Macro is the name of all the actions during a strategy game relating to the mindset of the player, the economy of the match, and the overall strategy that a player has.
+Micro, on the other hand, relates to the small details within a game, such as selecting units, deselecting units, giving a group of units actions to move and attack, using abilities etc.
+m&m's - marines and medics
+
+math
+some upgrades are counted twice.
+Firebat (3 attacks) (upgrades add +1 in 2 out of the 3 shots, so +2)
+Zealot (2 attacks)
+Goliath air (2 attacks) (upgrade adds +2 in both shoots, so +4)
+Scout air (2 attacks)
+Wraith (2 attacks) I will go against everyone else and say its 2. =p
+
+Others:
+Valkyrie (8 attacks) (Only the power of a single shot appears in the pop up box)
+Carrier (1-8 Attacks) (Only the power of a single shot appears in the pop up box)
+Getting plus 1 attack for these units is often quite beneficial for the offender, and +1 defense good for the defender.
+
+Special:
+Mutalisk (1-3 hits) (shot 1: base damage, Shot 2: base damage/3, Shot 3: base damage/9)
+
+(base damage - armor*number of attacks) / (attack type armor type relations)
+explosive : 100% large 75% medium 50% small
+normal : 100% all
+concusive (vulture/ghost/firebat) - 100%small 50% medium 25% large
+
+If you read the thread Chill quoted, it is stated there that armor is deducted from damage before any size/weapon calculations. So, +1 golies do 2x12 damage, with +1 carapace, that becomes 2x11 damage or 11 damage after armor type reduction (to be perfectly precise, 2x5,5 damage, and yes, fractional damage is possible). Air carapace doesn't cancel goliath damage, in fact, no upgrade can make anything more durable vs something due to these mechanics, the best you can hope for is parity (zealot vs zergling, all upgrades cancel each other), usually it's either reduced effect (if the weapon upgrade adds at least +2 per hit, for example, dragoon or goliath air attack) or even completely neglible (any kind of upgrading vs tanks or reavers, since the difference between 99 damage and 100 damage is hardly important).
+
+
+
+***1***
+1. Reduction from splash zone(damage is multiplied by 0.25/0.5/1.0)
+2. Armor amount reduction
+3. Armor type reduction
+If it's a protoss unit and:
+a) Currently has no shields, just the armor type and amount of the unit are used.
+b) It has shields, the shield upgrade amount is used and the armor type takes 100% from everything. If this attack depletes the shields, the leftover damage after depleting the shields is calculated again as in case a)
+
+The minimum damage from an attack is 0.5 and this does not apply twice for the separate shield/hp calculations for protoss units.
+
+Damage amount is rounded to 1/256.
+
+***2*** Units with "special" attacks:
+Zealot - 2 attacks by 8 + 1 per upgrade
+Scout Air - 2 attacks by 14 + 1 per upgrade
+Goliath Air - 2 attacks by 10 + 2 per upgrade
+Firebat - 3 attacks by 8 + 1 per upgrade, even burrowed lurkers can be hit by all 3 attacks, it just depends on the angle of attack(the amount shoed is hardcoded to be the damage of 2 of the attacks added up, but all three are upgraded and each deals 8 damage base)
+Lurker - several attacks by 20 + 2 per upgrade, with the restriction that only 1 attack can hit a single unit and all of them have only 100% splash(the 50% and 25% areas are the same as the 100%, so a unit can't take partial damage from the lurker's attack). A bug can override this rule, this happens when the lurker dies the exact moment it attacks, then a unit can be hit by several of the attacks, it's easily noticable with full hp marines dying to a single lurker.
+Valk - 8 attacks by 6 + 1 per upgrade, if there are multiple units in the 100% splash zone, only one will take 100% damage and the others will take 50%. The same aplies to corsairs.
+Mutalisk bounces deal 1/3 less than the previous bounce, for example +1 damage muta against 3 targets with 1 armor will deal 10 - 1 = 9 on the first hit, 10 / 3 - 1 = 2.333...(rounded to the nearest 1/256) on the second hit and 10 / 9 - 1 = 0.111... upped to 0.5, which is the minimum damage, on the third hit.
+Devourer spores increase damage from each attack by 1 per spore, this includes spell damage.
+Not an unit attack, but since it affects attacks: Defensive matrix reduces attack damage to the minimum - 0.5, this includes spell damage. The total damage prevented is 250, but this does not acount the minimum damage inflicted or the unit's armor, so a zergling with 5 damage will perish the shield in 50 hits and still deal 25 damage, no matter the target's armor and the end effect will be 225 damage absorbed on a unit with 0 armor and even less on a unit with several points of armor(if the target has 5 armor, for example, the Defensive Matrix will NOT make any difference).
+An exception to these 2 is the plague, which doesn't deal damage, but directly removes hp, so it doesn't interact with defensive matrix or acid spores(even if you change plague's attack type in the .dat files it doesn't change the spell's effect at all).
+
+Nukes deal:
+Against units/buildings with 750 or less total maximum HP + shields -> 500, 250, 125 explosive damage. 
+Against units/buildings with 750 or more total maximum HP + shields ->
+2/3, 1/3, 1/6 of the total maximum HP + shields.
+The three values are for the 100%, 50% and 25% splash zones ofc.
+
+***3*** Burrowed units and Dark Swarm mechanics
+Burrowed units take only 100% damage splash. If they are in the 25% or 50% zone they will take no damage at all. You can test it even with a nuke - burrowed units near the end of the damage zone will take no damage at all, while unburrowed will.
+
+Dark Swarm makes range units attack infront of the target, so units with no splash attack don't hit their target at all. 
+
+Reaver's scarab is a melee unit, so it doesn't effect it(Something interesting - if you press stop on a reaver, which has a scarab on the field, the scarab will explode dealing no damage).
+Firebats deal most of their damage with their 100% splash, so they deal damage to burrowed units under swarm, they also deal line splash and fire exactly at the target, not infront of it.
+Lurkers also can't really fire infront of their target, so they always hit and they deal all of their damage in 100% splash. 
+Tanks won't hit a burrowed lurker thay are aiming at, because the 100% damage zone does not reach the target(the radii on their 100% splash is 10, they normally hit a bit infront of their target and Dark Swarm makes them hit even more off)
+High Archons as Siege Tanks can't hit the burrowed unit they are aiming at(under swarm), their 100% damage splash zone has a radii of 3 and they attack infront of their target, if they are too close to it, the actuall attack sprite will appear behind the archon or on top of it.
+
+
+
+
+
+old?:
+terran
+allied mines
+drop ship with 2 tanks, alternate vs goons
+marines marines marines
+barracks, supply, barracks, gas + academy, stim pack, 6 rine 2 med, comsat
+2 vessels + gas to kill workers
+use matrix on rine vs lurkers. throw that rine first
+vultures>goons, with mines

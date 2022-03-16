@@ -1,0 +1,164 @@
+things to do:
+those!			ask rivet city hotel
+dokous place		take girl to rivet city and find the INT bobblehead
+lincoln repeater	museum of history back office -> large room with turret -> stairs -> hole in the wall
+terrible shotty		evergreen mills -> sming jorok?
+alien blaster		north from MDPL-15 -> crashed UFO
+
+notes/mechanics
+
+starting attributes
+strength	1/5	1	carry weight		Melee Weapons
+perception	6	6	compass markers		Energy Weapons, Explosives, Lockpick
+endurance	5/7	5	health resistance	Big Guns, Unarmed
+charm		4/6	4	disposition		Barter, Speech
+intelligence	4/7	4	skill pt. per level	Medicine, Repair, Science
+agility		4-6	6	action points		Small Guns, Sneak
+luck		5-6	6	critical hit rate	All Skills         
+
+karma -1000 to 1000
+lockpick	?
+steal		-5
+murder		-25
+evil quest	-50
+murder		-100
+
+donate church	+x
+good quest	+50
+kill evil char	+100
+
+tag (+15 to skill) - chose repair/small guns/speech
+lockpick increases at 25/50/75/100
+science, barter
+
+perks
+ignore +% to skill perks
+
+my build
+2	lady killer
+3	intense training
+4	child at heart (educated +3 more skill points per level?) (etomologist +50%dmg against insects)
+5	comprehension
+6	bloody mess (demo expert +20/40/60)
+7	gunslinger
+8	strong back (+50lbs)	5str
+9	commando (scrounger, find more ammo in containers)
+10	finesse			6luck
+11	? (animal freind - animals don't attack you/attack enemies, mister sandman - instant kill sleeping human, mysterious stranger - appears during VATS and kills enemies, nerd rage - at 20%- hp +50dmg resist/set str to 10
+12	sniper			6per, 6agi
+13	? (silent running - can run & sneak?)
+14	cyborg
+15	? (master trader, light step)
+16	better crits
+17	action boy
+18	concentrated fire - could be overkill
+19
+20	grim reaper's sprint
+
+s 4 5 7	
+p 6 5 6
+e 5 6 7
+c 4 5 6
+i 9 9 10
+a 6 5 6
+l 6 5 7
+
+needed for highest perks
+start with 40 points
+
+minimum needed for perks i want (without bobblehead/quests)
+5
+6
+5 +5 (6 for extra hp perk)
+6
+4 +1 (5 for nerd rage - +50 dmg resist)
+6 +3
+6 +3
+
+quest perks
+power armor training
+dreamcrusher - convince moria brown to not write her guide - reduce enemy crit by 50%!/30% discount from her trade items
+rad limb healing
+
+junior/expert/guru survivor
+Standard: +10 Health      
+Smart: +4 Medicine, +4 Science
+Tough: +4 Damage Resistance*
+Sly: +4 Sneak, +4 Speech
+Snide: +2% Critical Chance*
+
+ant might - +1str or ant sight +1per
+wired reflexes - +10%chance to hit
+hematology - regain 20hp from blood packs
+barkskin - +10dmg resistance/+1endurance
+
+skills
+25 books for each skill (13 skills) = 324 (x2 perk from comprehension perk) = 648
+bobblehead +1 stat (7 stats) +10% skill (13 skills) = 20 bobbleheads
+levels 2-20 379 skill points
++48 educated max bonus
++45 from 3 tags
+1600 total with books
+1300 without books
+
+other
+85 max damage resistance?
+turn off pip boy while sneaking
+
+hacks
+player.setav [skill] #		sets skill
+player.modav [skill] #/-#	add or subtracts skill
+player.addperk #####
+player.removeperk #####
+
+followers
+good
+fawkes
+star paladin cross
+
+other
+charon
+dogmeat - 2nd follower
+
+can wear power armor
+doesn't use ammo
+holds items
+
+
+mods
+slower levelling mod: setting?
+essential UI mod
+remove compass mod
+classic music mod
+high definition texture pack
+
+settings
+nvidia settings: triple buffering on, vsync application-controlled
+difficulty: very hard
+
+fallout3.ini
+iPresentInterval=0 - disables vSync
+bInvalidateOlderFiles=1 - instructions for the HD texture pack
+
+AA: 2
+AF: 8
+Vsyc: unchecked
+screen effects: HDR
+
+detail
+	max except radial is medium
+water
+	all max except full scene & full detail
+	reflect quality medium
+shadows
+	quality: medium
+	filtering: high
+	max interior: 4
+	max exterior: 2
+view distance
+	max
+
+distant LOD
+	tree: 25
+	object: 50
+	land: 100

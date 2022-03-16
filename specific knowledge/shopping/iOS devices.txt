@@ -1,0 +1,96 @@
+ios devices
+
+to shopping.txt:
+see local shops... for fun! and to get an idea of contemporary products. Google cell phone shops. Go to local market street shops, avoid malls.
+
+https://m.facebook.com/groups/613864415384226/forsaleposts/
+  - better to just check FB market-place than groups, since they gather all of the posts from all of the groups
+
+
+
+11/2020
+what I want:
+hardware that won’t become un-supported soon
+  - **2gb ram is the minimum for iOS 14, so aim for 4gb+**
+  - 2-cores is old, aim for 4+ cores
+higher-end hardware that lasts long
+  - iPad Pro series
+headphone jack
+
+
+
+iPhones:
+SE 2nd, 4.7” screen
+12
+11
+8, A11 (4 cores, slightly better than A10)
+**7**, A10 (4 cores)
+**SE, 4” screen**, A9
+6S, 4.7” screen, A9 (2 cores)
+
+X:
+has a bigger screen
+
+
+iPads:
+[standard]
+8, 3gb, A12 (6 cores)
+**7, 3gb, A10 (4 cores)**, 9500+
+**6, 2gb, A10 (4 cores), pencil 1**, 7000+
+5, 2gb, A9 (2 cores)
+
+mini:
+**5, 3gb ram, A11 (6-cores), pencil 1**, 10000+
+4, 2gb ram, A8 (2 cores, used in iPhone 6),
+
+
+air:
+5, A14 (6 cores), no head-phones
+4, A12 (6 cores), pencil 2
+**3, A11 (6 cores), 3gb, pencil 1**, 14000+
+**2, A8X (3 cores), 2gb, “like a budget pro”**, 6000+
+
+pro:
+11” 2
+12.9” 4
+11” 1, pencil 2
+12.9” 3, pencil 2
+**10.5”, A10X**
+**12.9” 2, A10X**
+9.7”, A9X, 2gb ram
+**12.9” 1, A9X, 4gb ram, pencil 1**
+
+
+references:
+https://www.apple.com/ios/ios-14/
+  - iOS 14 compatibility for iPhones at the end of the page:
+  - basically: iPhone 6S and higher
+
+https://www.apple.com/ipados/ipados-14/
+  - iOS 14 compatibility for iPads at the end of the page
+  - basically: iPad 5+, mini 4+, air 2+, pro is more confusing:
+
+iPad Pro 11-inch (all gens)
+iPad Pro 12.9-inch (all gens)
+iPad Pro 10.5-inch
+iPad Pro 9.7-inch
+
+https://support.apple.com/en-us/HT211029
+  - apple pencil compatibility
+
+2nd gen:
+iPad Air (4th generation)
+iPad Pro 12.9-inch (3rd generation) and later
+iPad Pro 11-inch (1st generation) and later
+
+1st gen:
+iPad (8th generation)
+iPad mini (5th generation)
+iPad (7th generation)
+iPad (6th generation)
+iPad Air (3rd generation)
+iPad Pro 12.9-inch (1st or 2nd generation)
+iPad Pro 10.5-inch
+iPad Pro 9.7-inch
+
+

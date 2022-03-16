@@ -1,0 +1,38 @@
+GSM phones have an IMEI (ATT, T-Mobile and most all other global carriers - for example)
+CDMA phones have an ESN (Sprint, Verizon - for example)
+
+IMEI: at the keypad, type *#06#
+IMSI: On the SIM
+
+AT&T customer service:
+  - US: 1-800-331-0500
+  - International: 1-800-335-4685
+
+https://selfsolve.apple.com
+  - check warranty info
+  
+https://www.att.com/deviceunlock/client/en_US
+  - AT&T unlock form
+
+http://www.imei.info/
+http://www.dev.mk/
+
+http://iphone4sunlocknews.com/
+  - explains unlocking
+http://artoftheiphone.com/2009/02/10/how-to-activate-a-used-iphone/
+http://www.iclarified.com/jailbreak/index.php
+  - jailbreaking guide
+http://cydiablog.com/iphone-unlocking-methods/
+  - unlock solutions
+
+
+cutyoursim
+  - IMEI unlock, refunds if they can't do it, good reputation
+
+ebay IMEI unlock
+  - http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=160861252641&ssPageName=ADME:X:RTQ:US:1123#ht_4883wt_941
+    - $25! Worked for me*
+
+http://support.apple.com/kb/ht1937
+  - carriers that support unlocking
+ 

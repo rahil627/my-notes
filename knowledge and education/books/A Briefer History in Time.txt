@@ -1,0 +1,93 @@
+A Briefer History of Time
+
+Karl Popper - falsification of scientific theories
+
+Newton - Principa Mathmatica, Law of motion, three laws, m = Fa
+
+Two parts. The initial state and the laws the govern nature after the initial state.
+
+General theory of relativity describes gravity and large scale, miles to observable universe. Quantum mechanics describes small scale, millionth of a millionth of an inch. The two disagree with each other on some parts.
+
+Quantum theory of gravity - unifies the two theories, single theory to describe the whole universe.
+
+Knowing this, will be able to determine future actions.
+
+1.9
+Natural selection will lead people to increase intelligence, and increase knowledge about the world.
+
+1.10
+Galileo and Newton
+Laws if motion:
+Acceleration is same no matter the weight. Promotional to force.
+
+1.11
+Theory of gravity:
+Gravitational attraction = proportional to mass of each body, and half the acceleration per unit mass.
+
+Explains why orbits are elliptical.
+
+1.12
+What is rest? Cardboard box on train vs platform.
+
+Ping pong on a train. Depend on observer.
+
+Absolute time.
+
+Length of time between events, depends on the observer. Linked to light.
+
+1.13
+11 years before principea Mathmatica, Romer:
+Using difference of eclipse times of jupiter's moons, proved light moves at a finite speed, and had a pretty good approximation.
+
+1865, James Maxwell:
+Unified Electricity and Magnetism
+
+Magnetic Field - creates a field with electricity and magnetism, has electromagnetic force
+
+Could be wave-like disturbances, discovered same speed as light
+
+Visible light waves
+Short wavelengths - ultraviolet, x-Ray, gamma ray
+Long wavelengths - radio, micro, infrared radiation
+
+1.14?
+Ether theory:
+Tries to combine relativity and electromagnetic waves.
+
+Waves of electromagnetic waves need some medium to travel through, relative to some ether, to have a constant speed to the observer.
+
+1887 Albert Michaelson and Edward Morly
+Difficult to measure speed compared to anything else known.
+
+Knew earth orbits at a fast speed. Measured light as different times of day, using an angle toward the sun. Same speed.
+
+1.15
+Albert Einstein:
+Fundamental Relative Theory*
+Speed of light should measure the same for all observers, independent of the observer's speed and direction. No ether needed.
+
+Train example re-examined. The ping-pong ball on then the train. Speed is distance over time. Theory ignores time. Each observer must have a clock with them, which may be different. Which is quite counter-intuitive.*
+
+Space-time.
+
+1.16
+Can describe a point with three coordinates.
+
+Must describe the point relatively. So to describe the point of a moon, one may have to use a line from the moon to the sun, and a line from the moon to some other star, and the orbits of the planets.
+
+So how to describe points in space (something infinite)?
+
+Can use patches of space, relatively.
+
+Can be specified by four coordinates, 3 space, one time.
+
+In relativity, there is no distinction between sets of coordinates.
+
+E = mc^2
+
+
+
+
+
+
+

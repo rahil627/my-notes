@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with seungtrl on 2009-03-18</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-03-18 01:54:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just so u don't forget, john and karen :)</span></span></div>
+<div class="incoming message" auto="True" timestamp="2009-03-18 01:54:54"><span class="buddy">seungtrl</span> <span class="msgcontent">I'm not here right now</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 01:59:27"><span class="buddy">seungtrl</span> <span class="msgcontent">?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 01:59:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 01:59:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">thought joo would</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 01:59:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">http://www.shortfilmcentral.com/film/631/</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:00:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">^^</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 02:00:57"><span class="buddy">seungtrl</span> <span class="msgcontent">oh naw i remembered</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 02:01:59"><span class="buddy">seungtrl</span> <span class="msgcontent">jus...no reason to say it &gt;_&gt;</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:02:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">it was so short i nearly forgot</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 02:03:05"><span class="buddy">seungtrl</span> <span class="msgcontent">you looking at them now?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:03:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">how?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 02:03:26"><span class="buddy">seungtrl</span> <span class="msgcontent">...wut?</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 02:03:35"><span class="buddy">seungtrl</span> <span class="msgcontent">no like what are you doin on that site</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:04:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wondering around........still have no idea where to get/see short films</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 02:04:47"><span class="buddy">seungtrl</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 02:04:51"><span class="buddy">seungtrl</span> <span class="msgcontent">watching SF4 vids atm</span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 02:04:54"><span class="buddy">seungtrl</span> <span class="msgcontent">fullscreening</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:04:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">geez</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:05:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">where</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-18 02:05:28"><span class="buddy">seungtrl</span> <span class="msgcontent"><A HREF="http://www.youtube.com/user/ArcadeInfinity">http://www.youtube.com/user/ArcadeInfinity</A></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:10:44"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">damn....1st match of winners final was rape ;)</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:11:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">winners final 4...sry ed ma ken vs bobino fatty(?)</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:11:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">the mic setup is nice....commentators are in the back left and back right of my speakers</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:14:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">holyshit...this is some tense stuff</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-18 02:16:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">homg 3rd match of that was just 2 specials(?) and a ultra... :(</span></span></div>

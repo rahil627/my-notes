@@ -1,0 +1,44 @@
+Heya John,
+
+Sure, I'll try my best to answer your questions:
+
+* I take it that some challenges/hackathons are better than others.  Are there particular aspects of a hackathon that make it a better experience for participants?
+ 
+Hackathons are new to me. I've only heard of such things in April (I moved to SF in March). I have however attended game jams in NY, which are events in which game developers create a game within a short period of time. The game jams I attended had little to no prizes; They were composed of people genuinely interested in game development.
+
+Hackathons in SF are different. They're heavily sponsored, often constraining developers to create something for their own product for marketing purposes. One has to be careful. They vary in legal terms. Some can be considered as crowd sourcing.
+
+I wrote that blog post before the winners were announced. I was actually on a team that won (Team Science). Due to the poor turnout (due to their poor marketing), the prize was split four ways. That's makes it a problem as the winners are to develop a game (work for hire) for 1/4th of the amount advertised, and well, I won't get deeper than that. That one was just bad in every way. People who pitched had to sign a contract which gave the company the IP.
+
+The best hackathons are ones that allow developers to keep their IP, give out cash prizes, don't contain by development platform, constrain by theme (to reduce cheating), and have judges base their decisions on design.
+
+* What benefits do you think will come from your participation in the Chartboost Hackathon? Exposure for Doodletangle? Feedback that could influence further game development? Other factors?
+ 
+I joined the Chartboost hackathon for the same reasons I join game jams: I'm currently interested in game development; I like meeting other people with similar interests; Designing and creating a small project feeds my creative needs. In this case, I was already developing an iPad game and had some other iPad game ideas I've wanted to etch out.
+
+The benefit is that I was able to create a prototype. I actually liked the result. Now I may further develop it.
+
+* Any tips for designers/coders entering their first hackathon?
+
+Choose your hackathon based on intrinsic motivation. Then it becomes a win/win situation.
+
+
+
+
+
+2:
+
+
+* When you say some hackathons can be considered as crowdsourcing, does that mean the sponsoring organization's main motivation is to outsource a design/development task?
+
+Hmm, I think the main motivation is still marketing. But it does seem like a good idea for them to use hackathons as a way to create work for their own products because it has little to no risk. Similar to how Tongal.com uses crowdsourcing for video development.
+
+*  You mentioned that the best hackathons don't limit participants by development platform, but constrain by theme to reduce cheating. How does that reduce cheating? Does the narrow focus -- versus a broad app category -- prevent participants from getting a head start with code repurposed from another project?
+
+Yes. Hackathons often offer prizes. This increases likelihood of people joining just for the money, and doing whatever to win. With a constraint by theme, the designs that follow the theme should be judged more favorably. It's easy to determine if a project was repurposed or conceptualized during the hackathon's allotted time.
+
+* What's the best way to describe Doodletangle? I was planning to call it a multi-player maze navigation game for the iPad, but wanted to make sure I'm describing it properly. Also, the Chartboost hackathon lets developers keep their IP, correct?
+
+I think multi-player maze navigation is a fine interpretation. It wasn't my intention, but that was the result in a day's work. I really just wanted to make a game that explored the problems of having 3-11 people playing on a single device.
+
+Correct, Chartboost was very lenient the whole way through. Any framework (still restricted to iOS or Android), any game, no theme.

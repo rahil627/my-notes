@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with seungtrl on 2009-04-21</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:13:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">now im curious to see your paper....i don't get this chance much =P</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:14:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">you never get to compare papers in school</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:21:43"><span class="buddy">seungtrl</span> <span class="msgcontent">lol</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:21:47"><span class="buddy">seungtrl</span> <span class="msgcontent">melee now</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:22:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o_o'</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:22:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wif who</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:56:42"><span class="buddy">seungtrl</span> <span class="msgcontent">enver</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:56:44"><span class="buddy">seungtrl</span> <span class="msgcontent">we jus finished</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:56:56"><span class="buddy">seungtrl</span> <span class="msgcontent">lolled at deborah's desk</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:57:00"><span class="buddy">seungtrl</span> <span class="msgcontent"><font color="#cc0000"><font size="2">(11:11:56 PM) </font><b><font size="3">Rahil627: </font></b></font><font size="2"><font color="#000000"><font face="arial">just found out afromentioned is incorrect. aforementioned</font></font></font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:57:02"><span class="buddy">seungtrl</span> <span class="msgcontent">what was this?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:57:21"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ahhh damn u guys...and your ability to play games :(</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:57:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i always thought it was AFROmentioned! heheh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:57:40"><span class="buddy">seungtrl</span> <span class="msgcontent">&gt;_&gt;</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:57:42"><span class="buddy">seungtrl</span> <span class="msgcontent">silly bitch</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:57:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i knows :(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:57:50"><span class="buddy">seungtrl</span> <span class="msgcontent">anyway you stil wanna see paper?</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:58:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah...i won't be reading it anytime soon though</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:58:18"><span class="buddy">seungtrl</span> <span class="msgcontent">thats fine</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:58:24"><span class="buddy">seungtrl</span> <span class="msgcontent">its probably incomprehensible</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:58:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">Rahil627@gmail.com ...if thi doesn't work</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:58:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hahaha</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:58:42"><span class="buddy">seungtrl</span> <span class="msgcontent">but if you get a rudimentary understanding of the crisis i did my job</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:58:56"><span class="buddy">seungtrl</span> <span class="msgcontent">yea it aint working</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:58:58"><span class="buddy">seungtrl</span> <span class="msgcontent">ill gmail</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 04:59:03"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hah sweet, so i'll be learning too</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-21 04:59:33"><span class="buddy">seungtrl</span> <span class="msgcontent">done</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-21 05:01:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">sweet</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 01:22:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">YO</span></span></div>
+<div class="incoming message" auto="True" timestamp="2009-04-22 01:22:18"><span class="buddy">seungtrl</span> <span class="msgcontent">I'm not here right now</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 01:22:29"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">enver's wants you !</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 01:23:30"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">meh...call if u get this message</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 01:23:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">call him*</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 02:14:44"><span class="buddy">seungtrl</span> <span class="msgcontent">goddammit</span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-22 02:14:47"><span class="buddy">seungtrl</span> <span class="msgcontent">whatd he want me for</span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 02:20:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no idea</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 02:20:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just said call</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-22 02:20:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">didn't seem urgen though</span></span></div>

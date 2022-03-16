@@ -1,0 +1,52 @@
+spellbreaker build
+
+You will never reach a high enough OA/DA for legendary using dex alone.
+It will require help from items or skills.
+So those will define how much dex you need.
+
+Personally I'd aim for 350-400 dex on any melee character.
+Higher if it's a spear user (430 or so).
+
+Oh and 1000 OA and DA is just ok-ish in late legendary.
+It's enough to avoid most (but not all) criticals and to make sure your offense isn't completely crippled.
+But make no mistake , having 1300 or 1500 of each makes a HUGE difference.
+
+Of course you can get a similar (or even better) result by other methods , but most of them require pretty special gear.
+__________________
+
+quests with needed rewards
+Skillpoints
+Act 4: SideQuest The Dust of a Titan in City of Lost Souls/Far Plains +2 SP
+...
+
+Health
+Act 4: Lampidos Trank 80 / 150 / 200 the one with 3 ingredients for a potion at Medea
+
++4/6/8 to all attributes (quest is bugged, bugfix exists)
+Act 4: The Stygian Lurker 
+
++6/8/10 strength
+Act 4: Lampidos Trank same as above
+
++5% damage overall (quest is bugged, bugfix exists in german forum -> link)
+Act 4: Hades Generals
+
+
+Sparta - MQ Spartan in Trouble (kill Nessus) - 1 SP
+en route (theagis/northwest of theagis) - The Poisoned Spring - 75hp/150hp/200hp
+Megara - MQ inventory bag
+en route - SQ The Good Centaur (chiron's bow) - 2 AP
+Delphi - A Proper Offering (bring branch of resistance) - +5% / 7% to random resistance except pierce / 5% elemental resistance
+Labyrinth - kill Telkine inventory bag
+--------------------------------------------------------------------------
+desert wastes/lower nile - SQ The Beast of Legend (kill scorpionman) -  +2 SP
+Memphis - MQ Ritual of Invocation (bring eye and hand to imhotep in memphis) - +2 AP
+Thebes - MQ bring tablet from Telkine - +2 SP
+--------------------------------------------------------------------------
+Babylon - kill Chimera inventory bag
+Chang'an - kill Bandari 2 attribute pts.
+--------------------------------------------------------------------------
+Rhodes - gather three plants +x STR, y Health
+Stygian marsh - kill Feaster +z STR, DEX, INT *
+Plains of Judgement - ashes of titan 2 skill pts.
+Hades' Palace - kill generals +5% damage *

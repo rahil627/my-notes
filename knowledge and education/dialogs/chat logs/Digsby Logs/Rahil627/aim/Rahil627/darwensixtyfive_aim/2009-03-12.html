@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with darwensixtyfive on 2009-03-12</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="incoming message" auto="False" timestamp="2009-03-12 21:15:26"><span class="buddy">darwensixtyfive</span> <span class="msgcontent"><BODY><FONT FACE="Monotype Corsiva" SIZE=2 COLOR=#800000>I agree, because I don't keep logs that far back. ShakShark does. Since he has the logs to prove it, they are legit retals. Also, you farmed him when he couldn't retal, so your above logic doesn't really apply. Now that he can retal, what do you expect?</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-12 21:15:34"><span class="buddy">darwensixtyfive</span> <span class="msgcontent"><BODY><FONT FACE="Monotype Corsiva" SIZE=2 COLOR=#800000>oops</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-12 21:15:36"><span class="buddy">darwensixtyfive</span> <span class="msgcontent"><BODY><FONT FACE="Monotype Corsiva" SIZE=2 COLOR=#800000>starbook</FONT></BODY></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-12 21:16:07"><span class="buddy">darwensixtyfive</span> <span class="msgcontent"><BODY><A HREF="http://www.najle.com/idaft/">http://www.najle.com/idaft/</A></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-12 21:16:15"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lolwut?</span></span></div>
+<div class="incoming message" auto="True" timestamp="2009-03-12 21:16:17"><span class="buddy">darwensixtyfive</span> <span class="msgcontent"><BODY bgcolor=#ffffff><FONT FACE="Monotype Corsiva" SIZE=2 COLOR=#800000>You're the one for me, fatty.<BR>You're the one I really, really love<BR>And I will stay<BR>Promise to say if I'm in your way</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-12 21:17:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">loll awesome</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-12 21:17:47"><span class="buddy">darwensixtyfive</span> <span class="msgcontent"><BODY><FONT FACE="Monotype Corsiva" SIZE=2 COLOR=#800000>yup</FONT></BODY></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-12 21:21:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">heheh, well that fun =D</span></span></div>

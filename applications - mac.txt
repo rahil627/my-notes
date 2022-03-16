@@ -1,0 +1,52 @@
+General
+  Adium - IM (free)
+  Transmission - bittorrent client (free)
+  Anki
+  The Unarchiver
+  Calc
+  Natural Reader
+  ShadowsocksX
+  CCleaner
+  Calc
+  Paragon NTFS
+  x/Parallels Desktop
+  Textmate vs Sublime Text vs something
+
+  VLC player - video/audio
+  Google Chrome - web browser
+  Adobe CS (alt: Pages, Numbers)
+  Microsoft Office
+  Final Cut Pro
+
+  Super Duper
+  Winclone
+  CrashPlan
+
+  special use:
+  FormulatePro - editing pdf, including writing signatures
+  Disk Inventory X
+
+  temp:
+  Burn
+  Handbrake (cross platform)
+  Things
+  CleanMyMac - like CCleaner?
+  Growl - universal notification system
+
+Programming
+  Brackets
+  Transmit - ftp
+  CyberDuck - free ftp
+  Coda
+  CSSEdit
+  Textmate vs SublimeText
+  Expresso
+  xCode (comes with mac)
+  Snippet?
+  SourcTree
+  Snippet
+  MonoDevelop
+
+Final Cut Pro
+- Compressor
+Audacity

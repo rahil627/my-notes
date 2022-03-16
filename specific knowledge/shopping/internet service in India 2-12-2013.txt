@@ -1,0 +1,30 @@
+Reliance 3G:
+1-15GB unrestricted then 64 kbps (8 kBps)
+
+Tata Docomo 3G:
+2-11GB unrestricted then 128 Kbps (16 kBps)
+
+test:
+day 20 kBps
+night 8 kBps
+
+MTS 3G:
+website is broken
+
+test:
+day unlimited (180 kBps)
+
+BNSL (digital subscriber line):
+1-20GB unrestricted then 512 Kbps (64 kBps)
+
+Check if they have a dongle.
+
+test:
+day sometimes 20 kBps
+night unlimited
+
+YOU Broadband (cable):
+unlimited 1 mbps, 512 kbps*****
+
+test:
+night unlimited (500 kBps)

@@ -1,0 +1,304 @@
+practice control and new techniques***** 
+	just watch hax
+	c-stick shield, scar jump, drop shield, shine/wavedash, shine/wavedash, shine/turn/wavesdash, shine/turn/bair,
+	shine out of shield, out of shield attacks, quarter circle DI, edge cancel, moonwalk, wavedash with L, etc.
+	fast air attack, also out of shield*
+	turn around/turn around airiel after a shffl**** - turn around by moving stick to bottom right or bottom left, dash by press straight right or left and possibly holding it for a second
+	stop airel momentum midway*
+	shield drop
+	use wavedash and waveland
+	try a, a, a + z gentlemen - even better using a, a, a + hold timed
+	incorporate forward+b
+	shield wavedash
+	tech chasing
+	nair causes enemy to hit the ground? and usually misses the tech...easy to hit people who miss techs?
+	knee on the ground sends oppening downward
+	use ledge stand instead of roll
+	use some short hop u-airs (not dashing)***** hax style
+	remember you can fast fall through platforms
+	c-stick roll when you are in trouble
+	fall off u-air is quick!
+	practice faster airels, especially uair, dashed and non dashed - hax
+	mix dashed and non dashed airiels
+	full wavedash to roll to center for safety
+	remember to air dodge to ledge
+	up+b and move back from far above
+	use wavedash for spacing out airels in the mid range - between full dash jump and normal jump
+	jump off platform to bait, and come back with uair
+	up+b when in trouble
+	ledgehop airdodge to platform
+	it can be better to use nair instead of grab when the grab doesn't guarantee a hit -- marth/shiek/quick recovery chars
+	after throwing at low percent wait for oppenent to fair, then grab...or run behind and come back with something
+	use turns, air dodges and remember to use any other arsenal more to become less predictable and more original
+	wavedash, turn around, wavedash
+	turn around shield, after anything, and point shield torward opponent
+	should be able to turn around from everything!
+	use up airs right before hitting enemy?
+	extremely fast uairs
+be calm/mind game/mind read/pro/think****
+get over nervousness under pressure***
+DI down+toward center, near center stage/low percent
+DI up+away, off stage/high percent
+wait for first attack, move and punish--run back/forward and grab
+wave dash out of shield
+jump out of shield
+don't shield so much
+
+dtilt/utilt goes below ground a bit
+
+falcon punch fox or Falco at around 70-80% after a stomp if they don’t DI AT ALL.
+
+
+general
+
+DI
+
+Doraki's guide - http://www.smashboards.com/showthread.php?p=1104587#
+
+Doraki's
+A Guide to DI, Smash DI, C-stick DI, Teching and Crouch Cancelling 
+Introduction :
+
+The most important part of this guide is explaining in details how DI precisely works, how it is done and how it works with Teching.
+
+DIing is basically anything you can do when you are taking a hit to affect your trajectory. (I'm not talking about Aerial Control, which has nothing to do with being hit)
+DI can be divided in 3 parts : Smash DI (SDI), Automatic Smash DI (ASDI), and Regular DI (I'll keep it at DI)
+
+Smash DI :
+
+When you take a hit, there are frames of hitlags where you're frozen and stay in place before being sent flying. The number of hitlag frames varies between 2-3 up to around 18 with Samus's Fully Charged Shot, or burner hits in BtT stages.
+
+During those frame, you can move around using Smash DI.
+If you smash the Control Stick (http://www.smashboards.com/showthread.php?p=1104587#) in one direction, your character will move instantly in that direction. It doesn't go very far, but it can still save your life sometimes.
+
+If the hit is techable, Smash DI can be used to move yourself into a wall or a ceiling and you'll either bounce back or tech.
+However Smash DIing into the ground can't make you tech (it would clearly be broken)
+
+Forbidden Smash DI :
+
+If you are on the ground and are hit by a non-techable move that sends you horizontally or downwards, you won't be able to Smash DI up.
+I call this Forbidden Smash DI. It would in fact be broken because you would take the hit airborne, you would land on the ground without any stun.
+The developpers saw this and prevented that from happening.
+Forbidden Smash DI makes sure you stay stunned on the ground when you're hit by Fox's Aerial Down A, Fox's shine or any other relatively weak hit nailing you into the ground.
+(However I've seen CPUs (http://www.smashboards.com/showthread.php?p=1104587#) breaking that rule in Adventure mode )
+
+Multiple Smash DIing :
+
+If you are fast with the control stick you can sometimes input several Smash DIs
+This is basically what you do when you use the so-called "Quarter-circle DI".
+
+In the Perfect Control Video (http://www.smashboards.com/showthread.php?p=1104587#), there is a clip where a Mario (http://www.smashboards.com/showthread.php?p=1104587#) on Jungle Japes takes a Charge Shot from the left, use Smash DI on each frame of hitlag alternating between down-left and up-left, and finally Smash DIs up into a ceiling and wall-tech-jumps there.
+
+Regular DI :
+
+After the hitlag, your character starts flying from the hit.
+
+Regular DI will influence your trajectory, it has been known for more than a year now.
+DIing along the same line of the defaut trajectory doesn't affect it at all. What does work and what saves your life at high % is having a DI perpendicular to the defaut trajectory.
+
+Automatic Smash DI :
+
+An Automatic Smash DI takes place there on the 1st frame after the hitlag.
+It's automatic because you don't have to smash anything to do it, the game just reads the position of your control stick or C-stick on the last frame of hitlag.
+The C-stick outprioritizes the control stick. You can hold 2 different directions, the game will use the C-stick for the ASDI : you can DI one way and ASDI another way.
+
+The ASDI is exactly like Smash DI except that it goes less far, and you don't see it very well because you're sent flying at the same time.
+On techable hits, it can make you tech on walls or ceiling just as well.
+One very important thing is that you can tech on the floor as well if the ASDI makes you go down on that frame.
+The instant ground techs on other moves than Fox's shine all come from this.
+
+ASDI Down, the true Crouch Cancelling effect :
+
+If you're grounded and take a move that sends you upwards but not very fast, ASDIing down'll make you go downwards on that frame. You'll then either tech if the hit is techable, or just land with no stun.
+
+If you're grounded and take a move that sends you down, if it's untechable, Forbidden Smash DI applies and you'll stay stunned on the ground whatever you try to do (DI doesn't work in those cases, too.)
+If it's techable, you'll see a green flash on the ground at the beginning of the hitlag and you'll be sent up. You can try to ASDI down that and you may bounce/tech that hit.
+
+For example, Fox's Aerial Down A sends you downwards and is never techable.
+Falco's Aerial Down A sends you downwards and becomes techable at low/middle % 
+Falco's Phantasm sends you up if you're grounded but sends you down when you're in the air, and it's always techable.
+Fox's shine sends you horizontally when you're grounded.
+
+DI on throws and phantom hits :
+
+Throws don't have any hitlag window, so only Regular DI can be used when you're thrown.
+Phantom hits doesn't send you anywhere, but you can still use SDI or ASDI when you're taking a Phantom hit.
+Phantom hits happen when your hitbox and the move's hitbox are tangent. A very bad idea is to SDI or ASDI into the hitbox of the move while it's still there, because you'll then take the hit like normal.
+
+Crouch Cancelling :
+
+CCing is what happens when you're crouching while taking a hit.
+It tremendously reduces the knockback of the move, reduces the hitlag, and the move is weakened so you must be at higher %age to tech it (or it makes the move completely untechable, like Fox's shine)
+
+You have to be crouching to crouch cancel, if you're not crouching you're not crouch cancelling.
+
+Usually you're DIing down with the control stick when you're CCing, which makes you ASDI down on the weakened move, thus makes you land right after the hitlag (or bounce on the ground if you're at high %age) : 
+CCing weakens the move and ASDI down makes you stay grounded.
+
+Teching :
+
+Teching is simple : In order to tech a hit you have to press L in a 20-frame window before bouncing on a wall/floor/ceiling.
+The tricky thing put in by the developpers is that pressing L during the hitlag of a move will prevent you from teching, except if it's the last frame of hitlag and you're bouncing on the next frame or if you're SDIing into the wall and pressing L on the same frame.
+That's why in order to tech a hit while you're recovering or in order to ground tech you absolutely have to press L before being hit or have insane precision/reflex.
+
+If you tech on a wall, you can perform a wall jump, with any character. You have to hold up or jump in the first few frames after the tech.
+
+How to use DI :
+
+To escape from a combo, use proper Smash DI, ASDI and proper DI. Know what you can do, where you want to go, and how DI affects your trajectory.
+
+To walltech more moves when you're recovering, Smash DI and ASDI towards the wall.
+
+To survive from a powerful move, DI to the perpendicular of your trajectory and preferably upwards, while ASDIing towards the stage with the C-stick.
+
+To ground-tech a hit, DI to the perpendicular of your trajectory and preferably down, while ASDIing down with the C-stick.
+
+IMO CCing should only be used to Crouch Cancel Counter. Why be sent flying when you could shield instead ?
+
+
+
+
+
+
+CF
+
+things to do:
+use Y to jump
+use L to wavedash
+
+***perfect up+b
+***mind game up+b
+**DI UP!!! and toward stage
+DI toward stage to tech
+*stomp from edge
+***be patient!!! especially when chasing after throw
+uair's staying on edge
+throw immediately/throw attack (MG)
+*ledgehop reverse falcon punch!?!? LOL
+*practice moonwalk-bair/uair
+*tapion punch
+*utilt
+*the dsmash theory
+
+openers/combo starters
+you can shield grab any character air attack, before shine
+dair running away from opponent air attack
+can be easier to forward+b to knee then grab to knee a falco
+
+platforms
+jump, fall through, jump, air
+
+forward+b in air at 150%+
+
+stage specific:
+PS
+falcon kick to pokemon building when it's uprooting
+forward+b into diagonal platoform, then knee quickly
+wall jump bair quickly
+wall jump, wavedash, jump, bair
+can grab from tree hole, if opponent is on platform
+
+uthrow, wavedash toward, run back
+
+combos:
+jumping bair-fast fall uair
+jab-stomp/grab
+jab-jab-grab OR jab-grab (MG)
+jab-jab-ftilt (when further away)
+up tilt so that foot is outside edge
+up throw-jab cancel-grab
+jump cancel grabs
+backfist drags
+up+b backwards grabs edge
+nair-grab
+gentleman	my way --> a, a, hold a
+
+edgegaurd:
+bair mostly (vs spacies/lazy players)
+utilt
+ledgehop invincibility	fox/falco/marth/shiek/most everyone
+ledgehop bair (vs marths after fb, vs spacies if their up+b is close enough)
+dtilt-knee/uair (vs marth/peach)
+ledgehop dair to platform (peach/samus/jiggly)
+
+character specific:
+
+marth:
+low% dthrow-nair/uair
+30-50% - uthrow-uair's-knee
+68% - uthrow-knee.
+85%+ - dthrow-knee
+after blocking a fsmash-wavedash-grab
+fb after slow moves
+fb under fairs
+after fair there is some lag, so u can actually knee it!
+65% greg's punch
+
+
+DI
+toward marth after uair
+up and toward stage mostly
+try to recover to the middle of stage
+
+edgegaurd
+light shield-ledgehop-kneepit/stomp+knee
+ledgehop invincibility
+wavedash off edge-bair
+dash off edge-jump-uair
+ledgefall bair-perfect ub
+if on level with stage-knee (just a tap will do it)
+
+shiek: 
+~65-70% - uthrow-knee
+stay low (because shieks fair will hit your down to level)
+stay away from the edge
+fb-knee
+uthrow-uair's-knee
+
+edgegaurd
+ledgehop invincibility
+if near edge-ledgehop stomp-knee
+if not-ledgehop-waveland/dash-grab
+
+
+DI 
+down+tech if fair would hit the ground
+
+space animals:
+78-90% - uthrow to fsmash
+90%+ - uthrow-knee
+high% - uthrow-stomp/knee-chase if missed
+
+chasing
+uthrow and chase (maybe mix up with dthrow?)
+if tech roll-grabbing is easiest, but can do others if obvious tech roll
+if tech in place-stomp
+
+fox:
+75% tapion punch
+fox's tech roll are short
+dthrow-hold dsmash
+if fox dashes-double bair
+
+falco:
+78% tapion punch
+falco's rolls+tech rolls are long
+powershield lasers
+full jump airels (if falco full jumps alot)
+nair-grab
+nair-chase
+
+marth
+65% tapion punch over pokemon platform
+light shield
+
+peach:
+~80% - dthrow-knee (sometimes even lower)
+low% dthrow-chainthrow
+
+things to do on platforms:
+mostly fall through to uair
+if an enemy gets hit high up, can try to jump+wavedash to platform+jump again
+
+stages:
+wavedash off the edge platform-airel

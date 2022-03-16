@@ -1,0 +1,108 @@
+
+	 Rahil Patel <rahil627@gmail.com>
+Passion for Mobile Games
+7 messages
+Manav Kataria <manavkataria@gmail.com>	 Wed, Aug 8, 2012 at 2:14 PM
+To: me@rahilpatel.com
+Hey! Rahil, 
+
+This is Manav Kataria. I am a System Software Developer and recently moved to Austin from India. I am interested in Mobile Gaming and Entrepreneurship. I recently stumbled upon your profile and was impressed with your passion for Mobile Games, Software Development and how much you have achieved on your own. I wanted to reach out to you to get to know what you are working on, your interests and experience. 
+
+Warm Regards,
+Manav Kataria
+http://www.linkedin.com/in/ManavKataria
+
+Rahil Patel <rahil627@gmail.com>	 Wed, Aug 8, 2012 at 2:49 PM
+To: Manav Kataria <manavkataria@gmail.com>
+Hey Manav,
+
+Your profile is impressive, congrats! I'm actually inactive right now. I've come home recently to spend time with my family before I depart; I'm going to be living in East Asian cities for an indefinite amount of time, working odd part time jobs and hopefully allocating the rest of the time into personal work -- games and film.
+
+Before I came home I was working on two games with a friend from New York. They're both local multi-player iPad games inspired by board games. I hope to continue working on them as soon as possible.
+
+I imagine in the end I'll crawl back to the amazing people I met in New York, but I can't guarantee that. I'm at a funky point in life now. I depart to Taiwan in a week.
+
+I'm unsure what you wanted to hear, but that's my current status.
+[Quoted text hidden]
+-- 
+rahil.patel
+757.630.7972
+Manav Kataria <manavkataria@gmail.com>	 Thu, Aug 9, 2012 at 3:59 AM
+To: Rahil Patel <rahil627@gmail.com>
+That sounds good! Funky point in life, is a good perspective :P hehe
+
+I recently ventured into Game Dev using Unity3D. I made a few prototypes, a two player Pocket Tanks clone and a single player Fruit Ninja + Space Invaders derivative (for the lack of a better name, called it Khaulal). 
+
+I eventually realized:
+Having someone with a good design + art experience would be greatly helpful.
+Till then, it might be better to move to simpler games with less art / design dependencies. 
+You having an interesting mix of interests, Film, Computer Science, and especially Game prototyping, I was wondering if you could get me in touch with some passionate designers, artists and software developers  with similar game development interests.
+
+How has your experience been, developing games so far? 
+
+Kinda curious you're moving to Taiwan! Hope you have a good time!
+
+Regards,
+Manav
+[Quoted text hidden]
+Rahil Patel <rahil627@gmail.com>	 Sun, Aug 12, 2012 at 9:24 AM
+To: Manav Kataria <manavkataria@gmail.com>
+Sorry for not replying earlier!
+
+Ah yes, programmer type people usually do team up with an artist, but I wouldn't limit myself to simple games because of the lack some art fundamentals (illustration, colors, etc.). There are many games in which the art is derived from the gameplay mechanic. I wouldn't separate programming and art.
+
+I personally only know people in New York and San Francisco. The indie game development crowd is small in both cities. Try Babycastles, the indie game Facebook group for NY, and the bay area game jammers in SF. Those group posts events and festivals in which many game developers and artists attend.
+
+Many schools are linked to game development too. NYU Game Center, Parson's Game Club, a few folks from Columbia. The indie game scene is surprisingly non-existant in SF. SF is far too business-oriented.
+
+I still believe the best place to find people are at game jams. Only people who love developing games attend them. Everyone else is weeded out.
+
+Game development was my first real venture into art. I began shortly after quitting a full-time job in SF and moving to NY. I started by simply making prototypes for Experimental Gameplay Project, and continued each month. Locally, I attended game jams and found out about Babycastles and started helping them with interactive art installations. The games I made suck; I mean it had some meaning to it or else I wouldn't have made them, but looking back they were merely technical exercises to prepare me for something larger. My personal 3 month game school. After a few months, I felt technically confident in making anything, so I began a somewhat ambitious project with a friend. And that's where I am now.
+
+I had a really tough decision in choosing going back to New York, or to live in East Asia, which is some irrational thing I've always wanted to do. I chose the latter.
+
+Luckily my friend on the project is okay with it as he has a full-time job and felt that he couldn't contribute as much as he'd like.
+
+Welp, that's all I got for now! I hope it helps.
+[Quoted text hidden]
+-- 
+rahil.patel
+757.630.7972
+Rahil Patel <rahil627@gmail.com>	 Sun, Aug 12, 2012 at 9:26 AM
+To: Manav Kataria <manavkataria@gmail.com>
+forgot to link to Babycastles Facebook page:  https://www.facebook.com/babycastles
+[Quoted text hidden]
+-- 
+rahil.patel
+757.630.7972
+Manav Kataria <manavkataria@gmail.com>	 Mon, Aug 13, 2012 at 3:49 PM
+To: Rahil Patel <rahil627@gmail.com>
+That's a very interesting story.  I am surprised to know SF doesn't not have a significant Game-Dev community. Thanks for the links and the introduction to Game Jams. I am looking for similar events locally that occur more often. 
+
+One of the biggest challenges we faced when making game prototypes was the problem of choice: How to choose what to make, what not to make and why? Also, I would like to understand what you mean by "art is derived from the gameplay mechanic" ; The game play was unique that you classified it as art? I would love you hear more about this.
+
+Thanks and regards,
+Manav
+[Quoted text hidden]
+Rahil Patel <rahil627@gmail.com>	 Tue, Aug 14, 2012 at 2:33 PM
+To: Manav Kataria <manavkataria@gmail.com>
+Oh, SF has a game development community, but a very few are independent. It's mostly businesses stuck on heavily marketed Facebook and iOS games, which I'm not interested in.
+
+I would think Austin has a game scene or at least people doing strange things with electronics. Try meetup.com (usually bad, but it's a start!), dorkbot seems to have an Austin branch, just go to anything related events and you'll likely run into similarly interested people. If not, you guys will have to start your very own organization. :)
+
+I imagine the choice of game is far more difficult and limited compared to independently made games. Businesses have to worry about it being profitable. I would aim for something that is original, fun, and social. I think that's what Spryfox has done well. Personally, I couldn't bare having a game development position as a day job, as it's something I care very much about. So, I can't offer much help to this question.
+
+Precisely, "unique gameplay" can be art. There are so many examples!
+- Scale
+- Portal (based off of Narbacular Drop)
+- some of Keita Takahashi's game ideas for an upcoming exhibit
+- many IGF games
+
+Of course, art helps, but many times it's either polish or a way to make the game appeal to a larger audience. Many independent game developers have this conundrum, hence the influx pixel art, and it worked in many cases: Minecraft, Canabalt, etc. Or what about procedurally-generated games like Everyday Shooter. These games were made with whatever resources they had, and an artist wasn't one of them.
+
+I'm afraid I may be in and out of communication. So, expect some slow communication from now on.
+
+[Quoted text hidden]
+-- 
+rahil.patel
+757.630.7972

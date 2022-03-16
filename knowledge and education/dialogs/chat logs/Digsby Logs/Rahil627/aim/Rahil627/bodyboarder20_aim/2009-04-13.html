@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with bodyboarder20 on 2009-04-13</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:02:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that its available?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:03:03"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">ah</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:03:09"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">how many tests u pass?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:12:42"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">haven't tested..1 sec</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:20:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">LOL 10</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:20:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">fails</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:20:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh 11</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:20:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">last one took forever</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:21:04"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">so u passed 11?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:21:08"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea :(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:21:12"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">sweet dude</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:21:15"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">neil had 9</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:21:19"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">i have 2 - then 7</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:21:23"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">im up to 14 now...</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:21:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">haha wow nice</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:21:34"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">theyre slack to fix man</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:21:36"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">ull fix em quick</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:22:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its prolly more header problems like usualy</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:24:19"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">um... i had to take out all of my 404s</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:24:20"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">lol</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:24:24"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">and thats fixing a bunch of em</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:24:25"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">lol</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:24:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">=O</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:24:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat u change em to</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:25:17"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">401's</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:25:21"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrm</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:25:27"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">his script wants 401s for practically everything</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:25:31"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">and i honestly think its stupid</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:25:33"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea i c</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:25:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">5/6</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:25:44"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">if they fail after requesting it, then tell em it doesnt exist</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:25:45"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">oh well</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:26:26"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">im exhausted</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:26:31"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">i got two to go and im going tobed</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:26:32"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">fuckin tired</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:26:35"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">hows 411 comin</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:26:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">meh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:26:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no fun</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:26:55"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">what would u say was harder? 410 or 411?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:26:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just gonna bs it like usual....you get to rewrite it anyhow</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:27:05"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">lol</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:27:05"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">word</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:27:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">umm 411 just consists of writing papers....that's rly it</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:27:27"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">word</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:27:30"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">thats not too bad then...</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:27:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">its really tedious work</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:27:44"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">:-/</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:27:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">410,  i thought the toughest part was coming up with a good idea XD</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:28:01"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">dude, that took us foreverrrrrrrr\</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:28:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but that was also tedious..making presentations</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:28:06"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yeah, us 2</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:28:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">we were hte last with an idea</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:28:25"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">we were too, but then feasibility presentation made two groups change their shit</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:28:26"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">lol</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:28:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o damn</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:28:45"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i haven't seen that happen</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:28:50"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">lol</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:28:51"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">yeah</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:29:57"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">14/16 by changing 404s to 401s</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:30:04"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">nice</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:30:06"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">16?</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:30:08"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">theres 17</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:30:16"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh 15/17...sry last one takes forever</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:30:23"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">yeah</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:30:24"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">nioce</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:30:53"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">nice</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:30:56"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">just hit 16</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:30:58"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">this is bad ass dude</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:31:16"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">i was using 100% stale nonces, and kicking them out after 1 use</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:31:23"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i swear i read a slide that said not to use 403s and send 404 and maybe html that gives a reason</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:31:26"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">but his code doesnt allow for that, he reuses em</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:31:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wah</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:31:42"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">yeah - his slides ... suck</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:31:54"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">he tests stale?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:31:57"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">nah</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:32:15"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">if I got more than a singel request for a nonce that i generated, i returned a 401 w/ stale=true</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:32:24"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">per the "choice" that is allowed by the RFC</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:32:34"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">but his tests are hard coded - so they dont account for that</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:32:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:33:02"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">O M F G</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:33:08"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">are u failing test 13?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:33:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">12 &amp; 12</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:33:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">13</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:33:22"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">12 is options... lol</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:33:24"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">how the hell</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:33:27"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">look at what 13 tests for....</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:33:31"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">HA</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:33:37"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">going to last minute code that</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:33:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">;)</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:33:46"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">yeah - thats some BS right there</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:33:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea rly</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:34:19"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">i guess ill just write something to look for ANY duplicate headers - and throw a 400</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:34:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">hrmm yea...in basehttp?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:34:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ugh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:34:46"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i'll do it tomorrow</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:34:47"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">eh - i honestly dont care where i put it</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:34:48"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">lol</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:34:49"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ha</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:34:49"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">word</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:35:41"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">could you send me your response header for 12/</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:35:48"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">yeah</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:35:49"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">one sec</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:36:21"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">HTTP/1.1 401 Unauthorized<br>Server: JaredsMightyPython/3.0 Python/2.5.2<br>Date: Mon, 13 Apr 2009 04:30:41 GMT<br>WWW-Authenticate: Digest realm="Colonial Place",<br>   domain="/a4-test/limited2",<br>   qop="auth,auth-int",<br>   nonce="a982d42e24bf5f970a790177762874a4",<br>   algorithm="MD5",<br>   stale="false",<br>   opaque="b2022330ac06a0d80658d314db71320a"<br>Content-Type: text/html<br>Transfer-Encoding: chunked<br>Connection: close<br></font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:36:26"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well i guess it does make sense to send a 401...beucase that's when it generates a nonce again</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:36:39"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">just weird</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:36:52"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">for some reason mines got an "e" showing up in the output too....</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:36:52"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">weird</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:37:10"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">oh</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:37:12"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">i didnt show it all</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:37:19"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">i also have a entity body too</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:37:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">that's your respose header for test 12? test 12 is OPTIONS</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:37:50"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">yeup</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:38:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">and you got a point?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:38:06"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">yeup</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:38:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:38:13"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">think about it</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:38:20"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">OPTIONS returns what can be done on a resource</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:38:39"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">if that resource is protected, then responding to the OPTIONS request w/o authenticating would be a security leak</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:38:50"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">bc ud be leaking information about a resource w/o authenticating</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:38:57"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">do</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:38:58"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">h</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:39:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i woulda never thought</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:46:49"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">w00</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:46:52"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">want some code?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:46:59"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yea so no md5-sess or auth-int test</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:47:05"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">of course! ;)</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:48:24"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">for key in &lt;&lt;request headers&gt;&gt;.keys():               			if(len(&lt;&lt;request headers&gt;&gt;.getallmatchingheaders(key)) &gt; 1):<br>		&lt;&lt;do what you gotta do to return a 400&gt;&gt;</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:48:34"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">hmmm that looks jacked upo</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:48:38"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">its 3 lines of code</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:48:50"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">wat is &lt;&lt; &gt;&gt;</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:48:56"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">just replace the &lt;&lt;requestheaders&gt;&gt; w/ whatever u use to access the request headers</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:49:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ohh lol</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:49:20"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">show me a line of code where u get the value of a request header</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:50:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">self.headers.getheader("Authorization")</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:50:34"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:51:02"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">for key in self.headers.keys():<br>	if(len(self.headers.getallmatchingheaders(key)) &gt; 1):<br>		&lt;&lt;do what you gotta do to return a 400&gt;&gt;</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:51:13"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">indent each line over one</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:51:23"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">where does this go?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:51:33"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">before any "Real" processing</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:52:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">is this still in the authorization function or works for all duplicate headers?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:52:33"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">all duplicate headers</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:52:38"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">o snap</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:52:39"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">im going to bed</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:52:44"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">arite heeh tanx</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:52:47"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">np</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:52:51"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">cya tomorrow</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 04:52:52"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">peace</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 04:52:55"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">ltr</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 11:34:35"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">up already?</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 11:34:48"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">no sleep ;)</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 11:34:53"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">OUCH</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 11:35:13"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">well i have sleeping problems...so this happens often heh</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 11:35:31"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">u should...get that looked at... sleep is such a wonderful time</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 11:35:35"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">to fix my schedule</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 11:35:40"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">haha</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-13 11:35:53"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">oh i can sleep...i just can't control when i wake up</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 11:36:06"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">haha</font></span></div>
+<div class="incoming message" auto="False" timestamp="2009-04-13 11:36:07"><span class="buddy">bodyboarder20</span> <span class="msgcontent"><font face="arial" size="2" color="#000000">word</font></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:15:56"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">heyo</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-04-14 02:16:12"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">do u send content-type for head?</span></span></div>

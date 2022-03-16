@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>IM Logs with danteneverdies on 2009-03-26</TITLE>
+   <style>
+     .buddy { font-weight: bold; }
+     .buddy:after { content: ":" }
+
+     .time {
+        color: #a0a0a0;
+        font-family: monaco, courier new, monospace;
+        font-size: 75%;
+     }
+     .time:hover { color: black; }
+
+     .outgoing { background-color: #efefef; }
+     .incoming { background-color: #ffffff; }
+   </style>
+   <script type="text/javascript">
+//<![CDATA[
+    function convert_time(datetime){
+        var dt = datetime.split(" ");
+        var date = dt[0].split("-");
+        var time = dt[1].split(":");
+        var t = new Date;
+        t.setUTCFullYear(date[0],date[1]-1,date[2]);
+        t.setUTCHours(time[0],time[1],time[2]);
+        return t.toLocaleTimeString();
+    }
+
+    function utc_to_local(){
+        var node;
+        for (var i=0; i<document.body.childNodes.length; i++){
+            node = document.body.childNodes[i];
+            if(node.nodeType == 1 && node.className.match("message")){
+                var showtime = convert_time(node.getAttribute('timestamp'));
+                var newspan = '<span class="time">(' + showtime + ') </span>';
+                var msgnode = node;
+                msgnode.innerHTML = newspan + msgnode.innerHTML;
+            }
+        }
+    }
+//]]>
+   </script>
+   </HEAD>
+   <BODY onload="utc_to_local()">
+<div class="outgoing message" auto="False" timestamp="2009-03-26 00:57:11"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">yoyo</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 00:57:17"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">bring the laptop tomorrow</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 00:58:02"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Bring my laptop?</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 00:58:04"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i have a table leg that requires enver's laptop!</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 00:58:14"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Ah!</font></body></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 00:58:17"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Of course.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 00:58:19"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:)</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 00:58:40"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Those things just wobble all too often.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 00:59:01"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">heh</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 01:00:52"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">also, how did i miss the due date for the may commencement ceremony applicaiton</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 01:01:02"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Good question.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 01:01:09"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">r u getting e-mails?</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 01:01:15"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Yes.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 01:01:18"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">:(</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 01:01:32"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Just fill out the application for graduation.</font></body></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 01:01:36"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>And turn it in.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 01:01:36"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i did, long ago</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 01:01:41"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>It's a loose deadline.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 01:02:00"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">but i haven't gotten info about any other forms!</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 01:02:09"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Like?</font></body></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 01:02:25"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Are there any more?</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 01:02:32"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">Undergraduate: Commencement Participation Registration?</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 01:02:51"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">apparently we're suppose to have tickets already</span></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 01:05:10"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">i sorta don't want to walk anymore...odu fails on so many levels</span></span></div>
+<div class="incoming message" auto="False" timestamp="2009-03-26 01:05:19"><span class="buddy">danteneverdies</span> <span class="msgcontent"><body ichatballooncolor="#89EE7B" ichattextcolor="#000000"><font face="Arial" size=3 ABSZ=12>Yes they do.</font></body></span></div>
+<div class="outgoing message" auto="False" timestamp="2009-03-26 01:05:43"><span class="buddy">rahil627</span> <span class="msgcontent"><span style="color: #000000; font: 10pt arial;">besides, i plan to sleep forever after graduation :)</span></span></div>

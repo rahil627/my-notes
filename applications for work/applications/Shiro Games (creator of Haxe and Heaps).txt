@@ -1,0 +1,36 @@
+Heyo again,
+
+I was just pondering between various Haxe frameworks ‘n Godot, and, well, figured I’ll continue to apply anyway, as a “general application”.
+
+I’ve been out of the computer world for nearly a decade now. And now, just thinking about coming back to it, I guess my mind naturally gravitates to go toward the things that I liked, the best workflow, the bliss...: Haxe, and, even before that, FlashPunk.
+
+FlashPunk and it’s later incarnation, HaxePunk, had everything: an IDE (FlashDevelop) that was much better than bloated Visual Studio, a language that was less wordy yet nearly as feature-full as C#, the performance of C++. (with a GC), and a small community of mostly makers, especially game ‘n interactive art makrers... In addition to all of it’s transpiling and compiling magics...
+
+10 years later, I still cannot really recall a tech making experience as good as Haxe ‘n Flash. Then again, I’ve been out of it, so I can’t be sure... Maybe Google’s Flutter will make Dart compete, but anyway, it’s not nearly as cool! HaXe is the OG, with a capital X!
+
+If I were to get back into digital production mode again, I’d absolutely want to use Haxe (with C/C++ libs), for games, for new media arts, for web apps, for ui apps, for everything! I see no reason not to (save manual memory management)
+
+And that’s why the thought of applying to some Haxe game jobs came to mind. The workflow matters to me. I basically left the computer world shortly after dealing with a Cocos2D / obj-c project...
+
+It would be cool to just go all in with Haxe, full production mode...
+
+...
+
+So, back to the frameworks... for me, it’s really between Heaps ‘n Godot for a complete game engine. Otherwise, I’d have to make my own minimalistic engine, branching off of an old attempted port of HaxePunk to Kha (KhaPunk), and... I’m just not a systems programmer type to do that. (Should the main entity list have hash maps that link categories [uint layers, enum Types, bitfield tags] to entity lists? Or a map of maps?? Ugh!)
+
+I personally liked the idea of KhaPunk because it comes close to an ideal engine in my mind, which is just a slight convenient layer (i/o singletons) just atop of the low-level interactive library (SDL), allowing unlimited creativity thanks to low-level graphics access, yet also providing high-level Flash-like and Processing-like drawing api, along with a basic 2D framework (entity, scene tree, collisions, texture rendering) for rapidly make most game and interactive things! OpenFrameworks, another thing from a decade ago, was excellent at this. You could just throw together whatever cool C/C++ libraries and somehow connect it all to oF to make of whatever you imagined. A very powerful sense of creativity there...
+
+Anyway, I wouldn’t be able to survive full-time programming now, but, if there were some sort of generalist work—a mix of support work: player community support / voice / representative, maintaining web content, maintaining bug-tracking, small bug fixing, game qa, game design, simple gameplay programming (Heaps or Godot)—that would fit me perfectly! I’m a community support person by nature, that just happens to have some technical past in me. Talking and helping others comes first. Then, working autonomously, doing what’s necessary, lone wolf style comes next. I tend to see the big picture (civilization and anarchy), and focusing on anything small for too long (systems programming, other narrow-focused tasks) is really painful for me.
+
+I can’t say anything about the games made by Shiro Games as I haven’t played any of them. But as I said before, I’ve been out of the digital world, so I haven’t really played anything in the past decade (not even Journey!). The last game by Shiro appears quite... lackluster, and according to the Steam reviews that might be true. That’s unfortunate. I’m not sure if I could save something entirely from the dead, especially if it was designed to be dead, but I could at least provide some critique, tell what works and doesn’t work, what’s fun and what isn’t, and perhaps experiment on the fun parts to exploit it as much as possible: I’m quite the art critic. Game design-wise, I’m really just happy if the core game works smoothly (input), works well (core gameplay), and generally feels right / is intuitive. Beyond that is a bit difficult. I can critique myself harshly, but I probably wouldn’t do that to others. ;) Besides, I’m older now, and at this age I’d rather have fun play-ground multi-player games rather than to explore the potentials of art mediums as I did long before.
+
+Besides the Shiro Games stuff, I hope to tackle some small personal Haxe projects—extremely simple ideas and DIY tools for myself: a custom minimal-mark-up language parser, a minimal static web generator, minimal fighting games, web app ideas, an iOS writing app, iPad games, etc.—possible making me doubly productive, as I could contribute to Haxe too, managing the main site’s knowledge-base, hanging around the discord, curating and showcasing good art works done with Haxe (not competing with haxe.io), providing my own 2d game examples... and who knows... maybe one day making my own damn creative frameworks! But until then, maybe it’s just best to jam it up in Heaps ‘n Godot... :)
+
+Anyway, hope to hear from ya. As I said in the last e-mail many months ago, I’m in Thailand at the moment, normally live in Taiwan, but after this quarantine, I’m thinking I need to be my parents in the US (Virginia) as they are quite old now, before I go back to Taiwan and settle there again.
+
+Hope all is well in France.
+
+https://www.dropbox.com/s/3gxo9hnjgvjcyec/resume17-3.txt?dl=0
+https://www.dropbox.com/s/vzl8nfwplhfpj3k/resume17-3.pdf?dl=0
+
+From a mountain somewhere in south-east Asia,

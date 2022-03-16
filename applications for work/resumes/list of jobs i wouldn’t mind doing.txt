@@ -1,0 +1,82 @@
+a list of jobs i wouldn’t mind doing
+
+todo:
+organize all job application notes, cover letters, lists of companies i’ve applied for in my past, ‘n so on
+
+create a short list of places to check
+
+recover my blog
+  - **keep a link to my digital portfolio and my resume**, that way, the cover letter can be short
+
+re-create a Hugo set-up, this time on a VPS!:
+  - just upload all of my writings to it, who cares!
+  - upload pictures of all of my physical writings
+    - organize the digital images of all of my physical writings
+    - **this would be really dope—being able to see *all* of my written thoughts!**
+  - mind.rathewolf.com
+  - **can then automate site building and sync with DropBox! :o**
+
+fix fga site on GitHub Pages
+  - the future is in Discord. **Discord is a digital home.**
+
+copy Dropbox to the VPS, or, install it there
+copy Dropbox to another cloud storage (likely, Google Drive)
+  - **super duper important!!**
+  - remove all passwords from all text
+delete IFTT account
+
+current:
+1. **teaching in Taiwan**
+  - todo: track applications
+  - todo: gather all notes about this
+  - facebook groups, job listings sites, etc.
+
+1. try all Taiwanese tutor sites
+
+real:
+delivery, especially fruit ‘n vegetables
+
+digital, remote:
+
+apps i use:
+Discord
+  - no fitting positions :(
+Voice Dream
+  - todo: check again!
+x/ByWord
+  - re-sent an e-mail, seems abandoned
+Blot, don’t use but it’s great like ByWord
+
+
+info sites:
+healthline
+  x/- applied for associate editor and failed
+  - are there any other neat health ‘n wellness sites?
+plants?
+herbal medicine / pharmacosgny?
+
+
+
+
+job postings:
+craigslist
+
+remotegamejobs
+workwithindies
+
+game company positions:
+1. community support
+2. community manager
+dev-ops (developer operations)
+generalist programmer
+
+specific:
+todo: track e-mails ‘n applications
+a country side sim game by an indie team
+  - unity dev
+  - https://feelfreegames.com/jobs
+eco
+  - **my dream game**
+  - unity dev
+  - eco.co
+

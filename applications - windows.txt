@@ -1,0 +1,384 @@
+special:
+enso launcher
+
+not windows but helpful:
+ubuntu boot disc/usb flash drive
+
+new
+Exact Audio Copy
+VJoy
+JoyToKey
+Paint.NET
+flashdevelop
+sharp keys - to change keys for mac keybaord running windows
+//blender for 3d modeling
+//mercurial for version control system
+git/tortioise git/source code (for mac)/github.com
+
+temp
+'/3GB' switch lifts the maximum process memory cap from 2GB, multi(0)disk(0)rdisk(0)partition(2)\WINNT="????" /3GB
+
+google search [thing you want] lifehacker
+see lifehacker pack
+check filehippo.com
+
+essential programs
+	google chrome - set as default pdf reader
+	7zip
+	VLC player
+	pidgin
+	avast! antivirus
+	//uTorrent
+	//winamp
+	quicktime alternative
+	real alternative
+	ccleaner
+	malwarebyte's anti-malware
+	combofix
+	imgburn
+	dropbox
+	imgburn
+	daemon tools
+	notepad2
+	steam
+	windirstat
+	
+	launchy
+	everything
+	procmon
+	
+	shellmenuview
+
+process flow
+	install windows
+	install drivers/check device manager for alerts
+	update windows/manually update for optional software updates
+	defrag
+	tweak windows
+	install software
+	check everything
+	defrag
+
+installing windows
+  delete all partitions
+  NTSC quick format
+  network - use workgroup not domain
+
+tweak windows
+improve performance: windows key + pause -> advanced tab -> performance settings -> visual effects -> custom
+	the following are checked:
+	show shadows under menus
+	show translucent selection triangle
+	show window contents while dragging
+	smooth edges of screen fonts
+	smooth-scroll list boxes
+	use visual styles on windows and buttons
+	
+fix addressbar in windows explorer: view -> toolbars -> uncheck lock toolbars -> move address bar -> lock toolbars
+unhide extensions: tools -> foldier options -> view
+	apply details view - name (sorted), size, date modified, date created, type (not needed)
+	the following are checked:
+	display simple folder view
+	display the contents of system folders
+	display the full path in the address bar
+	do no cache thumbnails
+	uncheck hide extensions
+	show encrypted or compressed NTFS files in color
+	use simple file sharing
+	
+fix context menu (right click)
+fix file associations
+msconfig - remove startup items/unneeded services
+windows task manager - google unknown processes
+
+turn off most sounds. only kept error sounds, window logon/logoff. turned off minimize/maxmimize/close.
+
+setup remote desktop - http://www.jakeludington.com/ask_jake/20051122_how_to_use_remote_desktop_connection_rdc.html
+
+mx518 speed 800 setpoint
+
+x-fi console controls
+entertainment mode
+75% master volume
+55% bass
+50-60%? treble
+25%-35% wave/winamp
+
+5.1 speakers, synchronize with control panel
+no EAX
+CMSS-3D stereo surround 50%
+crystalizer 10%
+svm off
+EQ off/sometimes rock
+
+game mode
+CMSS-3D stereo surround 50%
+upmix auto
+crystalizer off
+EQ off
+5.1 speakers, synchronize with control panel
+
+monitor
+~93 contrast
+25-35 brightness - this is kinda dull, but very pleasing! (75 dries my eyes out)
+
+mouse
+logitech setpoint for the mx518
+scrolling size		6 lines
+pointer acceleration	none
+pointer speed		centered/800dpi
+keep OS implementation	was no, testing yes
+
+mic
+device: AK5370
+wave in: max
+mic: max
+
+nvidia
+
+resolution - use the monitor's native resolution
+refresh rate - use the highest available refresh rate
+
+tweak ui - autologon...and more
+clean start menu - look at screenshot
+
+web browser
+google chrome
+	extensions
+		adblock
+		facebook for google chrome
+		google dictionary (by google)
+		google mail checker vs checker plus
+		google translate
+		ie tab
+		vertical tabs
+		wikipedia companion
+		turn off the lights
+		google tasks
+	themes
+		Chris Delbuck
+firefox
+	extensions
+		Download StatusBar
+		DownThemAll!
+		Greasemonkey
+		IE Tab
+		Map This
+		Tab Mix Plus
+		VideoDownloader
+		ColorfulTabs
+		CustomizeGoogle
+		NoScript
+		Hyperwords
+		Next Tab
+		Tiny Menu
+		Video Downloader
+		Mouse Gestures Redox
+		ImageTweak
+		disabled
+			Snap Links
+			ctrl-Tab
+			Firebug
+			YSlow
+			View Source Chart
+			
+//software firewall - windows - m&m concept
+
+video
+	VLC media player
+	quicktime alternative/QT Lite
+	//CCCP
+	
+	editing
+		final cut pro - 49% of the professional editing market!
+		cyberlink - less features, fastest, best for quick jobs
+		sony vegas - most featureful, most professional
+		pinnacle - really good
+		adobe premiere elements	 - for the less tech-savvy
+		
+music
+	Winamp classic - n3ON_ skin
+	MediaMonkey
+	//MusicBrainz Picard - had troubles before, but may be good now, open source
+	itunes with tuneup companion
+	tag & rename - i remember using this...
+	audacity - audio editing
+
+IM
+pidgin //miranda IM, trillian, digsby (ugly skin, adds facebook/gmail notifications)
+	plugins (included)
+		conversation colors
+		history
+		psychic mode
+		release notification
+	theme
+		cillop midnight
+		
+Google Talk?
+		
+virtualdub - better than movie maker
+	virtualdub mod (uses avisynth) to process on the fly
+	logo filter
+	vsfilter
+	aegisub
+/*
+quick keys & macros
+	hotkeybind
+	winkey
+	autohotkey
+*/
+burning
+	imgburn - makes images, burns images - BIN, CUE, DI, DVD, GI, IMG, ISO, MDS, NRG and PDI
+	Nero 6.6 Ultra Edition - for the less tech-savvy
+	clonedvd and anydvd - to copy/burn DVDs
+	DVD Flick - converter/author, very simple authoring
+	Daemon Tools
+
+	//autoGK
+	DVD Shrink
+	VirtualDub - to cut videos
+	//Tunebite - rip DRM protected CDs
+
+	video to video conversion
+		Any Video Converter (free), but no clipping like the others
+		Handbrake (free)
+		wandershare - does the same stuff as ImTOO/Xilisoft, but looks better
+	
+overclocking
+	CPU-Z (CPUID) - PC component details
+	HWmonitor (CPUID) - sensor temps
+	prime95 - stability testing
+	intel burn test - quicker stability testing (caution: much more intesive)
+	ATITool vs RivaTuner - video card, ATI tool has a nice graphics stability test
+	memtest
+	
+protection, cleaning, & optimizing
+	malwarebyte's anti-malware
+	NOD32 - best paid
+	Avast! (re-register every year, includes anti-sypware and rootkit scanner) > AntiVir (pop-up ad every update, top database) > AVG (hasn't been keeping up)
+	by Piriform
+    ccleaner - registry and crap cleaner //easycleaner
+		recuva
+		defraggler - can manually defrag files!
+		speccy
+	hijackthis - display everything currently running
+			
+windows
+	windows task manager - google unknown processes
+	msconfig - remove startup items/unneeded services
+	Unlocker - delete locked files
+	testdisk - help recover lost data storage partitions and/or make non-booting disks bootable
+	ubuntu live cd - bootable ubuntu
+		gparted - partition manager, can shrink/grow partitions
+	hiren's boot cd - contains several applications that can run in command or in it's own miniXP to fix unusable operating systems
+
+p2p
+	uTorrent
+	Peer Gaurdian - blocks out a lot of other programs
+	JDownloader - for downloading multiple files from the internet, auto queues and redownloads from sites that make you wait
+
+other
+	fraps - commercial screen capture and video recording
+	camstudio - free alternative to fraps
+	picasa
+	GIMP //gimp shop, photoshop
+	microsoft office (word, powerpoint, excel, visio) //open office
+	PDFCreator
+	powercalc //graphcalc - replace ti-86
+	//blender - 3d animation
+	Foxit PDF Editor
+	//Google Desktop Search, Windows Search, Copernic Desktop Search, Locate32
+	Launchy //Enso, Executor
+	SyncBack
+	other powertoys
+	winkey
+	Everything
+	TVersity
+	Dropbox vs Mozy
+	rosetta stone
+	
+	standalone / portable apps
+	Process Monitor
+	Process Explorer
+	Eyedropper
+	angry ip scanner
+	EmptyFolderNuker
+	Unassoc.exe
+	
+	
+game
+	Steam
+	Xfire - chat with good mic voice transmitter
+	hamachi - emulate LAN over TCP/IP
+
+programming
+	text editor
+		notepad++
+		vim - old, advanced
+		Komodo Edit - dynamic/scripting languages (python, javascript)
+		e text editor
+		netbeans - java/javascript
+		
+		an try sublime text and intype
+		
+		gedit - official open source text editor, installed on linux
+		GNU emacs - old, contends vim
+		//pspad, scite, jedit
+		
+	IDE
+		Eclipse - Java
+		Komodo IDE - Python
+		dreamweaver - wysiwig web development
+		Putty
+		WinSCP
+		code::blocks - C++
+		Microsoft Visual Studio - C++/C#/ASP/VB
+			plug-ins (have not tried any):
+				ankhSVN
+				reflector - disassembler
+				rock scroll
+				resharper vs coderush and refactor
+				studio tools
+				smartpaster	
+				PowerCommands
+				web deployer 2005/dispatch
+				StyleCop
+				visual assist x
+		Cygwin - programs in linux for windows
+		MGTEK MiniIDE - assembly
+	
+	redgate software?
+	
+	microsoft groove (part of microsoft office) - document collaboration vs google docs
+	ultramon - for multiple desktop management
+	ultraVNC*
+	tortoiseSVN - even just for the differential part
+	visualSVN*
+	virtualbox
+	sandboxie - creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying the local or mapped drive
+	bulletproof ftp server
+	agent ransack
+	LINQpad
+	XENU
+	wireshark
+
+emulators
+	ps2 - pcsx2
+	psx - epsxe/connectix visual gamestation
+	snes - znes
+	nes - virtuaNES
+	gba/ds - NO$GBA, DeSmuME
+	n64 - project 64
+	neogeo - neo-rage
+	mame - mame32
+
+file readers and associations
+	Windows Picture and Fax Viewer- JPG/JPEG, BMP, PNG, GIF, WMF, EMF, TIFF
+	Irfan Viewer - all other images
+	wordpad - .nfo
+	7zip - compressed and disc image files
+  notepad2 - most programming language files
+
+optimization
+	run procmon.exe, check file system activity for hard drive, and process and thread activity for cpu
+	check event viewer, system log

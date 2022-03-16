@@ -1,0 +1,17 @@
+https://forum.audiob.us/discussion/7236/akai-mpk-mini-mk1-vs-mk2
+  - Akai > Novation > Arturia
+
+http://community.akaipro.com/akai_professional/topics/mpk_mini_mk2_with_ipad?utm_source=notification&utm_medium=email&utm_campaign=new_comment&utm_content=topic_link
+  - Nanokey vs Novation vs Arutria?
+
+https://forum.audiob.us/discussion/5228/akai-mpk-mini-mk2-anyone
+  - more talks
+  - still considers Akai the best, just use a USB hub (un-powered) to trick the device of it’s amp rating.
+  - I’m still not sure of power consumption difference
+
+http://www.akaipro.com/support/kb/articles/connecting-usb-audio-interfaces-midi-controllers-and-keyboards-to-an-ipad-or-ios-device
+  - iPad compatible, shows if usb powered
+
+http://community.akaipro.com/akai_professional/topics/mpk-mini-mk2-and-garageband-on-ipad
+  - Sabrent usb hub didn’t work!
+  - somehow, this one did: https://www.amazon.com/gp/product/B00A81ISJ6

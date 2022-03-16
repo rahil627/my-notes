@@ -1,0 +1,56 @@
+4. Confucius, the first teacher
+
+"The most detailed account of Confucius' life is the biography which comprises the 47th chapter of Historical Records (China's first dynastic history, 86BC). ~He was poor in his youth, entered government of Lu., and by the time he was 50 he had reached high official rank. As a result of political intrigue, however, he was forced to resign his post and go into exile. *For the next 13 years he traveled from one state to another, always hoping to find an opportunity to realize his ideal of politcal and social reform. Nowhere, however, did he succeeed, and finally as an old man, he returned to Lu, where he died three years later in 479BC."**
+  - he kept trying to actualize his social ideals, similarly, I keep trying to actualize my social and urban ideals. This is life.
+  - also similarly, Taiwanese people often keep trying things, usually failing, but at least trying
+
+"His ideas are best know through the Lun Yu (Confucian Analects), a collection of his scattered sayings which was compiled by some of his disciples."
+
+Mostly just re-interpreted the Six Classics.
+
+rectification of names:
+Emphasized "the rectification of names".  1. The names of things should accord to the actual thing. 2. names of things, such as the father, contains the essence of the thing, an ideal essence, of what a father should be, "the way of a father". "Every name in social relationships implies a certain social responsibility and duty...and the individuals bearing these names must fulfill their responsibilities and duties accordingly."
+  - I think I've felt this bit in Taiwan's society, with 負責 being thrown many times
+
+human-heartedness and righteousness:
+"emphazied human-heartedness and righteousness, especially the former. Righteousness (yi) means "oughtness" of a situation. It is a categorical imperative."*
+  - hmm, I think I've felt a bit of this Kantin notion in Taiwanese society too, at times
+
+"If, however, he doe sthem only because of other non-moral considerations, then even though he does what he ought to do, his action is no longer a righteous one...he is then acting for 'profit' (li). Yi and li are oppositional terms.
+  - mentioned in first sentence by Mencius
+
+"The material essence of these duties is 'loving others' i.e. human-heartedness (jen)."
+
+"...in the Analects we see that Confucius sometimes uses the word jen to also denote all the virtues combined, so that that a 'man of jen' comes synonymous with the man of all-around virtue."
+
+[skipped some content in Confucius chapter]
+
+10. The third phase of Taosim: Zhuangzi
+intro:
+We know little of his life save that he was a native of the little state of Meng...where he lived a hermit's life, but was neverthelesss famous for his ideas and writings. It is said that King Wei of Ch'u, having heard his name, once sent messengers with gifts to invite him to his state, promising to make him chief minister. Zhuangzi, however, merely laughed and said to them, "...Go away, do not defile me...I prefer the enjoment of my own free will." (Historical Records, ch. 63)
+  - lived outside of society, did not try to engage in dialectic, persuade, or influence society? Rather just make good media? Opposite from Confucius.
+
+content:
+no need to read the content here, just read the primary source: Zhuangzi. It seems like a fun read.
+
+28. Chinese Philosophy in the Modern World (last chapter)
+end (the methodology of metaphysics):
+"I maintain that there are two methods, the positive and the negative. The essence of the positive method is to talk about the object of metaphysics which is the subject of its inquiry; the essence of the negative method is not to talk about it. By so doing, the negative method reveals certain aspects of the nature of that something, namely those aspects that are not susceptible to positive description and analysis."
+
+"...the West started with what he [Northrop] calls the concept of postulation, whereas the Chinese philosophy started with what he calls concept by intuition. As a result, Western philosophy has naturally been dominated by the positive method, and Chinese philosophy by the negative one. This is espeically true of Taoism, which started and ended with the undifferentiable whole. In the Laozi and Zhuangzi, one does not learn what the Tao actually is, but only what it is not. But if one knows what it is not, one gets some idea of what it is."
+  - sounds like a research programme by Lakatos, which is from 1976!
+
+"...Ch'anism, which I would like to call a philosophy of silence. If one understands and realizes the meaning and significance of silence, one gains something of the object of metaphysics."
+  - perhaps there's something he's getting at here, that Chinese Philosophy tries to focus on actuality, not language. Where western philosophy focused on creating ideas in the form of words, and even later, a terrible linguistic turn, Chinese philosophy maintains a better perception of reality, but simply cannot communicate much about it, at least, not through written language.
+
+"In the West, Kant may be have said to use the negative method of metaphysics...he found the unknowable, the noumenon. To Kant and other Western philosophers, because the unknowable is unknowable, one can therefore say nothing about it, and so it is better to abandon metaphysics entirely and stop at epistemology. But to those who are accustomed to the negative method, it is taken for granted that, since the unknowable is unknowable , we should say nothing about it. t和business of metaphysics is not to say something about the unknowable, but only to say something about the fact that the unknowable is unknowable. When one knows that the unknowable is unknowable, one does know, after all, something about it. On this point, Kant did a great deal."
+
+...A perfect metaphysical system should start with the positive method and end with the negative one. If it does not end with a negative method, it fails to reach the final climax of philosophy (earlier he mentioned how Western philosophers usually use words like Good, God, Love denoting the end of their philosophy and the beginning of their metaphysics). But if it does not start with the positive method, it lacks clear thinking that is essential for philosophy.
+
+Ch'an (Zen?) story of thumb being cut off and enlightened is referenced.
+
+Whether this story is true or not, it suggest that the truth that before the negative method is used, the philosopher or student of philosophy must pass through the positive method, and before the simplicity of philosophy is reached, he must pass through its complexity.
+  - perhaps what is meant is teaching should not involve any positive direction, people should arrive at it on their own. Do not en-culture or indoctrinate students.
+
+One must speak very much before one keeps silent.
+  - similar to "Whereof one cannot speak, thereof one must be silent." by Wittgenstein.

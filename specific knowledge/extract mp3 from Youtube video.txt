@@ -1,0 +1,71 @@
+# NEW knowledge
+https://en.wikipedia.org/wiki/Comparison_of_on-demand_music_streaming_services
+
+https://www.head-fi.org/threads/8tracks-is-awesome.590266/
+  - 64kbps aac+
+  - source: https://www.quora.com/What-quality-are-the-audio-files-on-8tracks-encoded-in
+  - “64 aac+ works very well on minimal or ambient music, at least from my experience. I  was once suscribed to di.fm, and for these genre 64kps , I'd say "It doesn't matter”.”
+
+Spotify premium and Apple Music seem to have high quality, but both costs money, thus making torrents the only solution for high quality music.
+  - Spotify Premium is $10/month
+
+https://bandcamp.com/help/audio_basics
+  - 128, unless you bought an album, then it streams as v0 (VBR)
+
+https://support.google.com/youtube/answer/1722171?hl=en
+  - Google info
+
+https://www.h3xed.com/blogmedia/youtube-info.php
+  - a tool to analyze youtube audio quality
+  - source: https://www.reddit.com/r/youtube/comments/3ijei1/how_to_watch_youtube_above_720p_dash_streams_in/
+  - source: https://www.h3xed.com/web-and-internet/youtube-audio-quality-bitrate-240p-360p-480p-720p-1080p
+
+https://www.reddit.com/r/EDM/comments/67hz6p/is_it_just_me_or_is_soundcloud_much_louder_and/
+  - Actually SC [SoundCloud] streams music at 128 kbps and Spotify at a higher quality - 160 (free) / 320 (premium).
+
+https://www.reddit.com/r/youtube/comments/4l1wqw/anyone_notice_the_decrease_in_youtube_audio/
+  - according to this thread in 2016, Youtube reduced audio quality to 128Kbps:
+“Early 2016 to now (mid-2016) : 128kbps
+mid-2013 - early 2016 : 256kbps
+mid-2012 to mid-2013 : 192kbps
+mid-2011 to mid-2012 : 152 kbps
+prior to mid-2011 : 128 kbps”
+
+# research and highlights
+https://github.com/rg3/youtube-dl
+  - sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+    - might have to create /usr/local/bin folder
+  - sudo chmod a+rx /usr/local/bin/youtube-dl
+
+http://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video
+  - youtube-dl --extract-audio --audio-format mp3 <video URL>
+  - might have to download ffmpeg
+    - can put ffmpeg (and other command line tools [binaries]) in /usr/local/bin
+  - Bear in mind as well that youtube-dl defaults to using avconv so you should consider specifying either avconv or FFmpeg at the commandline. From the online help:
+  - —prefer-avconv                  Prefer avconv over ffmpeg for running the
+                                 postprocessors (default)
+  - —prefer-ffmpeg                  Prefer ffmpeg over avconv for running the
+                                 postprocessors
+    - from my experience, it prefers ffmpeg. But maybe because I don’t have avconv?
+
+http://askubuntu.com/questions/634584/how-to-download-youtube-videos-as-a-best-quality-audio-mp3-using-youtube-dl
+  - youtube-dl --extract-audio --audio-format mp3  --audio-quality  0  <Video-URL>
+  - So in simple the option --audio-quality  0 is same as using bestaudio, you don't need to use bestaudio.
+  - Using bestaudio will obligate to download m4a, so you have to convert it back to mp3.
+
+
+# example usage:
+sad anime music collections by Hot Potato:
+1. https://www.youtube.com/watch?v=5bshGHIidc0
+2. https://www.youtube.com/watch?v=6r_u54J6Qog
+3. https://www.youtube.com/watch?v=pnFvUMuh3VE
+4. https://www.youtube.com/watch?v=Fhjm0PNlTAU
+5. https://www.youtube.com/watch?v=vW2u4hmCJrA
+6. https://www.youtube.com/watch?v=3moSRL57l2A
+7. https://www.youtube.com/watch?v=yG18KiEATHI
+8. https://www.youtube.com/watch?v=jHxaVzvsP5Y
+9. https://www.youtube.com/watch?v=zHz8p-QEKjY
+10. https://www.youtube.com/watch?v=c47o6RsjvIE
+11. https://www.youtube.com/watch?v=Y9qepAcqny0
+
+youtube-dl --extract-audio --audio-format mp3  --audio-quality 0  https://www.youtube.com/watch?v=Y9qepAcqny0

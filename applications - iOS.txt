@@ -1,0 +1,81 @@
+main:
+can check “purchase” (download) history in App Store
+  - it includes free apps
+  - can hide downloaded apps
+    - not sure if you can un-hide them if you hide them by accident
+      - this is a problem, because there is a bug on iOS, where hiding a app, hid the one below it
+
+sites:
+https://alternativeto.net/software/typora/
+https://alternative.me/byword
+  - copy of alt to?
+
+https://sensortower.com/ios/rankings/top/ipad/us/productivity?date=2020-03-04
+  - excellent statistics and rankings of apps with filters for country, category, and device
+
+stackshare.io
+  - “the pinterest of software”
+  - shows what tech people, individuals and companies, use
+
+3/2020:
+
+todo:
+give ratings on the app store
+ask if any jobs available
+
+to try:
+Joplin
+  - note taking, to replace Evernote
+FocusWriter
+Todoist
+
+
+art / expressive:
+
+writing:
+art (essays):
+**Typora**
+  - Mac only, seems amazing
+
+ByWord
+  - classic iOS mark-up writing
+
+Bear
+  - a special app that goes its own way, yet maintaining a simple mark-up language
+
+Ulysses
+  - for writing books
+Scrivener
+  - for larger writings books, research papers, etc.
+
+dev-oriented:
+Sublime
+  - for iOS?
+Atom
+  - copy of Sublime by GitHub(?) corp.
+  - for iOS?
+Textastic
+1Writer
+iaWriter
+Working Copy
+Coda
+
+old:
+WriteBox
+  - abandoned, made by a Japanese person
+    - I messaged him on Twitter, but I don’t think he ever responded
+  - it had a cool web version of the app, so it could be used on any computer without installing it, including the Dropbox file manager
+
+PlainText [2]
+  - to replace WriteBox, though, I loved WriteBox more. PlainText just had uglier fonts, and just somehow wasn’t as beautifully minimal as WriteBox
+
+from digital workflows.txt:
+station?
+Notion for iOS - todos, wikis, collaborative
+Breaker - social podcast app
+Hoodmaps
+unroll.me - to clean identity from the internet, site permissions, etc.
+
+
+# ref
+product hunt year end winners
