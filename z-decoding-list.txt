@@ -1,7 +1,5 @@
 jekyll build log errors
 
-recode ISO-8859-1..utf8 /my-notes/applications - iOS.txt  
-recode ISO-8859-1..utf8 /my-notes/applications for work/applications/visa application for Taiwan/taiwan visa checklist.txt  
 recode ISO-8859-1..utf8 /my-notes/applications for work/freelancing.txt  
 recode ISO-8859-1..utf8 /my-notes/applications for work/resumes/resume.txt  
 recode ISO-8859-1..utf8 /my-notes/art (art notes)/contests/Tongal - Lego Factory.txt  
@@ -14,16 +12,11 @@ recode ISO-8859-1..utf8 /my-notes/backups/Movies - netflix ratings.txt
 recode ISO-8859-1..utf8 /my-notes/backups/movies - under my name.txt  
 recode ISO-8859-1..utf8 /my-notes/computers/programming/programming concepts.txt  
 recode ISO-8859-1..utf8 /my-notes/computers/programming/programming languages/Java.txt  
-recode ISO-8859-1..utf8 /my-notes/cooking.txt  
-recode ISO-8859-1..utf8 /my-notes/games/SSBM.txt  
-recode ISO-8859-1..utf8 /my-notes/health/body.txt  
-recode ISO-8859-1..utf8 /my-notes/health/immunization record.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/dialogs/chat logs/ivar blog post.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/dialogs/chat logs/penpal.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/education.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/languages/French.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/languages/Korean.txt ASCII incompatible encoding needs binmode 
-recode ISO-8859-1..utf8 /my-notes/life documentation/facebook.txt  
 recode ISO-8859-1..utf8 /my-notes/media/books (Rahil-Laptop's conflicted copy 2015-02-13).txt  
 recode ISO-8859-1..utf8 /my-notes/media/movies - all watched.txt  
 recode ISO-8859-1..utf8 /my-notes/media/movies - netflix queue.txt  

@@ -1,7 +1,7 @@
 notes from Chiang Mai:
 kitchenware:
   - a wok
-    - a wok funnels the oil to the center so you dont have to worry about covering the pan or burning the oil away (by using too much heat)
+    - a wok funnels the oil to the center so you don't have to worry about covering the pan or burning the oil away (by using too much heat)
 
 curries:
   - see organic chiang mai cook book [todo: get name]
@@ -11,7 +11,7 @@ pan-fry curry paste, add water to prevent it from burning, for a few minutes. Th
 common additions: chilis (fresh green), lemon-grass, lime...
 
 notes:
-  - can cook spices along-side the curry-paste and cook vegetables along-side with the curry (once you add water n coconut cream). Or:
+  - can cook spices along-side the curry-paste and cook vegetables along-side with the curry (once you add water 'n coconut cream). Or:
     - once the curry is cooked, can refrigerate it, and then re-heat it later along-side cooking vegetables
   - some curries use all water (: red), some curries use half water half coconut cream(?) (: green, penang).
 -
@@ -23,7 +23,7 @@ cook this using a rice-cooker. Add a little tumeric, a little salt, and whatever
 rice with vegetables that require pre-cooking (tastier kichdi):
 pan-fry the vegetables first: onions, chilis, garlic, etc. Once cooked, throw it into the rice cooker.
 
-note: I feel that the pan-fried mix loses much of its flavor once they are boiled in a rice-cooker. I think its way better to keep them separate, as the mix will maintain the flavor, even when refrigerated.
+note: I feel that the pan-fried mix loses much of it's flavor once they are boiled in a rice-cooker. I think it's way better to keep them separate, as the mix will maintain the flavor, even when refrigerated.
     - or: just pan-fry afterward to make fried rice, which is much tastier.
 ref: https://www.vegrecipesofindia.com/moong-dal-khichdi-recipe/
   - quite a solid site: a clear, simple, easy-to-understand flow
@@ -37,14 +37,14 @@ thai tea:
 boil tea, let it sit until it cools, and then strain it (and trash it)
   - can boil a whole pot-full and store it in the fridge for easy use
 
-if using condensed milk or sugar, its easier to mix with warmer water first, then can add ice later.
+if using condensed milk or sugar, it's easier to mix with warmer water first, then can add ice later.
 
 other-wise, just add creamer on top.
 
 notes:
 on creamers:
   - condensed milk is half sugar (a bad kind? palm sugar?) and has an ice-cream taste and texture
-  - canned evaporated milk is just a denser milk (like half n half, which is half cream half milk), and creates a fresh milk taste to it
+  - canned evaporated milk is just a denser milk (like half 'n half, which is half cream half milk), and creates a fresh milk taste to it
   - [cane] sugar can be used for a more lighter taste than condensed milk
 
 
@@ -334,7 +334,7 @@ ginger
 order of cooking:
 boil noodles
 mix sauce ingredients together and whisk, set aside
-sautÃ© vegetables/tofu/meat
+sautÃƒÂ© vegetables/tofu/meat
 add in the noodles, then the sauce
 sprinkle toppings (cilantro, green onion)
 

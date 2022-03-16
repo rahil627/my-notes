@@ -8,7 +8,7 @@ DTP/aP (5-series), 10/20/87, 12/4/87, 3/1/88, 6/22/89, 6/15/92
 Hepatitus A (2-series) - 7/11/97, 8/14/12
 Hepatitus B (3-series), 2/17/97, 7/11/97, 10/21/99
 Measles (Rubeola), 6/15/92
-Meningococcal (MCV-4, Menactra, “full” dose), 7/14/05
+Meningococcal (MCV-4, Menactra, "full" dose), 7/14/05
 Measles, Mumps, Rubelia (MMR, MMR II, 2-series), 9/22/88, 6/15/92
 Pertussis (one series, not sure about other) - 7/8/05, 
 Polio (Poliomyelitus) (OPV, eIPV, IPOL, 5-series), 10/20/87, 12/4/87, 6/22/89, 6/12/92
@@ -17,18 +17,18 @@ boosters and tests:
 TDaP or DTP (not sure which one, booster), 7/8/05
 TDaP (booster) 12/15/11 - every 10 years
 Typhoid (2-series, Typhim Vi), 8/8/12, 2/14/15 - every 2-3 years for shot, 5 years for oral
-Tine Test (TB, “primary series”), 6/15/92, 10/21/99 or 97 (difficult to read), 7/8/05
+Tine Test (TB, "primary series"), 6/15/92, 10/21/99 or 97 (difficult to read), 7/8/05
 PPD / Mantoux Test (TB) - 7/11/05 (read 7/13/05, result 0mm)
 
 unsure, need to check records:
 DTP or Td?, 6/12/94
-Measeles, 6/12/94, I had disease / confirmed by office record on 9/22/88? Not sure about that. I’d be 1 year old.
+Measeles, 6/12/94, I had disease / confirmed by office record on 9/22/88? Not sure about that. I'd be 1 year old.
 
 found in adult schedule:
 Pneumococcal*
 x/HPV (Human papillomavirus) - not needed for over age 21 or over
-x/Hib* (Haemophilus influenzae type b) - if no problem, don’t take
-x/Flu* (Influenza) - if no problem, don’t take
+x/Hib* (Haemophilus influenzae type b) - if no problem, don't take
+x/Flu* (Influenza) - if no problem, don't take
 x/Singles (Zoster) - age 60, or once you get the shingles
 x/Pneumococcal - <5 or > 65, if has certain risk factors, then >6
 
@@ -41,7 +41,7 @@ Rabies* - Useful for Mongolia. Scratches and saliva are enough, not just bites. 
 
 Malaria - use mosquito repellent, taking any anti-malarial for long-term traveling is not worth it in side effects and cost. Doxycylcline gave me stomach problems, or generally made me feel uneasy, but it may have been due to a high does. Chloroquine has psychotic problems. Antoquane costs a lot.
 
-Dengue Fever - no vaccine.  “Dengue fever is usually not fatal, but infection with one of four serotypes can increase later susceptibility to other serotypes, resulting in a potentially fatal disease called severe Dengue.” “Dengue has become a global problem since the Second World War and is endemic in more than 110 countries. Apart from eliminating the mosquitoes, work is ongoing on a vaccine, as well as medication targeted directly at the virus.” “Most people with dengue recover without any ongoing problems.[30] The fatality rate is 1–5%,[7] and less than 1% with adequate treatment;[30] however those who develop significantly low blood pressure may have a fatality rate of up to 26%.” Infections are most commonly acquired in the urban environment. Seems to be endemic all along the equator (tropical climate), starting from Southeast Asia, spreading to nearly the entire world.
+Dengue Fever - no vaccine.  "Dengue fever is usually not fatal, but infection with one of four serotypes can increase later susceptibility to other serotypes, resulting in a potentially fatal disease called severe Dengue." "Dengue has become a global problem since the Second World War and is endemic in more than 110 countries. Apart from eliminating the mosquitoes, work is ongoing on a vaccine, as well as medication targeted directly at the virus." "Most people with dengue recover without any ongoing problems.[30] The fatality rate is 15%,[7] and less than 1% with adequate treatment;[30] however those who develop significantly low blood pressure may have a fatality rate of up to 26%." Infections are most commonly acquired in the urban environment. Seems to be endemic all along the equator (tropical climate), starting from Southeast Asia, spreading to nearly the entire world.
 
 
 health insurance:

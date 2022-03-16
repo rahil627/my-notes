@@ -1,5 +1,5 @@
 main:
-can check “purchase” (download) history in App Store
+can check purchase (download) history in App Store
   - it includes free apps
   - can hide downloaded apps
     - not sure if you can un-hide them if you hide them by accident
@@ -14,7 +14,7 @@ https://sensortower.com/ios/rankings/top/ipad/us/productivity?date=2020-03-04
   - excellent statistics and rankings of apps with filters for country, category, and device
 
 stackshare.io
-  - “the pinterest of software”
+  - "the pinterest of software"
   - shows what tech people, individuals and companies, use
 
 3/2020:
@@ -63,11 +63,11 @@ Coda
 old:
 WriteBox
   - abandoned, made by a Japanese person
-    - I messaged him on Twitter, but I don’t think he ever responded
+    - I messaged him on Twitter, but I don't think he ever responded
   - it had a cool web version of the app, so it could be used on any computer without installing it, including the Dropbox file manager
 
 PlainText [2]
-  - to replace WriteBox, though, I loved WriteBox more. PlainText just had uglier fonts, and just somehow wasn’t as beautifully minimal as WriteBox
+  - to replace WriteBox, though, I loved WriteBox more. PlainText just had uglier fonts, and just somehow wasn't as beautifully minimal as WriteBox
 
 from digital workflows.txt:
 station?
