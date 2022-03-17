@@ -42,17 +42,17 @@ i was just about to delete my freelancer account, but before doing so, just deci
 
 It reminds me of my youth, testing maps with map-makers on battle.net. Nostalgia~~ :) Unfortunately, I never played SC2.
 
-Anyway, I’m really just uncertain if this is even possible!... Are there other SC2 third-party tools out there which scrapes data from the game app?
+Anyway, I'm really just uncertain if this is even possible!... Are there other SC2 third-party tools out there which scrapes data from the game app?
 
-Inside the game, can you highlight and copy text with the mouse cursor? If not, I’m afraid, you’d have to fall back onto OCR software, which is kinda the last resort, and sucks (unreliable; prolly worse for multiple languages)...
+Inside the game, can you highlight and copy text with the mouse cursor? If not, I'm afraid, you'd have to fall back onto OCR software, which is kinda the last resort, and sucks (unreliable; prolly worse for multiple languages)...
 
-I honestly wonder if there are little DIY hack’ish programs that even you could use ‘n try making it yourself. I mean, i remember, even in the late 90’s, there were some cool automation tools.. remember AutoHotkey? :)
+I honestly wonder if there are little DIY hack'ish programs that even you could use 'n try making it yourself. I mean, i remember, even in the late 90's, there were some cool automation tools.. remember AutoHotkey? :)
 
 ... anyway this seems really fun... but unfortunately, I can only think shit ways:
 1. automate your mouse cursor to highlight & copy text... maybe you press a button to trigger this...
-2. brute force screen reading via OCR (even beyond it’s unreliability, I think it would be too difficult to guess where the text is, with factors like windowing, resolutions, etc. It’s just too ugly of a solution.)
+2. brute force screen reading via OCR (even beyond it's unreliability, I think it would be too difficult to guess where the text is, with factors like windowing, resolutions, etc. It's just too ugly of a solution.)
 
-ideally, you’d want something to be able to hook into the game / app... but if that were possible, I’d imagine people would abuse this. ;) ;)
+ideally, you'd want something to be able to hook into the game / app... but if that were possible, I'd imagine people would abuse this. ;) ;)
 
-sorry, but i think one can only try, and see if it’s impossible or not.
+sorry, but i think one can only try, and see if it's impossible or not.
 

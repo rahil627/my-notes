@@ -40,7 +40,7 @@ Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star
 Foreign		
 DVD
 	
-Séraphine	
+Seraphine	
 Play
 Average rating: 3.7086
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star
@@ -280,7 +280,7 @@ Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star
 Anime & Animation		
 DVD
 	
-Y Tu Mamá También	
+Y Tu Mama Tambien	
 Play
 Average rating: 3.7102
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star
@@ -2221,7 +2221,7 @@ Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star
 Foreign		
 DVD
 	
-Chûshingura		
+Chushingura		
 Average rating: 3.6777
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star
 Foreign		
@@ -3270,7 +3270,7 @@ Average rating: 3.513
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star
 Anime & Animation	Unknown	
 DVD
-© 2012 Netflix, Inc.
+(c) 2012 Netflix, Inc.
 Membership
 Company
 Community

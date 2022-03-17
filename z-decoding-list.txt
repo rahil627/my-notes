@@ -1,7 +1,5 @@
 jekyll build log errors
 
-recode ISO-8859-1..utf8 /my-notes/applications for work/freelancing.txt  
-recode ISO-8859-1..utf8 /my-notes/applications for work/resumes/resume.txt  
 recode ISO-8859-1..utf8 /my-notes/art (art notes)/contests/Tongal - Lego Factory.txt  
 recode ISO-8859-1..utf8 /my-notes/art (art notes)/contests/Tongal - Name.txt  
 recode ISO-8859-1..utf8 /my-notes/art (art notes)/films/works/Malaysia.txt  
@@ -18,6 +16,4 @@ recode ISO-8859-1..utf8 /my-notes/knowledge and education/education.txt
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/languages/French.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/languages/Korean.txt ASCII incompatible encoding needs binmode 
 recode ISO-8859-1..utf8 /my-notes/media/books (Rahil-Laptop's conflicted copy 2015-02-13).txt  
-recode ISO-8859-1..utf8 /my-notes/media/movies - all watched.txt  
-recode ISO-8859-1..utf8 /my-notes/media/movies - netflix queue.txt  
 recode ISO-8859-1..utf8 /my-notes/specific knowledge/by area/Taiwan/Taiwan organizations by that one guy.txt  

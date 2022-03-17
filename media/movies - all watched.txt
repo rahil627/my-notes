@@ -212,7 +212,7 @@ Slumdog Millionaire
 You rated this movie: 4.0
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 starRate not interested
 04/10/09	04/22/09	
-Sex and Lucía	
+Sex and Lucia	
 Average rating: 3.535
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 starRate not interested
 03/06/09	04/10/09	
@@ -296,7 +296,7 @@ Fallen Angels
 You rated this movie: 4.0
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 starRate not interested
 01/27/09	01/30/09	
-Y tu mamá también	
+Y tu mama tambien	
 Average rating: 3.79
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 starRate not interested
 12/22/08	01/27/09	
@@ -709,7 +709,7 @@ Stardust
 Average rating: 3.918
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 starRate not interested
 12/17/07	12/31/07	
-Léon: The Professional	
+Leon: The Professional	
 You rated this movie: 4.0
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 starRate not interested
 12/18/07	12/27/07	
@@ -889,7 +889,7 @@ The Host
 You rated this movie: 4.0
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 starRate not interested
 07/25/07	07/30/07	
-Léon: The Professional	
+Leon: The Professional	
 You rated this movie: 4.0
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 starRate not interested
 07/23/07	07/30/07	
@@ -912,5 +912,5 @@ About Us Affiliates Blog Contact Us Developers Gift Subscriptions Investor Relat
 Jobs Media Center Netflix Prize RSS App Gallery Facebook Connect Tell a Friend Roger Corman's Splatter
 Watch instantly on your TV
 Use of the Netflix service and this Web site constitutes acceptance of our Terms of Use and Privacy Policy.
-© 1997-2009 Netflix, Inc. All rights reserved.   U.S. Patent No. 7,024,381 and U.S. Patent No. 6,584,450.    {103} USA
+(c) 1997-2009 Netflix, Inc. All rights reserved.   U.S. Patent No. 7,024,381 and U.S. Patent No. 6,584,450.    {103} USA
 Service Code
