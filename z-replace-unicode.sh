@@ -12,3 +12,10 @@ sed -i "s//'/g" $f
 sed -i 's//"/g' $f
 sed -i 's//"/g' $f
 sed -i 's//-/g' $f
+sed -i 's///g' $f
+
+
+sed -i 's/Ò//g' $f
+
+
+

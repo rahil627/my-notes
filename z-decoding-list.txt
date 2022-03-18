@@ -1,11 +1,14 @@
 jekyll build log errors
 
-recode ISO-8859-1..utf8 /my-notes/computers/programming/programming concepts.txt  
-recode ISO-8859-1..utf8 /my-notes/computers/programming/programming languages/Java.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/dialogs/chat logs/ivar blog post.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/dialogs/chat logs/penpal.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/education.txt  
-recode ISO-8859-1..utf8 /my-notes/knowledge and education/languages/French.txt  
-recode ISO-8859-1..utf8 /my-notes/knowledge and education/languages/Korean.txt ASCII incompatible encoding needs binmode 
 recode ISO-8859-1..utf8 /my-notes/media/books (Rahil-Laptop's conflicted copy 2015-02-13).txt  
 recode ISO-8859-1..utf8 /my-notes/specific knowledge/by area/Taiwan/Taiwan organizations by that one guy.txt  
+
+
+
+
+special problems!
+maybe wrong starting byte..
+recode ISO-8859-1..utf8 /my-notes/knowledge and education/languages/Korean.txt ASCII incompatible encoding needs binmode 

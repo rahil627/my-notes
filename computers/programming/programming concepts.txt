@@ -1,11 +1,11 @@
 data-driven design
   - anti-object-oriented programming
   - see HandmadeCon / Handmade Hero
-  - basically: just solve the problem. DonÕt try to fit things into logical abstractions. Abstractions have no real functionality. Abstractions are for us, humans, the computer doesnÕt care.
-  - when things are programmed quickly, thatÕs basically data-driven design. The results of game jams, quick solutions, etc. The shit that gets things done. Usually done in one large file, right there in the main loop. No need for classes or separate files. Just structs as needed, right there, in the same file.
-  - instead of objects, there are just bundles of data. ItÕs a lot more vague, but a lot more flexible, as it isnÕt limited by trying to fit some abstract object. The vague bundle of data it is, is actually a much neater solution than writing a bunch of abstractions.
+  - basically: just solve the problem. Don't try to fit things into logical abstractions. Abstractions have no real functionality. Abstractions are for us, humans, the computer doesn't care.
+  - when things are programmed quickly, that's basically data-driven design. The results of game jams, quick solutions, etc. The shit that gets things done. Usually done in one large file, right there in the main loop. No need for classes or separate files. Just structs as needed, right there, in the same file.
+  - instead of objects, there are just bundles of data. It's a lot more vague, but a lot more flexible, as it isn't limited by trying to fit some abstract object. The vague bundle of data it is, is actually a much neater solution than writing a bunch of abstractions.
 
-Ñ
+
 object pool
   - http://www.haxeflixel.com/articles/bullet-manager-part-1 
 
@@ -63,7 +63,7 @@ bit vector - an array of bits, very efficient
 linked list vs dynamic array - Linked lists have several advantages over dynamic arrays. Insertion or deletion of an element at a specific point of a list, assuming that we have a pointer to the node (before the one to be removed, or before the insertion point) already, is a constant-time operation, whereas insertion in a dynamic array at random locations will require moving half of the elements on average, and all the elements in the worst case. While one can "delete" an element from an array in constant time by somehow marking its slot as "vacant", this causes fragmentation that impedes the performance of iteration.
 
 linked list vs array - The principal benefit of a linked list over a conventional array is that the list elements can easily be inserted or removed without reallocation or reorganization of the entire structure because the data items need not be stored contiguously in memory or on disk. Linked lists allow insertion and removal of nodes at any point in the list, and can do so with a constant number of operations if the link previous to the link being added or removed is maintained during list traversal.
-On the other hand, simple linked lists by themselves do not allow random access to the data, or any form of efficient indexing. Thus, many basic operations — such as obtaining the last node of the list (assuming that the last node is not maintained as separate node reference in the list structure), or finding a node that contains a given datum, or locating the place where a new node should be inserted — may require scanning most or all of the list elements.
+On the other hand, simple linked lists by themselves do not allow random access to the data, or any form of efficient indexing. Thus, many basic operations  such as obtaining the last node of the list (assuming that the last node is not maintained as separate node reference in the list structure), or finding a node that contains a given datum, or locating the place where a new node should be inserted  may require scanning most or all of the list elements.
 
 -Arrays assume every element is the same size, often limiting the data types to the primitives
 -linked lists can be sorted
@@ -172,7 +172,7 @@ A language mechanism for restricting access to some of the object's components.[
 A language construct that facilitates the bundling of data with the methods operating on that data.[5][6]
 Programming language researchers and academics generally use the first meaning alone or in combination with the second as a distinguishing feature of object oriented programming. The second definition is motivated by the fact that in many OOP languages hiding of components is not automatic or can be overridden; thus information hiding is defined as a separate notion by those who prefer the second definition.
 
-Éor hiding implementation
+or hiding implementation
 
 
 loose coupling
@@ -225,14 +225,14 @@ taken from - http://www.mactech.com/articles/mactech/Vol.09/09.10/CPPBasics/inde
 
 In the C language, the struct is the most sophisticated bundling mechanism available.
 
-const vs #define - You may have noticed the use of const instead of a #define. Believe it or not, const is part of the ANSI C standard and is not just found in C++. Though many C programmers prefer to use #defines to define a constant, C++ programmers always use const. The major advantage of using const is that a typed constant is created. If you pass a const as a parameter to a function, for example, C++’s parameter checking will ensure that you are passing a constant of the correct type. A #define just does a simple text substitution during the first pass of the compiler.
+const vs #define - You may have noticed the use of const instead of a #define. Believe it or not, const is part of the ANSI C standard and is not just found in C++. Though many C programmers prefer to use #defines to define a constant, C++ programmers always use const. The major advantage of using const is that a typed constant is created. If you pass a const as a parameter to a function, for example, C++'s parameter checking will ensure that you are passing a constant of the correct type. A #define just does a simple text substitution during the first pass of the compiler.
 
 classes bundle data members and functions together. data members are allocated together, but the functions point to the real function allocated elsewhere.
 
 creating objects
 object myObject		definition objects, memory is allocated (on the stack) and deallocated automatically
 
-Although automatic objects are simple to create, they do have a downside. Once they drop out of scope, they cease to exist. If you want your object to outlive its scope, take advantage of C++’s new operator (and delete).
+Although automatic objects are simple to create, they do have a downside. Once they drop out of scope, they cease to exist. If you want your object to outlive its scope, take advantage of C++'s new operator (and delete).
 'new' takes a type instead of a number of bytes.
 
 object* objectPtr	defines an object pointer. pointer declaration?
@@ -251,7 +251,7 @@ employeeSalary = 400; //in a class function, it's the same as this->employeeSala
 
 Just as a variable is based on a type definition, an object is based on a class definition.
 
-the constructor is C++'s built in initilization for classes. generally, it initializes each data member. when you create an object, the constructor is invoked (if it exists). it’s not a good idea to allocate memory inside your constructor* cannot return a value.
+the constructor is C++'s built in initilization for classes. generally, it initializes each data member. when you create an object, the constructor is invoked (if it exists). it's not a good idea to allocate memory inside your constructor* cannot return a value.
 "two stage construction" - Employee employee; employee.init(); init can be used to allocate memory, or perform other initializations that could fail. could then check the return status of init(), and delete the object if init fails.
 
 destructor is called when you use "delete object;". for automatic objects it is called when the function ends, or when you call ~object();
@@ -259,7 +259,7 @@ destructor is used deallocate any additional memory your object may have allocat
 
 global variables and objects are constructed at the beginning of the program and destructed at the end of the program
 
-Whether you use two-stage initialization or not, it’s a good idea to keep your constructor and destructor in sync. If you allocated extra memory, be sure your destructor has some way of knowing about it. For example, it’s good practice to initialize your pointers to null. If your destructor encounters a non-null pointer, it knows that additional memory has been allocated that must be deallocated.
+Whether you use two-stage initialization or not, it's a good idea to keep your constructor and destructor in sync. If you allocated extra memory, be sure your destructor has some way of knowing about it. For example, it's good practice to initialize your pointers to null. If your destructor encounters a non-null pointer, it knows that additional memory has been allocated that must be deallocated.
 
 
 

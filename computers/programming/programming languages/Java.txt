@@ -1,9 +1,9 @@
 10/2020:
 https://en.m.wikipedia.org/wiki/Java_performance
-  - Java seems like garbage. It can’t access hardware directly. It compiles down to [Java] bytecode, then a [Java] virtual machine (JVM) is needed to communicate with the hardware. Also, I don’t know if there’s an option to not use the garbage collector. This lead to Java compilers innovating in the run-time compilation: just-in-time compilation. So, for anyone who’s into performance and low-level, the whole idea is just non-sense. Ideally, it’s best to interact with the hardware as directly as possible. But, the performance costs were surely worth it, especially for the time, for it being a sort of write-once cross-platform solution. Nowadays, CLI (.net/Mono) and transpiled languages seem to have replaced Java’s VM solution. I have no idea how those three solutions compare. It seems like C#’s CLI is slow, Haxe is good because it compiles down to C/C++, and JVM, surprisingly, is Haxe’s fastest target! So, who knows! Compiler optimizations are nuts.
+  - Java seems like garbage. It can't access hardware directly. It compiles down to [Java] bytecode, then a [Java] virtual machine (JVM) is needed to communicate with the hardware. Also, I don't know if there's an option to not use the garbage collector. This lead to Java compilers innovating in the run-time compilation: just-in-time compilation. So, for anyone who's into performance and low-level, the whole idea is just non-sense. Ideally, it's best to interact with the hardware as directly as possible. But, the performance costs were surely worth it, especially for the time, for it being a sort of write-once cross-platform solution. Nowadays, CLI (.net/Mono) and transpiled languages seem to have replaced Java's VM solution. I have no idea how those three solutions compare. It seems like C#'s CLI is slow, Haxe is good because it compiles down to C/C++, and JVM, surprisingly, is Haxe's fastest target! So, who knows! Compiler optimizations are nuts.
 
 
-—
+
 does not support pointers
 garbage collection
 
@@ -54,4 +54,4 @@ Now the differences
     * The major difference, as the documentation says, is just that vectors are synchronized. Now what does that mean, this means that if more than one thread in your code is to use that data, you are in trouble with ArrayList as the data is asynchronous. Though there are ways by which you can make your ArrayLists synchronous, but by default they are not. The obvious downside with vectors is the additional computation to handle threads.
     * The other difference is that with vectors, you can specify the incremental value, which is the amount with which the data structure will grow during the runtime. But with ArrayLists you have no option but to accept default that is the list will grow up 50% of original size everytime it needs additional space. It is advisable in both the cases to choose the initial size carefully.
 
-My recommendation will be to use Arrays as much as possible, as they are fast and simple; of course you can not do that in cases where data set is completely dynamic. In these cases, go for ArrayList if your code is ëthreadsafeí else Vectors or synchronous ArrayLists are suitable. 
+My recommendation will be to use Arrays as much as possible, as they are fast and simple; of course you can not do that in cases where data set is completely dynamic. In these cases, go for ArrayList if your code is 'threadsafe' else Vectors or synchronous ArrayLists are suitable. 
