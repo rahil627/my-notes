@@ -1,0 +1,166 @@
+# _to survival.txt
+## Taiwan survival
+
+### fire
+I used a large barely-rusted iron (zinc-coated?) frying pot as my stove. Perhaps it could use some holes...
+
+matches would be better (than using a lighter)
+
+i’m not sure what to do about the resulting charcoal and ash... Perhaps blow the ash, but store the charcoal? Use the grill grid as a strainer for charcoal chunks, then throw the rest into nature(? or trash?)
+
+need a better pot cover
+
+should use the open-fire for stir-frying things. Heating up a large amount of water takes too much time, especially with my thick skillet pan. Perhaps covering vegetables with the least amount of water may work though. Vegetable leaves don’t have to be cooked (/can be eaten raw) anyway...
+
+the bottom of my pan gets dirty very quickly. I don’t think much can be done about that though...
+
+### food
+rice:
+from Quanlian:
+* 160$/4000g white, east side
+* 150$/2500g brown, Castle... corp.
+* 120$/1800g multi-grain
+
+[todo: from mixing...]
+
+cooking oil:
+* 200$/500ml coconut, from an expired shop
+* ?$/a lot of coconut oil, from Costco
+* 160$/3000ml “vegetable” or soy-bean
+* 150$/1500ml sunflower or safflower
+* 150$/1500ml sunflower, safflower, olive oil blend
+* 150$/1500ml sunflower, safflower, ?, olive oil, soy bean blend
+* ?$/?ml olive, probably cheaper at the super-markets, but likely not made in Taiwan
+  * can probably find a good, cheap, healthy one made in Taiwan...
+
+research differences between cooking oils:
+* https://www.thrillist.com/eat/nation/the-differences-between-cooking-oils-which-cooking-oils-to-use
+* vegetable (corn, canola, soy bean) is the unhealthiest and likely made via industrialized farming (GMO, etc.). Use this gunk for deep-frying.
+* sunflower and safflower oils are healthier substitute at a similar price, but goes bad quicker, so, get a smaller bottle.
+* the other oils—olive, coconut, sesame, peanut, grape-seed, and so on—are healthier, tastier, but more expensive. Also, some may have lower shelf-life, such as nut-based oils. Olive oil being the standard healthy substitute. Extra virgin olive oil burns quickly whereas sesame doesn’t, hence it being used for frying stuff in woks.
+
+tea:
+$200 for a fuck-ton of black tea, from Tainan City, jinhua road
+$200 for a pack of qing tea, which has lasted me beyond a year
+$200 for 1000ml jar of either jujube or citrus tea (no boiling required)
+  * could be good to sell! Convenient to make too! Probably not cost-effective though.
+
+coffee:
+Carrefour provides a coffee mill, free to use
+* so, buy a pack of coffee beans, then use the mill to crush a portion, perhaps 100g, to fill up an old glass coffee bean jar
+
+“mocha”?, Maxim corp., 150$/100g
+
+[todo: check coffee bean cost per gram]
+
+grains:
+bread:
+37$ wheat, from either Carrefour or Quanlian, but Carrefour’s is much better
+*   *able to store butter or margarine in room temperature?*
+
+noodles:
+85$/2500g, guanmian, becomes too soft, terrible texture
+~100$/?, ramen or knife-cut
+  * can try, especially for cold days, or eating at the convenience store, especially when on the road, as an alternative to instant noodles at night
+
+oatmeal:
+$90$/850g, rye flakes and oats, Taiwanese brand, doesn’t fill me up—similar to bread, but way more expensive, can add coffee, banana, sugar, other flavors easily, tastes terrible without cooking it, still tastes quite bad even when cooked
+
+
+ice:
+Carrefour also provides ice (not for drinking)
+
+alcohol?:
+rice liquor?
+plum wine?
+
+### cooking wares
+DaDong corp.
+
+DaDong electronic pot, all steel, no outer-pot, 1800ml 1500$
+teflon inner pot, ?$
+steel inner pot, 100$-$190 depending on thickness
+aluminum outer pot, 40$?
+  * is it unhealthy to cook with aluminum? Only used for frying?
+
+10人份厚釜電子鍋 YS-579RC, worth 800$
+
+### motorcycle
+motorcycle:
+台南市北區公園路301號  (台南兵工廠旁)
+  * location of renovated SYM cub
+
+motorcycle oil:
+from Carrefour:
+can find killer deals from Carrefour!
+* 5w-50 (full-synthetic), API SL | JASO MA/MA2, FGK (a Taiwanese corp.), 100$
+* 10w-40? (semi-synthetic), some Taiwanese corp. $80 (buy one get one free price)
+* 15w-40, Mobil (Exxon corp.) 4T Super, 90$
+  * 4T for 4 stroke motorcycle engines, the others that don’t have 4T are likely for cars, so, look for 4T Special, 4T Super, etc.
+* 20w-40, Mobil 1000 Super, 110$
+* 15w-40?, Mobil Special, 85$ (buy one get one free price)
+so: I’d personally *aim for ones made in Taiwan, and, preferably fully synthetic*. Though, I’m a bit afraid of the ecological cost of synthetic oils over mineral oils.
+
+motor oil standards research:
+* https://www.rymax-lubricants.com/news/api-specification-this-is-how-it-works/
+* API ratings increase in letter by time. SH, SJ are early 90s, which is when my motorcycle was made. Anything beyond that (K, L, M, N) are all backwards compatible, but it might be better to get the old stuff!
+* JASO standards base it on friction, because modern motorcycle use the engine old for the wet clutch
+* https://www.whitedogbikes.com/whitedogblog/choosing-the-right-motorbike-oil-what-does-jaso-and-jaso-ma2-mean/
+* basically: *use JASO MA or MA2* (a newer, higher standard); JASO MB is for expensive motorcycles that have a separate clutch/gear oil/box
+* interestingly: before 1993, motorcycles used the same oil as cars! So, my motorcycle is probably fine with car oil too... but, now, newer car oils add stuff to it which make it more specific for cars...
+* http://metroscootersva.com/metroscootersblog/2016/5/14/what-type-of-engine-oil-should-i-use-in-my-scooter
+* basically, don’t worry much, just change!
+
+https://www.motorcyclephilippines.com/forum/index.php?threads/how-often-do-you-change-your-oil.47110/page-7
+* a bunch of Filipinos say, change every:
+  * 1000km for mineral (natural, standard)
+  * 1500km semi-synthetic
+  * 2000km full synthetic
+  * and the manuals say 5000km!
+  * generally, every 1000-1500km, 500km more for those with oil filters
+  * but: one might as well *check the oil every 500km and see the difference one’s self*.
+
+https://www.pca.state.mn.us/living-green/changing-your-oil-earth-friendly-guide-do-it-yourselfers
+  * how to properly dispose of motorcycle oil
+  * let the oil fall into a pan twice the volume of the max engine oil volume. The pan probably should be a metal, as the oil can be hot.
+  * when it’s cool, store it in a thick plastic bottle with a rigid lid, like a milk container
+  * don’t put it in a metal container such as a paint can, or any container with other chemicals in it
+  * wipe oil pan and oil funnel with a paper towel, and then trash it
+  * change oil when the engine is warm, and be careful as the oil may still be hot
+  * can try asking for an oil filter at the motorcycle shop, or, the motorcycle equipment shop
+
+from various local motorcycle repair shops:
+150$ with or without service, using SYM 300 oil (worth 100$ or less)
+200$+ for Yamaha oil
+250$+ for semi-synethic
+300$+ for fully synthetic
+so: *given I am going to pay for service (f.e.: on the road), it’s best to buy the cheap SYM oil, as there are no differences in costs of oils at the super-markets*
+
+from a certain motorcycle equipment shop:
+120$ SYM 300 (140$ with service)
+~160$ SYM 600
+160$ Yamaha oil with service
+  * Yamaha oils have JASO MB rating
+
+from online shop:
+https://find.ruten.com.tw/u/scott200336?q=%E4%B8%89%E9%99%BD+symoil
+SYM:
+* 80-90$ M300, API SL, 700-800ml
+* *120$ M600, API SN*, mineral (i think...)
+* 185$ S6800, API SM, fully synthetic
+  * could *just experiment with all three*
+
+maintenance:
+[todo: check Honda / Sanyang cub maintenance]
+I think the gear oil is for motorcycles with a separate transmission section. My motorcycle doesn’t have a transmission section, so it just uses main engine oil for the gears. My motorcycle also doesn’t need an oil filter (though I wonder if I can add one...). Also, there are no brake pads, you just have to adjust it with wrenches. Lastly, I can use the same spray oil / grease that I use on my bicycle (192) on the motorcycle! Otherwise, there’s a proper “chain oil” sold (Yamaha for 170$).
+
+tools:
+Sanyang cub tool-kit:
+12mm + 14mm wrench
+17mm + 19mm socket wrench
+flat screw-driver
+star screw-driver
+
+Instead of the socket wrench, can invest in two separate sockets for each size, 17mm and 19mm, then just need an component socket wrench. Maybe there’s even a Leatherman tool for it!
+
+Also need a hammer (or something hard, such as a brick) in case the nut is screwed too tight.

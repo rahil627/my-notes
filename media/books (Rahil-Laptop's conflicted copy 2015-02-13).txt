@@ -55,16 +55,16 @@ http://www.goodreads.com/search?utf8=%E2%9C%93&query=the+great+courses **
 http://ocw.mit.edu/high-school/humanities-and-social-sciences/
 
 
-Philosophy — for knowledge, use audiobooks to consume slowly while simultaneously doing something
+Philosophy for knowledge, use audiobooks to consume slowly while simultaneously doing something
   - ethics*** - start here!
   - political science
-Non-fiction — for knowledge, use audiobooks to consume slowly while simultaneously doing something
+Non-fiction for knowledge, use audiobooks to consume slowly while simultaneously doing something
   - modern science
     - be broad, find basic physics, biology, psychology, etc. books
-Fiction — for fun and art
+Fiction for fun and art
   - contemporary masterpieces, especially those of Nobel Prize winners in Literature
 
-Wikipedia lives of great people: politicians, philosophers, artists, ’n all
+Wikipedia lives of great people: politicians, philosophers, artists, 'n all
 Wikipedia summaries of great and/or influential narratives
 
 
@@ -80,7 +80,7 @@ http://en.wikipedia.org/wiki/List_of_literary_awards
 http://www.bartleby.com/hc/*
   - old, but skips useless pseudo-science and arguments for science
 
-100 Must-Read Books: The Essential Man’s Library*
+100 Must-Read Books: The Essential Man's Library*
   - pretty well rounded, but American-heavy
 http://www.goodreads.com/list/show/12719.Time_Magazine_s_All_TIME_100_Best_Non_Fiction_Books
   - also American heavy
@@ -105,23 +105,23 @@ ideal personal library:
       - Essays by Francis Bacon
         - The Complete Essays
       - Essays by Bertrand Russell
-        - Bertrand Rusell’s Best
+        - Bertrand Rusell's Best
         - Unpopular Essays
         - Autobiography
         - Problems of Philosophy
 
-i've read but don’t make it to the library:
+i've read but don't make it to the library:
 	Harry Potter - my first
 	Mountains of Madness - read by in drastic situation, a terrible book
 	The Dark Knight Returns - boring in comparison to Watchmen, good use of television media though, and a really nice joker
 	Angels and Demons - a cheap best seller thriller
 	? by Jon Klassen - an awesome tiny children's book with humor similar to Wes Anderson or Adventure Time
 	The Killing Joke - quick read, really nice Joker psychology by Alan Moore
-	Einstein’s Dreams - a lesser version of Invisible Cities except with time, not bad for ideas
+	Einstein's Dreams - a lesser version of Invisible Cities except with time, not bad for ideas
 
 skimmed:
 	A History of Western Philosophy by Bertrand Russell - added to library
-	Philosophy in the Modern World book 4 by Anthony Kenny - eh, just to supplement Russell’s history with 1945 to current
+	Philosophy in the Modern World book 4 by Anthony Kenny - eh, just to supplement Russell's history with 1945 to current
 	Introduction to Aristotle by Richard McKeon - added to library
 	Philosophical Investigations by Ludwig Wittgenstein - added to library
  Essays by Francis Bacon - added to library
@@ -175,9 +175,9 @@ Personal possible additions:
 Plato - Meno and Phaedo, The Laws (alongside Republic), can wiki the rest, especially Sophist, Statesman, and Laws
 Aristotle - nearly everything
 Hippocrates - Oath
-Marcus Aurelius - Meditations (maybe…)
+Marcus Aurelius - Meditations (maybe)
 Plutarch - Parallel Lives, the bit on Alexander
-St. Thomas Aquinas - can try a few from Summa Theologica — Man, Human Acts, Work of Six Days
+St. Thomas Aquinas - can try a few from Summa Theologica Man, Human Acts, Work of Six Days
 Yaqzan - The Improvement of Human Reason
 Decartes - Rules for the Directions of the Mind (can wikipedia)
 For fun could look at a few science ones at the library:
@@ -236,7 +236,7 @@ Romantic
 20th Century Russan
 Beat
 
-50 Essays…
+50 Essays
 The Art of Personal Essay
 The Oxford Book of Aphorisms
 
@@ -263,10 +263,10 @@ Portable Library
 
 currently:
   non-fiction:
-  1. Gödel, Escher, Bach - non-fiction, mind-fucking
+  1. Godel, Escher, Bach - non-fiction, mind-fucking
   1, Guns, Germs, and Steel - non-fiction, anthropology
   1. Thinking, Fast and Slow  - non-fiction, psychology
-  1. The Death and Life of Great American Cities - non-fiction, urban planning, given at universities, TIME’s list
+  1. The Death and Life of Great American Cities - non-fiction, urban planning, given at universities, TIME's list
     - alternative: Kevin Lynch, Sharon Zukin (Naked City: The Death and Life of Authentic Urban Places)
   1. A Brief History in Time and Universe in a Nutshell by Stephen Hawking - non-fiction, physics, cosmology
   1. Philosophical Investigations - philosophy through aphorisms
@@ -320,10 +320,10 @@ meh, no time, too old:
   1. Italo Calvino - Invisible Cities, Cosmicomics (in English then if I like, Italian)
   1. On The Road - fiction, personal interest to write my own travelogue in one go
   x/2. The Brothers Karamazov by Dostoevsky - fiction, classic
-    - it’s really big, I saw it
+    - it's really big, I saw it
   1. Orwelle - Animal Farm
   2. some masterpiece by Leo Tolstoy - fiction, classic
-  2. Einstein’s Dreams by ? - like Invisible Cities, but not as well-written, not as good concepts, read half of it
+  2. Einstein's Dreams by ? - like Invisible Cities, but not as well-written, not as good concepts, read half of it
   Julio Cortazar - Stories of Cronopios and Famas - recommended by Lea Lakritze
   Shang Qin - Feelings Above Sea Level (translated by Steve Bradbury) [zephyr press] - recommended by Lea Lakritze
   The Brief Wondrous Life of Oscar Wao - fiction, personal interest
@@ -336,10 +336,10 @@ meh, no time, too old:
   Hopscotch - Raymond found, Argentinian, similar to Jorges
   The Information, A Theory, A Flood
   Les Miserables - can watch film, influenced Tolstoy
-  Mason & Dixon and Gravity’s Rainbow
+  Mason & Dixon and Gravity's Rainbow
   American Pastoral - Philip Roth
-  midnight’s children
-  one hundred year’s of solitude
+  midnight's children
+  one hundred year's of solitude
   that tale by Ngugi wa Thiongo
   
 

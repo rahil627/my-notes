@@ -14,6 +14,9 @@ sed -i 's//"/g' $f
 sed -i 's//-/g' $f
 sed -i 's///g' $f
 
+# i dont remember what to replace with, i was tired
+sed -i 's///g' $f
+
 
 sed -i 's/Ò//g' $f
 
