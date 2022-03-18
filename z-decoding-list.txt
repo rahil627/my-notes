@@ -1,13 +1,5 @@
 jekyll build log errors
 
-recode ISO-8859-1..utf8 /my-notes/art (art notes)/contests/Tongal - Lego Factory.txt  
-recode ISO-8859-1..utf8 /my-notes/art (art notes)/contests/Tongal - Name.txt  
-recode ISO-8859-1..utf8 /my-notes/art (art notes)/films/works/Malaysia.txt  
-recode ISO-8859-1..utf8 /my-notes/art (art notes)/games/game development.txt  
-recode ISO-8859-1..utf8 /my-notes/backups/Movies - netflix instant queue.txt  
-recode ISO-8859-1..utf8 /my-notes/backups/Movies - netflix queue.txt  
-recode ISO-8859-1..utf8 /my-notes/backups/Movies - netflix ratings.txt  
-recode ISO-8859-1..utf8 /my-notes/backups/movies - under my name.txt  
 recode ISO-8859-1..utf8 /my-notes/computers/programming/programming concepts.txt  
 recode ISO-8859-1..utf8 /my-notes/computers/programming/programming languages/Java.txt  
 recode ISO-8859-1..utf8 /my-notes/knowledge and education/dialogs/chat logs/ivar blog post.txt  

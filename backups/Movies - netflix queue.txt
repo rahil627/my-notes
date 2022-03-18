@@ -126,7 +126,7 @@ Ghost in the Shell
 Play
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star	 Anime		
 	
-Y Tu Mamá También	
+Y Tu MamÃ¡ TambiÃ©n	
 Play
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star	 Foreign Movies		
 	
@@ -1180,7 +1180,7 @@ Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star	 Foreign Movies
 The Ballad of Narayama		
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star	 Foreign Movies		
 	
-Chûshingura		
+ChÃ»shingura		
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star	 Foreign Movies		
 	
 Back to the Future		
@@ -1474,7 +1474,7 @@ Election
 Play
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star	 Foreign Movies		
 	
-Séraphine	
+SÃ©raphine	
 Play
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star	 Foreign Movies		
 	
@@ -1634,7 +1634,7 @@ Vampire Hunter D
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star	 Anime	 Unknown	
 Voices of a Distant Star		
 Rate 5 starsRate 4 starsRate 3 starsRate 2 starsRate 1 star	 Anime	 Unknown	
-© 2011 Netflix, Inc.
+Â© 2011 Netflix, Inc.
 Website
 Watch Instantly
 Browse DVDs
