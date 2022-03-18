@@ -1,7 +1,8 @@
 jekyll build log errors
 
-recode ISO-8859-1..utf8 /my-notes/specific knowledge/by area/Taiwan/Taiwan organizations by that one guy.txt  
-
+Error reading file /github/workspace/docs/my-notes/art (art notes)/contests/Tongal - Lego Factory.txt: invalid byte sequence in UTF-8 
+18
+Error reading file /github/workspace/docs/my-notes/specific knowledge/by area/Taiwan/Taiwan East Side.txt: invalid byte sequence in UTF-8 
 
 
 
