@@ -9,17 +9,17 @@ https://letterboxd.com/goblinking/list/anime/
 
 WHAT TO WATCH:
 1. Sight and Sound greatest films list and documentaries list
-*. They Shoot Pictures Don’t They aggregate (http://www.theyshootpictures.com/gf1000_all1000films.htm)
+*. They Shoot Pictures Dont They aggregate (http://www.theyshootpictures.com/gf1000_all1000films.htm)
 2. Ecumenical Jury (Cannes, then the other festivals)
 *. Busan Film Festival asian cinema top 100 list (http://www.biff.kr/Template/Builder/00000001/page.asp?page_num=5865)
   - *. good East Asian list (http://www.neogaf.com/forum/showthread.php?t=217562&page=2)
-*. Cahiers du Cinéma's Top Ten Films yearly lists
+*. Cahiers du Cinema's Top Ten Films yearly lists
 3. TIFF best of the decade list
 3. Cannes (Jury Prize*, Palm d'Or, Grand Prix, Un Certain Regard) / Venice / Berlin
 4. other city festivals
 
 https://mubi.com/lists/tiff-cinematheques-best-of-the-decade
-  - from 60 people at Toronto International Film Festival, like Sight and Sound’s list, but perhaps more Asian, and more to my taste
+  - from 60 people at Toronto International Film Festival, like Sight and Sounds list, but perhaps more Asian, and more to my taste
 
 http://en.wikipedia.org/wiki/Prize_of_the_Ecumenical_Jury ***
   - an independent film award for feature films at the Cannes Film Festival since 1974
@@ -29,7 +29,7 @@ http://en.wikipedia.org/wiki/Prize_of_the_Ecumenical_Jury ***
   - see education.txt for educational TV series
 
 https://www.criterion.com/explore/themes
-  - very good categories by criterion, such as “growing pains” and certain new waves, though limited by what they have property for
+  - very good categories by criterion, such as growing pains and certain new waves, though limited by what they have property for
 
 top animated film lists:
 https://en.wikipedia.org/wiki/Annecy_International_Animated_Film_Festival
@@ -37,7 +37,7 @@ https://en.wikipedia.org/wiki/Annecy_International_Animated_Film_Festival
 https://en.wikipedia.org/wiki/Mainichi_Film_Award_for_Best_Animation_Film
   - this list contains the major classics, with Keiichi Hara getting some love here that Japan Academy of Arts did not
 https://www.youtube.com/watch?v=vNzezN2bf_Q&list=PLGtq3JEBE66FvMEP6DvsqVGDD2gMLI0JY&index=9
-  - a list by a person who compiles anime music, notably Angel’s Egg at #3 by Oshii (Ghost in the Shell 1 & 2, Sky Crawlers)
+  - a list by a person who compiles anime music, notably Angels Egg at #3 by Oshii (Ghost in the Shell 1 & 2, Sky Crawlers)
 http://www.bfi.org.uk/news-opinion/news-bfi/lists/10-great-anime-films
 http://www.tasteofcinema.com/2015/the-20-best-japanese-animated-movies-of-the-21st-century/
 https://gist.github.com/bomberstudios/acd89e80e407318a491c
@@ -51,7 +51,7 @@ Subversive Festival
   - political films, along with book and forum portion of festival, contains critical theorists, lectures by Zizek, films of Chris Marker and Godard
 
 https://en.wikipedia.org/wiki/L%27%C5%92il_d%27or
-  - is a documentary film award created in 2015. It is awarded to the best documentary presented in one of the sections of the Cannes Film Festival…Initiated by the Civil Society of Multimedia Authors
+  - is a documentary film award created in 2015. It is awarded to the best documentary presented in one of the sections of the Cannes Film Festival Initiated by the Civil Society of Multimedia Authors
   - could be a good documentary branch to Ecumenical Jury
 
 https://en.wikipedia.org/wiki/Neorealism_(art) **
@@ -110,7 +110,7 @@ Roger Ebert's Great Movies list
 Metacritic
   - http://www.metacritic.com/browse/movies/score/metascore/year?sort=desc&view=condensed
   - can sort by year
-  - also has year end lists, can see critic’s top 10 lists
+  - also has year end lists, can see critics top 10 lists
   - not as good as festival juries, also seems quite random at times
 
 http://www.theyshootpictures.com/21stcentury_allfilms_table.php
@@ -124,12 +124,12 @@ http://en.wikipedia.org/wiki/BFI_list_of_the_50_films_you_should_see_by_the_age_
 
 http://www.theguardian.com/film/features/page/0,11456,1082823,00.html
   - ?
-—
+--
 
 todo:
 https://vimeo.com/129943635
   - film theory lecture on hou xiao xian
-—
+--
 
 
 
@@ -144,7 +144,7 @@ http://www.youtube.com/watch?v=OEXEjff3Nm8
   - taipei story
 http://www.youtube.com/watch?v=kgpX6efo5Gk
   -  A Confucian Confusion
-—
+--
 
 SHORT FILMS:
 top festivals:
@@ -154,7 +154,7 @@ Oscar shorts are great too:
 Oscar shorts 2012 - pixar, meaning of bear, books
 
 no fat clips*****
-—
+--
 
 
 FILMS TO WATCH:
@@ -179,12 +179,12 @@ Boyhood
 
 Silent Light by Reygaldes
 Talk to Her
-L’Amour
+LAmour
 
 Uzak
 Russian Ark
 Werkmeister Harmonies
-Le fond de L’air est Rouge*****
+Le fond de Lair est Rouge*****
 
 Stray Dogs*****
 Goodbye to Language*****
@@ -194,7 +194,7 @@ Wadarafu Raifu
 
 Not One Less****
 Honey
-Tuya’s Marriage****
+Tuyas Marriage****
 The Unbearable Lightness of Being
 
 Away with Words by Christopher Doyle
@@ -204,17 +204,17 @@ Dancer in the Dark
 Roger and Me
 Moonrise Kingdom
 L.Amour.Dure.Trois.Ans - ?
-—
+--
 
 from Ecunemical, but cannot find torrent on Kickass Torrents:
-The Pearl Button (El botón de nácar) - 2015, Berlin, Chile
+The Pearl Button (El boton de nacar) - 2015, Berlin, Chile
 Summer Snow - Berlin, Hong Kong
 
 Ship of Theseus
 
 saw DVDs are a store in Beijing:
 films by Midi Z
-La Chine dans…?
+La Chine danse?
 three brothers sisters (cousins?) by Wang Bing
 lost in Beijing
 peacock
@@ -228,7 +228,7 @@ farewell my concubine
 temptress moon
 not one less
 summer palace
-—
+--
 
 Documentaries:
 The Enclave (2013)
@@ -326,7 +326,7 @@ Ingmar Bergman*****
 Jean Renoir
 Robert Bresson
 The Nine Lives of Norodom Sihanouk - personal interest about subject
-Jud Süß (1940 film) - most anti-semetic film
+Jud S (1940 film) - most anti-semetic film
 Jiro Dreams of Sushi
 We Need to Talk About Kevin
 The Beggar Hero - was being shot in Penang when I was there
@@ -466,7 +466,7 @@ taxi to the dark side - documentary on bush's policies
 lous c.k.
 The Work of Director Spike Jonze
 where the wild things are
-SalÚ o le 120 giornate di Sodoma - controversial, sadistic violence
+Salo o le 120 giornate di Sodoma - controversial, sadistic violence
 the secret garden - great children's movie?
 la femme nikita
 i am love
@@ -528,7 +528,7 @@ Vengeance - a modern, well-received Johnnie To film
 The Great Gatsby
 Prometheus - Ridley Scott sci-fi, also need to watch Aliens
 Moonrise Kingdom - Wes Anderson
-Baarìa - Giuseppe Tornatore
+Baar"a - Giuseppe Tornatore
 Tokyo Drifter - modern color aesthetic influenced modern sci-fi manga and anime
 Away with Words - Christopher Doyle's first feature film
 http://en.wikipedia.org/wiki/Song_Il-gon
@@ -551,10 +551,10 @@ The Wind That Shakes the Barley - Ken Loach
 Lucky Express - Indian?
 The Idiots  - favorite of Sean Baker (director of Take Out)
 
-CafÈ LumiËre - Taiwan New Wave, homage to Tokyo Story
+Cafe Lumiere - Taiwan New Wave, homage to Tokyo Story
 Beijing Bicycle - 6th generation Chinese
 Shanghai Dreams - 6th generation Chinese, Cannes Jury winner
-Tuya’s Marriage - 6th generation Chinese, life in Inner Mongolia, Berlin Golden Bear winner
+Tuyas Marriage - 6th generation Chinese, life in Inner Mongolia, Berlin Golden Bear winner
 
 War Horse
 Silent Running
@@ -579,7 +579,7 @@ salaam bombay
 The Road
 Somers Town - this is england director, shane meadows
 
-—
+--
 
 
 

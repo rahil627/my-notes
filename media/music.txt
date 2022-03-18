@@ -1,6 +1,6 @@
 youtube playlists (since 8-tracks now costs money)
   - use youtube-dl terminal program to download from youtube
-  - “easy going music” folders which contain game soundtrack music (Ragnarok, Final Fantasy XI, arranged game music, relaxing game music playlists, etc.), Japanese anime soundtrack music (Hot Potato lists), vaporwave (kind of Nujabes-like jazzy hip-hop, “chill-hop”, study music, relaxing music, Ghibli, etc.), aboriginal music, “peaceful”, “relaxing”, “atmospheric”, “sleepy”, “forest”, “landscape”, piano, arranged
+  - easy going music folders which contain game soundtrack music (Ragnarok, Final Fantasy XI, arranged game music, relaxing game music playlists, etc.), Japanese anime soundtrack music (Hot Potato lists), vaporwave (kind of Nujabes-like jazzy hip-hop, chill-hop, study music, relaxing music, Ghibli, etc.), aboriginal music, peaceful, relaxing, atmospheric, sleepy, forest, landscape, piano, arranged
   - FFXI premium box
     - disc 7 is piano collection
 
@@ -13,7 +13,6 @@ Antlers
   - Hospice
   - Undersea [EP]
   - Familiars
-—
 
 8-tracks user hardlyanywhere
 8-tracks keywords: folk, folktronic
@@ -30,7 +29,7 @@ not on waffles:
 Pinetop Seven
 
 http://www.vogue.com/8204763/inherent-vice-joanna-newsom-1970s-songs/
-  - really powerful list of 70’s singer-songwriters
+  - really powerful list of 70's singer-songwriters
 
 music CDs I own, in my car:
 GZA - Liquid Swords
@@ -38,7 +37,7 @@ Beach Boys, The - Pet Sounds
   - the core of Beach House (all), Fleet Foxes (all), Destroyer (Kaputt), Vampire Weekend (all)
 Beatles - Revolver (should replace with another CD, or just a singles collection)
 Van Morrison - Astral Weeks
-Destroyer - Destroyer’s Rubies
+Destroyer - Destroyer's Rubies
 Destroyer - Kaputt
 Beach House - Teen Dream
 Beach House - Bloom
@@ -53,7 +52,7 @@ M83 - [the darker CD]
 Kanye West - ?
 Ghostface Killah - Fishscale
 Deltron 3030 - Deltron 3030
-…more
+more
 
 Beach House (all)
 Fleet Foxes (all)
@@ -91,7 +90,7 @@ Koushik
 The Beach Boys - Smile?
 
 where to get?:
-can try Pitchfork’s “Found Sound” lists
+can try Pitchfork's Found Sound lists
 pitchfork is going backward in time to get top 100 albums per decade, and top 200 songs per decade
 http://pitchfork.com/peopleslist/
 http://www.ilxor.com/ILX/ThreadSelectedControllerServlet?boardid=41&threadid=93366&bookmarkedmessageid=3731683
@@ -155,7 +154,7 @@ funk
 [genre genre]
 
 Poppy Family
-Sindri M·r Sigf˙sso
+Sindri Mar Sigfusso
 Butterfingers - Malayneum album
 http://www.the-wknd.com/ - by Ebrahim, Malaysian indie music
 The Sape - by Ebrahim
